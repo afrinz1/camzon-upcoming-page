@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 export interface ProductColor {
   name: string;
   hex: string;
@@ -47,8 +46,11 @@ export interface Product {
   id: string;
   slug: string;
   title: string;
+  name: string;
   subtitle: string;
   category: ProductCategory;
+  collection: string;
+  image: string;
   price: number;
   originalPrice?: number;
   rating: number;
@@ -86,14 +88,6 @@ export interface FilterState {
 }
 
 export type ActivePage = 'home' | 'catalog' | 'product';
-=======
-export interface Product {
-  id: number;
-  slug: string;
-  name: string;
-  collection: string;
-  image: string;
-}
 
 export type PageType = 'home' | 'catalog';
 
@@ -101,4 +95,3 @@ export interface RouteState {
   page: PageType;
   selectedCategory?: string;
 }
->>>>>>> 82a62c73d78d1e9ccb7a69fff263ce6bfcc7c342

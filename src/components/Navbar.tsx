@@ -71,13 +71,15 @@ export const Navbar: React.FC<NavbarProps> = ({
             </button>
           </div>
 
-          <div
+          <button
             id="brand-logo-camzon"
+            type="button"
             className="flex-shrink-0 flex items-center cursor-pointer"
             onClick={() => onNavigate('home')}
+            aria-label="Go to CAMZON home"
           >
             <img src={logoImg} alt="CAMZON" className="h-8 sm:h-10 w-auto object-contain" />
-          </div>
+          </button>
 
           {/* Desktop Navigation Links */}
           <nav className="hidden lg:flex items-center space-x-10">

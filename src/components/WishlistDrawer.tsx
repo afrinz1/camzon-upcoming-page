@@ -25,7 +25,7 @@ export const WishlistDrawer: React.FC<WishlistDrawerProps> = ({
     const text = encodeURIComponent(
       `Hello Camzon! I am interested in these saved pieces from my wishlist: ${titles}. Please share availability and delivery timeframe.`
     );
-    window.open(`https://wa.me/919447000000?text=${text}`, '_blank');
+    window.open(`https://wa.me/919847012345?text=${text}`, '_blank', 'noopener,noreferrer');
   };
 
   return (

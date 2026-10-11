@@ -269,7 +269,7 @@ export const ProductCard: React.FC<ProductCardProps> = ({
       </div>
 
       {/* Lower Silver / Light Grey Architectural Panel */}
-      <div className="bg-[#dadbe0] p-4 flex flex-col justify-between flex-1">
+      <div className="bg-[#dadbe0] p-2 sm:p-4 flex flex-col justify-between flex-1">
         <div>
           {/* Category & Color Finishes */}
           {!cleanCard && (

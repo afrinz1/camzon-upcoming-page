@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 @import "tailwindcss";
 
 @layer base {
@@ -39,43 +38,11 @@
 }
 
 /* Custom sleek scrollbar for dark theme */
-=======
-@import url('https://fonts.googleapis.com/css2?family=Inter:wght@100;200;300;400;500;600;700;800;900&display=swap');
-@import url('https://fonts.googleapis.com/css2?family=Cormorant+Garamond:wght@400;500;600;700&display=swap');
-@import "tailwindcss";
-
-@theme {
-  --font-sans: "Inter", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
-  --font-mono: "Inter", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
-  --font-serif: "Cormorant Garamond", Georgia, serif;
-  
-  --color-brand-black: #0B0B0B;
-  --color-brand-orange: #FF7A00;
-  --color-brand-dark-gray: #121212;
-  --color-brand-light-gray: #A1A1AA;
-  --color-brand-border: #222222;
-}
-
-/* Global font consistency */
-*, ::before, ::after {
-  font-family: "Inter", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
-}
-
-body {
-  background-color: var(--color-brand-black);
-  color: #FFFFFF;
-  font-family: var(--font-sans);
-  overflow-x: hidden;
-}
-
-/* Custom scrollbars */
->>>>>>> 82a62c73d78d1e9ccb7a69fff263ce6bfcc7c342
 ::-webkit-scrollbar {
   width: 6px;
   height: 6px;
 }
 ::-webkit-scrollbar-track {
-<<<<<<< HEAD
   background: #111215;
 }
 ::-webkit-scrollbar-thumb {
@@ -86,26 +53,6 @@ body {
   background: #ea580c;
 }
 
-=======
-  background: #0B0B0B;
-}
-::-webkit-scrollbar-thumb {
-  background: #2A2A2A;
-  border-radius: 3px;
-}
-::-webkit-scrollbar-thumb:hover {
-  background: var(--color-brand-orange);
-}
-
-/* Blur effects */
-.bg-grid-pattern {
-  background-size: 40px 40px;
-  background-image: linear-gradient(to right, rgba(255, 255, 255, 0.03) 1px, transparent 1px),
-                    linear-gradient(to bottom, rgba(255, 255, 255, 0.03) 1px, transparent 1px);
-}
-
-/* Hide scrollbar utility */
->>>>>>> 82a62c73d78d1e9ccb7a69fff263ce6bfcc7c342
 .no-scrollbar::-webkit-scrollbar {
   display: none;
 }
@@ -113,17 +60,3 @@ body {
   -ms-overflow-style: none;
   scrollbar-width: none;
 }
-
-<<<<<<< HEAD
-=======
-@keyframes marquee {
-  0% { transform: translateX(0); }
-  100% { transform: translateX(-50%); }
-}
-
-.animate-marquee {
-  display: flex;
-  width: max-content;
-  animation: marquee 30s linear infinite;
-}
->>>>>>> 82a62c73d78d1e9ccb7a69fff263ce6bfcc7c342

@@ -33,6 +33,9 @@ const PRODUCT_CATEGORIES = [
 
 const normalizeProduct = (product: any, index: number): Product => ({
   ...product,
+  name: product.title,
+  collection: product.category,
+  image: product.images?.[0] || '',
   category: product.category,
   images: Array.isArray(product.images) ? product.images.slice(0, 1) : [],
   originalPrice: typeof product.originalPrice === 'number' ? product.originalPrice : undefined,

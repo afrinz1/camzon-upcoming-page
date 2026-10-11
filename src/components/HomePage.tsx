@@ -70,10 +70,6 @@ export const HomePage: React.FC<HomePageProps> = ({
 
   // Find sample products for the collections
   const arnoProduct = products.find((p) => p.category === 'ARNO') || products[0];
-  const dartProduct = products.find((p) => p.category === 'DART') || products[0];
-  const showersProduct = products.find((p) => p.category === 'SHOWERS') || products[1];
-  const quadraProduct = products.find((p) => p.category === 'QUADRA') || products[2];
-  const ridgeProduct = products.find((p) => p.category === 'RIDGE') || products[3];
 
   // Architectural showcase box hover/active state
   const [hoveredArchBox, setHoveredArchBox] = useState<number | null>(null);
@@ -446,7 +442,7 @@ export const HomePage: React.FC<HomePageProps> = ({
             {/* Right/Bottom Product Image */}
             <div
               className="w-full sm:w-[52%] h-48 sm:h-auto min-h-[160px] relative bg-[#0b0c0e] overflow-hidden cursor-pointer group"
-              onClick={() => onSelectProduct(dartProduct)}
+              onClick={() => onNavigate('catalog', 'DART')}
             >
               <img
                 src={featuredFaucetImg}
@@ -488,7 +484,7 @@ export const HomePage: React.FC<HomePageProps> = ({
             {/* Right/Bottom Product Image */}
             <div
               className="w-full sm:w-[52%] h-48 sm:h-auto min-h-[160px] relative bg-[#0b0c0e] overflow-hidden cursor-pointer group"
-              onClick={() => onSelectProduct(showersProduct)}
+              onClick={() => onNavigate('catalog', 'SHOWERS')}
             >
               <img
                 src={featuredShowerImg}
@@ -530,7 +526,7 @@ export const HomePage: React.FC<HomePageProps> = ({
             {/* Right/Bottom Product Image */}
             <div
               className="w-full sm:w-[52%] h-48 sm:h-auto min-h-[160px] relative bg-[#0b0c0e] overflow-hidden cursor-pointer group"
-              onClick={() => onSelectProduct(quadraProduct)}
+              onClick={() => onNavigate('catalog', 'QUADRA')}
             >
               <img
                 src={featuredBasinImg}
@@ -572,7 +568,7 @@ export const HomePage: React.FC<HomePageProps> = ({
             {/* Right/Bottom Product Image */}
             <div
               className="w-full sm:w-[52%] h-48 sm:h-auto min-h-[160px] relative bg-[#0b0c0e] overflow-hidden cursor-pointer group"
-              onClick={() => onSelectProduct(ridgeProduct)}
+              onClick={() => onNavigate('catalog', 'RIDGE')}
             >
               <img
                 src={ourDesignImg}
