@@ -12,7 +12,7 @@ import {
   ArrowUpRight,
 } from 'lucide-react';
 import { Product, FilterState, ActivePage } from '../types';
-import { SIDEBAR_CATEGORIES } from '../data/products';
+import { SIDEBAR_CATEGORY_GROUPS } from '../data/products';
 import { ProductCard } from './ProductCard';
 import catalogBannerImg from '../assets/images/catalog_banner_1789820182050.jpg';
 
@@ -65,8 +65,16 @@ export const CatalogPage: React.FC<CatalogPageProps> = ({
     return products
       .filter((p) => {
         // Category filter
-        if (filters.category !== 'all' && p.category.toLowerCase() !== filters.category.toLowerCase()) {
-          return false;
+        if (filters.category !== 'all') {
+          const selectedGroup = SIDEBAR_CATEGORY_GROUPS.find(
+            (group) => group.id.toLowerCase() === filters.category.toLowerCase(),
+          );
+          const matchesCategory = selectedGroup
+            ? selectedGroup.categories.some(
+                (category) => category.id.toLowerCase() === p.category.toLowerCase(),
+              )
+            : p.category.toLowerCase() === filters.category.toLowerCase();
+          if (!matchesCategory) return false;
         }
         // Search query
         if (filters.search.trim()) {
@@ -113,6 +121,14 @@ export const CatalogPage: React.FC<CatalogPageProps> = ({
     });
     setVisibleCount(6);
   };
+
+  const selectedCategoryLabel =
+    SIDEBAR_CATEGORY_GROUPS.flatMap((group) => group.categories).find(
+      (category) => category.id.toLowerCase() === filters.category.toLowerCase(),
+    )?.name ??
+    SIDEBAR_CATEGORY_GROUPS.find((group) => group.id.toLowerCase() === filters.category.toLowerCase())
+      ?.name ??
+    filters.category;
 
   return (
     <div id="catalog-page" className="min-h-screen bg-[#0d0e12] text-stone-200 pb-20 pt-6 selection:bg-[#f26a1b] selection:text-white">
@@ -164,7 +180,7 @@ export const CatalogPage: React.FC<CatalogPageProps> = ({
               <>
                 <ChevronRight className="w-3.5 h-3.5 text-stone-600 shrink-0" />
                 <span className="text-[#f26a1b] font-medium capitalize">
-                  {filters.category}
+                  {selectedCategoryLabel}
                 </span>
                 <button
                   onClick={() => setFilters({ ...filters, category: 'all' })}
@@ -233,7 +249,7 @@ export const CatalogPage: React.FC<CatalogPageProps> = ({
               {filters.category !== 'all' && (
                 <>
                   <span>&gt;</span>
-                  <span className="text-[#f26a1b] font-semibold">{filters.category}</span>
+                  <span className="text-[#f26a1b] font-semibold">{selectedCategoryLabel}</span>
                 </>
               )}
             </div>
@@ -269,36 +285,61 @@ export const CatalogPage: React.FC<CatalogPageProps> = ({
                 <span className="text-stone-400 font-normal text-[11px]">nos:</span>
               </div>
 
-              <div className="space-y-2">
-                {SIDEBAR_CATEGORIES.map((cat) => {
-                  const isSelected = filters.category.toLowerCase() === cat.id.toLowerCase();
+              <div className="space-y-4">
+                {SIDEBAR_CATEGORY_GROUPS.map((group) => {
+                  const isGroupSelected = filters.category.toLowerCase() === group.id.toLowerCase();
                   return (
-                    <div
-                      key={`cat-1-${cat.id}`}
-                      onClick={() => handleCategoryToggle(cat.id)}
-                      className="flex items-center justify-between group cursor-pointer py-1 select-none"
-                    >
-                      <div className="flex items-center gap-2.5">
-                        {/* Square checkbox matching mockup */}
-                        <div
-                          className={`w-3.5 h-3.5 rounded-sm flex items-center justify-center transition-colors ${
-                            isSelected
-                              ? 'bg-[#f26a1b] text-white'
-                              : 'bg-[#2b2d34] border border-stone-700/80 group-hover:border-stone-500'
-                          }`}
-                        >
-                          {isSelected && <Check className="w-2.5 h-2.5 stroke-[3]" />}
-                        </div>
+                    <section key={group.id}>
+                      <button
+                        type="button"
+                        onClick={() => handleCategoryToggle(group.id)}
+                        className="flex w-full items-center justify-between group cursor-pointer py-1 select-none text-left"
+                      >
                         <span
-                          className={`text-xs transition-colors ${
-                            isSelected ? 'text-white font-semibold' : 'text-stone-300 group-hover:text-white'
+                          className={`text-[11px] font-bold tracking-wide ${
+                            isGroupSelected ? 'text-[#f26a1b]' : 'text-stone-200 group-hover:text-white'
                           }`}
                         >
-                          {cat.name}
+                          {group.name}
                         </span>
+                        <span className="text-xs text-stone-400 font-mono">{group.count}</span>
+                      </button>
+                      <div className="mt-1 space-y-1 border-l border-stone-700/80 ml-1 pl-3">
+                        {group.categories.map((cat) => {
+                          const isSelected = filters.category.toLowerCase() === cat.id.toLowerCase();
+                          return (
+                            <button
+                              type="button"
+                              key={cat.id}
+                              onClick={() => handleCategoryToggle(cat.id)}
+                              className="flex w-full items-center justify-between group cursor-pointer py-1 select-none text-left"
+                            >
+                              <span className="flex items-center gap-2.5">
+                                <span
+                                  className={`w-3.5 h-3.5 rounded-sm flex items-center justify-center transition-colors ${
+                                    isSelected
+                                      ? 'bg-[#f26a1b] text-white'
+                                      : 'bg-[#2b2d34] border border-stone-700/80 group-hover:border-stone-500'
+                                  }`}
+                                >
+                                  {isSelected && <Check className="w-2.5 h-2.5 stroke-[3]" />}
+                                </span>
+                                <span
+                                  className={`text-xs transition-colors ${
+                                    isSelected
+                                      ? 'text-white font-semibold'
+                                      : 'text-stone-300 group-hover:text-white'
+                                  }`}
+                                >
+                                  {cat.name}
+                                </span>
+                              </span>
+                              <span className="text-xs text-stone-400 font-mono">{cat.count}</span>
+                            </button>
+                          );
+                        })}
                       </div>
-                      <span className="text-xs text-stone-400 font-mono">{cat.count}</span>
-                    </div>
+                    </section>
                   );
                 })}
               </div>

@@ -1,0 +1,134 @@
+[
+  {
+    "id": "camzon-product-001",
+    "slug": "camzon-pebble-pillar-cock-single-lever",
+    "title": "PILLAR COCK",
+    "subtitle": "SINGLE LEVER",
+    "category": "Pebble",
+    "price": 1250.00,
+    "originalPrice": 1500.00,
+    "rating": 0,
+    "reviewsCount": 0,
+    "isNew": false,
+    "isSale": false,
+    "isFeatured": false,
+    "badge": null,
+    "stockCount": 0,
+    "sku": "CAM-PC-PB-001",
+    "colors": [
+      {
+        "name": "Chrome",
+        "hex": "#E5E7EB"
+      }
+    ],
+    "images": [],
+    "description": "The Pebble single lever pillar cock offers smooth water flow control with a compact curved spout, ideal for everyday washbasin use.",
+    "story": "Pebble brings dependable simplicity to the modern bathroom, and this pillar cock pairs ergonomic lever handling with a timeless chrome silhouette.",
+    "details": [
+      "Deck-mounted single hole installation",
+      "Smooth single-lever flow control",
+      "Curved low-reach spout design",
+      "Bright chrome plated finish"
+    ],
+    "specs": {
+      "productType": "Pillar Cock",
+      "finish": "Not specified",
+      "color": "Not specified",
+      "mountingType": "Deck Mounted",
+      "controlType": "Single Lever",
+      "material": "Not specified",
+      "dimensions": "Not specified",
+      "waterFlowRate": "Not specified",
+      "warranty": "Not specified"
+    },
+    "reviews": []
+  },
+  {
+    "id": "camzon-product-002",
+    "slug": "camzon-pebble-bib-cock-long-nose",
+    "title": "BIB COCK",
+    "subtitle": "LONG NOSE",
+    "category": "Pebble",
+    "price": 1050.00,
+    "originalPrice": 1250.00,
+    "rating": 0,
+    "reviewsCount": 0,
+    "isNew": false,
+    "isSale": false,
+    "isFeatured": false,
+    "badge": null,
+    "stockCount": 0,
+    "sku": "CAM-BC-PB-001",
+    "colors": [
+      {
+        "name": "Chrome",
+        "hex": "#E5E7EB"
+      }
+    ],
+    "images": [],
+    "description": "A long nose wall-mounted bib cock from the Pebble series providing extended spout reach for comfortable use over buckets and sinks.",
+    "story": "Crafted for practical daily utility, the Pebble Long Nose Bib Cock combines extended reach with a refined lever control and lasting chrome finish.",
+    "details": [
+      "Extended long nose spout for added reach",
+      "Wall-mounted installation with flange",
+      "Ergonomic single lever operation",
+      "Corrosion-resistant chrome surface"
+    ],
+    "specs": {
+      "productType": "Long Nose Bib Cock",
+      "finish": "Not specified",
+      "color": "Not specified",
+      "mountingType": "Wall Mounted",
+      "controlType": "Single Lever",
+      "material": "Not specified",
+      "dimensions": "Not specified",
+      "waterFlowRate": "Not specified",
+      "warranty": "Not specified"
+    },
+    "reviews": []
+  },
+  {
+    "id": "camzon-product-003",
+    "slug": "camzon-pebble-wall-mixer-l-bend",
+    "title": "WALL MIXER",
+    "subtitle": "L BEND",
+    "category": "Pebble",
+    "price": 3450.00,
+    "originalPrice": 4050.00,
+    "rating": 0,
+    "reviewsCount": 0,
+    "isNew": false,
+    "isSale": false,
+    "isFeatured": false,
+    "badge": null,
+    "stockCount": 0,
+    "sku": "CAM-WM-PB-001",
+    "colors": [
+      {
+        "name": "Chrome",
+        "hex": "#E5E7EB"
+      }
+    ],
+    "images": [],
+    "description": "A wall-mounted bath mixer with L-bend riser connection, dual cross controls, and a lower spout for versatile shower and bucket filling use.",
+    "story": "The Pebble L-Bend Wall Mixer unites classic cross-handle charm with modern mixer functionality, offering easy switching between spout and overhead shower.",
+    "details": [
+      "L-bend connection for overhead shower",
+      "Dual cross-handle hot and cold controls",
+      "Convenient lower bath spout",
+      "Durable chrome-plated body"
+    ],
+    "specs": {
+      "productType": "Wall Mixer L Bend",
+      "finish": "Not specified",
+      "color": "Not specified",
+      "mountingType": "Wall Mounted",
+      "controlType": "Dual Cross Handle with Diverter",
+      "material": "Not specified",
+      "dimensions": "Not specified",
+      "waterFlowRate": "Not specified",
+      "warranty": "Not specified"
+    },
+    "reviews": []
+  }
+]

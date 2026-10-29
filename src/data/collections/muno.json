@@ -1,0 +1,303 @@
+[
+  {
+    "id": "camzon-product-001",
+    "slug": "camzon-basin-mixer-cam-bm-mu-001",
+    "title": "Basin Mixer",
+    "subtitle": "SINGLE LEVER",
+    "category": "Muno",
+    "price": 115.00,
+    "originalPrice": 140.00,
+    "rating": 0,
+    "reviewsCount": 0,
+    "isNew": false,
+    "isSale": false,
+    "isFeatured": false,
+    "badge": null,
+    "stockCount": 0,
+    "sku": "CAM-BM-MU-001",
+    "colors": [
+      {
+        "name": "Chrome",
+        "hex": "#E5E7EB"
+      }
+    ],
+    "images": [],
+    "description": "Modern single lever basin mixer featuring a flat lever design, smooth cylindrical body, and sleek polished chrome finish.",
+    "story": "Part of the elegant MU collection, this basin mixer combines smooth flat-handle operation with minimalist design for contemporary bathrooms.",
+    "details": [
+      "Single lever handle design",
+      "Deck mounted fitting",
+      "Polished chrome finish"
+    ],
+    "specs": {
+      "productType": "Basin Mixer",
+      "finish": "Chrome",
+      "color": "Chrome",
+      "mountingType": "Deck Mounted",
+      "controlType": "Single Lever",
+      "material": "Not specified",
+      "dimensions": "Not specified",
+      "waterFlowRate": "Not specified",
+      "warranty": "Not specified"
+    },
+    "reviews": []
+  },
+  {
+    "id": "camzon-product-002",
+    "slug": "camzon-bath-mixer-cam-bt-mu-002",
+    "title": "Bath Mixer",
+    "subtitle": "SINGLE LEVER",
+    "category": "Muno",
+    "price": 165.00,
+    "originalPrice": 195.00,
+    "rating": 0,
+    "reviewsCount": 0,
+    "isNew": false,
+    "isSale": false,
+    "isFeatured": false,
+    "badge": null,
+    "stockCount": 0,
+    "sku": "CAM-BT-MU-002",
+    "colors": [
+      {
+        "name": "Chrome",
+        "hex": "#E5E7EB"
+      }
+    ],
+    "images": [],
+    "description": "Wall-mounted single lever bath mixer with integrated diverter switch and standard shower hose connector.",
+    "story": "Designed for modern bathing environments, providing simple water flow transition between tub filler and shower head.",
+    "details": [
+      "Wall mounted installation",
+      "Single lever control handle",
+      "Integrated bath/shower diverter"
+    ],
+    "specs": {
+      "productType": "Bath Mixer",
+      "finish": "Chrome",
+      "color": "Chrome",
+      "mountingType": "Wall Mounted",
+      "controlType": "Single Lever",
+      "material": "Not specified",
+      "dimensions": "Not specified",
+      "waterFlowRate": "Not specified",
+      "warranty": "Not specified"
+    },
+    "reviews": []
+  },
+  {
+    "id": "camzon-product-003",
+    "slug": "camzon-kitchen-mixer-cam-km-mu-001",
+    "title": "Kitchen Mixer",
+    "subtitle": "TABLE MOUNTED SINGLE LEVER",
+    "category": "Muno",
+    "price": 135.00,
+    "originalPrice": 160.00,
+    "rating": 0,
+    "reviewsCount": 0,
+    "isNew": false,
+    "isSale": false,
+    "isFeatured": false,
+    "badge": null,
+    "stockCount": 0,
+    "sku": "CAM-KM-MU-001",
+    "colors": [
+      {
+        "name": "Chrome",
+        "hex": "#E5E7EB"
+      }
+    ],
+    "images": [],
+    "description": "Table-mounted kitchen mixer featuring a tall gooseneck swivel spout and ergonomic side lever.",
+    "story": "Offers high clearance and maximum reach for washing large kitchen pots and everyday dishware.",
+    "details": [
+      "Table mounted fitting",
+      "High arch gooseneck spout",
+      "Side lever control"
+    ],
+    "specs": {
+      "productType": "Kitchen Mixer",
+      "finish": "Chrome",
+      "color": "Chrome",
+      "mountingType": "Table Mounted",
+      "controlType": "Single Lever",
+      "material": "Not specified",
+      "dimensions": "Not specified",
+      "waterFlowRate": "Not specified",
+      "warranty": "Not specified"
+    },
+    "reviews": []
+  },
+  {
+    "id": "camzon-product-004",
+    "slug": "camzon-kitchen-mixer-cam-km-mu-002",
+    "title": "Kitchen Mixer",
+    "subtitle": "DECK MOUNTED SINGLE LEVER",
+    "category": "Muno",
+    "price": 145.00,
+    "originalPrice": 175.00,
+    "rating": 0,
+    "reviewsCount": 0,
+    "isNew": false,
+    "isSale": false,
+    "isFeatured": false,
+    "badge": null,
+    "stockCount": 0,
+    "sku": "CAM-KM-MU-002",
+    "colors": [
+      {
+        "name": "Chrome",
+        "hex": "#E5E7EB"
+      }
+    ],
+    "images": [],
+    "description": "Deck mounted single lever kitchen mixer with a gracefully curved arch spout and low-profile body.",
+    "story": "Combining fluid curved lines with reliable water control for modern kitchen workstations.",
+    "details": [
+      "Deck mounted single lever",
+      "Curved arch spout",
+      "Polished chrome finish"
+    ],
+    "specs": {
+      "productType": "Kitchen Mixer",
+      "finish": "Chrome",
+      "color": "Chrome",
+      "mountingType": "Deck Mounted",
+      "controlType": "Single Lever",
+      "material": "Not specified",
+      "dimensions": "Not specified",
+      "waterFlowRate": "Not specified",
+      "warranty": "Not specified"
+    },
+    "reviews": []
+  },
+  {
+    "id": "camzon-product-005",
+    "slug": "camzon-basin-mixer-cam-bm-mu-002",
+    "title": "Basin Mixer",
+    "subtitle": "CONCEALED SINGLE LEVER",
+    "category": "Muno",
+    "price": 155.00,
+    "originalPrice": 185.00,
+    "rating": 0,
+    "reviewsCount": 0,
+    "isNew": false,
+    "isSale": false,
+    "isFeatured": false,
+    "badge": null,
+    "stockCount": 0,
+    "sku": "CAM-BM-MU-002",
+    "colors": [
+      {
+        "name": "Chrome",
+        "hex": "#E5E7EB"
+      }
+    ],
+    "images": [],
+    "description": "Concealed wall-mounted single lever basin mixer with an elegant rectangular wall plate and sleek spout.",
+    "story": "A minimalist concealed wall-mount solution that creates an uncluttered look around the basin vanity area.",
+    "details": [
+      "Concealed wall-mounted design",
+      "Single lever plate control",
+      "Streamlined fixed spout"
+    ],
+    "specs": {
+      "productType": "Basin Mixer",
+      "finish": "Chrome",
+      "color": "Chrome",
+      "mountingType": "Concealed Wall Mounted",
+      "controlType": "Single Lever",
+      "material": "Not specified",
+      "dimensions": "Not specified",
+      "waterFlowRate": "Not specified",
+      "warranty": "Not specified"
+    },
+    "reviews": []
+  },
+  {
+    "id": "camzon-product-006",
+    "slug": "camzon-shattaf-mixer-cam-sf-mu-001",
+    "title": "Shattaf Mixer",
+    "subtitle": "SINGLE LEVER",
+    "category": "Muno",
+    "price": 95.00,
+    "originalPrice": 120.00,
+    "rating": 0,
+    "reviewsCount": 0,
+    "isNew": false,
+    "isSale": false,
+    "isFeatured": false,
+    "badge": null,
+    "stockCount": 0,
+    "sku": "CAM-SF-MU-001",
+    "colors": [
+      {
+        "name": "Chrome",
+        "hex": "#E5E7EB"
+      }
+    ],
+    "images": [],
+    "description": "Wall-mounted single lever shattaf mixer designed for smooth temperature mixing and bidet spray hose attachment.",
+    "story": "Delivers precise warm water control for personal hygiene applications with a compact, modern footprint.",
+    "details": [
+      "Wall mounted single lever handle",
+      "Bottom outlet hose connection",
+      "Chrome plated finish"
+    ],
+    "specs": {
+      "productType": "Shattaf Mixer",
+      "finish": "Chrome",
+      "color": "Chrome",
+      "mountingType": "Wall Mounted",
+      "controlType": "Single Lever",
+      "material": "Not specified",
+      "dimensions": "Not specified",
+      "waterFlowRate": "Not specified",
+      "warranty": "Not specified"
+    },
+    "reviews": []
+  },
+  {
+    "id": "camzon-product-007",
+    "slug": "camzon-sink-mixer-cam-sm-mu-001",
+    "title": "Sink Mixer",
+    "subtitle": "WALL MOUNTED SINGLE LEVER WITH D PIPE",
+    "category": "Muno",
+    "price": 140.00,
+    "originalPrice": 170.00,
+    "rating": 0,
+    "reviewsCount": 0,
+    "isNew": false,
+    "isSale": false,
+    "isFeatured": false,
+    "badge": null,
+    "stockCount": 0,
+    "sku": "CAM-SM-MU-001",
+    "colors": [
+      {
+        "name": "Chrome",
+        "hex": "#E5E7EB"
+      }
+    ],
+    "images": [],
+    "description": "Wall-mounted single lever sink mixer featuring an elevated D-pipe high-spout for extended reach and clearance.",
+    "story": "Built for maximum sink utility, the elevated D-pipe structure allows effortless filling of deep containers.",
+    "details": [
+      "Wall mounted installation",
+      "High D-pipe spout clearance",
+      "Single lever control"
+    ],
+    "specs": {
+      "productType": "Sink Mixer",
+      "finish": "Chrome",
+      "color": "Chrome",
+      "mountingType": "Wall Mounted",
+      "controlType": "Single Lever",
+      "material": "Not specified",
+      "dimensions": "Not specified",
+      "waterFlowRate": "Not specified",
+      "warranty": "Not specified"
+    },
+    "reviews": []
+  }
+]

@@ -1,6 +1,7 @@
 import React, { useState, useEffect, useRef } from 'react';
 import { Search, X, ArrowRight } from 'lucide-react';
 import { Product } from '../types';
+import { SIDEBAR_CATEGORY_GROUPS } from '../data/products';
 
 interface SearchModalProps {
   isOpen: boolean;
@@ -28,18 +29,7 @@ export const SearchModal: React.FC<SearchModalProps> = ({
 
   if (!isOpen) return null;
 
-  const popularSearches = [
-    'ARNO',
-    'DART',
-    'DECK',
-    'DUERO',
-    'DUNE',
-    'FACET',
-    'KORE',
-    'QUADRA',
-    'RIDGE',
-    'SHOWERS',
-  ];
+  const popularSearches = SIDEBAR_CATEGORY_GROUPS.flatMap((group) => group.categories);
 
   const results = query.trim()
     ? products.filter(
@@ -67,7 +57,7 @@ export const SearchModal: React.FC<SearchModalProps> = ({
             type="text"
             value={query}
             onChange={(e) => setQuery(e.target.value)}
-            placeholder="Search by collection (DART, QUADRA...), finish, or feature..."
+            placeholder="Search by category, finish, or feature..."
             className="w-full text-sm sm:text-base text-white placeholder-stone-500 focus:outline-none bg-transparent"
           />
           {query && (
@@ -91,20 +81,20 @@ export const SearchModal: React.FC<SearchModalProps> = ({
                 Explore Collections
               </span>
               <div className="flex flex-wrap gap-2">
-                {popularSearches.map((term) => (
+                {popularSearches.map((category) => (
                   <button
-                    key={term}
-                    onClick={() => setQuery(term)}
+                    key={category.id}
+                    onClick={() => setQuery(category.id)}
                     className="bg-[#22242c] hover:bg-[#f26a1b] hover:text-white text-stone-300 text-xs px-3.5 py-1.5 rounded-full transition-colors font-medium border border-stone-700/60 cursor-pointer"
                   >
-                    {term}
+                    {category.name}
                   </button>
                 ))}
               </div>
             </div>
           ) : results.length === 0 ? (
             <div className="text-center py-10 text-stone-400 text-sm">
-              No pieces found for &quot;{query}&quot;. Try searching for &quot;ARNO&quot;, &quot;DART&quot;, or &quot;SHOWERS&quot;.
+              No pieces found for &quot;{query}&quot;. Try searching for &quot;ARNO&quot;, &quot;D A R T&quot;, or &quot;OVERHEAD SHOWERS&quot;.
             </div>
           ) : (
             <div className="space-y-2">

@@ -1,0 +1,311 @@
+
+[
+  {
+    "id": "camzon-product-001",
+    "slug": "camzon-exte-basin-sink-range-pillar-cock-single-lever",
+    "title": "PILLAR COCK",
+    "subtitle": "SINGLE LEVER",
+    "category": "exte-basin-sink-range",
+    "price": 1250.00,
+    "originalPrice": 1450.00,
+    "rating": 0,
+    "reviewsCount": 0,
+    "isNew": false,
+    "isSale": false,
+    "isFeatured": false,
+    "badge": null,
+    "stockCount": 0,
+    "sku": "CAM-PC-EX-001",
+    "colors": [
+      {
+        "name": "Chrome",
+        "hex": "#E5E7EB"
+      }
+    ],
+    "images": [],
+    "description": "A classic pillar cock from the Exte Basin Sink Range featuring a sleek top knob control handle and curved aerated spout.",
+    "story": "Part of the Exte collection, this single lever pillar cock offers clean lines and dependable water delivery for daily basin applications.",
+    "details": [
+      "Deck-mounted single hole mounting",
+      "Ergonomic top knob lever operation",
+      "High shine chrome finish",
+      "Aerated non-splash water stream"
+    ],
+    "specs": {
+      "productType": "Pillar Cock",
+      "finish": "Not specified",
+      "color": "Not specified",
+      "mountingType": "Deck Mounted",
+      "controlType": "Single Lever",
+      "material": "Not specified",
+      "dimensions": "Not specified",
+      "waterFlowRate": "Not specified",
+      "warranty": "Not specified"
+    },
+    "reviews": []
+  },
+  {
+    "id": "camzon-product-002",
+    "slug": "camzon-exte-basin-sink-range-basin-mixer-centre-hole",
+    "title": "BASIN MIXER",
+    "subtitle": "CENTRE HOLE",
+    "category": "exte-basin-sink-range",
+    "price": 2450.00,
+    "originalPrice": 2850.00,
+    "rating": 0,
+    "reviewsCount": 0,
+    "isNew": false,
+    "isSale": false,
+    "isFeatured": false,
+    "badge": null,
+    "stockCount": 0,
+    "sku": "CAM-BM-EX-001",
+    "colors": [
+      {
+        "name": "Chrome",
+        "hex": "#E5E7EB"
+      }
+    ],
+    "images": [],
+    "description": "A centre hole basin mixer with dual angled handles and a gracefully curved central spout for mixing hot and cold water.",
+    "story": "Designed for classic center-hole counter washbasins, this Exte basin mixer combines balanced control with polished chrome elegance.",
+    "details": [
+      "Centre hole deck mount installation",
+      "Dual angled operating controls",
+      "Gently curved mixing spout",
+      "Durable chrome plated body"
+    ],
+    "specs": {
+      "productType": "Basin Mixer",
+      "finish": "Not specified",
+      "color": "Not specified",
+      "mountingType": "Centre Hole Deck Mounted",
+      "controlType": "Dual Knob",
+      "material": "Not specified",
+      "dimensions": "Not specified",
+      "waterFlowRate": "Not specified",
+      "warranty": "Not specified"
+    },
+    "reviews": []
+  },
+  {
+    "id": "camzon-product-003",
+    "slug": "camzon-exte-basin-sink-range-swan-neck-l-with-cast-spout",
+    "title": "SWAN NECK",
+    "subtitle": "L WITH CAST SPOUT",
+    "category": "exte-basin-sink-range",
+    "price": 1750.00,
+    "originalPrice": 2050.00,
+    "rating": 0,
+    "reviewsCount": 0,
+    "isNew": false,
+    "isSale": false,
+    "isFeatured": false,
+    "badge": null,
+    "stockCount": 0,
+    "sku": "CAM-SN-EX-001",
+    "colors": [
+      {
+        "name": "Chrome",
+        "hex": "#E5E7EB"
+      }
+    ],
+    "images": [],
+    "description": "A tall deck-mounted swan neck faucet featuring an L-shaped cast spout and base control knob for high clearance basin use.",
+    "story": "The Exte Swan Neck L Cast Spout faucet offers enhanced height clearance for counter-top basins while maintaining a compact footprint.",
+    "details": [
+      "High clearance L-cast arched spout",
+      "Deck-mounted single hole fitment",
+      "Smooth turn base control knob",
+      "Polished chrome surface treatment"
+    ],
+    "specs": {
+      "productType": "Swan Neck Tap",
+      "finish": "Not specified",
+      "color": "Not specified",
+      "mountingType": "Deck Mounted",
+      "controlType": "Single Knob",
+      "material": "Not specified",
+      "dimensions": "Not specified",
+      "waterFlowRate": "Not specified",
+      "warranty": "Not specified"
+    },
+    "reviews": []
+  },
+  {
+    "id": "camzon-product-004",
+    "slug": "camzon-exte-basin-sink-range-bib-cock",
+    "title": "BIB COCK",
+    "subtitle": "STANDARD BIB COCK",
+    "category": "exte-basin-sink-range",
+    "price": 850.00,
+    "originalPrice": 1050.00,
+    "rating": 0,
+    "reviewsCount": 0,
+    "isNew": false,
+    "isSale": false,
+    "isFeatured": false,
+    "badge": null,
+    "stockCount": 0,
+    "sku": "CAM-BC-EX-001",
+    "colors": [
+      {
+        "name": "Chrome",
+        "hex": "#E5E7EB"
+      }
+    ],
+    "images": [],
+    "description": "A standard wall-mounted bib cock from the Exte range featuring a solid top handle and clean short body spout.",
+    "story": "Engineered for reliable daily water supply, the Exte standard bib cock fits seamlessly into bathroom and utility wall outlets.",
+    "details": [
+      "Wall-mounted with round flange plate",
+      "Top-mounted easy-turn handle",
+      "Solid brass body with chrome finish",
+      "Smooth aerated spout outlet"
+    ],
+    "specs": {
+      "productType": "Bib Cock",
+      "finish": "Not specified",
+      "color": "Not specified",
+      "mountingType": "Wall Mounted",
+      "controlType": "Single Knob",
+      "material": "Not specified",
+      "dimensions": "Not specified",
+      "waterFlowRate": "Not specified",
+      "warranty": "Not specified"
+    },
+    "reviews": []
+  },
+  {
+    "id": "camzon-product-005",
+    "slug": "camzon-exte-basin-sink-range-sink-cock-swinging-spout",
+    "title": "SINK COCK",
+    "subtitle": "SWINGING SPOUT",
+    "category": "exte-basin-sink-range",
+    "price": 1450.00,
+    "originalPrice": 1700.00,
+    "rating": 0,
+    "reviewsCount": 0,
+    "isNew": false,
+    "isSale": false,
+    "isFeatured": false,
+    "badge": null,
+    "stockCount": 0,
+    "sku": "CAM-SC-EX-001",
+    "colors": [
+      {
+        "name": "Chrome",
+        "hex": "#E5E7EB"
+      }
+    ],
+    "images": [],
+    "description": "A wall-mounted sink cock with a high gooseneck swinging spout and wall flange connection for flexible kitchen sink access.",
+    "story": "The Exte Swinging Spout Sink Cock offers 360-degree rotational flexibility, making kitchen sink tasks and pot filling effortless.",
+    "details": [
+      "Wall-mounted installation with flange",
+      "Swiveling high arch gooseneck spout",
+      "Smooth single knob water control",
+      "Corrosion-resistant chrome finish"
+    ],
+    "specs": {
+      "productType": "Sink Cock",
+      "finish": "Not specified",
+      "color": "Not specified",
+      "mountingType": "Wall Mounted",
+      "controlType": "Single Knob",
+      "material": "Not specified",
+      "dimensions": "Not specified",
+      "waterFlowRate": "Not specified",
+      "warranty": "Not specified"
+    },
+    "reviews": []
+  },
+  {
+    "id": "camzon-product-006",
+    "slug": "camzon-exte-basin-sink-range-sink-mixer-w-swinging-spout",
+    "title": "SINK MIXER",
+    "subtitle": "W SWINGING SPOUT",
+    "category": "exte-basin-sink-range",
+    "price": 2650.00,
+    "originalPrice": 3100.00,
+    "rating": 0,
+    "reviewsCount": 0,
+    "isNew": false,
+    "isSale": false,
+    "isFeatured": false,
+    "badge": null,
+    "stockCount": 0,
+    "sku": "CAM-SM-EX-001",
+    "colors": [
+      {
+        "name": "Chrome",
+        "hex": "#E5E7EB"
+      }
+    ],
+    "images": [],
+    "description": "A wall-mounted sink mixer equipped with a high-arch swinging spout and dual operating controls for hot and cold water.",
+    "story": "Delivering versatile water mixing with a wide rotational range, the Exte Sink Mixer is a stylish and practical choice for modern kitchens.",
+    "details": [
+      "Dual wall flange mounting",
+      "Swiveling high-arch spout",
+      "Dual hot and cold control knobs",
+      "High shine chrome finish"
+    ],
+    "specs": {
+      "productType": "Sink Mixer",
+      "finish": "Not specified",
+      "color": "Not specified",
+      "mountingType": "Wall Mounted",
+      "controlType": "Dual Knob",
+      "material": "Not specified",
+      "dimensions": "Not specified",
+      "waterFlowRate": "Not specified",
+      "warranty": "Not specified"
+    },
+    "reviews": []
+  },
+  {
+    "id": "camzon-product-007",
+    "slug": "camzon-exte-basin-sink-range-bib-cock-long-nose",
+    "title": "BIB COCK",
+    "subtitle": "LONG NOSE",
+    "category": "exte-basin-sink-range",
+    "price": 1050.00,
+    "originalPrice": 1250.00,
+    "rating": 0,
+    "reviewsCount": 0,
+    "isNew": false,
+    "isSale": false,
+    "isFeatured": false,
+    "badge": null,
+    "stockCount": 0,
+    "sku": "CAM-BC-EX-002",
+    "colors": [
+      {
+        "name": "Chrome",
+        "hex": "#E5E7EB"
+      }
+    ],
+    "images": [],
+    "description": "An extended long nose bib cock from the Exte series offering extra projection away from the wall for comfortable bucket filling.",
+    "story": "Designed for utility wall outlets requiring extended reach, the Exte Long Nose Bib Cock ensures convenient and splash-free water flow.",
+    "details": [
+      "Extended long nose body design",
+      "Wall flange wall mounting",
+      "Top-mounted easy turn knob",
+      "Mirror chrome plating"
+    ],
+    "specs": {
+      "productType": "Long Nose Bib Cock",
+      "finish": "Not specified",
+      "color": "Not specified",
+      "mountingType": "Wall Mounted",
+      "controlType": "Single Knob",
+      "material": "Not specified",
+      "dimensions": "Not specified",
+      "waterFlowRate": "Not specified",
+      "warranty": "Not specified"
+    },
+    "reviews": []
+  }
+]

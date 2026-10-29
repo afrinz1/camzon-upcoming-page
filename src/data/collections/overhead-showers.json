@@ -1,0 +1,794 @@
+[
+  {
+    "id": "camzon-product-001",
+    "slug": "camzon-overhead-showers-curve-shower-8x8",
+    "title": "CURVE",
+    "subtitle": "SHOWER 8X8",
+    "category": "OVERHEAD SHOWERS",
+    "price": 2450.00,
+    "originalPrice": 2850.00,
+    "rating": 0,
+    "reviewsCount": 0,
+    "isNew": false,
+    "isSale": false,
+    "isFeatured": false,
+    "badge": null,
+    "stockCount": 0,
+    "sku": "CAM-OS-OS-001",
+    "colors": [
+      {
+        "name": "Chrome",
+        "hex": "#E5E7EB"
+      }
+    ],
+    "images": [],
+    "description": "An 8x8 inch square overhead rain shower head with curved perimeter edges and easy-clean silicone spray nozzles.",
+    "story": "The Curve 8x8 Overhead Shower envelops you in a rich rainfall shower spray with soft curved square styling for modern bathrooms.",
+    "details": [
+      "Large 8x8 inch rain spray coverage",
+      "Soft curved square edge design",
+      "Self-cleaning silicone rubber nozzles",
+      "High shine chrome finish"
+    ],
+    "specs": {
+      "productType": "Overhead Rain Shower",
+      "finish": "Not specified",
+      "color": "Not specified",
+      "mountingType": "Ceiling / Wall Arm Mounted",
+      "controlType": "None (Shower Head)",
+      "material": "Not specified",
+      "dimensions": "8x8 inch",
+      "waterFlowRate": "Not specified",
+      "warranty": "Not specified"
+    },
+    "reviews": []
+  },
+  {
+    "id": "camzon-product-002",
+    "slug": "camzon-overhead-showers-curve-shower-6x6",
+    "title": "CURVE",
+    "subtitle": "SHOWER 6X6",
+    "category": "OVERHEAD SHOWERS",
+    "price": 1850.00,
+    "originalPrice": 2150.00,
+    "rating": 0,
+    "reviewsCount": 0,
+    "isNew": false,
+    "isSale": false,
+    "isFeatured": false,
+    "badge": null,
+    "stockCount": 0,
+    "sku": "CAM-OS-OS-002",
+    "colors": [
+      {
+        "name": "Chrome",
+        "hex": "#E5E7EB"
+      }
+    ],
+    "images": [],
+    "description": "A 6x6 inch mid-size square overhead shower head with rounded corner contours and anti-clog silicone nozzles.",
+    "story": "Offering the ideal balance of shower coverage and water pressure, the Curve 6x6 shower head provides invigorating daily rain showers.",
+    "details": [
+      "6x6 inch shower face plate",
+      "Curved corner aesthetic",
+      "Rub-clean anti-scale rubber jets",
+      "Polished chrome finish"
+    ],
+    "specs": {
+      "productType": "Overhead Rain Shower",
+      "finish": "Not specified",
+      "color": "Not specified",
+      "mountingType": "Ceiling / Wall Arm Mounted",
+      "controlType": "None (Shower Head)",
+      "material": "Not specified",
+      "dimensions": "6x6 inch",
+      "waterFlowRate": "Not specified",
+      "warranty": "Not specified"
+    },
+    "reviews": []
+  },
+  {
+    "id": "camzon-product-003",
+    "slug": "camzon-overhead-showers-curve-shower-4x4",
+    "title": "CURVE",
+    "subtitle": "SHOWER 4X4",
+    "category": "OVERHEAD SHOWERS",
+    "price": 1250.00,
+    "originalPrice": 1450.00,
+    "rating": 0,
+    "reviewsCount": 0,
+    "isNew": false,
+    "isSale": false,
+    "isFeatured": false,
+    "badge": null,
+    "stockCount": 0,
+    "sku": "CAM-OS-OS-003",
+    "colors": [
+      {
+        "name": "Chrome",
+        "hex": "#E5E7EB"
+      }
+    ],
+    "images": [],
+    "description": "A compact 4x4 inch overhead shower face with soft curved corners, perfect for smaller shower enclosures.",
+    "story": "Compact yet powerful, the Curve 4x4 overhead shower provides focused rain spray in space-conscious shower rooms.",
+    "details": [
+      "Compact 4x4 inch face area",
+      "Soft curved perimeter edges",
+      "Anti-clog silicone nozzles",
+      "High shine chrome surface"
+    ],
+    "specs": {
+      "productType": "Overhead Rain Shower",
+      "finish": "Not specified",
+      "color": "Not specified",
+      "mountingType": "Ceiling / Wall Arm Mounted",
+      "controlType": "None (Shower Head)",
+      "material": "Not specified",
+      "dimensions": "4x4 inch",
+      "waterFlowRate": "Not specified",
+      "warranty": "Not specified"
+    },
+    "reviews": []
+  },
+  {
+    "id": "camzon-product-004",
+    "slug": "camzon-overhead-showers-ultra-slim-shower-8x8",
+    "title": "ULTRA SLIM",
+    "subtitle": "SHOWER 8X8",
+    "category": "OVERHEAD SHOWERS",
+    "price": 2850.00,
+    "originalPrice": 3300.00,
+    "rating": 0,
+    "reviewsCount": 0,
+    "isNew": false,
+    "isSale": false,
+    "isFeatured": false,
+    "badge": null,
+    "stockCount": 0,
+    "sku": "CAM-OS-OS-004",
+    "colors": [
+      {
+        "name": "Chrome",
+        "hex": "#E5E7EB"
+      }
+    ],
+    "images": [],
+    "description": "An ultra-thin stainless steel 8x8 inch square overhead rain shower head with mirror chrome polish and micro jets.",
+    "story": "Featuring a razor-thin body profile, the Ultra Slim 8x8 shower head creates a sleek floating shower appearance while delivering immersive rain spray.",
+    "details": [
+      "Ultra slim razor-thin plate profile",
+      "8x8 inch broad rain coverage",
+      "Precision laser-welded stainless construction",
+      "Mirror chrome polishing"
+    ],
+    "specs": {
+      "productType": "Ultra Slim Overhead Rain Shower",
+      "finish": "Not specified",
+      "color": "Not specified",
+      "mountingType": "Ceiling / Wall Arm Mounted",
+      "controlType": "None (Shower Head)",
+      "material": "Stainless Steel",
+      "dimensions": "8x8 inch",
+      "waterFlowRate": "Not specified",
+      "warranty": "Not specified"
+    },
+    "reviews": []
+  },
+  {
+    "id": "camzon-product-005",
+    "slug": "camzon-overhead-showers-ultra-slim-shower-6x6",
+    "title": "ULTRA SLIM",
+    "subtitle": "SHOWER 6X6",
+    "category": "OVERHEAD SHOWERS",
+    "price": 2150.00,
+    "originalPrice": 2500.00,
+    "rating": 0,
+    "reviewsCount": 0,
+    "isNew": false,
+    "isSale": false,
+    "isFeatured": false,
+    "badge": null,
+    "stockCount": 0,
+    "sku": "CAM-OS-OS-005",
+    "colors": [
+      {
+        "name": "Chrome",
+        "hex": "#E5E7EB"
+      }
+    ],
+    "images": [],
+    "description": "A 6x6 inch square ultra-thin shower head delivering rainfall spray from a minimalist stainless steel panel.",
+    "story": "The Ultra Slim 6x6 overhead shower combines sleek minimalism with high water velocity, elevating modern bathroom aesthetics.",
+    "details": [
+      "Ultra thin square shower panel",
+      "6x6 inch compact rain area",
+      "Silicone easy-clean micro nozzles",
+      "Mirror-finish chrome coating"
+    ],
+    "specs": {
+      "productType": "Ultra Slim Overhead Rain Shower",
+      "finish": "Not specified",
+      "color": "Not specified",
+      "mountingType": "Ceiling / Wall Arm Mounted",
+      "controlType": "None (Shower Head)",
+      "material": "Stainless Steel",
+      "dimensions": "6x6 inch",
+      "waterFlowRate": "Not specified",
+      "warranty": "Not specified"
+    },
+    "reviews": []
+  },
+  {
+    "id": "camzon-product-006",
+    "slug": "camzon-overhead-showers-ultra-slim-shower-4x4",
+    "title": "ULTRA SLIM",
+    "subtitle": "SHOWER 4X4",
+    "category": "OVERHEAD SHOWERS",
+    "price": 1450.00,
+    "originalPrice": 1700.00,
+    "rating": 0,
+    "reviewsCount": 0,
+    "isNew": false,
+    "isSale": false,
+    "isFeatured": false,
+    "badge": null,
+    "stockCount": 0,
+    "sku": "CAM-OS-OS-006",
+    "colors": [
+      {
+        "name": "Chrome",
+        "hex": "#E5E7EB"
+      }
+    ],
+    "images": [],
+    "description": "A 4x4 inch ultra slim square overhead shower head crafted from polished stainless steel for compact spaces.",
+    "story": "Designed for tight shower cabins and guest baths, the Ultra Slim 4x4 shower head delivers high-pressure rain flow from a razor-thin body.",
+    "details": [
+      "4x4 inch compact ultra-thin shower face",
+      "Stainless steel slim profile",
+      "Rub-clean rubber spray jets",
+      "High shine chrome surface"
+    ],
+    "specs": {
+      "productType": "Ultra Slim Overhead Rain Shower",
+      "finish": "Not specified",
+      "color": "Not specified",
+      "mountingType": "Ceiling / Wall Arm Mounted",
+      "controlType": "None (Shower Head)",
+      "material": "Stainless Steel",
+      "dimensions": "4x4 inch",
+      "waterFlowRate": "Not specified",
+      "warranty": "Not specified"
+    },
+    "reviews": []
+  },
+  {
+    "id": "camzon-product-007",
+    "slug": "camzon-overhead-showers-altius-shower-8x8",
+    "title": "ALTIUS",
+    "subtitle": "SHOWER 8X8",
+    "category": "OVERHEAD SHOWERS",
+    "price": 2650.00,
+    "originalPrice": 3100.00,
+    "rating": 0,
+    "reviewsCount": 0,
+    "isNew": false,
+    "isSale": false,
+    "isFeatured": false,
+    "badge": null,
+    "stockCount": 0,
+    "sku": "CAM-OS-OS-007",
+    "colors": [
+      {
+        "name": "Chrome",
+        "hex": "#E5E7EB"
+      }
+    ],
+    "images": [],
+    "description": "An 8x8 inch square Altius overhead shower head with a bevel-edged rim casing and high-density rain nozzle matrix.",
+    "story": "The Altius 8x8 Overhead Shower pairs robust body styling with wide rainfall distribution for a luxurious daily showering experience.",
+    "details": [
+      "Broad 8x8 inch square spray face",
+      "Beveled edge geometric housing",
+      "High-density silicone rubber nozzles",
+      "Polished chrome plated finish"
+    ],
+    "specs": {
+      "productType": "Overhead Rain Shower",
+      "finish": "Not specified",
+      "color": "Not specified",
+      "mountingType": "Ceiling / Wall Arm Mounted",
+      "controlType": "None (Shower Head)",
+      "material": "Not specified",
+      "dimensions": "8x8 inch",
+      "waterFlowRate": "Not specified",
+      "warranty": "Not specified"
+    },
+    "reviews": []
+  },
+  {
+    "id": "camzon-product-008",
+    "slug": "camzon-overhead-showers-altius-shower-6x6",
+    "title": "ALTIUS",
+    "subtitle": "SHOWER 6X6",
+    "category": "OVERHEAD SHOWERS",
+    "price": 1950.00,
+    "originalPrice": 2300.00,
+    "rating": 0,
+    "reviewsCount": 0,
+    "isNew": false,
+    "isSale": false,
+    "isFeatured": false,
+    "badge": null,
+    "stockCount": 0,
+    "sku": "CAM-OS-OS-008",
+    "colors": [
+      {
+        "name": "Chrome",
+        "hex": "#E5E7EB"
+      }
+    ],
+    "images": [],
+    "description": "A 6x6 inch square Altius overhead shower head featuring a bevel-edged casing and anti-limescale silicone nozzles.",
+    "story": "Combining clean geometric lines with reliable water delivery, the Altius 6x6 shower head provides invigorating rain coverage.",
+    "details": [
+      "6x6 inch mid-size shower faceplate",
+      "Distinctive bevel-edged body frame",
+      "Anti-scale silicone spray jets",
+      "Durable chrome plating"
+    ],
+    "specs": {
+      "productType": "Overhead Rain Shower",
+      "finish": "Not specified",
+      "color": "Not specified",
+      "mountingType": "Ceiling / Wall Arm Mounted",
+      "controlType": "None (Shower Head)",
+      "material": "Not specified",
+      "dimensions": "6x6 inch",
+      "waterFlowRate": "Not specified",
+      "warranty": "Not specified"
+    },
+    "reviews": []
+  },
+  {
+    "id": "camzon-product-009",
+    "slug": "camzon-overhead-showers-altius-shower-4x4",
+    "title": "ALTIUS",
+    "subtitle": "SHOWER 4X4",
+    "category": "OVERHEAD SHOWERS",
+    "price": 1350.00,
+    "originalPrice": 1600.00,
+    "rating": 0,
+    "reviewsCount": 0,
+    "isNew": false,
+    "isSale": false,
+    "isFeatured": false,
+    "badge": null,
+    "stockCount": 0,
+    "sku": "CAM-OS-OS-009",
+    "colors": [
+      {
+        "name": "Chrome",
+        "hex": "#E5E7EB"
+      }
+    ],
+    "images": [],
+    "description": "A 4x4 inch compact square Altius overhead shower with bevel-rim casing and high-velocity rain spray.",
+    "story": "The Altius 4x4 overhead shower offers clean geometric lines and energetic rain spray in a space-saving square format.",
+    "details": [
+      "4x4 inch square shower face plate",
+      "Beveled edge frame construction",
+      "Easy-clean silicone nozzles",
+      "High shine chrome surface"
+    ],
+    "specs": {
+      "productType": "Overhead Rain Shower",
+      "finish": "Not specified",
+      "color": "Not specified",
+      "mountingType": "Ceiling / Wall Arm Mounted",
+      "controlType": "None (Shower Head)",
+      "material": "Not specified",
+      "dimensions": "4x4 inch",
+      "waterFlowRate": "Not specified",
+      "warranty": "Not specified"
+    },
+    "reviews": []
+  },
+  {
+    "id": "camzon-product-001",
+    "slug": "camzon-overhead-showers-showers-cam-os-os-010",
+    "title": "SHOWERS",
+    "subtitle": "OVERHEAD SHOWERS",
+    "category": "OVERHEAD SHOWERS",
+    "price": 2250.00,
+    "originalPrice": 2650.00,
+    "rating": 0,
+    "reviewsCount": 0,
+    "isNew": false,
+    "isSale": false,
+    "isFeatured": false,
+    "badge": null,
+    "stockCount": 0,
+    "sku": "CAM-OS-OS-010",
+    "colors": [
+      {
+        "name": "Chrome / Black",
+        "hex": "#1F2937"
+      }
+    ],
+    "images": [],
+    "description": "A rectangular overhead rain shower head with a black nozzle faceplate and wall-mounted shower arm.",
+    "story": "Featuring a contrasting black faceplate under a chrome shower arm casing, this rectangular overhead shower delivers immersive rain coverage.",
+    "details": [
+      "Rectangular black spray faceplate",
+      "Includes curved wall-mounted shower arm",
+      "Rub-clean anti-limescale nozzles",
+      "Polished chrome housing accents"
+    ],
+    "specs": {
+      "productType": "Overhead Rain Shower with Arm",
+      "finish": "Chrome & Black",
+      "color": "Black / Chrome",
+      "mountingType": "Wall Arm Mounted",
+      "controlType": "None (Shower Head)",
+      "material": "Not specified",
+      "dimensions": "Not specified",
+      "waterFlowRate": "Not specified",
+      "warranty": "Not specified"
+    },
+    "reviews": []
+  },
+  {
+    "id": "camzon-product-002",
+    "slug": "camzon-overhead-showers-showers-cam-os-os-011",
+    "title": "SHOWERS",
+    "subtitle": "OVERHEAD SHOWERS",
+    "category": "OVERHEAD SHOWERS",
+    "price": 1950.00,
+    "originalPrice": 2300.00,
+    "rating": 0,
+    "reviewsCount": 0,
+    "isNew": false,
+    "isSale": false,
+    "isFeatured": false,
+    "badge": null,
+    "stockCount": 0,
+    "sku": "CAM-OS-OS-011",
+    "colors": [
+      {
+        "name": "Chrome / White",
+        "hex": "#E5E7EB"
+      }
+    ],
+    "images": [],
+    "description": "A round overhead shower head featuring a multi-pattern geometric spray plate and wall arm assembly.",
+    "story": "Designed with a patterned spray face layout, this round overhead shower head delivers a soothing invigorating water flow.",
+    "details": [
+      "Round multi-hole spray pattern plate",
+      "Wall arm pipe and flange included",
+      "Easy-clean silicone nozzles",
+      "Bright chrome finish"
+    ],
+    "specs": {
+      "productType": "Overhead Rain Shower with Arm",
+      "finish": "Not specified",
+      "color": "Not specified",
+      "mountingType": "Wall Arm Mounted",
+      "controlType": "None (Shower Head)",
+      "material": "Not specified",
+      "dimensions": "Not specified",
+      "waterFlowRate": "Not specified",
+      "warranty": "Not specified"
+    },
+    "reviews": []
+  },
+  {
+    "id": "camzon-product-003",
+    "slug": "camzon-overhead-showers-showers-cam-os-os-012",
+    "title": "SHOWERS",
+    "subtitle": "OVERHEAD SHOWERS",
+    "category": "OVERHEAD SHOWERS",
+    "price": 2150.00,
+    "originalPrice": 2500.00,
+    "rating": 0,
+    "reviewsCount": 0,
+    "isNew": false,
+    "isSale": false,
+    "isFeatured": false,
+    "badge": null,
+    "stockCount": 0,
+    "sku": "CAM-OS-OS-012",
+    "colors": [
+      {
+        "name": "Chrome / Black",
+        "hex": "#1F2937"
+      }
+    ],
+    "images": [],
+    "description": "A circular overhead rain shower head with a black nozzle matrix plate and wall mounting arm connection.",
+    "story": "The black face matrix of this round overhead shower delivers dense rainfall distribution under a modern chrome housing.",
+    "details": [
+      "Round black nozzle faceplate",
+      "Includes matching wall arm and flange",
+      "High density rain spray nozzles",
+      "Polished chrome housing rim"
+    ],
+    "specs": {
+      "productType": "Overhead Rain Shower with Arm",
+      "finish": "Chrome & Black",
+      "color": "Black / Chrome",
+      "mountingType": "Wall Arm Mounted",
+      "controlType": "None (Shower Head)",
+      "material": "Not specified",
+      "dimensions": "Not specified",
+      "waterFlowRate": "Not specified",
+      "warranty": "Not specified"
+    },
+    "reviews": []
+  },
+  {
+    "id": "camzon-product-004",
+    "slug": "camzon-overhead-showers-showers-cam-os-os-013",
+    "title": "SHOWERS",
+    "subtitle": "OVERHEAD SHOWERS",
+    "category": "OVERHEAD SHOWERS",
+    "price": 1850.00,
+    "originalPrice": 2200.00,
+    "rating": 0,
+    "reviewsCount": 0,
+    "isNew": false,
+    "isSale": false,
+    "isFeatured": false,
+    "badge": null,
+    "stockCount": 0,
+    "sku": "CAM-OS-OS-013",
+    "colors": [
+      {
+        "name": "Chrome / Black",
+        "hex": "#1F2937"
+      }
+    ],
+    "images": [],
+    "description": "A dome-profile round overhead shower head featuring a black spray faceplate with swivel ball joint mount.",
+    "story": "Featuring a swivel ball joint and sleek dome profile, this round overhead shower allows customized spray angle adjustments.",
+    "details": [
+      "Swivel ball joint angle adjustment",
+      "Black rubber spray nozzle array",
+      "Round domed chrome casing",
+      "Wall arm connection thread"
+    ],
+    "specs": {
+      "productType": "Overhead Rain Shower",
+      "finish": "Chrome & Black",
+      "color": "Black / Chrome",
+      "mountingType": "Swivel Arm Mounted",
+      "controlType": "None (Shower Head)",
+      "material": "Not specified",
+      "dimensions": "Not specified",
+      "waterFlowRate": "Not specified",
+      "warranty": "Not specified"
+    },
+    "reviews": []
+  },
+  {
+    "id": "camzon-product-005",
+    "slug": "camzon-overhead-showers-showers-cam-os-os-014",
+    "title": "SHOWERS",
+    "subtitle": "OVERHEAD SHOWERS",
+    "category": "OVERHEAD SHOWERS",
+    "price": 2050.00,
+    "originalPrice": 2400.00,
+    "rating": 0,
+    "reviewsCount": 0,
+    "isNew": false,
+    "isSale": false,
+    "isFeatured": false,
+    "badge": null,
+    "stockCount": 0,
+    "sku": "CAM-OS-OS-014",
+    "colors": [
+      {
+        "name": "Chrome / Black",
+        "hex": "#1F2937"
+      }
+    ],
+    "images": [],
+    "description": "A square rounded-corner overhead shower with a high-density black nozzle array and wall arm pipe.",
+    "story": "Combining soft square contours with a dark spray face, this overhead shower adds geometric modern style to shower enclosures.",
+    "details": [
+      "Soft square rounded corner profile",
+      "Black spray face with rubber nozzles",
+      "Wall arm pipe and flange included",
+      "Polished chrome housing"
+    ],
+    "specs": {
+      "productType": "Overhead Rain Shower with Arm",
+      "finish": "Chrome & Black",
+      "color": "Black / Chrome",
+      "mountingType": "Wall Arm Mounted",
+      "controlType": "None (Shower Head)",
+      "material": "Not specified",
+      "dimensions": "Not specified",
+      "waterFlowRate": "Not specified",
+      "warranty": "Not specified"
+    },
+    "reviews": []
+  },
+  {
+    "id": "camzon-product-006",
+    "slug": "camzon-overhead-showers-showers-cam-os-os-015",
+    "title": "SHOWERS",
+    "subtitle": "OVERHEAD SHOWERS",
+    "category": "OVERHEAD SHOWERS",
+    "price": 1750.00,
+    "originalPrice": 2050.00,
+    "rating": 0,
+    "reviewsCount": 0,
+    "isNew": false,
+    "isSale": false,
+    "isFeatured": false,
+    "badge": null,
+    "stockCount": 0,
+    "sku": "CAM-OS-OS-015",
+    "colors": [
+      {
+        "name": "Chrome / Grey",
+        "hex": "#9CA3AF"
+      }
+    ],
+    "images": [],
+    "description": "A round overhead shower head featuring a multi-jet radial spray faceplate and wall mounting arm.",
+    "story": "Engineered with a radial spray nozzle layout, this round overhead shower delivers smooth water distribution across the shower stall.",
+    "details": [
+      "Radial nozzle pattern arrangement",
+      "Wall arm pipe and trim flange included",
+      "Self-cleaning rubber nozzles",
+      "High shine chrome surface"
+    ],
+    "specs": {
+      "productType": "Overhead Rain Shower with Arm",
+      "finish": "Not specified",
+      "color": "Not specified",
+      "mountingType": "Wall Arm Mounted",
+      "controlType": "None (Shower Head)",
+      "material": "Not specified",
+      "dimensions": "Not specified",
+      "waterFlowRate": "Not specified",
+      "warranty": "Not specified"
+    },
+    "reviews": []
+  },
+  {
+    "id": "camzon-product-007",
+    "slug": "camzon-overhead-showers-showers-cam-os-os-016",
+    "title": "SHOWERS",
+    "subtitle": "OVERHEAD SHOWERS",
+    "category": "OVERHEAD SHOWERS",
+    "price": 2350.00,
+    "originalPrice": 2750.00,
+    "rating": 0,
+    "reviewsCount": 0,
+    "isNew": false,
+    "isSale": false,
+    "isFeatured": false,
+    "badge": null,
+    "stockCount": 0,
+    "sku": "CAM-OS-OS-016",
+    "colors": [
+      {
+        "name": "Chrome / Black",
+        "hex": "#1F2937"
+      }
+    ],
+    "images": [],
+    "description": "A bevel-edged heavy-body square shower head with dark spray face matrix and swivel mounting connector.",
+    "story": "The bevel-edged frame of this heavy-duty square shower head brings architectural distinction and full rainfall shower feel.",
+    "details": [
+      "Beveled edge square frame casing",
+      "Dark rubber spray nozzle array",
+      "Swivel ball joint connector",
+      "Polished chrome exterior"
+    ],
+    "specs": {
+      "productType": "Overhead Rain Shower",
+      "finish": "Chrome & Black",
+      "color": "Black / Chrome",
+      "mountingType": "Swivel Arm Mounted",
+      "controlType": "None (Shower Head)",
+      "material": "Not specified",
+      "dimensions": "Not specified",
+      "waterFlowRate": "Not specified",
+      "warranty": "Not specified"
+    },
+    "reviews": []
+  },
+  {
+    "id": "camzon-product-008",
+    "slug": "camzon-overhead-showers-showers-cam-os-os-017",
+    "title": "SHOWERS",
+    "subtitle": "OVERHEAD SHOWERS",
+    "category": "OVERHEAD SHOWERS",
+    "price": 2150.00,
+    "originalPrice": 2500.00,
+    "rating": 0,
+    "reviewsCount": 0,
+    "isNew": false,
+    "isSale": false,
+    "isFeatured": false,
+    "badge": null,
+    "stockCount": 0,
+    "sku": "CAM-OS-OS-017",
+    "colors": [
+      {
+        "name": "Chrome / Grey",
+        "hex": "#9CA3AF"
+      }
+    ],
+    "images": [],
+    "description": "A soft square grey-faced overhead shower head paired with a wall arm pipe and mounting flange.",
+    "story": "Featuring a soft grey spray face plate under chrome casing, this soft-square overhead shower provides a calming rain shower stream.",
+    "details": [
+      "Soft square profile casing",
+      "Grey rubber anti-limescale nozzles",
+      "Wall mounting arm pipe included",
+      "High luster chrome finish"
+    ],
+    "specs": {
+      "productType": "Overhead Rain Shower with Arm",
+      "finish": "Not specified",
+      "color": "Not specified",
+      "mountingType": "Wall Arm Mounted",
+      "controlType": "None (Shower Head)",
+      "material": "Not specified",
+      "dimensions": "Not specified",
+      "waterFlowRate": "Not specified",
+      "warranty": "Not specified"
+    },
+    "reviews": []
+  },
+  {
+    "id": "camzon-product-009",
+    "slug": "camzon-overhead-showers-showers-cam-os-os-018",
+    "title": "SHOWERS",
+    "subtitle": "OVERHEAD SHOWERS",
+    "category": "OVERHEAD SHOWERS",
+    "price": 1650.00,
+    "originalPrice": 1950.00,
+    "rating": 0,
+    "reviewsCount": 0,
+    "isNew": false,
+    "isSale": false,
+    "isFeatured": false,
+    "badge": null,
+    "stockCount": 0,
+    "sku": "CAM-OS-OS-018",
+    "colors": [
+      {
+        "name": "Chrome",
+        "hex": "#E5E7EB"
+      }
+    ],
+    "images": [],
+    "description": "A compact round chrome overhead shower head with wall arm assembly and easy-clean silicone nozzles.",
+    "story": "Compact and durable, this round chrome overhead shower delivers energetic rainfall water flow for compact bathroom spaces.",
+    "details": [
+      "Compact round chrome faceplate",
+      "Wall arm connection pipe included",
+      "Rub-clean silicone rubber nozzles",
+      "Mirror chrome plating"
+    ],
+    "specs": {
+      "productType": "Overhead Rain Shower with Arm",
+      "finish": "Not specified",
+      "color": "Not specified",
+      "mountingType": "Wall Arm Mounted",
+      "controlType": "None (Shower Head)",
+      "material": "Not specified",
+      "dimensions": "Not specified",
+      "waterFlowRate": "Not specified",
+      "warranty": "Not specified"
+    },
+    "reviews": []
+  }
+]

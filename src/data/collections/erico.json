@@ -1,0 +1,399 @@
+[
+    {
+    "id": "camzon-product-001",
+    "slug": "camzon-basin-mixer-150mm-cam-bm-er-001",
+    "title": "Basin Mixer 150mm",
+    "subtitle": "SINGLE LEVER",
+    "category": "erico",
+    "price": 2499,
+    "originalPrice": null,
+    "rating": 0,
+    "reviewsCount": 0,
+    "isNew": false,
+    "isSale": false,
+    "isFeatured": false,
+    "badge": null,
+    "stockCount": 0,
+    "sku": "CAM-BM-ER-001",
+    "colors": [
+      {
+        "name": "Chrome",
+        "hex": "#E5E7EB"
+      }
+    ],
+    "images": [],
+    "description": "Sleek 150mm single lever basin mixer featuring a modern cylindrical body, ergonomic control lever, and brilliant polished chrome finish.",
+    "story": "Designed for contemporary bathroom spaces, this Camzon single lever basin mixer delivers seamless water control with a minimalist profile.",
+    "details": [
+      "150mm overall height",
+      "Single lever control handle",
+      "Deck mounted installation",
+      "Polished chrome finish"
+    ],
+    "specs": {
+      "productType": "Basin Mixer",
+      "finish": "Chrome",
+      "color": "Chrome",
+      "mountingType": "Deck Mounted",
+      "controlType": "Single Lever",
+      "material": "Not specified",
+      "dimensions": "150mm",
+      "waterFlowRate": "Not specified",
+      "warranty": "Not specified"
+    },
+    "reviews": []
+  },
+  {
+    "id": "camzon-product-002",
+    "slug": "camzon-basin-mixer-100mm-cam-bm-er-002",
+    "title": "Basin Mixer 100mm",
+    "subtitle": "SINGLE LEVER",
+    "category": "erico",
+    "price": 2199,
+    "originalPrice": null,
+    "rating": 0,
+    "reviewsCount": 0,
+    "isNew": false,
+    "isSale": false,
+    "isFeatured": false,
+    "badge": null,
+    "stockCount": 0,
+    "sku": "CAM-BM-ER-002",
+    "colors": [
+      {
+        "name": "Chrome",
+        "hex": "#E5E7EB"
+      }
+    ],
+    "images": [],
+    "description": "Compact 100mm single lever basin mixer offering smooth temperature and flow control tailored for low-profile modern washbasins.",
+    "story": "Engineered for space efficiency and modern elegance, this 100mm basin mixer brings reliable everyday performance to smaller counter tops.",
+    "details": [
+      "100mm overall height",
+      "Single lever control handle",
+      "Deck mounted installation",
+      "Polished chrome finish"
+    ],
+    "specs": {
+      "productType": "Basin Mixer",
+      "finish": "Chrome",
+      "color": "Chrome",
+      "mountingType": "Deck Mounted",
+      "controlType": "Single Lever",
+      "material": "Not specified",
+      "dimensions": "100mm",
+      "waterFlowRate": "Not specified",
+      "warranty": "Not specified"
+    },
+    "reviews": []
+  },
+  {
+    "id": "camzon-product-003",
+    "slug": "camzon-kitchen-mixer-cam-km-er-002",
+    "title": "Kitchen Mixer",
+    "subtitle": "DECK MOUNTED SINGLE LEVER",
+    "category": "erico",
+    "price": 3299,
+    "originalPrice": null,
+    "rating": 0,
+    "reviewsCount": 0,
+    "isNew": false,
+    "isSale": false,
+    "isFeatured": false,
+    "badge": null,
+    "stockCount": 0,
+    "sku": "CAM-KM-ER-002",
+    "colors": [
+      {
+        "name": "Chrome",
+        "hex": "#E5E7EB"
+      }
+    ],
+    "images": [],
+    "description": "Deck mounted single lever kitchen mixer featuring a high-curved arch spout designed for optimal sink clearance and effortless kitchen functionality.",
+    "story": "Designed to suit busy modern kitchens, this deck mounted mixer offers seamless water flow control and dynamic architectural aesthetics.",
+    "details": [
+      "Deck mounted single lever handle",
+      "High arch swan neck spout",
+      "Smooth turning water regulator",
+      "Polished chrome finish"
+    ],
+    "specs": {
+      "productType": "Kitchen Mixer",
+      "finish": "Chrome",
+      "color": "Chrome",
+      "mountingType": "Deck Mounted",
+      "controlType": "Single Lever",
+      "material": "Not specified",
+      "dimensions": "Not specified",
+      "waterFlowRate": "Not specified",
+      "warranty": "Not specified"
+    },
+    "reviews": []
+  },
+  {
+    "id": "camzon-product-004",
+    "slug": "camzon-sink-mixer-d-pipe-cam-sm-er-003",
+    "title": "Sink Mixer with D Pipe",
+    "subtitle": "WALL MOUNTED SINGLE LEVER WITH D PIPE",
+    "category": "erico",
+    "price": 2899,
+    "originalPrice": null,
+    "rating": 0,
+    "reviewsCount": 0,
+    "isNew": false,
+    "isSale": false,
+    "isFeatured": false,
+    "badge": null,
+    "stockCount": 0,
+    "sku": "CAM-SM-ER-003",
+    "colors": [
+      {
+        "name": "Chrome",
+        "hex": "#E5E7EB"
+      }
+    ],
+    "images": [],
+    "description": "Wall mounted single lever sink mixer equipped with an elevated high-clearance D-pipe spout for versatile sink tasks.",
+    "story": "Combining wall-mount practicality with flexible spout height, this mixer saves counter space while enhancing workstation convenience.",
+    "details": [
+      "Wall mounted single lever handle",
+      "Elevated high-clearance D pipe spout",
+      "Dual wall rosette fittings",
+      "Polished chrome finish"
+    ],
+    "specs": {
+      "productType": "Sink Mixer",
+      "finish": "Chrome",
+      "color": "Chrome",
+      "mountingType": "Wall Mounted",
+      "controlType": "Single Lever",
+      "material": "Not specified",
+      "dimensions": "Not specified",
+      "waterFlowRate": "Not specified",
+      "warranty": "Not specified"
+    },
+    "reviews": []
+  },
+  {
+    "id": "camzon-product-005",
+    "slug": "camzon-sink-mixer-table-mounted-cam-sm-er-001",
+    "title": "Sink Mixer Table Mounted",
+    "subtitle": "SINGLE LEVER TABLE MOUNTED",
+    "category": "erico",
+    "price": 3099,
+    "originalPrice": null,
+    "rating": 0,
+    "reviewsCount": 0,
+    "isNew": false,
+    "isSale": false,
+    "isFeatured": false,
+    "badge": null,
+    "stockCount": 0,
+    "sku": "CAM-SM-ER-001",
+    "colors": [
+      {
+        "name": "Chrome",
+        "hex": "#E5E7EB"
+      }
+    ],
+    "images": [],
+    "description": "Table mounted single lever sink mixer featuring an extended horizontal reach spout and ergonomic control lever.",
+    "story": "Engineered for versatility across utility and kitchen sinks, offering precise single-lever water control mounted directly on the counter table.",
+    "details": [
+      "Table mounted installation",
+      "Single lever ergonomic handle",
+      "Extended reach spout",
+      "Polished chrome finish"
+    ],
+    "specs": {
+      "productType": "Sink Mixer",
+      "finish": "Chrome",
+      "color": "Chrome",
+      "mountingType": "Table Mounted",
+      "controlType": "Single Lever",
+      "material": "Not specified",
+      "dimensions": "Not specified",
+      "waterFlowRate": "Not specified",
+      "warranty": "Not specified"
+    },
+    "reviews": []
+  },
+  {
+    "id": "camzon-product-006",
+    "slug": "camzon-sink-mixer-s-spout-cam-sm-er-002",
+    "title": "Sink Mixer with S Spout",
+    "subtitle": "SINGLE LEVER WALL MOUNTED WITH S SPOUT",
+    "category": "erico",
+    "price": 2799,
+    "originalPrice": null,
+    "rating": 0,
+    "reviewsCount": 0,
+    "isNew": false,
+    "isSale": false,
+    "isFeatured": false,
+    "badge": null,
+    "stockCount": 0,
+    "sku": "CAM-SM-ER-002",
+    "colors": [
+      {
+        "name": "Chrome",
+        "hex": "#E5E7EB"
+      }
+    ],
+    "images": [],
+    "description": "Wall mounted single lever sink mixer designed with a traditional S-shaped lower swivel spout for efficient rinsing.",
+    "story": "Blending wall-mount convenience with classic ergonomic shaping, the S-spout sink mixer ensures controlled water flow across wide basins.",
+    "details": [
+      "Wall mounted single lever operation",
+      "Classic lower S spout design",
+      "Solid brass wall fittings",
+      "Polished chrome finish"
+    ],
+    "specs": {
+      "productType": "Sink Mixer",
+      "finish": "Chrome",
+      "color": "Chrome",
+      "mountingType": "Wall Mounted",
+      "controlType": "Single Lever",
+      "material": "Not specified",
+      "dimensions": "Not specified",
+      "waterFlowRate": "Not specified",
+      "warranty": "Not specified"
+    },
+    "reviews": []
+  },
+  {
+    "id": "camzon-product-007",
+    "slug": "camzon-bath-mixer-cam-bt-er-001",
+    "title": "Bath Mixer",
+    "subtitle": "SINGLE LEVER",
+    "category": "erico",
+    "price": 3599,
+    "originalPrice": null,
+    "rating": 0,
+    "reviewsCount": 0,
+    "isNew": false,
+    "isSale": false,
+    "isFeatured": false,
+    "badge": null,
+    "stockCount": 0,
+    "sku": "CAM-BT-ER-001",
+    "colors": [
+      {
+        "name": "Chrome",
+        "hex": "#E5E7EB"
+      }
+    ],
+    "images": [],
+    "description": "Wall mounted single lever bath mixer with integrated bath spout diverter and hand shower connection point.",
+    "story": "Upgrade your bath setup with this streamlined single lever mixer, delivering effortless switching between bath spout and shower functions.",
+    "details": [
+      "Wall mounted single lever body",
+      "Integrated pull-up diverter knob",
+      "Standard shower hose outlet connection",
+      "Polished chrome finish"
+    ],
+    "specs": {
+      "productType": "Bath Mixer",
+      "finish": "Chrome",
+      "color": "Chrome",
+      "mountingType": "Wall Mounted",
+      "controlType": "Single Lever",
+      "material": "Not specified",
+      "dimensions": "Not specified",
+      "waterFlowRate": "Not specified",
+      "warranty": "Not specified"
+    },
+    "reviews": []
+  },
+  {
+    "id": "camzon-product-008",
+    "slug": "camzon-shattaf-mixer-cam-sf-er-001",
+    "title": "Shattaf Mixer",
+    "subtitle": "SINGLE LEVER",
+    "category": "erico",
+    "price": 1799,
+    "originalPrice": null,
+    "rating": 0,
+    "reviewsCount": 0,
+    "isNew": false,
+    "isSale": false,
+    "isFeatured": false,
+    "badge": null,
+    "stockCount": 0,
+    "sku": "CAM-SF-ER-001",
+    "colors": [
+      {
+        "name": "Chrome",
+        "hex": "#E5E7EB"
+      }
+    ],
+    "images": [],
+    "description": "Wall mounted single lever shattaf mixer designed for precise warm and cold water blending for bidet spray hoses.",
+    "story": "A clean, compact solution for personal hygiene spaces, offering smooth single-handle water mixing in a durable chrome enclosure.",
+    "details": [
+      "Wall mounted single lever",
+      "Bottom outlet hose thread connection",
+      "Compact space-saving construction",
+      "Polished chrome finish"
+    ],
+    "specs": {
+      "productType": "Shattaf Mixer",
+      "finish": "Chrome",
+      "color": "Chrome",
+      "mountingType": "Wall Mounted",
+      "controlType": "Single Lever",
+      "material": "Not specified",
+      "dimensions": "Not specified",
+      "waterFlowRate": "Not specified",
+      "warranty": "Not specified"
+    },
+    "reviews": []
+  },
+  {
+    "id": "camzon-product-009",
+    "slug": "camzon-kitchen-mixer-table-mounted-cam-km-er-001",
+    "title": "Kitchen Mixer Table Mounted",
+    "subtitle": "TABLE MOUNTED SINGLE LEVER",
+    "category": "erico",
+    "price": 3399,
+    "originalPrice": null,
+    "rating": 0,
+    "reviewsCount": 0,
+    "isNew": false,
+    "isSale": false,
+    "isFeatured": false,
+    "badge": null,
+    "stockCount": 0,
+    "sku": "CAM-KM-ER-001",
+    "colors": [
+      {
+        "name": "Chrome",
+        "hex": "#E5E7EB"
+      }
+    ],
+    "images": [],
+    "description": "Table mounted single lever kitchen mixer featuring a high gooseneck spout for maximized sink clearance.",
+    "story": "Combining elegance with utilitarian function, this table-mounted kitchen mixer makes washing larger pots and kitchen accessories effortless.",
+    "details": [
+      "Table mounted single lever handle",
+      "Tall gooseneck high-clearance spout",
+      "Smooth ceramic disk operation",
+      "Polished chrome finish"
+    ],
+    "specs": {
+      "productType": "Kitchen Mixer",
+      "finish": "Chrome",
+      "color": "Chrome",
+      "mountingType": "Table Mounted",
+      "controlType": "Single Lever",
+      "material": "Not specified",
+      "dimensions": "Not specified",
+      "waterFlowRate": "Not specified",
+      "warranty": "Not specified"
+    },
+    "reviews": []
+  }
+
+]

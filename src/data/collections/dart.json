@@ -1,32 +1,217 @@
 [
   {
-    "id": 401,
-    "slug": "dart-1",
-    "name": "Dart Product 1",
-    "image": "https://res.cloudinary.com/dz3sbdyps/image/upload/f_auto,q_auto,w_auto/v1784080768/cd514a60-2a5b-4b94-9fe7-3396967cb9e2_mskbck.png"
+    "id": "camzon-product-001",
+    "slug": "camzon-pillar-cock-cam-pc-dt-001",
+    "title": "Pillar Cock",
+    "subtitle": "DECK MOUNTED",
+    "category": "Dart",
+    "price": 95.00,
+    "originalPrice": 120.00,
+    "rating": 0,
+    "reviewsCount": 0,
+    "isNew": false,
+    "isSale": false,
+    "isFeatured": false,
+    "badge": null,
+    "stockCount": 0,
+    "sku": "CAM-PC-DT-001",
+    "colors": [
+      {
+        "name": "Chrome",
+        "hex": "#E5E7EB"
+      }
+    ],
+    "images": [],
+    "description": "Sleek deck-mounted pillar cock from the Dart series featuring a refined flat lever and cylindrical body with a forward-slanted spout.",
+    "story": "Part of the modern Dart collection, engineered with direct linear profiles to deliver effortless single-handle washbasin performance.",
+    "details": [
+      "Deck mounted pillar body",
+      "Ergonomic flat top control handle",
+      "Polished chrome finish"
+    ],
+    "specs": {
+      "productType": "Pillar Cock",
+      "finish": "Chrome",
+      "color": "Chrome",
+      "mountingType": "Deck Mounted",
+      "controlType": "Single Lever",
+      "material": "Not specified",
+      "dimensions": "Not specified",
+      "waterFlowRate": "Not specified",
+      "warranty": "Not specified"
+    },
+    "reviews": []
   },
   {
-    "id": 402,
-    "slug": "dart-2",
-    "name": "Dart Product 2",
-    "image": "https://res.cloudinary.com/dz3sbdyps/image/upload/f_auto,q_auto,w_auto/v1784080768/de16af5b-d8ef-4973-8983-cf8753355eb6_qjxw6o.png"
+    "id": "camzon-product-002",
+    "slug": "camzon-bib-cock-long-body-cam-bc-dt-001",
+    "title": "Bib Cock Long Body",
+    "subtitle": "LONG BODY",
+    "category": "Dart",
+    "price": 80.00,
+    "originalPrice": 100.00,
+    "rating": 0,
+    "reviewsCount": 0,
+    "isNew": false,
+    "isSale": false,
+    "isFeatured": false,
+    "badge": null,
+    "stockCount": 0,
+    "sku": "CAM-BC-DT-001",
+    "colors": [
+      {
+        "name": "Chrome",
+        "hex": "#E5E7EB"
+      }
+    ],
+    "images": [],
+    "description": "Wall-mounted long body bib cock with extended reach spout and flat-top control handle.",
+    "story": "Designed for extended reach from wall surfaces, making bucket filling and laundry washing effortless.",
+    "details": [
+      "Wall mounted long body configuration",
+      "Circular wall flange rosette",
+      "Polished chrome finish"
+    ],
+    "specs": {
+      "productType": "Bib Cock",
+      "finish": "Chrome",
+      "color": "Chrome",
+      "mountingType": "Wall Mounted",
+      "controlType": "Not specified",
+      "material": "Not specified",
+      "dimensions": "Not specified",
+      "waterFlowRate": "Not specified",
+      "warranty": "Not specified"
+    },
+    "reviews": []
   },
   {
-    "id": 403,
-    "slug": "dart-3",
-    "name": "Dart Product 3",
-    "image": "https://res.cloudinary.com/dz3sbdyps/image/upload/f_auto,q_auto,w_auto/v1784080767/61a4e395-a267-4326-a79a-05133cbc7f3d_ywqltn.png"
+    "id": "camzon-product-003",
+    "slug": "camzon-sink-cock-swivel-spout-cam-sc-dt-001",
+    "title": "Sink Cock Swivel Spout",
+    "subtitle": "SWIVEL SPOUT",
+    "category": "Dart",
+    "price": 105.00,
+    "originalPrice": 130.00,
+    "rating": 0,
+    "reviewsCount": 0,
+    "isNew": false,
+    "isSale": false,
+    "isFeatured": false,
+    "badge": null,
+    "stockCount": 0,
+    "sku": "CAM-SC-DT-001",
+    "colors": [
+      {
+        "name": "Chrome",
+        "hex": "#E5E7EB"
+      }
+    ],
+    "images": [],
+    "description": "Wall-mounted sink cock featuring a high gooseneck swivel spout for flexible basin clearance.",
+    "story": "Brings high arch clearance and full swivel rotation to kitchen or utility sinks for easy washing.",
+    "details": [
+      "Wall mounted installation",
+      "High arch gooseneck swivel spout",
+      "Vertical flat lever handle"
+    ],
+    "specs": {
+      "productType": "Sink Cock",
+      "finish": "Chrome",
+      "color": "Chrome",
+      "mountingType": "Wall Mounted",
+      "controlType": "Single Lever",
+      "material": "Not specified",
+      "dimensions": "Not specified",
+      "waterFlowRate": "Not specified",
+      "warranty": "Not specified"
+    },
+    "reviews": []
   },
   {
-    "id": 404,
-    "slug": "dart-4",
-    "name": "Dart Product 4",
-    "image": "https://res.cloudinary.com/dz3sbdyps/image/upload/f_auto,q_auto,w_auto/v1784080767/0e1ab4e3-de6e-4fb6-b350-14618a97f8f6_nmtdlb.png"
+    "id": "camzon-product-004",
+    "slug": "camzon-wall-mixer-l-bend-cam-wm-dt-001",
+    "title": "Wall Mixer L Bend",
+    "subtitle": "L BEND",
+    "category": "Dart",
+    "price": 170.00,
+    "originalPrice": 205.00,
+    "rating": 0,
+    "reviewsCount": 0,
+    "isNew": false,
+    "isSale": false,
+    "isFeatured": false,
+    "badge": null,
+    "stockCount": 0,
+    "sku": "CAM-WM-DT-001",
+    "colors": [
+      {
+        "name": "Chrome",
+        "hex": "#E5E7EB"
+      }
+    ],
+    "images": [],
+    "description": "Wall-mounted two-lever bath mixer equipped with an L-bend connection for overhead shower risers.",
+    "story": "Combines classic dual-handle hot/cold water control with an overhead shower pipe riser outlet.",
+    "details": [
+      "Wall mounted two-handle controls",
+      "L-bend overhead shower riser outlet",
+      "Polished chrome finish"
+    ],
+    "specs": {
+      "productType": "Wall Mixer",
+      "finish": "Chrome",
+      "color": "Chrome",
+      "mountingType": "Wall Mounted",
+      "controlType": "Two Lever",
+      "material": "Not specified",
+      "dimensions": "Not specified",
+      "waterFlowRate": "Not specified",
+      "warranty": "Not specified"
+    },
+    "reviews": []
   },
   {
-    "id": 405,
-    "slug": "dart-5",
-    "name": "Dart Product 5",
-    "image": "https://res.cloudinary.com/dz3sbdyps/image/upload/f_auto,q_auto,w_auto/v1784080767/23ca4a04-5e71-4b6c-90c5-be6788aa3a81_hkbliv.png"
+    "id": "camzon-product-005",
+    "slug": "camzon-swan-neck-centre-hole-cam-sn-dt-001",
+    "title": "Swan Neck Centre Hole",
+    "subtitle": "CENTRE HOLE",
+    "category": "Dart",
+    "price": 115.00,
+    "originalPrice": 140.00,
+    "rating": 0,
+    "reviewsCount": 0,
+    "isNew": false,
+    "isSale": false,
+    "isFeatured": false,
+    "badge": null,
+    "stockCount": 0,
+    "sku": "CAM-SN-DT-001",
+    "colors": [
+      {
+        "name": "Chrome",
+        "hex": "#E5E7EB"
+      }
+    ],
+    "images": [],
+    "description": "Deck-mounted swan neck tap for centre-hole basin installations featuring a high arched spout and side lever.",
+    "story": "Designed for single-hole washbasins, bringing graceful gooseneck proportions and easy side-lever control.",
+    "details": [
+      "Centre-hole deck mounted fitting",
+      "Tall gooseneck arch spout",
+      "Ergonomic side lever handle"
+    ],
+    "specs": {
+      "productType": "Swan Neck Tap",
+      "finish": "Chrome",
+      "color": "Chrome",
+      "mountingType": "Deck Mounted",
+      "controlType": "Single Lever",
+      "material": "Not specified",
+      "dimensions": "Not specified",
+      "waterFlowRate": "Not specified",
+      "warranty": "Not specified"
+    },
+    "reviews": []
   }
 ]

@@ -1,0 +1,777 @@
+﻿[
+  {
+    "id": "camzon-product-001",
+    "slug": "camzon-medico-pillar-cock-cam-ac-ac-001",
+    "title": "Medico Pillar Cock",
+    "subtitle": "LONG LEVER HANDLE",
+    "category": "allied products",
+    "price": 85.00,
+    "originalPrice": 110.00,
+    "rating": 0,
+    "reviewsCount": 0,
+    "isNew": false,
+    "isSale": false,
+    "isFeatured": false,
+    "badge": null,
+    "stockCount": 0,
+    "sku": "CAM-AC-AC-001",
+    "colors": [
+      {
+        "name": "Chrome",
+        "hex": "#E5E7EB"
+      }
+    ],
+    "images": [],
+    "description": "Deck-mounted Medico pillar cock equipped with an extended elbow-action lever handle for hands-free hygienic operation in healthcare environments.",
+    "story": "Designed for medical clinics, hospitals, and hygiene-conscious facilities, allowing touchless wrist or elbow operation to minimize bacterial spread.",
+    "details": [
+      "Extended medico lever handle for wrist/elbow operation",
+      "Deck mounted installation",
+      "Solid brass construction with polished chrome finish"
+    ],
+    "specs": {
+      "productType": "Pillar Cock",
+      "finish": "Chrome",
+      "color": "Chrome",
+      "mountingType": "Deck Mounted",
+      "controlType": "Extended Lever",
+      "material": "Not specified",
+      "dimensions": "Not specified",
+      "waterFlowRate": "Not specified",
+      "warranty": "Not specified"
+    },
+    "reviews": []
+  },
+  {
+    "id": "camzon-product-002",
+    "slug": "camzon-medico-swivel-cam-ac-ac-002",
+    "title": "Medico Swivel",
+    "subtitle": "HIGH GOOSENECK SPOUT WITH LONG LEVER",
+    "category": "allied products",
+    "price": 115.00,
+    "originalPrice": 140.00,
+    "rating": 0,
+    "reviewsCount": 0,
+    "isNew": false,
+    "isSale": false,
+    "isFeatured": false,
+    "badge": null,
+    "stockCount": 0,
+    "sku": "CAM-AC-AC-002",
+    "colors": [
+      {
+        "name": "Chrome",
+        "hex": "#E5E7EB"
+      }
+    ],
+    "images": [],
+    "description": "Deck-mounted Medico swivel faucet featuring a tall gooseneck spout and an extended elbow lever handle for clinical washing operations.",
+    "story": "Provides high clearance for surgical scrubbing and laboratory container filling, ensuring maximum hygiene and ease of access.",
+    "details": [
+      "Tall gooseneck swivel spout",
+      "Extended medico lever handle",
+      "Deck mounted fitting with chrome finish"
+    ],
+    "specs": {
+      "productType": "Swivel Tap",
+      "finish": "Chrome",
+      "color": "Chrome",
+      "mountingType": "Deck Mounted",
+      "controlType": "Extended Lever",
+      "material": "Not specified",
+      "dimensions": "Not specified",
+      "waterFlowRate": "Not specified",
+      "warranty": "Not specified"
+    },
+    "reviews": []
+  },
+  {
+    "id": "camzon-product-003",
+    "slug": "camzon-medico-basin-mixer-cam-ac-ac-003",
+    "title": "Medico Basin Mixer",
+    "subtitle": "TALL BODY WITH EXTENDED LEVER",
+    "category": "allied products",
+    "price": 135.00,
+    "originalPrice": 165.00,
+    "rating": 0,
+    "reviewsCount": 0,
+    "isNew": false,
+    "isSale": false,
+    "isFeatured": false,
+    "badge": null,
+    "stockCount": 0,
+    "sku": "CAM-AC-AC-003",
+    "colors": [
+      {
+        "name": "Chrome",
+        "hex": "#E5E7EB"
+      }
+    ],
+    "images": [],
+    "description": "Tall deck-mounted Medico basin mixer with single extended lever control for effortless temperature and flow adjustment in sanitary facilities.",
+    "story": "Engineered to combine modern tall-body aesthetics with medical-grade elbow lever controls for enhanced hygiene in clinical rest areas.",
+    "details": [
+      "Tall pillar body structure",
+      "Extended single lever control handle",
+      "Deck mounted installation"
+    ],
+    "specs": {
+      "productType": "Basin Mixer",
+      "finish": "Chrome",
+      "color": "Chrome",
+      "mountingType": "Deck Mounted",
+      "controlType": "Extended Lever",
+      "material": "Not specified",
+      "dimensions": "Not specified",
+      "waterFlowRate": "Not specified",
+      "warranty": "Not specified"
+    },
+    "reviews": []
+  },
+  {
+    "id": "camzon-product-004",
+    "slug": "camzon-medico-bib-cock-cam-ac-ac-004",
+    "title": "Medico Bib Cock",
+    "subtitle": "WALL MOUNTED WITH LONG LEVER",
+    "category": "allied products",
+    "price": 75.00,
+    "originalPrice": 95.00,
+    "rating": 0,
+    "reviewsCount": 0,
+    "isNew": false,
+    "isSale": false,
+    "isFeatured": false,
+    "badge": null,
+    "stockCount": 0,
+    "sku": "CAM-AC-AC-004",
+    "colors": [
+      {
+        "name": "Chrome",
+        "hex": "#E5E7EB"
+      }
+    ],
+    "images": [],
+    "description": "Wall-mounted Medico bib cock with a long blade lever handle engineered for hands-free elbow control.",
+    "story": "A durable wall-mounted faucet option for utility rooms, healthcare facilities, and scrub stations where sterile contact is paramount.",
+    "details": [
+      "Wall mounted fitting",
+      "Long medico blade lever",
+      "Heavy-duty chrome finish"
+    ],
+    "specs": {
+      "productType": "Bib Cock",
+      "finish": "Chrome",
+      "color": "Chrome",
+      "mountingType": "Wall Mounted",
+      "controlType": "Extended Lever",
+      "material": "Not specified",
+      "dimensions": "Not specified",
+      "waterFlowRate": "Not specified",
+      "warranty": "Not specified"
+    },
+    "reviews": []
+  },
+  {
+    "id": "camzon-product-005",
+    "slug": "camzon-medico-sink-mixer-cam-ac-ac-005",
+    "title": "Medico Sink Mixer",
+    "subtitle": "WALL MOUNTED WITH EXTENDED LEVER & LONG SPOUT",
+    "category": "allied products",
+    "price": 145.00,
+    "originalPrice": 175.00,
+    "rating": 0,
+    "reviewsCount": 0,
+    "isNew": false,
+    "isSale": false,
+    "isFeatured": false,
+    "badge": null,
+    "stockCount": 0,
+    "sku": "CAM-AC-AC-005",
+    "colors": [
+      {
+        "name": "Chrome",
+        "hex": "#E5E7EB"
+      }
+    ],
+    "images": [],
+    "description": "Wall-mounted Medico sink mixer featuring a long horizontal reach spout and extended elbow lever control.",
+    "story": "Designed for hospital kitchen sinks and scrub bays requiring wide reach and hygienic hands-free operation.",
+    "details": [
+      "Wall mounted single lever mixer",
+      "Extended horizontal reach spout",
+      "Medico long lever handle"
+    ],
+    "specs": {
+      "productType": "Sink Mixer",
+      "finish": "Chrome",
+      "color": "Chrome",
+      "mountingType": "Wall Mounted",
+      "controlType": "Extended Lever",
+      "material": "Not specified",
+      "dimensions": "Not specified",
+      "waterFlowRate": "Not specified",
+      "warranty": "Not specified"
+    },
+    "reviews": []
+  },
+  {
+    "id": "camzon-product-006",
+    "slug": "camzon-shower-head-arm-cam-ac-ac-006",
+    "title": "Shower",
+    "subtitle": "OVERHEAD SHOWER WITH CURVED ARM",
+    "category": "allied products",
+    "price": 45.00,
+    "originalPrice": 60.00,
+    "rating": 0,
+    "reviewsCount": 0,
+    "isNew": false,
+    "isSale": false,
+    "isFeatured": false,
+    "badge": null,
+    "stockCount": 0,
+    "sku": "CAM-AC-AC-006",
+    "colors": [
+      {
+        "name": "Chrome",
+        "hex": "#E5E7EB"
+      }
+    ],
+    "images": [],
+    "description": "Chrome-plated overhead shower head fitted with a curved wall-mount shower arm for soothing water coverage.",
+    "story": "Delivers an enjoyable shower experience with an optimized spray pattern and classic curved arm design.",
+    "details": [
+      "Round multi-nozzle spray head",
+      "Curved wall shower arm included",
+      "Polished chrome finish"
+    ],
+    "specs": {
+      "productType": "Overhead Shower",
+      "finish": "Chrome",
+      "color": "Chrome",
+      "mountingType": "Wall Mounted",
+      "controlType": "Not specified",
+      "material": "Not specified",
+      "dimensions": "Not specified",
+      "waterFlowRate": "Not specified",
+      "warranty": "Not specified"
+    },
+    "reviews": []
+  },
+  {
+    "id": "camzon-product-007",
+    "slug": "camzon-shower-cone-head-cam-ac-ac-007",
+    "title": "Shower",
+    "subtitle": "CONICAL OVERHEAD SHOWER WITH ARM",
+    "category": "allied products",
+    "price": 50.00,
+    "originalPrice": 65.00,
+    "rating": 0,
+    "reviewsCount": 0,
+    "isNew": false,
+    "isSale": false,
+    "isFeatured": false,
+    "badge": null,
+    "stockCount": 0,
+    "sku": "CAM-AC-AC-007",
+    "colors": [
+      {
+        "name": "Chrome",
+        "hex": "#E5E7EB"
+      }
+    ],
+    "images": [],
+    "description": "Bell-shaped conical overhead shower head paired with an extended bent shower arm for efficient water delivery.",
+    "story": "Combines a classic bell housing with a steady rainfall-style spray pattern for reliable everyday bathing comfort.",
+    "details": [
+      "Conical bell spray head design",
+      "Wall-mount bent shower arm",
+      "Polished chrome finish"
+    ],
+    "specs": {
+      "productType": "Overhead Shower",
+      "finish": "Chrome",
+      "color": "Chrome",
+      "mountingType": "Wall Mounted",
+      "controlType": "Not specified",
+      "material": "Not specified",
+      "dimensions": "Not specified",
+      "waterFlowRate": "Not specified",
+      "warranty": "Not specified"
+    },
+    "reviews": []
+  },
+  {
+    "id": "camzon-product-008",
+    "slug": "camzon-shower-round-multi-jet-cam-ac-ac-008",
+    "title": "Shower",
+    "subtitle": "MULTI-JET OVERHEAD SHOWER WITH ARM",
+    "category": "allied products",
+    "price": 55.00,
+    "originalPrice": 70.00,
+    "rating": 0,
+    "reviewsCount": 0,
+    "isNew": false,
+    "isSale": false,
+    "isFeatured": false,
+    "badge": null,
+    "stockCount": 0,
+    "sku": "CAM-AC-AC-008",
+    "colors": [
+      {
+        "name": "Chrome",
+        "hex": "#E5E7EB"
+      }
+    ],
+    "images": [],
+    "description": "Ergonomic round shower head with optimized spray face, paired with a right-angle wall shower arm.",
+    "story": "Designed to maximize water coverage and pressure consistency for a invigorating daily bath experience.",
+    "details": [
+      "Wide round spray face",
+      "Right-angle shower extension pipe",
+      "Polished chrome plating"
+    ],
+    "specs": {
+      "productType": "Overhead Shower",
+      "finish": "Chrome",
+      "color": "Chrome",
+      "mountingType": "Wall Mounted",
+      "controlType": "Not specified",
+      "material": "Not specified",
+      "dimensions": "Not specified",
+      "waterFlowRate": "Not specified",
+      "warranty": "Not specified"
+    },
+    "reviews": []
+  },
+  {
+    "id": "camzon-product-009",
+    "slug": "camzon-shower-flat-round-cam-ac-ac-009",
+    "title": "Shower",
+    "subtitle": "FLAT ROUND OVERHEAD SHOWER WITH VERTICAL ARM",
+    "category": "allied products",
+    "price": 60.00,
+    "originalPrice": 75.00,
+    "rating": 0,
+    "reviewsCount": 0,
+    "isNew": false,
+    "isSale": false,
+    "isFeatured": false,
+    "badge": null,
+    "stockCount": 0,
+    "sku": "CAM-AC-AC-009",
+    "colors": [
+      {
+        "name": "Chrome",
+        "hex": "#E5E7EB"
+      }
+    ],
+    "images": [],
+    "description": "Modern flat round overhead shower head mounted on a straight vertical drop shower pipe.",
+    "story": "Features a modern slimline spray face engineered to distribute a uniform water rainfall effect across the entire surface.",
+    "details": [
+      "Slim flat round spray disc",
+      "Straight vertical shower arm mount",
+      "Easy-clean nozzles with chrome finish"
+    ],
+    "specs": {
+      "productType": "Overhead Shower",
+      "finish": "Chrome",
+      "color": "Chrome",
+      "mountingType": "Wall Mounted",
+      "controlType": "Not specified",
+      "material": "Not specified",
+      "dimensions": "Not specified",
+      "waterFlowRate": "Not specified",
+      "warranty": "Not specified"
+    },
+    "reviews": []
+  },
+{
+    "id": "camzon-product-001",
+    "slug": "camzon-waste-half-thread-cam-ac-ac-011",
+    "title": "Waste Half Thread",
+    "subtitle": "WITH PLUG AND CHAIN",
+    "category": "allied products",
+    "price": 25.00,
+    "originalPrice": 35.00,
+    "rating": 0,
+    "reviewsCount": 0,
+    "isNew": false,
+    "isSale": false,
+    "isFeatured": false,
+    "badge": null,
+    "stockCount": 0,
+    "sku": "CAM-AC-AC-011",
+    "colors": [
+      {
+        "name": "Chrome",
+        "hex": "#E5E7EB"
+      }
+    ],
+    "images": [],
+    "description": "Half-threaded basin waste coupling with integrated rubber plug and metallic retaining chain for secure water containment.",
+    "story": "A reliable drainage accessory designed to fit standard washbasins, ensuring efficient water retention and seamless drainage control.",
+    "details": [
+      "Half-thread body design",
+      "Rubber stopper plug with chain attachment",
+      "Corrosion-resistant chrome flange"
+    ],
+    "specs": {
+      "productType": "Waste Coupling",
+      "finish": "Chrome",
+      "color": "Chrome",
+      "mountingType": "Basin Mounted",
+      "controlType": "Not specified",
+      "material": "Not specified",
+      "dimensions": "Not specified",
+      "waterFlowRate": "Not specified",
+      "warranty": "Not specified"
+    },
+    "reviews": []
+  },
+  {
+    "id": "camzon-product-002",
+    "slug": "camzon-soap-dish-cam-ac-ac-012",
+    "title": "Soap Dish",
+    "subtitle": "WALL MOUNTED SLATTED DISH",
+    "category": "allied products",
+    "price": 30.00,
+    "originalPrice": 40.00,
+    "rating": 0,
+    "reviewsCount": 0,
+    "isNew": false,
+    "isSale": false,
+    "isFeatured": false,
+    "badge": null,
+    "stockCount": 0,
+    "sku": "CAM-AC-AC-012",
+    "colors": [
+      {
+        "name": "Chrome",
+        "hex": "#E5E7EB"
+      }
+    ],
+    "images": [],
+    "description": "Wall-mounted chrome soap dish with slatted drainage slots to prevent water pooling and extend soap bar life.",
+    "story": "Organize your shower or vanity area with this sleek chrome soap holder, engineered for quick drainage and effortless maintenance.",
+    "details": [
+      "Slatted drainage base slots",
+      "Wall-mount bracket fitting",
+      "Polished chrome finish"
+    ],
+    "specs": {
+      "productType": "Soap Dish",
+      "finish": "Chrome",
+      "color": "Chrome",
+      "mountingType": "Wall Mounted",
+      "controlType": "Not specified",
+      "material": "Not specified",
+      "dimensions": "Not specified",
+      "waterFlowRate": "Not specified",
+      "warranty": "Not specified"
+    },
+    "reviews": []
+  },
+  {
+    "id": "camzon-product-003",
+    "slug": "camzon-soap-dish-cam-ac-ac-013",
+    "title": "Soap Dish",
+    "subtitle": "OVAL SOLID WALL MOUNTED DISH",
+    "category": "allied products",
+    "price": 30.00,
+    "originalPrice": 40.00,
+    "rating": 0,
+    "reviewsCount": 0,
+    "isNew": false,
+    "isSale": false,
+    "isFeatured": false,
+    "badge": null,
+    "stockCount": 0,
+    "sku": "CAM-AC-AC-013",
+    "colors": [
+      {
+        "name": "Chrome",
+        "hex": "#E5E7EB"
+      }
+    ],
+    "images": [],
+    "description": "Oval-shaped wall-mounted chrome soap dish featuring subtle inner drainage ridges and a smooth polished finish.",
+    "story": "Combines soft oval contours with robust wall attachment, bringing functional elegance to contemporary shower walls.",
+    "details": [
+      "Oval curved dish tray",
+      "Subtle drainage indentations",
+      "Concealed wall mounting kit"
+    ],
+    "specs": {
+      "productType": "Soap Dish",
+      "finish": "Chrome",
+      "color": "Chrome",
+      "mountingType": "Wall Mounted",
+      "controlType": "Not specified",
+      "material": "Not specified",
+      "dimensions": "Not specified",
+      "waterFlowRate": "Not specified",
+      "warranty": "Not specified"
+    },
+    "reviews": []
+  },
+  {
+    "id": "camzon-product-004",
+    "slug": "camzon-waste-full-thread-cam-ac-ac-014",
+    "title": "Waste Full Thread",
+    "subtitle": "HEAVY DUTY FULL THREAD COUPLING",
+    "category": "allied products",
+    "price": 28.00,
+    "originalPrice": 38.00,
+    "rating": 0,
+    "reviewsCount": 0,
+    "isNew": false,
+    "isSale": false,
+    "isFeatured": false,
+    "badge": null,
+    "stockCount": 0,
+    "sku": "CAM-AC-AC-014",
+    "colors": [
+      {
+        "name": "Chrome",
+        "hex": "#E5E7EB"
+      }
+    ],
+    "images": [],
+    "description": "Full-threaded basin waste coupling with perforated top strainer grid for maximum pipe thread engagement and leak-proof fitting.",
+    "story": "Engineered for deep sink and counter setups requiring full-length threaded securement and optimal drainage passage.",
+    "details": [
+      "Full-length threaded barrel",
+      "Perforated chrome strainer plate",
+      "Included rubber sealing washer"
+    ],
+    "specs": {
+      "productType": "Waste Coupling",
+      "finish": "Chrome",
+      "color": "Chrome",
+      "mountingType": "Basin Mounted",
+      "controlType": "Not specified",
+      "material": "Not specified",
+      "dimensions": "Not specified",
+      "waterFlowRate": "Not specified",
+      "warranty": "Not specified"
+    },
+    "reviews": []
+  },
+  {
+    "id": "camzon-product-005",
+    "slug": "camzon-soap-dish-cam-ac-ac-015",
+    "title": "Soap Dish",
+    "subtitle": "SHELL PATTERN WALL MOUNTED DISH",
+    "category": "allied products",
+    "price": 32.00,
+    "originalPrice": 42.00,
+    "rating": 0,
+    "reviewsCount": 0,
+    "isNew": false,
+    "isSale": false,
+    "isFeatured": false,
+    "badge": null,
+    "stockCount": 0,
+    "sku": "CAM-AC-AC-015",
+    "colors": [
+      {
+        "name": "Chrome",
+        "hex": "#E5E7EB"
+      }
+    ],
+    "images": [],
+    "description": "Decorative shell-pattern wall-mounted soap dish with subtle radial drainage channels in a mirror-like chrome finish.",
+    "story": "Add a touch of decorative flair to your bathroom with this shell-inspired chrome soap dish holder.",
+    "details": [
+      "Radial shell-style surface grooves",
+      "Sturdy wall attachment rosette",
+      "Polished chrome finish"
+    ],
+    "specs": {
+      "productType": "Soap Dish",
+      "finish": "Chrome",
+      "color": "Chrome",
+      "mountingType": "Wall Mounted",
+      "controlType": "Not specified",
+      "material": "Not specified",
+      "dimensions": "Not specified",
+      "waterFlowRate": "Not specified",
+      "warranty": "Not specified"
+    },
+    "reviews": []
+  },
+  {
+    "id": "camzon-product-006",
+    "slug": "camzon-soap-dish-cam-ac-ac-016",
+    "title": "Soap Dish",
+    "subtitle": "COMPACT EMBOSSED WALL DISH",
+    "category": "allied products",
+    "price": 30.00,
+    "originalPrice": 40.00,
+    "rating": 0,
+    "reviewsCount": 0,
+    "isNew": false,
+    "isSale": false,
+    "isFeatured": false,
+    "badge": null,
+    "stockCount": 0,
+    "sku": "CAM-AC-AC-016",
+    "colors": [
+      {
+        "name": "Chrome",
+        "hex": "#E5E7EB"
+      }
+    ],
+    "images": [],
+    "description": "Compact wall-mounted soap dish with parallel drainage indents for clean and efficient soap bar storage.",
+    "story": "A clean, modern bathroom accessory offering convenient soap placement and straightforward installation.",
+    "details": [
+      "Parallel surface drainage slots",
+      "Compact wall bracket support",
+      "Chrome plated brass construction"
+    ],
+    "specs": {
+      "productType": "Soap Dish",
+      "finish": "Chrome",
+      "color": "Chrome",
+      "mountingType": "Wall Mounted",
+      "controlType": "Not specified",
+      "material": "Not specified",
+      "dimensions": "Not specified",
+      "waterFlowRate": "Not specified",
+      "warranty": "Not specified"
+    },
+    "reviews": []
+  },
+  {
+    "id": "camzon-product-007",
+    "slug": "camzon-new-hook-towel-rail-cam-ac-ac-017",
+    "title": "New Hook",
+    "subtitle": "WALL MOUNTED TOWEL RAIL",
+    "category": "allied products",
+    "price": 45.00,
+    "originalPrice": 60.00,
+    "rating": 0,
+    "reviewsCount": 0,
+    "isNew": false,
+    "isSale": false,
+    "isFeatured": false,
+    "badge": null,
+    "stockCount": 0,
+    "sku": "CAM-AC-AC-017",
+    "colors": [
+      {
+        "name": "Chrome",
+        "hex": "#E5E7EB"
+      }
+    ],
+    "images": [],
+    "description": "Wall-mounted chrome towel rail featuring dual round end brackets for hanging bath and hand towels.",
+    "story": "Keep bath towels neatly organized and within reach with this slim and durable chrome towel bar.",
+    "details": [
+      "Linear tubular towel bar",
+      "Dual circular wall mounting brackets",
+      "Polished chrome finish"
+    ],
+    "specs": {
+      "productType": "Towel Rail",
+      "finish": "Chrome",
+      "color": "Chrome",
+      "mountingType": "Wall Mounted",
+      "controlType": "Not specified",
+      "material": "Not specified",
+      "dimensions": "Not specified",
+      "waterFlowRate": "Not specified",
+      "warranty": "Not specified"
+    },
+    "reviews": []
+  },
+  {
+    "id": "camzon-product-008",
+    "slug": "camzon-tarzan-towel-rail-cam-ac-ac-018",
+    "title": "Tarzan",
+    "subtitle": "HEAVY DUTY TOWEL BAR",
+    "category": "allied products",
+    "price": 48.00,
+    "originalPrice": 65.00,
+    "rating": 0,
+    "reviewsCount": 0,
+    "isNew": false,
+    "isSale": false,
+    "isFeatured": false,
+    "badge": null,
+    "stockCount": 0,
+    "sku": "CAM-AC-AC-018",
+    "colors": [
+      {
+        "name": "Chrome",
+        "hex": "#E5E7EB"
+      }
+    ],
+    "images": [],
+    "description": "Robust wall-mounted towel rail from the Tarzan line, designed for firm mounting and extended towel support.",
+    "story": "Built for daily utility, the Tarzan towel bar provides sturdy support for heavy bath towels with refined modern styling.",
+    "details": [
+      "Heavy-duty metallic towel bar",
+      "Secure wall mounting hardware",
+      "Corrosion-resistant chrome finish"
+    ],
+    "specs": {
+      "productType": "Towel Rail",
+      "finish": "Chrome",
+      "color": "Chrome",
+      "mountingType": "Wall Mounted",
+      "controlType": "Not specified",
+      "material": "Not specified",
+      "dimensions": "Not specified",
+      "waterFlowRate": "Not specified",
+      "warranty": "Not specified"
+    },
+    "reviews": []
+  },
+  {
+    "id": "camzon-product-009",
+    "slug": "camzon-diplomate-towel-rail-cam-ac-ac-019",
+    "title": "Diplomate",
+    "subtitle": "PREMIUM TOWEL BAR",
+    "category": "allied products",
+    "price": 50.00,
+    "originalPrice": 70.00,
+    "rating": 0,
+    "reviewsCount": 0,
+    "isNew": false,
+    "isSale": false,
+    "isFeatured": false,
+    "badge": null,
+    "stockCount": 0,
+    "sku": "CAM-AC-AC-019",
+    "colors": [
+      {
+        "name": "Chrome",
+        "hex": "#E5E7EB"
+      }
+    ],
+    "images": [],
+    "description": "Premium wall-mounted towel rail featuring sleek end rosettes and high-shine polished chrome execution.",
+    "story": "The Diplomate towel rail brings high-end sophistication and organized towel storage to luxury master bathrooms.",
+    "details": [
+      "Streamlined tubular towel rod",
+      "Decorative wall flange fittings",
+      "High-luster chrome finish"
+    ],
+    "specs": {
+      "productType": "Towel Rail",
+      "finish": "Chrome",
+      "color": "Chrome",
+      "mountingType": "Wall Mounted",
+      "controlType": "Not specified",
+      "material": "Not specified",
+      "dimensions": "Not specified",
+      "waterFlowRate": "Not specified",
+      "warranty": "Not specified"
+    },
+    "reviews": []
+  }
+]
+

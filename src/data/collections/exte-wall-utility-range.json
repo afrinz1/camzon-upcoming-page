@@ -1,0 +1,179 @@
+
+[
+  {
+    "id": "camzon-product-001",
+    "slug": "camzon-exte-wall-utility-range-stop-cock-concealed-upper-part",
+    "title": "STOP COCK",
+    "subtitle": "CONCEALED UPPER PART",
+    "category": "exte-wall-utility-range",
+    "price": 950.00,
+    "originalPrice": 1150.00,
+    "rating": 0,
+    "reviewsCount": 0,
+    "isNew": false,
+    "isSale": false,
+    "isFeatured": false,
+    "badge": null,
+    "stockCount": 0,
+    "sku": "CAM-SC-EX-001",
+    "colors": [
+      {
+        "name": "Chrome",
+        "hex": "#E5E7EB"
+      }
+    ],
+    "images": [],
+    "description": "A concealed stop cock upper part featuring a circular trim wall flange and smooth control knob for in-wall valve operation.",
+    "story": "Part of the Exte wall utility range, this concealed stop cock upper part provides clean visual integration for in-wall water isolation valves.",
+    "details": [
+      "Concealed in-wall valve upper trim set",
+      "Includes circular chrome flange plate",
+      "Ergonomic turn control knob",
+      "High shine chrome surface coating"
+    ],
+    "specs": {
+      "productType": "Concealed Stop Cock Upper Part",
+      "finish": "Not specified",
+      "color": "Not specified",
+      "mountingType": "Concealed Wall Mounted",
+      "controlType": "Single Knob",
+      "material": "Not specified",
+      "dimensions": "Not specified",
+      "waterFlowRate": "Not specified",
+      "warranty": "Not specified"
+    },
+    "reviews": []
+  },
+  {
+    "id": "camzon-product-002",
+    "slug": "camzon-exte-wall-utility-range-angle-valve",
+    "title": "ANGLE VALVE",
+    "subtitle": "STANDARD ANGLE VALVE",
+    "category": "exte-wall-utility-range",
+    "price": 650.00,
+    "originalPrice": 800.00,
+    "rating": 0,
+    "reviewsCount": 0,
+    "isNew": false,
+    "isSale": false,
+    "isFeatured": false,
+    "badge": null,
+    "stockCount": 0,
+    "sku": "CAM-AV-EX-001",
+    "colors": [
+      {
+        "name": "Chrome",
+        "hex": "#E5E7EB"
+      }
+    ],
+    "images": [],
+    "description": "A compact wall-mounted angle valve with a circular wall flange and quarter-turn control knob, ideal for sanitary water isolation.",
+    "story": "The Exte Angle Valve guarantees reliable point-of-use water control for basins, geysers, and toilets with sleek polished chrome aesthetics.",
+    "details": [
+      "Wall-mounted installation with wall flange",
+      "Quarter-turn smooth operation knob",
+      "Solid brass construction beneath chrome finish",
+      "Standard thread water connection"
+    ],
+    "specs": {
+      "productType": "Angle Valve",
+      "finish": "Not specified",
+      "color": "Not specified",
+      "mountingType": "Wall Mounted",
+      "controlType": "Single Knob",
+      "material": "Not specified",
+      "dimensions": "Not specified",
+      "waterFlowRate": "Not specified",
+      "warranty": "Not specified"
+    },
+    "reviews": []
+  },
+  {
+    "id": "camzon-product-003",
+    "slug": "camzon-exte-wall-utility-range-wall-mixer-telephonic-w-crutch",
+    "title": "WALL MIXER",
+    "subtitle": "TELEPHONIC W CRUTCH",
+    "category": "exte-wall-utility-range",
+    "price": 3650.00,
+    "originalPrice": 4250.00,
+    "rating": 0,
+    "reviewsCount": 0,
+    "isNew": false,
+    "isSale": false,
+    "isFeatured": false,
+    "badge": null,
+    "stockCount": 0,
+    "sku": "CAM-WM-EX-001",
+    "colors": [
+      {
+        "name": "Chrome",
+        "hex": "#E5E7EB"
+      }
+    ],
+    "images": [],
+    "description": "A telephonic wall mixer equipped with a hand shower crutch rest, twin control handles, and a bottom bath spout.",
+    "story": "Combining traditional telephonic shower styling with modern water mixing performance, this Exte wall mixer is an ideal centerpiece for family bathrooms.",
+    "details": [
+      "Telephonic hand shower crutch mount",
+      "Twin control handles with diverter mechanism",
+      "Dual wall flange mounting",
+      "Corrosion-resistant chrome coating"
+    ],
+    "specs": {
+      "productType": "Wall Mixer Telephonic",
+      "finish": "Not specified",
+      "color": "Not specified",
+      "mountingType": "Wall Mounted",
+      "controlType": "Dual Knob with Crutch",
+      "material": "Not specified",
+      "dimensions": "Not specified",
+      "waterFlowRate": "Not specified",
+      "warranty": "Not specified"
+    },
+    "reviews": []
+  },
+  {
+    "id": "camzon-product-004",
+    "slug": "camzon-exte-wall-utility-range-wall-mixer-non-telephonic",
+    "title": "WALL MIXER",
+    "subtitle": "NON TELEPHONIC",
+    "category": "exte-wall-utility-range",
+    "price": 2850.00,
+    "originalPrice": 3300.00,
+    "rating": 0,
+    "reviewsCount": 0,
+    "isNew": false,
+    "isSale": false,
+    "isFeatured": false,
+    "badge": null,
+    "stockCount": 0,
+    "sku": "CAM-WM-EX-002",
+    "colors": [
+      {
+        "name": "Chrome",
+        "hex": "#E5E7EB"
+      }
+    ],
+    "images": [],
+    "description": "A wall-mounted non-telephonic bath mixer featuring dual control knobs and a lower spout for tub and bucket filling.",
+    "story": "The Exte Non-Telephonic Wall Mixer delivers simple and dependable hot and cold water blending directly to your tub or bath area.",
+    "details": [
+      "Non-telephonic dual handle wall mixer",
+      "Twin flange wall installation",
+      "Gently curved bath spout",
+      "High shine chrome finish"
+    ],
+    "specs": {
+      "productType": "Wall Mixer Non-Telephonic",
+      "finish": "Not specified",
+      "color": "Not specified",
+      "mountingType": "Wall Mounted",
+      "controlType": "Dual Knob",
+      "material": "Not specified",
+      "dimensions": "Not specified",
+      "waterFlowRate": "Not specified",
+      "warranty": "Not specified"
+    },
+    "reviews": []
+  }
+]

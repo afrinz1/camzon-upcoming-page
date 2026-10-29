@@ -288,23 +288,20 @@ export const HomePage: React.FC<HomePageProps> = ({
       </section>
 
       {/* ========================================================================= */}
-      {/* 2. MARQUEE TICKER (The 10 Collections: ARNO, DART, DECK, DUERO, DUNE, FACET, KORE, QUADRA, RIDGE, SHOWERS) */}
+      {/* 2. CATEGORY GROUP TICKER */}
       {/* ========================================================================= */}
       <div id="camzon-marquee-ticker" className="bg-[#0b0c0f] border-y border-stone-800/80 py-2.5 overflow-hidden relative">
         <div className="animate-marquee whitespace-nowrap flex items-center">
           {[...Array(4)].map((_, setIdx) => (
             <div key={setIdx} className="inline-flex items-center space-x-6 sm:space-x-8 mx-3 sm:mx-4 shrink-0">
               {[
-                { label: 'ARNO', category: 'ARNO' },
-                { label: 'DART', category: 'DART' },
-                { label: 'DECK', category: 'DECK' },
-                { label: 'DUERO', category: 'DUERO' },
-                { label: 'DUNE', category: 'DUNE' },
-                { label: 'FACET', category: 'FACET' },
-                { label: 'KORE', category: 'KORE' },
-                { label: 'QUADRA', category: 'QUADRA' },
-                { label: 'RIDGE', category: 'RIDGE' },
-                { label: 'SHOWERS', category: 'SHOWERS' },
+                { label: 'GCC LINEUPS', category: 'gcc-lineups' },
+                { label: 'INDIAN LINEUPS', category: 'indian-lineups' },
+                { label: 'DIVERTORS & SPOUT', category: 'group-divertors-spout' },
+                { label: 'SENSOR FAUCETS', category: 'group-sensor-faucets' },
+                { label: 'EXCLUSIVE', category: 'group-exclusive' },
+                { label: 'OVERHEAD SHOWERS', category: 'group-overhead-showers' },
+                { label: 'ACCESSORIES', category: 'group-accessories' },
               ].map((item, itemIdx) => (
                 <React.Fragment key={`${setIdx}-${itemIdx}`}>
                   <button
@@ -412,7 +409,7 @@ export const HomePage: React.FC<HomePageProps> = ({
             </div>
           </div>
 
-          {/* Card 1: DART. */}
+          {/* Card 1: D A R T. */}
           <div
             id="featured-card-dart"
             className="flex-shrink-0 w-[85vw] sm:w-[380px] md:w-[440px] lg:w-[480px] snap-start border border-white/20 hover:border-white/40 rounded-[20px] overflow-hidden bg-black flex flex-col sm:flex-row min-h-[280px] sm:min-h-[290px] transition-all duration-300 shadow-xl"
@@ -421,16 +418,16 @@ export const HomePage: React.FC<HomePageProps> = ({
             <div className="w-full sm:w-[48%] bg-[#d8d9de] p-5 sm:p-6 flex flex-col justify-between flex-1">
               <div>
                 <h3 className="text-base sm:text-lg lg:text-xl font-black text-black tracking-tight mb-2 uppercase">
-                  DART.
+                  D A R T.
                 </h3>
                 <p className="text-stone-800 text-xs lg:text-[13px] font-normal leading-relaxed">
-                  Aerodynamic forms. Dynamic precision flow. Discover DART fixtures designed to elevate every moment at the vanity.
+                  Explore the D A R T range in the Indian Lineups collection.
                 </p>
               </div>
               <div className="pt-4">
                 <button
                   id="dart-discover-btn"
-                  onClick={() => onNavigate('catalog', 'DART')}
+                  onClick={() => onNavigate('catalog', 'D A R T')}
                   className="bg-[#f26a1b] hover:bg-[#ea580c] text-white font-semibold text-xs px-4 py-2 rounded-full transition-all shadow-sm cursor-pointer whitespace-nowrap inline-flex items-center gap-1.5"
                 >
                   <span>Discover more</span>
@@ -442,11 +439,11 @@ export const HomePage: React.FC<HomePageProps> = ({
             {/* Right/Bottom Product Image */}
             <div
               className="w-full sm:w-[52%] h-48 sm:h-auto min-h-[160px] relative bg-[#0b0c0e] overflow-hidden cursor-pointer group"
-              onClick={() => onNavigate('catalog', 'DART')}
+              onClick={() => onNavigate('catalog', 'D A R T')}
             >
               <img
                 src={featuredFaucetImg}
-                alt="CAMZON DART Collection"
+                alt="CAMZON D A R T collection"
                 referrerPolicy="no-referrer"
                 draggable={false}
                 className="w-full h-full object-cover group-hover:scale-105 transition-transform duration-500 pointer-events-none"
@@ -454,7 +451,7 @@ export const HomePage: React.FC<HomePageProps> = ({
             </div>
           </div>
 
-          {/* Card 2: SHOWERS. */}
+          {/* Card 2: OVERHEAD SHOWERS. */}
           <div
             id="featured-card-showers"
             className="flex-shrink-0 w-[85vw] sm:w-[380px] md:w-[440px] lg:w-[480px] snap-start border border-white/20 hover:border-white/40 rounded-[20px] overflow-hidden bg-black flex flex-col sm:flex-row min-h-[280px] sm:min-h-[290px] transition-all duration-300 shadow-xl"
@@ -463,7 +460,7 @@ export const HomePage: React.FC<HomePageProps> = ({
             <div className="w-full sm:w-[48%] bg-[#d8d9de] p-5 sm:p-6 flex flex-col justify-between flex-1">
               <div>
                 <h3 className="text-base sm:text-lg lg:text-xl font-black text-black tracking-tight mb-2 uppercase">
-                  SHOWERS.
+                  OVERHEAD SHOWERS.
                 </h3>
                 <p className="text-stone-800 text-xs lg:text-[13px] font-normal leading-relaxed">
                   Thermostatic wellness suites engineered for the perfect harmony of water coverage, comfort, and contemporary relaxation.
@@ -472,7 +469,7 @@ export const HomePage: React.FC<HomePageProps> = ({
               <div className="pt-4">
                 <button
                   id="showers-discover-btn"
-                  onClick={() => onNavigate('catalog', 'SHOWERS')}
+                  onClick={() => onNavigate('catalog', 'OVERHEAD SHOWERS')}
                   className="bg-[#f26a1b] hover:bg-[#ea580c] text-white font-semibold text-xs px-4 py-2 rounded-full transition-all shadow-sm cursor-pointer whitespace-nowrap inline-flex items-center gap-1.5"
                 >
                   <span>Discover more</span>
@@ -484,11 +481,11 @@ export const HomePage: React.FC<HomePageProps> = ({
             {/* Right/Bottom Product Image */}
             <div
               className="w-full sm:w-[52%] h-48 sm:h-auto min-h-[160px] relative bg-[#0b0c0e] overflow-hidden cursor-pointer group"
-              onClick={() => onNavigate('catalog', 'SHOWERS')}
+              onClick={() => onNavigate('catalog', 'OVERHEAD SHOWERS')}
             >
               <img
                 src={featuredShowerImg}
-                alt="CAMZON SHOWERS Collection"
+                alt="CAMZON Overhead Showers collection"
                 referrerPolicy="no-referrer"
                 draggable={false}
                 className="w-full h-full object-cover group-hover:scale-105 transition-transform duration-500 pointer-events-none"
@@ -496,25 +493,25 @@ export const HomePage: React.FC<HomePageProps> = ({
             </div>
           </div>
 
-          {/* Card 3: QUADRA. */}
+          {/* Card 3: MACE. */}
           <div
-            id="featured-card-quadra"
+            id="featured-card-mace"
             className="flex-shrink-0 w-[85vw] sm:w-[380px] md:w-[440px] lg:w-[480px] snap-start border border-white/20 hover:border-white/40 rounded-[20px] overflow-hidden bg-black flex flex-col sm:flex-row min-h-[280px] sm:min-h-[290px] transition-all duration-300 shadow-xl"
           >
             {/* Left/Top Light Grey / Silver Panel */}
             <div className="w-full sm:w-[48%] bg-[#d8d9de] p-5 sm:p-6 flex flex-col justify-between flex-1">
               <div>
                 <h3 className="text-base sm:text-lg lg:text-xl font-black text-black tracking-tight mb-2 uppercase">
-                  QUADRA.
+                  MACE.
                 </h3>
                 <p className="text-stone-800 text-xs lg:text-[13px] font-normal leading-relaxed">
-                  Bold 90-degree planar surfaces. Crisp right-angle silhouettes engineered for contemporary architectural homes.
+                  Explore the MACE range in the Indian Lineups collection.
                 </p>
               </div>
               <div className="pt-4">
                 <button
-                  id="quadra-discover-btn"
-                  onClick={() => onNavigate('catalog', 'QUADRA')}
+                  id="mace-discover-btn"
+                  onClick={() => onNavigate('catalog', 'MACE')}
                   className="bg-[#f26a1b] hover:bg-[#ea580c] text-white font-semibold text-xs px-4 py-2 rounded-full transition-all shadow-sm cursor-pointer whitespace-nowrap inline-flex items-center gap-1.5"
                 >
                   <span>Discover more</span>
@@ -526,11 +523,11 @@ export const HomePage: React.FC<HomePageProps> = ({
             {/* Right/Bottom Product Image */}
             <div
               className="w-full sm:w-[52%] h-48 sm:h-auto min-h-[160px] relative bg-[#0b0c0e] overflow-hidden cursor-pointer group"
-              onClick={() => onNavigate('catalog', 'QUADRA')}
+              onClick={() => onNavigate('catalog', 'MACE')}
             >
               <img
                 src={featuredBasinImg}
-                alt="CAMZON QUADRA Collection"
+                alt="CAMZON MACE collection"
                 referrerPolicy="no-referrer"
                 draggable={false}
                 className="w-full h-full object-cover group-hover:scale-105 transition-transform duration-500 pointer-events-none"

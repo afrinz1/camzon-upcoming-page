@@ -1,0 +1,311 @@
+
+[
+  {
+    "id": "camzon-product-001",
+    "slug": "camzon-sensor-faucets-basin-tap-centre-hole-cam-sf-ft-001",
+    "title": "BASIN TAP",
+    "subtitle": "CENTRE HOLE",
+    "category": "SENSOR FAUCETS",
+    "price": 4850.00,
+    "originalPrice": 5600.00,
+    "rating": 0,
+    "reviewsCount": 0,
+    "isNew": false,
+    "isSale": false,
+    "isFeatured": false,
+    "badge": null,
+    "stockCount": 0,
+    "sku": "CAM-SF-FT-001",
+    "colors": [
+      {
+        "name": "Chrome",
+        "hex": "#E5E7EB"
+      }
+    ],
+    "images": [],
+    "description": "An intelligent touchless electronic sensor basin tap featuring a angular flat-top spout design for maximum hygiene and water conservation.",
+    "story": "Engineered for high-traffic and modern luxury washrooms, Camzon Sensor Faucets deliver touchless automatic water flow to elevate hygiene and water efficiency.",
+    "details": [
+      "Infrared motion sensor for touchless operation",
+      "Modern angular pillar neck design",
+      "Deck-mounted single hole fitment",
+      "Polished chrome plated finish"
+    ],
+    "specs": {
+      "productType": "Sensor Basin Tap",
+      "finish": "Not specified",
+      "color": "Not specified",
+      "mountingType": "Deck Mounted",
+      "controlType": "Automatic Infrared Sensor",
+      "material": "Not specified",
+      "dimensions": "Not specified",
+      "waterFlowRate": "Not specified",
+      "warranty": "Not specified"
+    },
+    "reviews": []
+  },
+  {
+    "id": "camzon-product-002",
+    "slug": "camzon-sensor-faucets-basin-tap-centre-hole-cam-sf-dn-002",
+    "title": "BASIN TAP",
+    "subtitle": "CENTRE HOLE",
+    "category": "SENSOR FAUCETS",
+    "price": 4950.00,
+    "originalPrice": 5800.00,
+    "rating": 0,
+    "reviewsCount": 0,
+    "isNew": false,
+    "isSale": false,
+    "isFeatured": false,
+    "badge": null,
+    "stockCount": 0,
+    "sku": "CAM-SF-DN-002",
+    "colors": [
+      {
+        "name": "Chrome",
+        "hex": "#E5E7EB"
+      }
+    ],
+    "images": [],
+    "description": "A curved automatic infrared sensor tap with a smooth low-profile body, designed for effortless touch-free hand washing.",
+    "story": "Combining soft curved ergonomics with precision sensor technology, this touchless tap offers instantaneous water activation and shut-off.",
+    "details": [
+      "Precision infrared proximity sensor",
+      "Soft curved body contour",
+      "Deck-mounted single hole installation",
+      "Corrosion-resistant chrome surface"
+    ],
+    "specs": {
+      "productType": "Sensor Basin Tap",
+      "finish": "Not specified",
+      "color": "Not specified",
+      "mountingType": "Deck Mounted",
+      "controlType": "Automatic Infrared Sensor",
+      "material": "Not specified",
+      "dimensions": "Not specified",
+      "waterFlowRate": "Not specified",
+      "warranty": "Not specified"
+    },
+    "reviews": []
+  },
+  {
+    "id": "camzon-product-003",
+    "slug": "camzon-sensor-faucets-basin-tap-erico-gold",
+    "title": "BASIN TAP",
+    "subtitle": "ERICO GOLD",
+    "category": "SENSOR FAUCETS",
+    "price": 5850.00,
+    "originalPrice": 6900.00,
+    "rating": 0,
+    "reviewsCount": 0,
+    "isNew": false,
+    "isSale": false,
+    "isFeatured": false,
+    "badge": null,
+    "stockCount": 0,
+    "sku": "CAM-SF-ER-003",
+    "colors": [
+      {
+        "name": "Brushed Gold",
+        "hex": "#D4AF37"
+      }
+    ],
+    "images": [],
+    "description": "A luxury brushed gold finish sensor basin tap featuring a tall cylindrical pillar body and automatic hands-free activation.",
+    "story": "Make a bold luxury statement with the Brushed Gold Erico Sensor Tap, pairing rich gold finish with cutting-edge touchless sensor convenience.",
+    "details": [
+      "Brushed Gold metallic finish",
+      "Front-facing active infrared sensor",
+      "Tall cylindrical pillar profile",
+      "Deck-mounted installation"
+    ],
+    "specs": {
+      "productType": "Sensor Basin Tap",
+      "finish": "Brushed Gold",
+      "color": "Gold",
+      "mountingType": "Deck Mounted",
+      "controlType": "Automatic Infrared Sensor",
+      "material": "Not specified",
+      "dimensions": "Not specified",
+      "waterFlowRate": "Not specified",
+      "warranty": "Not specified"
+    },
+    "reviews": []
+  },
+  {
+    "id": "camzon-product-004",
+    "slug": "camzon-sensor-faucets-basin-tap-erico",
+    "title": "BASIN TAP",
+    "subtitle": "ERICO",
+    "category": "SENSOR FAUCETS",
+    "price": 5450.00,
+    "originalPrice": 6400.00,
+    "rating": 0,
+    "reviewsCount": 0,
+    "isNew": false,
+    "isSale": false,
+    "isFeatured": false,
+    "badge": null,
+    "stockCount": 0,
+    "sku": "CAM-SF-MT-004",
+    "colors": [
+      {
+        "name": "Brushed Gold",
+        "hex": "#D4AF37"
+      }
+    ],
+    "images": [],
+    "description": "A stylish brushed gold cylinder automatic sensor tap with a curved spout design for premium washrooms.",
+    "story": "The Erico Sensor Tap in brushed gold elevates executive and modern residential washrooms with touchless sanitary convenience.",
+    "details": [
+      "Brushed Gold surface finish",
+      "Integrated smart motion sensor",
+      "Sleek curved spout outlet",
+      "Deck counter mounting"
+    ],
+    "specs": {
+      "productType": "Sensor Basin Tap",
+      "finish": "Brushed Gold",
+      "color": "Gold",
+      "mountingType": "Deck Mounted",
+      "controlType": "Automatic Infrared Sensor",
+      "material": "Not specified",
+      "dimensions": "Not specified",
+      "waterFlowRate": "Not specified",
+      "warranty": "Not specified"
+    },
+    "reviews": []
+  },
+  {
+    "id": "camzon-product-005",
+    "slug": "camzon-sensor-faucets-basin-tap-pebble",
+    "title": "BASIN TAP",
+    "subtitle": "PEBBLE",
+    "category": "SENSOR FAUCETS",
+    "price": 4650.00,
+    "originalPrice": 5400.00,
+    "rating": 0,
+    "reviewsCount": 0,
+    "isNew": false,
+    "isSale": false,
+    "isFeatured": false,
+    "badge": null,
+    "stockCount": 0,
+    "sku": "CAM-SF-PB-005",
+    "colors": [
+      {
+        "name": "Chrome",
+        "hex": "#E5E7EB"
+      }
+    ],
+    "images": [],
+    "description": "An organic curved gooseneck automatic sensor basin faucet from the Pebble collection in high-shine chrome.",
+    "story": "Inspired by natural organic curves, the Pebble sensor faucet combines gentle swan-like aesthetics with reliable hands-free water flow control.",
+    "details": [
+      "Gooseneck arched spout design",
+      "Base-integrated motion sensor lens",
+      "Polished mirror chrome finish",
+      "Single hole deck installation"
+    ],
+    "specs": {
+      "productType": "Sensor Basin Tap",
+      "finish": "Not specified",
+      "color": "Not specified",
+      "mountingType": "Deck Mounted",
+      "controlType": "Automatic Infrared Sensor",
+      "material": "Not specified",
+      "dimensions": "Not specified",
+      "waterFlowRate": "Not specified",
+      "warranty": "Not specified"
+    },
+    "reviews": []
+  },
+  {
+    "id": "camzon-product-006",
+    "slug": "camzon-sensor-faucets-basin-tap-dune",
+    "title": "BASIN TAP",
+    "subtitle": "DUNE",
+    "category": "SENSOR FAUCETS",
+    "price": 4750.00,
+    "originalPrice": 5500.00,
+    "rating": 0,
+    "reviewsCount": 0,
+    "isNew": false,
+    "isSale": false,
+    "isFeatured": false,
+    "badge": null,
+    "stockCount": 0,
+    "sku": "CAM-SF-DN-006",
+    "colors": [
+      {
+        "name": "Chrome",
+        "hex": "#E5E7EB"
+      }
+    ],
+    "images": [],
+    "description": "A high-arch swan neck electronic touchless sensor tap designed for deep counter washbasins.",
+    "story": "The Dune high-arch sensor tap provides generous height clearance above the washbasin, making touchless hand washing comfortable and hygienic.",
+    "details": [
+      "High clearance swan neck arc spout",
+      "Touchless electronic infrared sensor",
+      "Deck counter mounting",
+      "Chrome plated brass body"
+    ],
+    "specs": {
+      "productType": "Sensor Basin Tap",
+      "finish": "Not specified",
+      "color": "Not specified",
+      "mountingType": "Deck Mounted",
+      "controlType": "Automatic Infrared Sensor",
+      "material": "Not specified",
+      "dimensions": "Not specified",
+      "waterFlowRate": "Not specified",
+      "warranty": "Not specified"
+    },
+    "reviews": []
+  },
+  {
+    "id": "camzon-product-007",
+    "slug": "camzon-sensor-faucets-spout-wall-mounted",
+    "title": "SPOUT",
+    "subtitle": "WALL MOUNTED",
+    "category": "SENSOR FAUCETS",
+    "price": 3850.00,
+    "originalPrice": 4500.00,
+    "rating": 0,
+    "reviewsCount": 0,
+    "isNew": false,
+    "isSale": false,
+    "isFeatured": false,
+    "badge": null,
+    "stockCount": 0,
+    "sku": "CAM-SF-SF-007",
+    "colors": [
+      {
+        "name": "Chrome",
+        "hex": "#E5E7EB"
+      }
+    ],
+    "images": [],
+    "description": "A wall-mounted touchless sensor spout featuring an extended curved projection spout and circular wall flange.",
+    "story": "Keep counter space completely clear with the Wall Mounted Sensor Spout, delivering touchless automatic water flow from an in-wall installation.",
+    "details": [
+      "Wall-mounted in-wall installation",
+      "Integrated automatic sensor eye",
+      "Curved spout projection",
+      "High shine chrome finish"
+    ],
+    "specs": {
+      "productType": "Wall Mounted Sensor Spout",
+      "finish": "Not specified",
+      "color": "Not specified",
+      "mountingType": "Wall Mounted",
+      "controlType": "Automatic Infrared Sensor",
+      "material": "Not specified",
+      "dimensions": "Not specified",
+      "waterFlowRate": "Not specified",
+      "warranty": "Not specified"
+    },
+    "reviews": []
+  }
+]

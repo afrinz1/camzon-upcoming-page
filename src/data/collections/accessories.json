@@ -1,0 +1,2731 @@
+
+[
+  {
+    "id": "camzon-product-001",
+    "slug": "camzon-accessories-elegant-telephone-shower",
+    "title": "ELEGANT",
+    "subtitle": "TELEPHONE SHOWER",
+    "category": "accessories",
+    "price": 1250.00,
+    "originalPrice": 1500.00,
+    "rating": 0,
+    "reviewsCount": 0,
+    "isNew": false,
+    "isSale": false,
+    "isFeatured": false,
+    "badge": null,
+    "stockCount": 0,
+    "sku": "CAM-AC-AC-001",
+    "colors": [
+      {
+        "name": "Chrome",
+        "hex": "#E5E7EB"
+      }
+    ],
+    "images": [],
+    "description": "An oval-head hand-held telephone shower head with wall bracket rest and flexible hose connection.",
+    "story": "The Elegant Hand Shower delivers ergonomic handheld rinsing comfort with a wide rain nozzle layout and polished chrome finish.",
+    "details": [
+      "Broad oval spray head face plate",
+      "Includes wall mounting bracket and flexible hose fitting",
+      "Anti-scale rubber spray nozzles",
+      "Bright chrome plated surface"
+    ],
+    "specs": {
+      "productType": "Hand Shower / Telephone Shower",
+      "finish": "Not specified",
+      "color": "Not specified",
+      "mountingType": "Wall Bracket Mounted",
+      "controlType": "Handheld",
+      "material": "Not specified",
+      "dimensions": "Not specified",
+      "waterFlowRate": "Not specified",
+      "warranty": "Not specified"
+    },
+    "reviews": []
+  },
+  {
+    "id": "camzon-product-002",
+    "slug": "camzon-accessories-artize-telephone-shower",
+    "title": "ARTIZE",
+    "subtitle": "TELEPHONE SHOWER",
+    "category": "accessories",
+    "price": 1350.00,
+    "originalPrice": 1600.00,
+    "rating": 0,
+    "reviewsCount": 0,
+    "isNew": false,
+    "isSale": false,
+    "isFeatured": false,
+    "badge": null,
+    "stockCount": 0,
+    "sku": "CAM-AC-AC-002",
+    "colors": [
+      {
+        "name": "Chrome",
+        "hex": "#E5E7EB"
+      }
+    ],
+    "images": [],
+    "description": "A rectangular contemporary stick-style handheld shower head with a dense micro-nozzle faceplate.",
+    "story": "Featuring a sleek geometric stick profile, the Artize Telephone Shower adds modern architectural flair to luxury shower cubicles.",
+    "details": [
+      "Slender rectangular stick design",
+      "Includes matching wall hook holder",
+      "Rub-clean silicone nozzle array",
+      "High shine chrome surface coating"
+    ],
+    "specs": {
+      "productType": "Hand Shower / Telephone Shower",
+      "finish": "Not specified",
+      "color": "Not specified",
+      "mountingType": "Wall Bracket Mounted",
+      "controlType": "Handheld",
+      "material": "Not specified",
+      "dimensions": "Not specified",
+      "waterFlowRate": "Not specified",
+      "warranty": "Not specified"
+    },
+    "reviews": []
+  },
+  {
+    "id": "camzon-product-003",
+    "slug": "camzon-accessories-splash-telephone-shower",
+    "title": "SPLASH",
+    "subtitle": "TELEPHONE SHOWER",
+    "category": "accessories",
+    "price": 1150.00,
+    "originalPrice": 1350.00,
+    "rating": 0,
+    "reviewsCount": 0,
+    "isNew": false,
+    "isSale": false,
+    "isFeatured": false,
+    "badge": null,
+    "stockCount": 0,
+    "sku": "CAM-AC-AC-003",
+    "colors": [
+      {
+        "name": "Chrome",
+        "hex": "#E5E7EB"
+      }
+    ],
+    "images": [],
+    "description": "A slender curved hand shower wand with a narrow multi-hole spray head for targeted shower spray.",
+    "story": "The Splash Telephone Shower wand provides lightweight handling and directed water streams for versatile bathing and shower rinsing.",
+    "details": [
+      "Ergonomic slim wand handle",
+      "Wall bracket holder included",
+      "Targeted multi-jet spray face",
+      "Mirror chrome plating"
+    ],
+    "specs": {
+      "productType": "Hand Shower / Telephone Shower",
+      "finish": "Not specified",
+      "color": "Not specified",
+      "mountingType": "Wall Bracket Mounted",
+      "controlType": "Handheld",
+      "material": "Not specified",
+      "dimensions": "Not specified",
+      "waterFlowRate": "Not specified",
+      "warranty": "Not specified"
+    },
+    "reviews": []
+  },
+  {
+    "id": "camzon-product-004",
+    "slug": "camzon-accessories-opal-telephone-shower",
+    "title": "OPAL",
+    "subtitle": "TELEPHONE SHOWER",
+    "category": "accessories",
+    "price": 1450.00,
+    "originalPrice": 1700.00,
+    "rating": 0,
+    "reviewsCount": 0,
+    "isNew": false,
+    "isSale": false,
+    "isFeatured": false,
+    "badge": null,
+    "stockCount": 0,
+    "sku": "CAM-AC-AC-004",
+    "colors": [
+      {
+        "name": "Chrome",
+        "hex": "#E5E7EB"
+      }
+    ],
+    "images": [],
+    "description": "A large round-face hand shower head with an ergonomic tapered handle for full-body rainfall spray.",
+    "story": "Experience luxurious rainfall coverage in a handheld format with the Opal round Telephone Shower head.",
+    "details": [
+      "Large circular spray faceplate",
+      "Tapered easy-grip handle stem",
+      "Self-cleaning anti-limescale nozzles",
+      "Polished chrome finish"
+    ],
+    "specs": {
+      "productType": "Hand Shower / Telephone Shower",
+      "finish": "Not specified",
+      "color": "Not specified",
+      "mountingType": "Wall Bracket Mounted",
+      "controlType": "Handheld",
+      "material": "Not specified",
+      "dimensions": "Not specified",
+      "waterFlowRate": "Not specified",
+      "warranty": "Not specified"
+    },
+    "reviews": []
+  },
+  {
+    "id": "camzon-product-005",
+    "slug": "camzon-accessories-eco-health-faucet",
+    "title": "ECO",
+    "subtitle": "HEALTH FAUCET",
+    "category": "accessories",
+    "price": 750.00,
+    "originalPrice": 900.00,
+    "rating": 0,
+    "reviewsCount": 0,
+    "isNew": false,
+    "isSale": false,
+    "isFeatured": false,
+    "badge": null,
+    "stockCount": 0,
+    "sku": "CAM-AC-AC-005",
+    "colors": [
+      {
+        "name": "Chrome",
+        "hex": "#E5E7EB"
+      }
+    ],
+    "images": [],
+    "description": "A high-pressure chrome health faucet bidet spray set complete with trigger lever, wall hook, and flexible hose connection.",
+    "story": "The Eco Health Faucet delivers responsive water pressure control and durable leak-proof performance for personal hygiene care.",
+    "details": [
+      "Responsive thumb trigger lever",
+      "Includes wall mount bracket rest",
+      "Targeted water jet spray nozzle",
+      "High-lustre chrome plated finish"
+    ],
+    "specs": {
+      "productType": "Health Faucet / Bidet Spray",
+      "finish": "Not specified",
+      "color": "Not specified",
+      "mountingType": "Wall Bracket Mounted",
+      "controlType": "Trigger Lever",
+      "material": "Not specified",
+      "dimensions": "Not specified",
+      "waterFlowRate": "Not specified",
+      "warranty": "Not specified"
+    },
+    "reviews": []
+  },
+  {
+    "id": "camzon-product-006",
+    "slug": "camzon-accessories-cubo-health-faucet",
+    "title": "CUBO",
+    "subtitle": "HEALTH FAUCET",
+    "category": "accessories",
+    "price": 850.00,
+    "originalPrice": 1050.00,
+    "rating": 0,
+    "reviewsCount": 0,
+    "isNew": false,
+    "isSale": false,
+    "isFeatured": false,
+    "badge": null,
+    "stockCount": 0,
+    "sku": "CAM-AC-AC-006",
+    "colors": [
+      {
+        "name": "Chrome",
+        "hex": "#E5E7EB"
+      }
+    ],
+    "images": [],
+    "description": "A contemporary square-profile chrome health faucet bidet spray with an easy-press rear trigger lever.",
+    "story": "The Cubo Health Faucet introduces modern cubical aesthetics to bidet hygiene, featuring precision valve actuation.",
+    "details": [
+      "Modern square geometric body & spray tip",
+      "Ergonomic rear trigger actuation",
+      "Matching wall hook holder included",
+      "Polished chrome plating"
+    ],
+    "specs": {
+      "productType": "Health Faucet / Bidet Spray",
+      "finish": "Not specified",
+      "color": "Not specified",
+      "mountingType": "Wall Bracket Mounted",
+      "controlType": "Trigger Lever",
+      "material": "Not specified",
+      "dimensions": "Not specified",
+      "waterFlowRate": "Not specified",
+      "warranty": "Not specified"
+    },
+    "reviews": []
+  },
+  {
+    "id": "camzon-product-007",
+    "slug": "camzon-accessories-roza-health-faucet",
+    "title": "ROZA",
+    "subtitle": "HEALTH FAUCET",
+    "category": "accessories",
+    "price": 950.00,
+    "originalPrice": 1150.00,
+    "rating": 0,
+    "reviewsCount": 0,
+    "isNew": false,
+    "isSale": false,
+    "isFeatured": false,
+    "badge": null,
+    "stockCount": 0,
+    "sku": "CAM-AC-AC-007",
+    "colors": [
+      {
+        "name": "Matte Black",
+        "hex": "#1F2937"
+      }
+    ],
+    "images": [],
+    "description": "A luxury matte black health faucet bidet spray kit with matching black wall holder and flexible hose.",
+    "story": "Add striking dark accenting to modern bathrooms with the Roza Health Faucet in durable Matte Black.",
+    "details": [
+      "Premium Matte Black finish",
+      "Smooth trigger operating lever",
+      "Includes matte black wall mount bracket",
+      "Corrosion-resistant surface coating"
+    ],
+    "specs": {
+      "productType": "Health Faucet / Bidet Spray",
+      "finish": "Matte Black",
+      "color": "Black",
+      "mountingType": "Wall Bracket Mounted",
+      "controlType": "Trigger Lever",
+      "material": "Not specified",
+      "dimensions": "Not specified",
+      "waterFlowRate": "Not specified",
+      "warranty": "Not specified"
+    },
+    "reviews": []
+  },
+  {
+    "id": "camzon-product-008",
+    "slug": "camzon-accessories-crysta-health-faucet",
+    "title": "CRYSTA",
+    "subtitle": "HEALTH FAUCET",
+    "category": "accessories",
+    "price": 850.00,
+    "originalPrice": 1050.00,
+    "rating": 0,
+    "reviewsCount": 0,
+    "isNew": false,
+    "isSale": false,
+    "isFeatured": false,
+    "badge": null,
+    "stockCount": 0,
+    "sku": "CAM-AC-AC-008",
+    "colors": [
+      {
+        "name": "Chrome",
+        "hex": "#E5E7EB"
+      }
+    ],
+    "images": [],
+    "description": "A refined chrome health faucet featuring a crystal-cut body pattern and soft-press trigger lever.",
+    "story": "The Crysta Health Faucet combines faceted decorative body accents with smooth water spray control for stylish toilet hygiene.",
+    "details": [
+      "Faceted decorative body styling",
+      "Soft-press trigger handle",
+      "Wall bracket and hose included",
+      "High shine chrome finish"
+    ],
+    "specs": {
+      "productType": "Health Faucet / Bidet Spray",
+      "finish": "Not specified",
+      "color": "Not specified",
+      "mountingType": "Wall Bracket Mounted",
+      "controlType": "Trigger Lever",
+      "material": "Not specified",
+      "dimensions": "Not specified",
+      "waterFlowRate": "Not specified",
+      "warranty": "Not specified"
+    },
+    "reviews": []
+  },
+  {
+    "id": "camzon-product-009",
+    "slug": "camzon-accessories-prince-bend-shower",
+    "title": "PRINCE",
+    "subtitle": "BEND SHOWER",
+    "category": "accessories",
+    "price": 1650.00,
+    "originalPrice": 1950.00,
+    "rating": 0,
+    "reviewsCount": 0,
+    "isNew": false,
+    "isSale": false,
+    "isFeatured": false,
+    "badge": null,
+    "stockCount": 0,
+    "sku": "CAM-AC-AC-009",
+    "colors": [
+      {
+        "name": "Chrome",
+        "hex": "#E5E7EB"
+      }
+    ],
+    "images": [],
+    "description": "A compact square overhead shower head mounted on a curved tubular shower arm pipe with wall flange.",
+    "story": "The Prince Bend Shower set delivers focused rainfall spray through a curved overhead arm pipe, providing compact bathroom elegance.",
+    "details": [
+      "Compact square rain shower faceplate",
+      "Includes curved tubular shower arm & wall flange",
+      "Easy-clean rubber nozzles",
+      "Polished chrome finish"
+    ],
+    "specs": {
+      "productType": "Overhead Rain Shower with Arm",
+      "finish": "Not specified",
+      "color": "Not specified",
+      "mountingType": "Wall Arm Mounted",
+      "controlType": "None (Shower Head)",
+      "material": "Not specified",
+      "dimensions": "Not specified",
+      "waterFlowRate": "Not specified",
+      "warranty": "Not specified"
+    },
+    "reviews": []
+  },
+  {
+    "id": "camzon-product-001",
+    "slug": "camzon-accessories-prime-bend-shower",
+    "title": "PRIME",
+    "subtitle": "BEND SHOWER",
+    "category": "accessories",
+    "price": 1650.00,
+    "originalPrice": 1950.00,
+    "rating": 0,
+    "reviewsCount": 0,
+    "isNew": false,
+    "isSale": false,
+    "isFeatured": false,
+    "badge": null,
+    "stockCount": 0,
+    "sku": "CAM-AC-AC-010",
+    "colors": [
+      {
+        "name": "Chrome",
+        "hex": "#E5E7EB"
+      }
+    ],
+    "images": [],
+    "description": "A square overhead shower head mounted on a curved round tubular shower arm with wall flange for direct wall installation.",
+    "story": "The Prime Bend Shower pairs a crisp square rain shower face with a gracefully curved arm, delivering a refreshing overhead spray in compact bathrooms.",
+    "details": [
+      "Square rain shower faceplate",
+      "Curved tubular shower arm with wall flange",
+      "Easy-clean rubber spray nozzles",
+      "Polished chrome finish"
+    ],
+    "specs": {
+      "productType": "Overhead Rain Shower with Arm",
+      "finish": "Not specified",
+      "color": "Not specified",
+      "mountingType": "Wall Arm Mounted",
+      "controlType": "None (Shower Head)",
+      "material": "Not specified",
+      "dimensions": "Not specified",
+      "waterFlowRate": "Not specified",
+      "warranty": "Not specified"
+    },
+    "reviews": []
+  },
+  {
+    "id": "camzon-product-002",
+    "slug": "camzon-accessories-galaxy-bend-shower",
+    "title": "GALAXY",
+    "subtitle": "BEND SHOWER",
+    "category": "accessories",
+    "price": 1850.00,
+    "originalPrice": 2150.00,
+    "rating": 0,
+    "reviewsCount": 0,
+    "isNew": false,
+    "isSale": false,
+    "isFeatured": false,
+    "badge": null,
+    "stockCount": 0,
+    "sku": "CAM-AC-AC-011",
+    "colors": [
+      {
+        "name": "Chrome",
+        "hex": "#E5E7EB"
+      }
+    ],
+    "images": [],
+    "description": "A square overhead shower head fitted to a flat square-profile shower arm with a round wall flange for a modern geometric look.",
+    "story": "The Galaxy Bend Shower combines a slim square arm with a square rain head, bringing contemporary architectural lines to the shower enclosure.",
+    "details": [
+      "Square rain shower head",
+      "Flat square-profile shower arm",
+      "Round wall mounting flange",
+      "High shine chrome plating"
+    ],
+    "specs": {
+      "productType": "Overhead Rain Shower with Arm",
+      "finish": "Not specified",
+      "color": "Not specified",
+      "mountingType": "Wall Arm Mounted",
+      "controlType": "None (Shower Head)",
+      "material": "Not specified",
+      "dimensions": "Not specified",
+      "waterFlowRate": "Not specified",
+      "warranty": "Not specified"
+    },
+    "reviews": []
+  },
+  {
+    "id": "camzon-product-003",
+    "slug": "camzon-accessories-black-shower-arm",
+    "title": "BLACK",
+    "subtitle": "SHOWER ARM",
+    "category": "accessories",
+    "price": 950.00,
+    "originalPrice": 1150.00,
+    "rating": 0,
+    "reviewsCount": 0,
+    "isNew": false,
+    "isSale": false,
+    "isFeatured": false,
+    "badge": null,
+    "stockCount": 0,
+    "sku": "CAM-AC-AC-012",
+    "colors": [
+      {
+        "name": "Matte Black",
+        "hex": "#1F2937"
+      }
+    ],
+    "images": [],
+    "description": "A straight square-profile wall shower arm in a matte black finish with square wall flange, designed to carry overhead rain shower heads.",
+    "story": "The Black Shower Arm adds bold dark accenting to modern showers, providing a sturdy horizontal mount for square rain shower heads.",
+    "details": [
+      "Straight square-profile arm",
+      "Matte Black surface finish",
+      "Square wall flange included",
+      "Standard threaded shower head connection"
+    ],
+    "specs": {
+      "productType": "Shower Arm",
+      "finish": "Matte Black",
+      "color": "Black",
+      "mountingType": "Wall Mounted",
+      "controlType": "None (Shower Arm)",
+      "material": "Not specified",
+      "dimensions": "Not specified",
+      "waterFlowRate": "Not specified",
+      "warranty": "Not specified"
+    },
+    "reviews": []
+  },
+  {
+    "id": "camzon-product-004",
+    "slug": "camzon-accessories-rose-gold-shower-arm",
+    "title": "ROSE GOLD",
+    "subtitle": "SHOWER ARM",
+    "category": "accessories",
+    "price": 1150.00,
+    "originalPrice": 1350.00,
+    "rating": 0,
+    "reviewsCount": 0,
+    "isNew": false,
+    "isSale": false,
+    "isFeatured": false,
+    "badge": null,
+    "stockCount": 0,
+    "sku": "CAM-AC-AC-013",
+    "colors": [
+      {
+        "name": "Rose Gold",
+        "hex": "#B76E79"
+      }
+    ],
+    "images": [],
+    "description": "A straight flat-profile wall shower arm in a lustrous rose gold finish with matching round wall flange.",
+    "story": "The Rose Gold Shower Arm lends warm metallic luxury to premium shower spaces, coordinating with rose gold overhead showers and accessories.",
+    "details": [
+      "Straight flat-profile arm design",
+      "Rose Gold metallic finish",
+      "Matching round wall flange",
+      "Threaded overhead shower connection"
+    ],
+    "specs": {
+      "productType": "Shower Arm",
+      "finish": "Rose Gold",
+      "color": "Rose Gold",
+      "mountingType": "Wall Mounted",
+      "controlType": "None (Shower Arm)",
+      "material": "Not specified",
+      "dimensions": "Not specified",
+      "waterFlowRate": "Not specified",
+      "warranty": "Not specified"
+    },
+    "reviews": []
+  },
+  {
+    "id": "camzon-product-005",
+    "slug": "camzon-accessories-slim-shower-arm",
+    "title": "SLIM",
+    "subtitle": "SHOWER ARM",
+    "category": "accessories",
+    "price": 850.00,
+    "originalPrice": 1050.00,
+    "rating": 0,
+    "reviewsCount": 0,
+    "isNew": false,
+    "isSale": false,
+    "isFeatured": false,
+    "badge": null,
+    "stockCount": 0,
+    "sku": "CAM-AC-AC-014",
+    "colors": [
+      {
+        "name": "Chrome",
+        "hex": "#E5E7EB"
+      }
+    ],
+    "images": [],
+    "description": "A slim straight square-profile chrome shower arm with a round wall flange for overhead shower installation.",
+    "story": "The Slim Shower Arm offers a minimalist horizontal mount that keeps the focus on the rain shower head while maintaining sturdy support.",
+    "details": [
+      "Slim square-profile straight arm",
+      "Round chrome wall flange",
+      "Standard shower head thread connection",
+      "Polished chrome finish"
+    ],
+    "specs": {
+      "productType": "Shower Arm",
+      "finish": "Not specified",
+      "color": "Not specified",
+      "mountingType": "Wall Mounted",
+      "controlType": "None (Shower Arm)",
+      "material": "Not specified",
+      "dimensions": "Not specified",
+      "waterFlowRate": "Not specified",
+      "warranty": "Not specified"
+    },
+    "reviews": []
+  },
+  {
+    "id": "camzon-product-006",
+    "slug": "camzon-accessories-round-shower-arm",
+    "title": "ROUND",
+    "subtitle": "SHOWER ARM",
+    "category": "accessories",
+    "price": 750.00,
+    "originalPrice": 900.00,
+    "rating": 0,
+    "reviewsCount": 0,
+    "isNew": false,
+    "isSale": false,
+    "isFeatured": false,
+    "badge": null,
+    "stockCount": 0,
+    "sku": "CAM-AC-AC-015",
+    "colors": [
+      {
+        "name": "Chrome",
+        "hex": "#E5E7EB"
+      }
+    ],
+    "images": [],
+    "description": "A classic round tubular chrome shower arm with a gentle downward bend at the outlet and round wall flange.",
+    "story": "The Round Shower Arm is a timeless tubular design that angles the overhead shower head for comfortable spray positioning.",
+    "details": [
+      "Round tubular arm with angled outlet",
+      "Round wall flange included",
+      "Threaded shower head connection",
+      "Mirror chrome plating"
+    ],
+    "specs": {
+      "productType": "Shower Arm",
+      "finish": "Not specified",
+      "color": "Not specified",
+      "mountingType": "Wall Mounted",
+      "controlType": "None (Shower Arm)",
+      "material": "Not specified",
+      "dimensions": "Not specified",
+      "waterFlowRate": "Not specified",
+      "warranty": "Not specified"
+    },
+    "reviews": []
+  },
+  {
+    "id": "camzon-product-007",
+    "slug": "camzon-accessories-tumbler-rose-gold",
+    "title": "TUMBLER",
+    "subtitle": "ROSE GOLD",
+    "category": "accessories",
+    "price": 1050.00,
+    "originalPrice": 1250.00,
+    "rating": 0,
+    "reviewsCount": 0,
+    "isNew": false,
+    "isSale": false,
+    "isFeatured": false,
+    "badge": null,
+    "stockCount": 0,
+    "sku": "CAM-AC-AC-016",
+    "colors": [
+      {
+        "name": "Rose Gold",
+        "hex": "#B76E79"
+      }
+    ],
+    "images": [],
+    "description": "A wall-mounted tumbler holder in rose gold finish with a frosted glass tumbler for toothbrushes and bathroom essentials.",
+    "story": "The Rose Gold Tumbler Holder brings a warm luxurious accent to vanity walls while keeping daily grooming essentials neatly organised.",
+    "details": [
+      "Rose Gold finish wall bracket",
+      "Frosted glass tumbler included",
+      "Round wall mounting flange",
+      "Concealed fixing installation"
+    ],
+    "specs": {
+      "productType": "Tumbler Holder",
+      "finish": "Rose Gold",
+      "color": "Rose Gold",
+      "mountingType": "Wall Mounted",
+      "controlType": "Not applicable",
+      "material": "Not specified",
+      "dimensions": "Not specified",
+      "waterFlowRate": "Not specified",
+      "warranty": "Not specified"
+    },
+    "reviews": []
+  },
+  {
+    "id": "camzon-product-008",
+    "slug": "camzon-accessories-soap-dispenser-rose-gold",
+    "title": "SOAP DISPENSER",
+    "subtitle": "ROSE GOLD",
+    "category": "accessories",
+    "price": 1450.00,
+    "originalPrice": 1700.00,
+    "rating": 0,
+    "reviewsCount": 0,
+    "isNew": false,
+    "isSale": false,
+    "isFeatured": false,
+    "badge": null,
+    "stockCount": 0,
+    "sku": "CAM-AC-AC-017",
+    "colors": [
+      {
+        "name": "Rose Gold",
+        "hex": "#B76E79"
+      }
+    ],
+    "images": [],
+    "description": "A wall-mounted liquid soap dispenser with frosted glass bottle and rose gold pump head and bracket.",
+    "story": "The Rose Gold Soap Dispenser combines elegant frosted glass with a warm metallic pump, offering convenient hands-ready liquid soap at the basin.",
+    "details": [
+      "Rose Gold finish pump head and holder",
+      "Frosted glass refillable bottle",
+      "Wall mounted round flange bracket",
+      "Smooth press pump dispensing"
+    ],
+    "specs": {
+      "productType": "Liquid Soap Dispenser",
+      "finish": "Rose Gold",
+      "color": "Rose Gold",
+      "mountingType": "Wall Mounted",
+      "controlType": "Press Pump",
+      "material": "Not specified",
+      "dimensions": "Not specified",
+      "waterFlowRate": "Not specified",
+      "warranty": "Not specified"
+    },
+    "reviews": []
+  },
+  {
+    "id": "camzon-product-009",
+    "slug": "camzon-accessories-rob-hook-rose-gold",
+    "title": "ROB HOOK",
+    "subtitle": "ROSE GOLD",
+    "category": "accessories",
+    "price": 650.00,
+    "originalPrice": 800.00,
+    "rating": 0,
+    "reviewsCount": 0,
+    "isNew": false,
+    "isSale": false,
+    "isFeatured": false,
+    "badge": null,
+    "stockCount": 0,
+    "sku": "CAM-AC-AC-018",
+    "colors": [
+      {
+        "name": "Rose Gold",
+        "hex": "#B76E79"
+      }
+    ],
+    "images": [],
+    "description": "A wall-mounted double robe hook in rose gold finish with a round flange base for hanging towels and garments.",
+    "story": "The Rose Gold Robe Hook offers dual hanging points in a warm metallic finish, completing the coordinated rose gold bathroom accessory set.",
+    "details": [
+      "Double prong robe hook design",
+      "Rose Gold surface finish",
+      "Round wall mounting flange",
+      "Concealed screw fixing"
+    ],
+    "specs": {
+      "productType": "Robe Hook",
+      "finish": "Rose Gold",
+      "color": "Rose Gold",
+      "mountingType": "Wall Mounted",
+      "controlType": "Not applicable",
+      "material": "Not specified",
+      "dimensions": "Not specified",
+      "waterFlowRate": "Not specified",
+      "warranty": "Not specified"
+    },
+    "reviews": []
+  },
+  {
+    "id": "camzon-product-001",
+    "slug": "towel-rod-rose-gold-cam-ac-ac-019",
+    "title": "Towel Rod Rose Gold",
+    "subtitle": "ROSE GOLD",
+    "category": "accessories",
+    "price": 42.00,
+    "originalPrice": 52.00,
+    "rating": 0,
+    "reviewsCount": 0,
+    "isNew": false,
+    "isSale": false,
+    "isFeatured": false,
+    "badge": null,
+    "stockCount": 0,
+    "sku": "CAM-AC-AC-019",
+    "colors": [
+      {
+        "name": "Rose Gold",
+        "hex": "#B76E79"
+      }
+    ],
+    "images": [],
+    "description": "Premium rose gold towel rod featuring modern circular mounting brackets and a polished metallic accent finish.",
+    "story": "Designed to bring warm luxury and refined color accents into modern luxury bathrooms.",
+    "details": [
+      "Sturdy wall-mounted construction",
+      "Elegant Rose Gold metallic finish",
+      "Smooth rounded bar for easy towel hanging"
+    ],
+    "specs": {
+      "productType": "Towel Rod",
+      "finish": "Rose Gold",
+      "color": "Rose Gold",
+      "mountingType": "Wall Mounted",
+      "controlType": "Not specified",
+      "material": "Not specified",
+      "dimensions": "Not specified",
+      "waterFlowRate": "Not specified",
+      "warranty": "Not specified"
+    },
+    "reviews": []
+  },
+  {
+    "id": "camzon-product-002",
+    "slug": "towel-rod-black-cam-ac-ac-020",
+    "title": "Towel Rod Black",
+    "subtitle": "BLACK",
+    "category": "accessories",
+    "price": 38.00,
+    "originalPrice": 48.00,
+    "rating": 0,
+    "reviewsCount": 0,
+    "isNew": false,
+    "isSale": false,
+    "isFeatured": false,
+    "badge": null,
+    "stockCount": 0,
+    "sku": "CAM-AC-AC-020",
+    "colors": [
+      {
+        "name": "Black",
+        "hex": "#000000"
+      }
+    ],
+    "images": [],
+    "description": "Sleek matte black towel rod designed with geometric square wall mounts for modern industrial spaces.",
+    "story": "Engineered for minimalist aesthetics, bringing bold contrast and reliable utility to contemporary washrooms.",
+    "details": [
+      "Square modern wall mounts",
+      "Durable matte black finish",
+      "Corrosion-resistant metal body"
+    ],
+    "specs": {
+      "productType": "Towel Rod",
+      "finish": "Black",
+      "color": "Black",
+      "mountingType": "Wall Mounted",
+      "controlType": "Not specified",
+      "material": "Not specified",
+      "dimensions": "Not specified",
+      "waterFlowRate": "Not specified",
+      "warranty": "Not specified"
+    },
+    "reviews": []
+  },
+  {
+    "id": "camzon-product-003",
+    "slug": "napkin-ring-black-cam-ac-ac-021",
+    "title": "Napkin Ring Black",
+    "subtitle": "BLACK",
+    "category": "accessories",
+    "price": 24.00,
+    "originalPrice": 30.00,
+    "rating": 0,
+    "reviewsCount": 0,
+    "isNew": false,
+    "isSale": false,
+    "isFeatured": false,
+    "badge": null,
+    "stockCount": 0,
+    "sku": "CAM-AC-AC-021",
+    "colors": [
+      {
+        "name": "Black",
+        "hex": "#000000"
+      }
+    ],
+    "images": [],
+    "description": "Wall-mounted matte black napkin ring featuring a clean rectangular frame for modern hand towels.",
+    "story": "Combines minimalist square geometry with functional design for compact vanity areas.",
+    "details": [
+      "Square wall base mount",
+      "Open rectangular towel holder design",
+      "Resistant to moisture and daily wear"
+    ],
+    "specs": {
+      "productType": "Napkin Ring",
+      "finish": "Black",
+      "color": "Black",
+      "mountingType": "Wall Mounted",
+      "controlType": "Not specified",
+      "material": "Not specified",
+      "dimensions": "Not specified",
+      "waterFlowRate": "Not specified",
+      "warranty": "Not specified"
+    },
+    "reviews": []
+  },
+  {
+    "id": "camzon-product-004",
+    "slug": "napkin-ring-black-cam-ac-ac-022",
+    "title": "Napkin Ring Black",
+    "subtitle": "BLACK",
+    "category": "accessories",
+    "price": 24.00,
+    "originalPrice": 30.00,
+    "rating": 0,
+    "reviewsCount": 0,
+    "isNew": false,
+    "isSale": false,
+    "isFeatured": false,
+    "badge": null,
+    "stockCount": 0,
+    "sku": "CAM-AC-AC-022",
+    "colors": [
+      {
+        "name": "Black",
+        "hex": "#000000"
+      }
+    ],
+    "images": [],
+    "description": "Ergonomic matte black open napkin ring designed for quick access and modern hand towel placement.",
+    "story": "A practical accessory engineered to deliver smooth convenience and contemporary elegance.",
+    "details": [
+      "Open side ring format for easy slide-in towel access",
+      "Robust block mounting base",
+      "Premium dark black coated surface"
+    ],
+    "specs": {
+      "productType": "Napkin Ring",
+      "finish": "Black",
+      "color": "Black",
+      "mountingType": "Wall Mounted",
+      "controlType": "Not specified",
+      "material": "Not specified",
+      "dimensions": "Not specified",
+      "waterFlowRate": "Not specified",
+      "warranty": "Not specified"
+    },
+    "reviews": []
+  },
+  {
+    "id": "camzon-product-005",
+    "slug": "double-soap-dish-black-cam-ac-ac-023",
+    "title": "Double Soap Dish Black",
+    "subtitle": "BLACK",
+    "category": "accessories",
+    "price": 34.00,
+    "originalPrice": 42.00,
+    "rating": 0,
+    "reviewsCount": 0,
+    "isNew": false,
+    "isSale": false,
+    "isFeatured": false,
+    "badge": null,
+    "stockCount": 0,
+    "sku": "CAM-AC-AC-023",
+    "colors": [
+      {
+        "name": "Black",
+        "hex": "#000000"
+      }
+    ],
+    "images": [],
+    "description": "Dual-tray matte black soap dish with slotted drainage patterns and robust central wall mount.",
+    "story": "Designed for shared bathrooms and shower spaces needing organized dual soap storage.",
+    "details": [
+      "Twin soap holder trays",
+      "Integrated drainage slots to prevent soap softening",
+      "Central square wall mounting base"
+    ],
+    "specs": {
+      "productType": "Double Soap Dish",
+      "finish": "Black",
+      "color": "Black",
+      "mountingType": "Wall Mounted",
+      "controlType": "Not specified",
+      "material": "Not specified",
+      "dimensions": "Not specified",
+      "waterFlowRate": "Not specified",
+      "warranty": "Not specified"
+    },
+    "reviews": []
+  },
+  {
+    "id": "camzon-product-006",
+    "slug": "soap-dish-w-tumbler-cam-ac-ac-024",
+    "title": "Soap Dish W Tumbler",
+    "subtitle": "W TUMBLER",
+    "category": "accessories",
+    "price": 36.00,
+    "originalPrice": 45.00,
+    "rating": 0,
+    "reviewsCount": 0,
+    "isNew": false,
+    "isSale": false,
+    "isFeatured": false,
+    "badge": null,
+    "stockCount": 0,
+    "sku": "CAM-AC-AC-024",
+    "colors": [
+      {
+        "name": "Black",
+        "hex": "#000000"
+      }
+    ],
+    "images": [],
+    "description": "Combination black soap dish and matching tumbler holder unit mounted on a unified wall bracket.",
+    "story": "Saves counter space by integrating soap storage and toothbrush/tumbler hold into one fixture.",
+    "details": [
+      "Integrated soap tray and tumbler holder",
+      "Durable matte black finish",
+      "Solid wall-mounted bracket system"
+    ],
+    "specs": {
+      "productType": "Soap Dish with Tumbler",
+      "finish": "Black",
+      "color": "Black",
+      "mountingType": "Wall Mounted",
+      "controlType": "Not specified",
+      "material": "Not specified",
+      "dimensions": "Not specified",
+      "waterFlowRate": "Not specified",
+      "warranty": "Not specified"
+    },
+    "reviews": []
+  },
+  {
+    "id": "camzon-product-007",
+    "slug": "bathroom-shelf-w-towel-rail-tumbler-cam-ac-ac-025",
+    "title": "Bathroom Shelf W Towel Rail & Tumbler",
+    "subtitle": "W TOWEL RAIL & TUMBLER",
+    "category": "accessories",
+    "price": 55.00,
+    "originalPrice": 68.00,
+    "rating": 0,
+    "reviewsCount": 0,
+    "isNew": false,
+    "isSale": false,
+    "isFeatured": false,
+    "badge": null,
+    "stockCount": 0,
+    "sku": "CAM-AC-AC-025",
+    "colors": [
+      {
+        "name": "Black",
+        "hex": "#000000"
+      }
+    ],
+    "images": [],
+    "description": "All-in-one black utility shelf incorporating a top storage tray, lower towel rail bar, and tumbler holder.",
+    "story": "Maximizes space utilization in modern washrooms with an all-inclusive organizer system.",
+    "details": [
+      "Upper shelf for toiletries",
+      "Lower towel bar attachment",
+      "Integrated side tumbler holder"
+    ],
+    "specs": {
+      "productType": "Multi-Function Bathroom Shelf",
+      "finish": "Black",
+      "color": "Black",
+      "mountingType": "Wall Mounted",
+      "controlType": "Not specified",
+      "material": "Not specified",
+      "dimensions": "Not specified",
+      "waterFlowRate": "Not specified",
+      "warranty": "Not specified"
+    },
+    "reviews": []
+  },
+  {
+    "id": "camzon-product-008",
+    "slug": "bathroom-shelf-w-tumbler-cam-ac-ac-026",
+    "title": "Bathroom Shelf W Tumbler",
+    "subtitle": "W TUMBLER",
+    "category": "accessories",
+    "price": 48.00,
+    "originalPrice": 60.00,
+    "rating": 0,
+    "reviewsCount": 0,
+    "isNew": false,
+    "isSale": false,
+    "isFeatured": false,
+    "badge": null,
+    "stockCount": 0,
+    "sku": "CAM-AC-AC-026",
+    "colors": [
+      {
+        "name": "Black",
+        "hex": "#000000"
+      }
+    ],
+    "images": [],
+    "description": "Black linear bathroom shelf featuring organized slots for bottles, toothbrushes, and a built-in tumbler holder.",
+    "story": "Designed for vanity areas to keep daily personal care items neat and easily accessible.",
+    "details": [
+      "Spacious tray surface for toiletries",
+      "Integrated toothbrush slot organizer",
+      "Matte black protective finish"
+    ],
+    "specs": {
+      "productType": "Bathroom Shelf",
+      "finish": "Black",
+      "color": "Black",
+      "mountingType": "Wall Mounted",
+      "controlType": "Not specified",
+      "material": "Not specified",
+      "dimensions": "Not specified",
+      "waterFlowRate": "Not specified",
+      "warranty": "Not specified"
+    },
+    "reviews": []
+  },
+  {
+    "id": "camzon-product-009",
+    "slug": "corner-shelf-black-cam-ac-ac-027",
+    "title": "Corner Shelf Black",
+    "subtitle": "BLACK",
+    "category": "accessories",
+    "price": 32.00,
+    "originalPrice": 40.00,
+    "rating": 0,
+    "reviewsCount": 0,
+    "isNew": false,
+    "isSale": false,
+    "isFeatured": false,
+    "badge": null,
+    "stockCount": 0,
+    "sku": "CAM-AC-AC-027",
+    "colors": [
+      {
+        "name": "Black",
+        "hex": "#000000"
+      }
+    ],
+    "images": [],
+    "description": "Triangular black corner shelf engineered for efficient space utilization in shower corners.",
+    "story": "Transforms unused shower corners into accessible, well-drained storage space.",
+    "details": [
+      "Space-saving triangular corner fit",
+      "Slotted drainage floor to prevent water buildup",
+      "Sturdy corner wall mounts"
+    ],
+    "specs": {
+      "productType": "Corner Shelf",
+      "finish": "Black",
+      "color": "Black",
+      "mountingType": "Wall Mounted",
+      "controlType": "Not specified",
+      "material": "Not specified",
+      "dimensions": "Not specified",
+      "waterFlowRate": "Not specified",
+      "warranty": "Not specified"
+    },
+    "reviews": []
+  },
+  {
+    "id": "camzon-product-001",
+    "slug": "soap-dish-black-cam-ac-ac-028",
+    "title": "Soap Dish Black",
+    "subtitle": "BLACK",
+    "category": "accessories",
+    "price": 22.00,
+    "originalPrice": 28.00,
+    "rating": 0,
+    "reviewsCount": 0,
+    "isNew": false,
+    "isSale": false,
+    "isFeatured": false,
+    "badge": null,
+    "stockCount": 0,
+    "sku": "CAM-AC-AC-028",
+    "colors": [
+      {
+        "name": "Black",
+        "hex": "#000000"
+      }
+    ],
+    "images": [],
+    "description": "Wall-mounted single soap dish in a matte black finish featuring horizontal drainage slots and a integrated mounting flange.",
+    "story": "Designed for clean and contemporary bathroom walls, offering simple utility and quick water runoff.",
+    "details": [
+      "Integrated back mounting flange",
+      "Horizontal drainage slots to prevent soap softening",
+      "Durable matte black coating"
+    ],
+    "specs": {
+      "productType": "Soap Dish",
+      "finish": "Black",
+      "color": "Black",
+      "mountingType": "Wall Mounted",
+      "controlType": "Not specified",
+      "material": "Not specified",
+      "dimensions": "Not specified",
+      "waterFlowRate": "Not specified",
+      "warranty": "Not specified"
+    },
+    "reviews": []
+  },
+  {
+    "id": "camzon-product-002",
+    "slug": "double-soap-dish-black-cam-ac-ac-029",
+    "title": "Double Soap Dish Black",
+    "subtitle": "BLACK",
+    "category": "accessories",
+    "price": 32.00,
+    "originalPrice": 40.00,
+    "rating": 0,
+    "reviewsCount": 0,
+    "isNew": false,
+    "isSale": false,
+    "isFeatured": false,
+    "badge": null,
+    "stockCount": 0,
+    "sku": "CAM-AC-AC-029",
+    "colors": [
+      {
+        "name": "Black",
+        "hex": "#000000"
+      }
+    ],
+    "images": [],
+    "description": "Dual-tray wall-mounted soap holder featuring parallel drainage cutouts in a bold matte black finish.",
+    "story": "Ideal for shared baths or master suites needing side-by-side soap storage on a single sturdy bracket.",
+    "details": [
+      "Dual soap tray capacity",
+      "Rear wall mounting flange",
+      "Efficient slotted drainage surface"
+    ],
+    "specs": {
+      "productType": "Double Soap Dish",
+      "finish": "Black",
+      "color": "Black",
+      "mountingType": "Wall Mounted",
+      "controlType": "Not specified",
+      "material": "Not specified",
+      "dimensions": "Not specified",
+      "waterFlowRate": "Not specified",
+      "warranty": "Not specified"
+    },
+    "reviews": []
+  },
+  {
+    "id": "camzon-product-003",
+    "slug": "soap-dish-w-tumbler-cam-ac-ac-030",
+    "title": "Soap Dish W Tumbler",
+    "subtitle": "W TUMBLER",
+    "category": "accessories",
+    "price": 36.00,
+    "originalPrice": 45.00,
+    "rating": 0,
+    "reviewsCount": 0,
+    "isNew": false,
+    "isSale": false,
+    "isFeatured": false,
+    "badge": null,
+    "stockCount": 0,
+    "sku": "CAM-AC-AC-030",
+    "colors": [
+      {
+        "name": "Black",
+        "hex": "#000000"
+      }
+    ],
+    "images": [],
+    "description": "2-in-1 vanity accessory fixture containing a slotted soap tray and integrated tumbler cup holder in matte black.",
+    "story": "Streamlines vanity essentials by combining soap storage and drinkware or toothbrush holding in one unit.",
+    "details": [
+      "Integrated tumbler holder and soap dish",
+      "Slotted tray floor for drainage",
+      "Space-saving wall-mount layout"
+    ],
+    "specs": {
+      "productType": "Soap Dish with Tumbler",
+      "finish": "Black",
+      "color": "Black",
+      "mountingType": "Wall Mounted",
+      "controlType": "Not specified",
+      "material": "Not specified",
+      "dimensions": "Not specified",
+      "waterFlowRate": "Not specified",
+      "warranty": "Not specified"
+    },
+    "reviews": []
+  },
+  {
+    "id": "camzon-product-004",
+    "slug": "tumbler-black-cam-ac-ac-031",
+    "title": "Tumbler Black",
+    "subtitle": "BLACK",
+    "category": "accessories",
+    "price": 25.00,
+    "originalPrice": 32.00,
+    "rating": 0,
+    "reviewsCount": 0,
+    "isNew": false,
+    "isSale": false,
+    "isFeatured": false,
+    "badge": null,
+    "stockCount": 0,
+    "sku": "CAM-AC-AC-031",
+    "colors": [
+      {
+        "name": "Black",
+        "hex": "#000000"
+      }
+    ],
+    "images": [],
+    "description": "Wall-mounted matte black tumbler holder featuring a flat mounting backplate and secure cup ring.",
+    "story": "Keeps toothbrushes and rinsing cups neatly off vanity counters for improved cleanliness.",
+    "details": [
+      "Secure cylindrical tumbler container",
+      "Backplate wall mounting bracket",
+      "Sleek modern black coating"
+    ],
+    "specs": {
+      "productType": "Tumbler Holder",
+      "finish": "Black",
+      "color": "Black",
+      "mountingType": "Wall Mounted",
+      "controlType": "Not specified",
+      "material": "Not specified",
+      "dimensions": "Not specified",
+      "waterFlowRate": "Not specified",
+      "warranty": "Not specified"
+    },
+    "reviews": []
+  },
+  {
+    "id": "camzon-product-005",
+    "slug": "bathroom-shelf-w-towel-rail-tumbler-holder-cam-ac-ac-032",
+    "title": "Bathroom Shelf W Towel Rail & Tumbler Holder",
+    "subtitle": "W TOWEL RAIL & TUMBLER HOLDER",
+    "category": "accessories",
+    "price": 58.00,
+    "originalPrice": 72.00,
+    "rating": 0,
+    "reviewsCount": 0,
+    "isNew": false,
+    "isSale": false,
+    "isFeatured": false,
+    "badge": null,
+    "stockCount": 0,
+    "sku": "CAM-AC-AC-032",
+    "colors": [
+      {
+        "name": "Chrome",
+        "hex": "#E5E7EB"
+      }
+    ],
+    "images": [],
+    "description": "Multi-functional metallic bathroom shelf featuring an upper tray shelf, bottom towel bar rail, and tumbler holder cup.",
+    "story": "Designed for maximum utility in compact bathroom quarters by combining three core storage functions into one frame.",
+    "details": [
+      "Upper storage basket shelf",
+      "Bottom towel hanging rail",
+      "Integrated tumbler holder"
+    ],
+    "specs": {
+      "productType": "Bathroom Shelf",
+      "finish": "Chrome",
+      "color": "Chrome",
+      "mountingType": "Wall Mounted",
+      "controlType": "Not specified",
+      "material": "Not specified",
+      "dimensions": "Not specified",
+      "waterFlowRate": "Not specified",
+      "warranty": "Not specified"
+    },
+    "reviews": []
+  },
+  {
+    "id": "camzon-product-006",
+    "slug": "bathroom-shelf-w-tumbler-cam-ac-ac-033",
+    "title": "Bathroom Shelf W Tumbler",
+    "subtitle": "W TUMBLER",
+    "category": "accessories",
+    "price": 46.00,
+    "originalPrice": 58.00,
+    "rating": 0,
+    "reviewsCount": 0,
+    "isNew": false,
+    "isSale": false,
+    "isFeatured": false,
+    "badge": null,
+    "stockCount": 0,
+    "sku": "CAM-AC-AC-033",
+    "colors": [
+      {
+        "name": "Chrome",
+        "hex": "#E5E7EB"
+      }
+    ],
+    "images": [],
+    "description": "Polished metallic utility shelf designed with a side tumbler holder and protective front guard rail.",
+    "story": "Combines storage convenience and sleek design to keep personal care essentials neatly organized.",
+    "details": [
+      "Protective surrounding railing",
+      "Built-in side tumbler receptacle",
+      "Polished metallic wall brackets"
+    ],
+    "specs": {
+      "productType": "Bathroom Shelf",
+      "finish": "Chrome",
+      "color": "Chrome",
+      "mountingType": "Wall Mounted",
+      "controlType": "Not specified",
+      "material": "Not specified",
+      "dimensions": "Not specified",
+      "waterFlowRate": "Not specified",
+      "warranty": "Not specified"
+    },
+    "reviews": []
+  },
+  {
+    "id": "camzon-product-007",
+    "slug": "corner-shelf-black-cam-ac-ac-034",
+    "title": "Corner Shelf Black",
+    "subtitle": "BLACK",
+    "category": "accessories",
+    "price": 35.00,
+    "originalPrice": 44.00,
+    "rating": 0,
+    "reviewsCount": 0,
+    "isNew": false,
+    "isSale": false,
+    "isFeatured": false,
+    "badge": null,
+    "stockCount": 0,
+    "sku": "CAM-AC-AC-034",
+    "colors": [
+      {
+        "name": "Black",
+        "hex": "#000000"
+      }
+    ],
+    "images": [],
+    "description": "Space-saving corner shelf fixture with raised guard rails designed specifically for shower and vanity corners.",
+    "story": "Efficiently utilizes corner wall spaces while keeping bath bottles and accessories secure.",
+    "details": [
+      "Triangular corner form factor",
+      "Protective front retention rail",
+      "Dual wall corner attachment points"
+    ],
+    "specs": {
+      "productType": "Corner Shelf",
+      "finish": "Black",
+      "color": "Black",
+      "mountingType": "Wall Mounted",
+      "controlType": "Not specified",
+      "material": "Not specified",
+      "dimensions": "Not specified",
+      "waterFlowRate": "Not specified",
+      "warranty": "Not specified"
+    },
+    "reviews": []
+  },
+  {
+    "id": "camzon-product-008",
+    "slug": "towel-rack-wall-mounted-cam-ac-ac-035",
+    "title": "Towel Rack Wall Mounted",
+    "subtitle": "WALL MOUNTED",
+    "category": "accessories",
+    "price": 52.00,
+    "originalPrice": 65.00,
+    "rating": 0,
+    "reviewsCount": 0,
+    "isNew": false,
+    "isSale": false,
+    "isFeatured": false,
+    "badge": null,
+    "stockCount": 0,
+    "sku": "CAM-AC-AC-035",
+    "colors": [
+      {
+        "name": "Chrome",
+        "hex": "#E5E7EB"
+      }
+    ],
+    "images": [],
+    "description": "Linear metallic towel shelf/rack engineered for wall mounting to store folded towels and linens efficiently.",
+    "story": "Brings commercial hotel-style towel storage and elegance directly into home bathrooms.",
+    "details": [
+      "Wide shelf rack area for folded towels",
+      "Sturdy end wall supports",
+      "Polished metallic finish"
+    ],
+    "specs": {
+      "productType": "Towel Rack",
+      "finish": "Chrome",
+      "color": "Chrome",
+      "mountingType": "Wall Mounted",
+      "controlType": "Not specified",
+      "material": "Not specified",
+      "dimensions": "Not specified",
+      "waterFlowRate": "Not specified",
+      "warranty": "Not specified"
+    },
+    "reviews": []
+  },
+  {
+    "id": "camzon-product-009",
+    "slug": "soap-dish-wall-mounted-cam-ac-ac-036",
+    "title": "Soap Dish Wall Mounted",
+    "subtitle": "WALL MOUNTED",
+    "category": "accessories",
+    "price": 26.00,
+    "originalPrice": 34.00,
+    "rating": 0,
+    "reviewsCount": 0,
+    "isNew": false,
+    "isSale": false,
+    "isFeatured": false,
+    "badge": null,
+    "stockCount": 0,
+    "sku": "CAM-AC-AC-036",
+    "colors": [
+      {
+        "name": "Chrome",
+        "hex": "#E5E7EB"
+      }
+    ],
+    "images": [],
+    "description": "Metallic wall-mounted soap dish tray with slitted drainage and polished back flange.",
+    "story": "Offers classic metallic elegance and clean daily drainage for shower or vanity soap bars.",
+    "details": [
+      "Slotted tray drainage design",
+      "Back mounting flange plate",
+      "Resistant to water and rust"
+    ],
+    "specs": {
+      "productType": "Soap Dish",
+      "finish": "Chrome",
+      "color": "Chrome",
+      "mountingType": "Wall Mounted",
+      "controlType": "Not specified",
+      "material": "Not specified",
+      "dimensions": "Not specified",
+      "waterFlowRate": "Not specified",
+      "warranty": "Not specified"
+    },
+    "reviews": []
+  },
+  {
+    "id": "camzon-product-001",
+    "slug": "tumbler-holder-wall-mounted-cam-ac-ac-037",
+    "title": "Tumbler Holder",
+    "subtitle": "WALL MOUNTED",
+    "category": "accessories",
+    "price": 24.00,
+    "originalPrice": 30.00,
+    "rating": 0,
+    "reviewsCount": 0,
+    "isNew": false,
+    "isSale": false,
+    "isFeatured": false,
+    "badge": null,
+    "stockCount": 0,
+    "sku": "CAM-AC-AC-037",
+    "colors": [
+      {
+        "name": "Chrome",
+        "hex": "#E5E7EB"
+      }
+    ],
+    "images": [],
+    "description": "Wall-mounted chrome tumbler holder featuring a flat mounting plate with toothbrush slots and tumbler cup holder.",
+    "story": "Keeps dental care items organized and elevated off counter surfaces with clean chrome styling.",
+    "details": [
+      "Wall-mounted bracket plate with toothbrush cutouts",
+      "Sturdy metallic tumbler holder ring",
+      "Polished chrome finish"
+    ],
+    "specs": {
+      "productType": "Tumbler Holder",
+      "finish": "Chrome",
+      "color": "Chrome",
+      "mountingType": "Wall Mounted",
+      "controlType": "Not specified",
+      "material": "Not specified",
+      "dimensions": "Not specified",
+      "waterFlowRate": "Not specified",
+      "warranty": "Not specified"
+    },
+    "reviews": []
+  },
+  {
+    "id": "camzon-product-002",
+    "slug": "double-soap-dish-wall-mounted-cam-ac-ac-038",
+    "title": "Double Soap Dish",
+    "subtitle": "WALL MOUNTED",
+    "category": "accessories",
+    "price": 32.00,
+    "originalPrice": 40.00,
+    "rating": 0,
+    "reviewsCount": 0,
+    "isNew": false,
+    "isSale": false,
+    "isFeatured": false,
+    "badge": null,
+    "stockCount": 0,
+    "sku": "CAM-AC-AC-038",
+    "colors": [
+      {
+        "name": "Chrome",
+        "hex": "#E5E7EB"
+      }
+    ],
+    "images": [],
+    "description": "Dual chrome soap dish fixture with slotted drainage trays mounted on a central decorative bracket.",
+    "story": "Designed to accommodate multiple soap bars in luxury bath spaces with efficient water drainage.",
+    "details": [
+      "Dual slotted soap trays",
+      "Decorative central square wall mount base",
+      "Polished corrosion-resistant chrome finish"
+    ],
+    "specs": {
+      "productType": "Double Soap Dish",
+      "finish": "Chrome",
+      "color": "Chrome",
+      "mountingType": "Wall Mounted",
+      "controlType": "Not specified",
+      "material": "Not specified",
+      "dimensions": "Not specified",
+      "waterFlowRate": "Not specified",
+      "warranty": "Not specified"
+    },
+    "reviews": []
+  },
+  {
+    "id": "camzon-product-003",
+    "slug": "soap-dish-w-tumbler-cam-ac-ac-039",
+    "title": "Soap Dish",
+    "subtitle": "W TUMBLER",
+    "category": "accessories",
+    "price": 35.00,
+    "originalPrice": 44.00,
+    "rating": 0,
+    "reviewsCount": 0,
+    "isNew": false,
+    "isSale": false,
+    "isFeatured": false,
+    "badge": null,
+    "stockCount": 0,
+    "sku": "CAM-AC-AC-039",
+    "colors": [
+      {
+        "name": "Chrome",
+        "hex": "#E5E7EB"
+      }
+    ],
+    "images": [],
+    "description": "Combination wall accessory unit featuring a slotted chrome soap tray alongside a dedicated tumbler holder cup.",
+    "story": "Combines two essential vanity accessories into a single space-saving wall attachment.",
+    "details": [
+      "Slotted drainage soap tray",
+      "Integrated tumbler holder cylinder",
+      "Central square mount base"
+    ],
+    "specs": {
+      "productType": "Soap Dish with Tumbler",
+      "finish": "Chrome",
+      "color": "Chrome",
+      "mountingType": "Wall Mounted",
+      "controlType": "Not specified",
+      "material": "Not specified",
+      "dimensions": "Not specified",
+      "waterFlowRate": "Not specified",
+      "warranty": "Not specified"
+    },
+    "reviews": []
+  },
+  {
+    "id": "camzon-product-004",
+    "slug": "soap-dispenser-wall-mounted-cam-ac-ac-040",
+    "title": "Soap Dispenser",
+    "subtitle": "WALL MOUNTED",
+    "category": "accessories",
+    "price": 29.00,
+    "originalPrice": 36.00,
+    "rating": 0,
+    "reviewsCount": 0,
+    "isNew": false,
+    "isSale": false,
+    "isFeatured": false,
+    "badge": null,
+    "stockCount": 0,
+    "sku": "CAM-AC-AC-040",
+    "colors": [
+      {
+        "name": "Chrome",
+        "hex": "#E5E7EB"
+      }
+    ],
+    "images": [],
+    "description": "Wall-mounted liquid soap dispenser featuring a frosted bottle container held by a polished chrome wall bracket.",
+    "story": "Delivers hygienic liquid soap dispensing with clean modern wall mounting.",
+    "details": [
+      "Convenient pump top dispenser mechanism",
+      "Frosted glass bottle container",
+      "Square chrome wall mounting bracket"
+    ],
+    "specs": {
+      "productType": "Soap Dispenser",
+      "finish": "Chrome",
+      "color": "Chrome",
+      "mountingType": "Wall Mounted",
+      "controlType": "Pump Dispenser",
+      "material": "Not specified",
+      "dimensions": "Not specified",
+      "waterFlowRate": "Not specified",
+      "warranty": "Not specified"
+    },
+    "reviews": []
+  },
+  {
+    "id": "camzon-product-005",
+    "slug": "towel-rod-wall-mounted-cam-ac-ac-041",
+    "title": "Towel Rod",
+    "subtitle": "WALL MOUNTED",
+    "category": "accessories",
+    "price": 38.00,
+    "originalPrice": 48.00,
+    "rating": 0,
+    "reviewsCount": 0,
+    "isNew": false,
+    "isSale": false,
+    "isFeatured": false,
+    "badge": null,
+    "stockCount": 0,
+    "sku": "CAM-AC-AC-041",
+    "colors": [
+      {
+        "name": "Chrome",
+        "hex": "#E5E7EB"
+      }
+    ],
+    "images": [],
+    "description": "Straight polished chrome towel bar with decorative round support end caps for wall mounting.",
+    "story": "Provides reliable daily towel hanging with an elegant metallic gloss.",
+    "details": [
+      "Sturdy horizontal hanging rod",
+      "Decorative round wall end mounts",
+      "Polished chrome surface"
+    ],
+    "specs": {
+      "productType": "Towel Rod",
+      "finish": "Chrome",
+      "color": "Chrome",
+      "mountingType": "Wall Mounted",
+      "controlType": "Not specified",
+      "material": "Not specified",
+      "dimensions": "Not specified",
+      "waterFlowRate": "Not specified",
+      "warranty": "Not specified"
+    },
+    "reviews": []
+  },
+  {
+    "id": "camzon-product-006",
+    "slug": "towel-rod-round-wall-mounted-cam-ac-ac-042",
+    "title": "Towel Rod Round",
+    "subtitle": "WALL MOUNTED",
+    "category": "accessories",
+    "price": 36.00,
+    "originalPrice": 45.00,
+    "rating": 0,
+    "reviewsCount": 0,
+    "isNew": false,
+    "isSale": false,
+    "isFeatured": false,
+    "badge": null,
+    "stockCount": 0,
+    "sku": "CAM-AC-AC-042",
+    "colors": [
+      {
+        "name": "Chrome",
+        "hex": "#E5E7EB"
+      }
+    ],
+    "images": [],
+    "description": "Round profile chrome towel rod designed with circular mounting bases for seamless integration.",
+    "story": "Brings subtle curved details and classic chrome aesthetics to bath towel organization.",
+    "details": [
+      "Smooth round rod profile",
+      "Circular wall mounting flanges",
+      "High-shine chrome finish"
+    ],
+    "specs": {
+      "productType": "Towel Rod",
+      "finish": "Chrome",
+      "color": "Chrome",
+      "mountingType": "Wall Mounted",
+      "controlType": "Not specified",
+      "material": "Not specified",
+      "dimensions": "Not specified",
+      "waterFlowRate": "Not specified",
+      "warranty": "Not specified"
+    },
+    "reviews": []
+  },
+  {
+    "id": "camzon-product-007",
+    "slug": "napkin-ring-wall-mounted-cam-ac-ac-043",
+    "title": "Napkin Ring",
+    "subtitle": "WALL MOUNTED",
+    "category": "accessories",
+    "price": 22.00,
+    "originalPrice": 28.00,
+    "rating": 0,
+    "reviewsCount": 0,
+    "isNew": false,
+    "isSale": false,
+    "isFeatured": false,
+    "badge": null,
+    "stockCount": 0,
+    "sku": "CAM-AC-AC-043",
+    "colors": [
+      {
+        "name": "Chrome",
+        "hex": "#E5E7EB"
+      }
+    ],
+    "images": [],
+    "description": "Rectangular open chrome napkin ring featuring a square wall mounting base for modern hand towel storage.",
+    "story": "Offers convenient slide-in access for hand towels right next to wash basins.",
+    "details": [
+      "Open rectangular holder design",
+      "Square block wall mount base",
+      "Mirror chrome finish"
+    ],
+    "specs": {
+      "productType": "Napkin Ring",
+      "finish": "Chrome",
+      "color": "Chrome",
+      "mountingType": "Wall Mounted",
+      "controlType": "Not specified",
+      "material": "Not specified",
+      "dimensions": "Not specified",
+      "waterFlowRate": "Not specified",
+      "warranty": "Not specified"
+    },
+    "reviews": []
+  },
+  {
+    "id": "camzon-product-008",
+    "slug": "napkin-ring-wall-mounted-cam-ac-ac-044",
+    "title": "Napkin Ring",
+    "subtitle": "WALL MOUNTED",
+    "category": "accessories",
+    "price": 22.00,
+    "originalPrice": 28.00,
+    "rating": 0,
+    "reviewsCount": 0,
+    "isNew": false,
+    "isSale": false,
+    "isFeatured": false,
+    "badge": null,
+    "stockCount": 0,
+    "sku": "CAM-AC-AC-044",
+    "colors": [
+      {
+        "name": "Chrome",
+        "hex": "#E5E7EB"
+      }
+    ],
+    "images": [],
+    "description": "Compact rectangular chrome napkin holder designed with a solid square mounting block.",
+    "story": "Engineered for minimalist vanities where space and quick utility are paramount.",
+    "details": [
+      "Compact rectangular frame",
+      "Square backplate wall mount",
+      "Corrosion-resistant chrome coating"
+    ],
+    "specs": {
+      "productType": "Napkin Ring",
+      "finish": "Chrome",
+      "color": "Chrome",
+      "mountingType": "Wall Mounted",
+      "controlType": "Not specified",
+      "material": "Not specified",
+      "dimensions": "Not specified",
+      "waterFlowRate": "Not specified",
+      "warranty": "Not specified"
+    },
+    "reviews": []
+  },
+  {
+    "id": "camzon-product-009",
+    "slug": "paper-holder-wall-mounted-cam-ac-ac-045",
+    "title": "Paper Holder",
+    "subtitle": "WALL MOUNTED",
+    "category": "accessories",
+    "price": 28.00,
+    "originalPrice": 35.00,
+    "rating": 0,
+    "reviewsCount": 0,
+    "isNew": false,
+    "isSale": false,
+    "isFeatured": false,
+    "badge": null,
+    "stockCount": 0,
+    "sku": "CAM-AC-AC-045",
+    "colors": [
+      {
+        "name": "Chrome",
+        "hex": "#E5E7EB"
+      }
+    ],
+    "images": [],
+    "description": "Wall-mounted chrome toilet paper holder equipped with a curved protective cover flap.",
+    "story": "Combines hygiene protection and elegant chrome design for modern toilet areas.",
+    "details": [
+      "Protective top flap cover",
+      "Square mounting base bracket",
+      "Smooth paper roll roller bar"
+    ],
+    "specs": {
+      "productType": "Paper Holder",
+      "finish": "Chrome",
+      "color": "Chrome",
+      "mountingType": "Wall Mounted",
+      "controlType": "Not specified",
+      "material": "Not specified",
+      "dimensions": "Not specified",
+      "waterFlowRate": "Not specified",
+      "warranty": "Not specified"
+    },
+    "reviews": []
+  },
+  {
+    "id": "camzon-product-001",
+    "slug": "towel-rod-square-wall-mounted-cam-ac-ac-046",
+    "title": "Towel Rod Square",
+    "subtitle": "WALL MOUNTED",
+    "category": "accessories",
+    "price": 35.00,
+    "originalPrice": 44.00,
+    "rating": 0,
+    "reviewsCount": 0,
+    "isNew": false,
+    "isSale": false,
+    "isFeatured": false,
+    "badge": null,
+    "stockCount": 0,
+    "sku": "CAM-AC-AC-046",
+    "colors": [
+      {
+        "name": "Chrome",
+        "hex": "#E5E7EB"
+      }
+    ],
+    "images": [],
+    "description": "Wall-mounted towel bar with bold square mounting bases and a polished chrome finish.",
+    "story": "Designed for clean architectural bathrooms, bringing square geometric lines to towel storage.",
+    "details": [
+      "Square profile mounting flanges",
+      "Durable chrome-plated solid bar",
+      "Sturdy wall attachment hardware included"
+    ],
+    "specs": {
+      "productType": "Towel Rod",
+      "finish": "Chrome",
+      "color": "Chrome",
+      "mountingType": "Wall Mounted",
+      "controlType": "Not specified",
+      "material": "Not specified",
+      "dimensions": "Not specified",
+      "waterFlowRate": "Not specified",
+      "warranty": "Not specified"
+    },
+    "reviews": []
+  },
+  {
+    "id": "camzon-product-002",
+    "slug": "robe-hook-wall-mounted-cam-ac-ac-047",
+    "title": "Robe Hook",
+    "subtitle": "WALL MOUNTED",
+    "category": "accessories",
+    "price": 18.00,
+    "originalPrice": 22.00,
+    "rating": 0,
+    "reviewsCount": 0,
+    "isNew": false,
+    "isSale": false,
+    "isFeatured": false,
+    "badge": null,
+    "stockCount": 0,
+    "sku": "CAM-AC-AC-047",
+    "colors": [
+      {
+        "name": "Chrome",
+        "hex": "#E5E7EB"
+      }
+    ],
+    "images": [],
+    "description": "Single chrome robe hook with a clean rectangular backplate and vertical holding peg.",
+    "story": "Provides convenient single-garment or towel holding with modern rectangular styling.",
+    "details": [
+      "Compact rectangular wall plate",
+      "Secure single peg design",
+      "High-luster chrome finish"
+    ],
+    "specs": {
+      "productType": "Robe Hook",
+      "finish": "Chrome",
+      "color": "Chrome",
+      "mountingType": "Wall Mounted",
+      "controlType": "Not specified",
+      "material": "Not specified",
+      "dimensions": "Not specified",
+      "waterFlowRate": "Not specified",
+      "warranty": "Not specified"
+    },
+    "reviews": []
+  },
+  {
+    "id": "camzon-product-003",
+    "slug": "robe-hook-double-hook-cam-ac-ac-048",
+    "title": "Robe Hook",
+    "subtitle": "DOUBLE HOOK",
+    "category": "accessories",
+    "price": 22.00,
+    "originalPrice": 28.00,
+    "rating": 0,
+    "reviewsCount": 0,
+    "isNew": false,
+    "isSale": false,
+    "isFeatured": false,
+    "badge": null,
+    "stockCount": 0,
+    "sku": "CAM-AC-AC-048",
+    "colors": [
+      {
+        "name": "Chrome",
+        "hex": "#E5E7EB"
+      }
+    ],
+    "images": [],
+    "description": "Double-armed wall hook in chrome for hanging two garments or towels simultaneously.",
+    "story": "Doubles hanging capacity in tight wall spaces with a unified square mounting plate.",
+    "details": [
+      "Twin angled hooks",
+      "Square chrome mounting base",
+      "Rust and corrosion resistant finish"
+    ],
+    "specs": {
+      "productType": "Robe Hook",
+      "finish": "Chrome",
+      "color": "Chrome",
+      "mountingType": "Wall Mounted",
+      "controlType": "Not specified",
+      "material": "Not specified",
+      "dimensions": "Not specified",
+      "waterFlowRate": "Not specified",
+      "warranty": "Not specified"
+    },
+    "reviews": []
+  },
+  {
+    "id": "camzon-product-004",
+    "slug": "towel-rack-w-four-hooks-cam-ac-ac-049",
+    "title": "Towel Rack",
+    "subtitle": "W FOUR HOOKS",
+    "category": "accessories",
+    "price": 54.00,
+    "originalPrice": 68.00,
+    "rating": 0,
+    "reviewsCount": 0,
+    "isNew": false,
+    "isSale": false,
+    "isFeatured": false,
+    "badge": null,
+    "stockCount": 0,
+    "sku": "CAM-AC-AC-049",
+    "colors": [
+      {
+        "name": "Chrome",
+        "hex": "#E5E7EB"
+      }
+    ],
+    "images": [],
+    "description": "Wall-mounted towel shelf rack integrated with four lower utility hanging hooks.",
+    "story": "Combines upper shelf towel storage with multi-hook convenience for family bathrooms.",
+    "details": [
+      "Upper towel shelf rack",
+      "Four integrated lower hanging hooks",
+      "Polished chrome finish"
+    ],
+    "specs": {
+      "productType": "Towel Rack",
+      "finish": "Chrome",
+      "color": "Chrome",
+      "mountingType": "Wall Mounted",
+      "controlType": "Not specified",
+      "material": "Not specified",
+      "dimensions": "Not specified",
+      "waterFlowRate": "Not specified",
+      "warranty": "Not specified"
+    },
+    "reviews": []
+  },
+  {
+    "id": "camzon-product-005",
+    "slug": "towel-rack-w-four-hooks-double-cam-ac-ac-050",
+    "title": "Towel Rack",
+    "subtitle": "W FOUR HOOKS (DOUBLE)",
+    "category": "accessories",
+    "price": 62.00,
+    "originalPrice": 78.00,
+    "rating": 0,
+    "reviewsCount": 0,
+    "isNew": false,
+    "isSale": false,
+    "isFeatured": false,
+    "badge": null,
+    "stockCount": 0,
+    "sku": "CAM-AC-AC-050",
+    "colors": [
+      {
+        "name": "Chrome",
+        "hex": "#E5E7EB"
+      }
+    ],
+    "images": [],
+    "description": "Double-tiered upper towel rack featuring four bottom hooks for expanded bath storage.",
+    "story": "Offers maximum towel storage efficiency with dual shelf bars and versatile hanging hooks.",
+    "details": [
+      "Double upper shelf structure",
+      "Four lower hanging hooks",
+      "Heavy-duty chrome-plated frame"
+    ],
+    "specs": {
+      "productType": "Towel Rack",
+      "finish": "Chrome",
+      "color": "Chrome",
+      "mountingType": "Wall Mounted",
+      "controlType": "Not specified",
+      "material": "Not specified",
+      "dimensions": "Not specified",
+      "waterFlowRate": "Not specified",
+      "warranty": "Not specified"
+    },
+    "reviews": []
+  },
+  {
+    "id": "camzon-product-006",
+    "slug": "towel-rack-w-five-hooks-double-cam-ac-ac-051",
+    "title": "Towel Rack",
+    "subtitle": "W FIVE HOOKS (DOUBLE)",
+    "category": "accessories",
+    "price": 68.00,
+    "originalPrice": 85.00,
+    "rating": 0,
+    "reviewsCount": 0,
+    "isNew": false,
+    "isSale": false,
+    "isFeatured": false,
+    "badge": null,
+    "stockCount": 0,
+    "sku": "CAM-AC-AC-051",
+    "colors": [
+      {
+        "name": "Chrome",
+        "hex": "#E5E7EB"
+      }
+    ],
+    "images": [],
+    "description": "Wide double-tier chrome towel shelf rack equipped with five integrated lower utility hooks.",
+    "story": "Designed for large bathrooms and hotel suites requiring high-capacity storage for towels and robes.",
+    "details": [
+      "Dual upper shelf tier",
+      "Five lower hanging hooks",
+      "Robust metallic wall bracket mountings"
+    ],
+    "specs": {
+      "productType": "Towel Rack",
+      "finish": "Chrome",
+      "color": "Chrome",
+      "mountingType": "Wall Mounted",
+      "controlType": "Not specified",
+      "material": "Not specified",
+      "dimensions": "Not specified",
+      "waterFlowRate": "Not specified",
+      "warranty": "Not specified"
+    },
+    "reviews": []
+  },
+  {
+    "id": "camzon-product-007",
+    "slug": "towel-rack-w-five-hooks-cam-ac-ac-052",
+    "title": "Towel Rack",
+    "subtitle": "W FIVE HOOKS",
+    "category": "accessories",
+    "price": 58.00,
+    "originalPrice": 72.00,
+    "rating": 0,
+    "reviewsCount": 0,
+    "isNew": false,
+    "isSale": false,
+    "isFeatured": false,
+    "badge": null,
+    "stockCount": 0,
+    "sku": "CAM-AC-AC-052",
+    "colors": [
+      {
+        "name": "Chrome",
+        "hex": "#E5E7EB"
+      }
+    ],
+    "images": [],
+    "description": "Single-tier chrome towel rack with an extended width and five lower hanging hooks.",
+    "story": "Combines wide shelf space and multi-point hanging functionality in a streamlined profile.",
+    "details": [
+      "Extended single upper shelf",
+      "Five lower hanging hooks",
+      "High-shine chrome finish"
+    ],
+    "specs": {
+      "productType": "Towel Rack",
+      "finish": "Chrome",
+      "color": "Chrome",
+      "mountingType": "Wall Mounted",
+      "controlType": "Not specified",
+      "material": "Not specified",
+      "dimensions": "Not specified",
+      "waterFlowRate": "Not specified",
+      "warranty": "Not specified"
+    },
+    "reviews": []
+  },
+  {
+    "id": "camzon-product-008",
+    "slug": "waste-coupling-cam-ac-ac-053",
+    "title": "Waste Coupling",
+    "subtitle": "WASTE COUPLING",
+    "category": "accessories",
+    "price": 26.00,
+    "originalPrice": 32.00,
+    "rating": 0,
+    "reviewsCount": 0,
+    "isNew": false,
+    "isSale": false,
+    "isFeatured": false,
+    "badge": null,
+    "stockCount": 0,
+    "sku": "CAM-AC-AC-053",
+    "colors": [
+      {
+        "name": "Chrome",
+        "hex": "#E5E7EB"
+      }
+    ],
+    "images": [],
+    "description": "Standard wash basin waste coupling fitting with polished chrome rim top and threaded connection body.",
+    "story": "Ensures clean water drainage and reliable sealed installation for bathroom wash basins.",
+    "details": [
+      "Polished top flange",
+      "Precision threaded body for leak-free seal",
+      "Corrosion-resistant metal construction"
+    ],
+    "specs": {
+      "productType": "Waste Coupling",
+      "finish": "Chrome",
+      "color": "Chrome",
+      "mountingType": "Basin Mounted",
+      "controlType": "Not specified",
+      "material": "Not specified",
+      "dimensions": "Not specified",
+      "waterFlowRate": "Not specified",
+      "warranty": "Not specified"
+    },
+    "reviews": []
+  },
+  {
+    "id": "camzon-product-009",
+    "slug": "flange-round-cam-ac-ac-054",
+    "title": "Flange",
+    "subtitle": "ROUND",
+    "category": "accessories",
+    "price": 12.00,
+    "originalPrice": 15.00,
+    "rating": 0,
+    "reviewsCount": 0,
+    "isNew": false,
+    "isSale": false,
+    "isFeatured": false,
+    "badge": null,
+    "stockCount": 0,
+    "sku": "CAM-AC-AC-054",
+    "colors": [
+      {
+        "name": "Chrome",
+        "hex": "#E5E7EB"
+      }
+    ],
+    "images": [],
+    "description": "Round polished chrome decorative wall flange plate for covering pipe penetrations.",
+    "story": "Provides a clean, professional touch to hide wall cuts around pipe installations.",
+    "details": [
+      "Round circular trim profile",
+      "High-luster chrome finish",
+      "Easy slip-on wall cover installation"
+    ],
+    "specs": {
+      "productType": "Flange",
+      "finish": "Chrome",
+      "color": "Chrome",
+      "mountingType": "Wall Mounted",
+      "controlType": "Not specified",
+      "material": "Not specified",
+      "dimensions": "Not specified",
+      "waterFlowRate": "Not specified",
+      "warranty": "Not specified"
+    },
+    "reviews": []
+  },
+  
+  {
+    "id": "camzon-product-001",
+    "slug": "l-floor-trap-cam-ac-ac-055",
+    "title": "L Floor Trap",
+    "subtitle": "FLOOR TRAP",
+    "category": "accessories",
+    "price": 25.00,
+    "originalPrice": 32.00,
+    "rating": 0,
+    "reviewsCount": 0,
+    "isNew": false,
+    "isSale": false,
+    "isFeatured": false,
+    "badge": null,
+    "stockCount": 0,
+    "sku": "CAM-AC-AC-055",
+    "colors": [
+      {
+        "name": "Chrome",
+        "hex": "#E5E7EB"
+      }
+    ],
+    "images": [],
+    "description": "Square stainless steel floor drain grate featuring concentric L-shaped drainage cutouts and a polished rim frame.",
+    "story": "Engineered for fast water drainage in showers while keeping debris out of sewage systems.",
+    "details": [
+      "Square stainless steel frame",
+      "Concentric L-pattern drainage slots",
+      "Removable top grate for easy cleaning access"
+    ],
+    "specs": {
+      "productType": "Floor Trap",
+      "finish": "Chrome",
+      "color": "Chrome",
+      "mountingType": "Floor Mounted",
+      "controlType": "Not specified",
+      "material": "Not specified",
+      "dimensions": "Not specified",
+      "waterFlowRate": "Not specified",
+      "warranty": "Not specified"
+    },
+    "reviews": []
+  },
+  {
+    "id": "camzon-product-002",
+    "slug": "capsul-floor-trap-cam-ac-ac-056",
+    "title": "Capsul Floor Trap",
+    "subtitle": "FLOOR TRAP",
+    "category": "accessories",
+    "price": 25.00,
+    "originalPrice": 32.00,
+    "rating": 0,
+    "reviewsCount": 0,
+    "isNew": false,
+    "isSale": false,
+    "isFeatured": false,
+    "badge": null,
+    "stockCount": 0,
+    "sku": "CAM-AC-AC-056",
+    "colors": [
+      {
+        "name": "Chrome",
+        "hex": "#E5E7EB"
+      }
+    ],
+    "images": [],
+    "description": "Square floor drain grate with a alternating capsule-style slotted pattern in a polished chrome finish.",
+    "story": "Blends geometric style with practical wastewater drainage for contemporary wet rooms.",
+    "details": [
+      "Alternating linear capsule slot design",
+      "Polished chrome finish",
+      "Easy maintenance lift-out grate"
+    ],
+    "specs": {
+      "productType": "Floor Trap",
+      "finish": "Chrome",
+      "color": "Chrome",
+      "mountingType": "Floor Mounted",
+      "controlType": "Not specified",
+      "material": "Not specified",
+      "dimensions": "Not specified",
+      "waterFlowRate": "Not specified",
+      "warranty": "Not specified"
+    },
+    "reviews": []
+  },
+  {
+    "id": "camzon-product-003",
+    "slug": "square-floor-trap-cam-ac-ac-057",
+    "title": "Square Floor Trap",
+    "subtitle": "FLOOR TRAP",
+    "category": "accessories",
+    "price": 25.00,
+    "originalPrice": 32.00,
+    "rating": 0,
+    "reviewsCount": 0,
+    "isNew": false,
+    "isSale": false,
+    "isFeatured": false,
+    "badge": null,
+    "stockCount": 0,
+    "sku": "CAM-AC-AC-057",
+    "colors": [
+      {
+        "name": "Chrome",
+        "hex": "#E5E7EB"
+      }
+    ],
+    "images": [],
+    "description": "Square stainless steel floor trap grate featuring a classic grid of square perforation holes.",
+    "story": "Delivers traditional grid drainage performance with a clean chrome modern frame.",
+    "details": [
+      "Square hole grid pattern",
+      "Flush-fit floor frame",
+      "Corrosion-resistant metal construction"
+    ],
+    "specs": {
+      "productType": "Floor Trap",
+      "finish": "Chrome",
+      "color": "Chrome",
+      "mountingType": "Floor Mounted",
+      "controlType": "Not specified",
+      "material": "Not specified",
+      "dimensions": "Not specified",
+      "waterFlowRate": "Not specified",
+      "warranty": "Not specified"
+    },
+    "reviews": []
+  },
+  {
+    "id": "camzon-product-004",
+    "slug": "capsul-floor-trap-black-cam-ac-ac-058",
+    "title": "Capsul Floor Trap",
+    "subtitle": "FLOOR TRAP",
+    "category": "accessories",
+    "price": 28.00,
+    "originalPrice": 35.00,
+    "rating": 0,
+    "reviewsCount": 0,
+    "isNew": false,
+    "isSale": false,
+    "isFeatured": false,
+    "badge": null,
+    "stockCount": 0,
+    "sku": "CAM-AC-AC-058",
+    "colors": [
+      {
+        "name": "Black",
+        "hex": "#000000"
+      }
+    ],
+    "images": [],
+    "description": "Square floor drain grate in a matte black finish featuring capsule slotted drainage patterns.",
+    "story": "Designed to match modern matte black shower hardware while delivering reliable floor drainage.",
+    "details": [
+      "Modern matte black finish",
+      "Capsule slotted drainage pattern",
+      "Resistant to water spots and tarnishing"
+    ],
+    "specs": {
+      "productType": "Floor Trap",
+      "finish": "Black",
+      "color": "Black",
+      "mountingType": "Floor Mounted",
+      "controlType": "Not specified",
+      "material": "Not specified",
+      "dimensions": "Not specified",
+      "waterFlowRate": "Not specified",
+      "warranty": "Not specified"
+    },
+    "reviews": []
+  },
+  {
+    "id": "camzon-product-005",
+    "slug": "rack-bolt-w-cap-stanner-cam-ac-ac-059",
+    "title": "Rack Bolt",
+    "subtitle": "W CAP & STANNER",
+    "category": "accessories",
+    "price": 15.00,
+    "originalPrice": 20.00,
+    "rating": 0,
+    "reviewsCount": 0,
+    "isNew": false,
+    "isSale": false,
+    "isFeatured": false,
+    "badge": null,
+    "stockCount": 0,
+    "sku": "CAM-AC-AC-059",
+    "colors": [
+      {
+        "name": "Chrome",
+        "hex": "#E5E7EB"
+      }
+    ],
+    "images": [],
+    "description": "Sanitary fixing rack bolt set complete with wall plugs, metal washers, nuts, and decorative white plastic caps.",
+    "story": "Ensures secure wall mounting installation for basins and wall-hung sanitary fixtures.",
+    "details": [
+      "Heavy-duty threaded studs",
+      "Includes plastic wall plugs, nuts, and washers",
+      "Decorative screw caps included"
+    ],
+    "specs": {
+      "productType": "Rack Bolt Set",
+      "finish": "Chrome",
+      "color": "Not specified",
+      "mountingType": "Wall Mounted",
+      "controlType": "Not specified",
+      "material": "Not specified",
+      "dimensions": "Not specified",
+      "waterFlowRate": "Not specified",
+      "warranty": "Not specified"
+    },
+    "reviews": []
+  },
+  {
+    "id": "camzon-product-006",
+    "slug": "rack-bolt-w-cap-stanner-cam-ac-ac-060",
+    "title": "Rack Bolt",
+    "subtitle": "W CAP & STANNER",
+    "category": "accessories",
+    "price": 15.00,
+    "originalPrice": 20.00,
+    "rating": 0,
+    "reviewsCount": 0,
+    "isNew": false,
+    "isSale": false,
+    "isFeatured": false,
+    "badge": null,
+    "stockCount": 0,
+    "sku": "CAM-AC-AC-060",
+    "colors": [
+      {
+        "name": "Chrome",
+        "hex": "#E5E7EB"
+      }
+    ],
+    "images": [],
+    "description": "Heavy-duty sanitary rack bolt kit with wall anchors, nuts, washers, and protective trim caps.",
+    "story": "Designed for rigid wall anchoring of heavy ceramic wash basins and bidets.",
+    "details": [
+      "Precision threaded metal bolts",
+      "Wall expansion anchors included",
+      "Clean finishing caps included"
+    ],
+    "specs": {
+      "productType": "Rack Bolt Set",
+      "finish": "Chrome",
+      "color": "Not specified",
+      "mountingType": "Wall Mounted",
+      "controlType": "Not specified",
+      "material": "Not specified",
+      "dimensions": "Not specified",
+      "waterFlowRate": "Not specified",
+      "warranty": "Not specified"
+    },
+    "reviews": []
+  },
+  {
+    "id": "camzon-product-007",
+    "slug": "rack-bolt-w-cap-stanner-cam-ac-ac-061",
+    "title": "Rack Bolt",
+    "subtitle": "W CAP & STANNER",
+    "category": "accessories",
+    "price": 16.00,
+    "originalPrice": 20.00,
+    "rating": 0,
+    "reviewsCount": 0,
+    "isNew": false,
+    "isSale": false,
+    "isFeatured": false,
+    "badge": null,
+    "stockCount": 0,
+    "sku": "CAM-AC-AC-061",
+    "colors": [
+      {
+        "name": "Chrome",
+        "hex": "#E5E7EB"
+      }
+    ],
+    "images": [],
+    "description": "Sanitary mounting rack bolt set complete with expansion sleeves, washers, and white caps.",
+    "story": "Provides robust structural anchoring for wall-mounted bathroom ceramicware.",
+    "details": [
+      "Dual threaded wall studs",
+      "Complete mounting hardware kit",
+      "Protective trim caps"
+    ],
+    "specs": {
+      "productType": "Rack Bolt Set",
+      "finish": "Chrome",
+      "color": "Not specified",
+      "mountingType": "Wall Mounted",
+      "controlType": "Not specified",
+      "material": "Not specified",
+      "dimensions": "Not specified",
+      "waterFlowRate": "Not specified",
+      "warranty": "Not specified"
+    },
+    "reviews": []
+  },
+  {
+    "id": "camzon-product-008",
+    "slug": "grab-bar-grab-bar-cam-ac-ac-062",
+    "title": "Grab Bar",
+    "subtitle": "GRAB BAR",
+    "category": "accessories",
+    "price": 45.00,
+    "originalPrice": 58.00,
+    "rating": 0,
+    "reviewsCount": 0,
+    "isNew": false,
+    "isSale": false,
+    "isFeatured": false,
+    "badge": null,
+    "stockCount": 0,
+    "sku": "CAM-AC-AC-062",
+    "colors": [
+      {
+        "name": "Chrome",
+        "hex": "#E5E7EB"
+      }
+    ],
+    "images": [],
+    "description": "Heavy-duty safety grab bar in polished chrome with secure circular wall mounting flanges.",
+    "story": "Provides safety, balance, and reliable support in bath and shower areas without sacrificing style.",
+    "details": [
+      "Ergonomic circular grip tube",
+      "Concealed screw wall mounting flanges",
+      "High-luster corrosion-resistant chrome"
+    ],
+    "specs": {
+      "productType": "Grab Bar",
+      "finish": "Chrome",
+      "color": "Chrome",
+      "mountingType": "Wall Mounted",
+      "controlType": "Not specified",
+      "material": "Not specified",
+      "dimensions": "Not specified",
+      "waterFlowRate": "Not specified",
+      "warranty": "Not specified"
+    },
+    "reviews": []
+  },
+  {
+    "id": "camzon-product-009",
+    "slug": "rack-bolt-w-cap-stanner-boxed-cam-ac-ac-063",
+    "title": "Rack Bolt",
+    "subtitle": "W CAP & STANNER",
+    "category": "accessories",
+    "price": 18.00,
+    "originalPrice": 24.00,
+    "rating": 0,
+    "reviewsCount": 0,
+    "isNew": false,
+    "isSale": false,
+    "isFeatured": false,
+    "badge": null,
+    "stockCount": 0,
+    "sku": "CAM-AC-AC-063",
+    "colors": [
+      {
+        "name": "Chrome",
+        "hex": "#E5E7EB"
+      }
+    ],
+    "images": [],
+    "description": "Boxed professional sanitary rack bolt installation kit including high-strength studs, washers, and caps.",
+    "story": "Packaged complete for professional plumbing installations of wall-hung toilets and basins.",
+    "details": [
+      "Retail boxed package",
+      "High-grade steel bolts and anchors",
+      "Includes red accent caps and washers"
+    ],
+    "specs": {
+      "productType": "Rack Bolt Set",
+      "finish": "Chrome",
+      "color": "Not specified",
+      "mountingType": "Wall Mounted",
+      "controlType": "Not specified",
+      "material": "Not specified",
+      "dimensions": "Not specified",
+      "waterFlowRate": "Not specified",
+      "warranty": "Not specified"
+    },
+    "reviews": []
+  }
+]

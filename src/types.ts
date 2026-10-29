@@ -23,18 +23,7 @@ export interface ProductReview {
   verified: boolean;
 }
 
-export type ProductCategory =
-  | 'ARNO'
-  | 'DART'
-  | 'DECK'
-  | 'DUERO'
-  | 'DUNE'
-  | 'FACET'
-  | 'KORE'
-  | 'QUADRA'
-  | 'RIDGE'
-  | 'SHOWERS'
-  | string;
+export type ProductCategory = string;
 
 export interface CategoryItem {
   id: string;

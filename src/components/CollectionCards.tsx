@@ -1,6 +1,7 @@
 import { motion } from 'motion/react';
 import { ArrowUpRight } from 'lucide-react';
 import { Product } from '../types';
+import { SIDEBAR_CATEGORY_GROUPS } from '../data/products';
 
 interface CollectionCardsProps {
   onCategorySelect: (category: string) => void;
@@ -8,58 +9,15 @@ interface CollectionCardsProps {
 }
 
 export default function CollectionCards({ onCategorySelect, products }: CollectionCardsProps) {
-  const collections = [
-    {
-      name: 'KORE',
-      image: '/src/assets/images/faucet_gold_1783997883851.jpg',
-      tagline: 'Minimalist Gold Brass Mixers',
-    },
-    {
-      name: 'DUNE',
-      image: 'https://images.unsplash.com/photo-1620626011160-9928f1b9b630?auto=format&fit=crop&q=80&w=600',
-      tagline: 'Organic Marble Vessels',
-    },
-    {
-      name: 'DUERO',
-      image: 'https://images.unsplash.com/photo-1559839734-2b71ea197ec2?auto=format&fit=crop&q=80&w=600',
-      tagline: 'Thermostatic & Kitchen Systems',
-    },
-    {
-      name: 'DART',
-      image: 'https://images.unsplash.com/photo-1540518614846-7eded433c457?auto=format&fit=crop&q=80&w=600',
-      tagline: 'Sharp Angular Masterpieces',
-    },
-    {
-      name: 'FACET',
-      image: 'https://images.unsplash.com/photo-1521485950395-bcfb8fc9bd06?auto=format&fit=crop&q=80&w=600',
-      tagline: 'Geometric Luxury Fillers',
-    },
-    {
-      name: 'QUADRA',
-      image: 'https://images.unsplash.com/photo-1618219908412-a29a1bb7b86e?auto=format&fit=crop&q=80&w=600',
-      tagline: 'Pure Cubist Sanitaryware',
-    },
-    {
-      name: 'ARNO',
-      image: 'https://images.unsplash.com/photo-1502005229762-fc1b2b812ca5?auto=format&fit=crop&q=80&w=600',
-      tagline: 'Intelligent Hygienic Suites',
-    },
-    {
-      name: 'RIDGE',
-      image: 'https://images.unsplash.com/photo-1616486338812-3dadae4b4ace?auto=format&fit=crop&q=80&w=600',
-      tagline: 'Ribbed Tactile Craftsmanship',
-    },
-    {
-      name: 'DECK',
-      image: '/src/assets/images/bathtub_luxury_1783997908810.jpg',
-      tagline: 'Freestanding Stone Soakers',
-    },
-    {
-      name: 'SHOWERS',
-      image: '/src/assets/images/shower_rain_1783997896550.jpg',
-      tagline: 'Air-Boost Overheads & Columns',
-    },
-  ];
+  const collections = SIDEBAR_CATEGORY_GROUPS.flatMap((group) =>
+    group.categories.map((category) => ({
+      id: category.id,
+      name: category.name,
+      tagline: group.name,
+      image:
+        'https://images.unsplash.com/photo-1620626011761-996317b8d101?auto=format&fit=crop&q=80&w=600',
+    })),
+  );
 
   return (
     <section className="bg-brand-black px-6 py-24 sm:px-8 lg:px-12">
@@ -85,12 +43,12 @@ export default function CollectionCards({ onCategorySelect, products }: Collecti
             // Give the first and last cards a double-span layout on desktop for elegant asymmetry
             const isLargeSpan = index === 0 || index === 5;
             const collectionProductCount = products.filter(
-              (p) => p.collection.toUpperCase() === col.name.toUpperCase()
+              (p) => p.collection.toLowerCase() === col.id.toLowerCase()
             ).length;
             const countLabel = `${collectionProductCount} ${collectionProductCount === 1 ? 'Product' : 'Products'}`;
             
             // Prefer the first product image from the products list for this collection
-            const productImage = products.find((p) => p.collection.toUpperCase() === col.name.toUpperCase())?.image;
+            const productImage = products.find((p) => p.collection.toLowerCase() === col.id.toLowerCase())?.image;
             const imageSrc = productImage ?? col.image;
             
             return (
@@ -103,7 +61,7 @@ export default function CollectionCards({ onCategorySelect, products }: Collecti
                 className={`group relative h-96 cursor-pointer overflow-hidden rounded-none border border-brand-border bg-brand-dark-gray transition-all hover:border-white/20 w-[80vw] max-w-85 shrink-0 snap-center sm:w-auto sm:max-w-none sm:shrink sm:snap-align-none ${
                   isLargeSpan ? 'lg:col-span-2' : 'lg:col-span-1'
                 }`}
-                onClick={() => onCategorySelect(col.name)}
+                onClick={() => onCategorySelect(col.id)}
               >
                 {/* Background image zoom-in on hover */}
                 <div className="absolute inset-0 z-0">

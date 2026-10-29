@@ -237,10 +237,10 @@ export const Footer: React.FC<FooterProps> = ({ onNavigate, showContactSection =
                     </li>
                     <li>
                       <button
-                        onClick={() => navigateToCatalog('SHOWERS')}
+                        onClick={() => navigateToCatalog('OVERHEAD SHOWERS')}
                         className="hover:text-white transition-colors cursor-pointer text-left"
                       >
-                        Showers collection
+                        Overhead showers
                       </button>
                     </li>
                   </ul>

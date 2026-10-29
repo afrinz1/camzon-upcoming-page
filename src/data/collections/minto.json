@@ -1,0 +1,776 @@
+[
+  {
+    "id": "camzon-product-001",
+    "slug": "camzon-basin-mixer-cam-bm-mi-001",
+    "title": "Basin Mixer",
+    "subtitle": "SINGLE LEVER",
+    "category": "Minto",
+    "price": 120.00,
+    "originalPrice": 150.00,
+    "rating": 0,
+    "reviewsCount": 0,
+    "isNew": false,
+    "isSale": false,
+    "isFeatured": false,
+    "badge": null,
+    "stockCount": 0,
+    "sku": "CAM-BM-MI-001",
+    "colors": [
+      {
+        "name": "Chrome",
+        "hex": "#E5E7EB"
+      }
+    ],
+    "images": [],
+    "description": "Sleek single lever basin mixer from the Minto collection featuring a cylindrical brass body and ergonomic flat handle.",
+    "story": "Part of the refined Minto collection, bringing smooth single-lever operation and contemporary cylindrical styling to modern bathroom counters.",
+    "details": [
+      "Single lever control handle",
+      "Deck mounted installation",
+      "Polished chrome finish"
+    ],
+    "specs": {
+      "productType": "Basin Mixer",
+      "finish": "Chrome",
+      "color": "Chrome",
+      "mountingType": "Deck Mounted",
+      "controlType": "Single Lever",
+      "material": "Not specified",
+      "dimensions": "Not specified",
+      "waterFlowRate": "Not specified",
+      "warranty": "Not specified"
+    },
+    "reviews": []
+  },
+  {
+    "id": "camzon-product-002",
+    "slug": "camzon-pillar-cock-extended-cam-pc-mi-001",
+    "title": "Pillar Cock Extended",
+    "subtitle": "EXTENDED",
+    "category": "Minto",
+    "price": 110.00,
+    "originalPrice": 135.00,
+    "rating": 0,
+    "reviewsCount": 0,
+    "isNew": false,
+    "isSale": false,
+    "isFeatured": false,
+    "badge": null,
+    "stockCount": 0,
+    "sku": "CAM-PC-MI-001",
+    "colors": [
+      {
+        "name": "Chrome",
+        "hex": "#E5E7EB"
+      }
+    ],
+    "images": [],
+    "description": "Extended tall pillar cock designed for vessel counter-top washbasins requiring elevated spout clearance.",
+    "story": "Engineered for counter-top bowl basins, delivering tall vertical proportions and smooth water stream delivery.",
+    "details": [
+      "Extended tall body design",
+      "Deck mounted fitting",
+      "Polished chrome finish"
+    ],
+    "specs": {
+      "productType": "Pillar Cock",
+      "finish": "Chrome",
+      "color": "Chrome",
+      "mountingType": "Deck Mounted",
+      "controlType": "Not specified",
+      "material": "Not specified",
+      "dimensions": "Not specified",
+      "waterFlowRate": "Not specified",
+      "warranty": "Not specified"
+    },
+    "reviews": []
+  },
+  {
+    "id": "camzon-product-003",
+    "slug": "camzon-pillar-cock-150mm-cam-pc-mi-002",
+    "title": "Pillar Cock 150mm",
+    "subtitle": "150mm",
+    "category": "Minto",
+    "price": 95.00,
+    "originalPrice": 120.00,
+    "rating": 0,
+    "reviewsCount": 0,
+    "isNew": false,
+    "isSale": false,
+    "isFeatured": false,
+    "badge": null,
+    "stockCount": 0,
+    "sku": "CAM-PC-MI-002",
+    "colors": [
+      {
+        "name": "Chrome",
+        "hex": "#E5E7EB"
+      }
+    ],
+    "images": [],
+    "description": "150mm deck mounted pillar cock with slim body, forward spout, and flat turn-handle top.",
+    "story": "A stylish 150mm pillar cock providing precise water activation and clean minimalist aesthetics for standard washbasins.",
+    "details": [
+      "150mm overall height",
+      "Deck mounted installation",
+      "Chrome plated finish"
+    ],
+    "specs": {
+      "productType": "Pillar Cock",
+      "finish": "Chrome",
+      "color": "Chrome",
+      "mountingType": "Deck Mounted",
+      "controlType": "Not specified",
+      "material": "Not specified",
+      "dimensions": "150mm",
+      "waterFlowRate": "Not specified",
+      "warranty": "Not specified"
+    },
+    "reviews": []
+  },
+  {
+    "id": "camzon-product-004",
+    "slug": "camzon-pillar-cock-100mm-cam-pc-mi-003",
+    "title": "Pillar Cock 100mm",
+    "subtitle": "100mm",
+    "category": "Minto",
+    "price": 85.00,
+    "originalPrice": 105.00,
+    "rating": 0,
+    "reviewsCount": 0,
+    "isNew": false,
+    "isSale": false,
+    "isFeatured": false,
+    "badge": null,
+    "stockCount": 0,
+    "sku": "CAM-PC-MI-003",
+    "colors": [
+      {
+        "name": "Chrome",
+        "hex": "#E5E7EB"
+      }
+    ],
+    "images": [],
+    "description": "Compact 100mm pillar cock offering dependable water flow control in a low-profile cylindrical design.",
+    "story": "Designed for smaller vanity spaces, combining space-saving height with durable Minto series manufacturing.",
+    "details": [
+      "100mm overall height",
+      "Deck mounted installation",
+      "Polished chrome finish"
+    ],
+    "specs": {
+      "productType": "Pillar Cock",
+      "finish": "Chrome",
+      "color": "Chrome",
+      "mountingType": "Deck Mounted",
+      "controlType": "Not specified",
+      "material": "Not specified",
+      "dimensions": "100mm",
+      "waterFlowRate": "Not specified",
+      "warranty": "Not specified"
+    },
+    "reviews": []
+  },
+  {
+    "id": "camzon-product-005",
+    "slug": "camzon-bib-cock-long-nose-cam-bc-mi-001",
+    "title": "Bib Cock Long Nose",
+    "subtitle": "LONG NOSE",
+    "category": "Minto",
+    "price": 75.00,
+    "originalPrice": 95.00,
+    "rating": 0,
+    "reviewsCount": 0,
+    "isNew": false,
+    "isSale": false,
+    "isFeatured": false,
+    "badge": null,
+    "stockCount": 0,
+    "sku": "CAM-BC-MI-001",
+    "colors": [
+      {
+        "name": "Chrome",
+        "hex": "#E5E7EB"
+      }
+    ],
+    "images": [],
+    "description": "Wall-mounted long nose bib cock with extended spout reach and top-lever control handle.",
+    "story": "Extends spout reach further out from the wall for convenient bucket filling and utility washing.",
+    "details": [
+      "Wall mounted fitting",
+      "Extended long nose spout",
+      "Polished chrome finish"
+    ],
+    "specs": {
+      "productType": "Bib Cock",
+      "finish": "Chrome",
+      "color": "Chrome",
+      "mountingType": "Wall Mounted",
+      "controlType": "Not specified",
+      "material": "Not specified",
+      "dimensions": "Not specified",
+      "waterFlowRate": "Not specified",
+      "warranty": "Not specified"
+    },
+    "reviews": []
+  },
+  {
+    "id": "camzon-product-006",
+    "slug": "camzon-bib-cock-two-way-cam-bc-mi-002",
+    "title": "Bib Cock Two Way",
+    "subtitle": "TWO WAY",
+    "category": "Minto",
+    "price": 90.00,
+    "originalPrice": 115.00,
+    "rating": 0,
+    "reviewsCount": 0,
+    "isNew": false,
+    "isSale": false,
+    "isFeatured": false,
+    "badge": null,
+    "stockCount": 0,
+    "sku": "CAM-BC-MI-002",
+    "colors": [
+      {
+        "name": "Chrome",
+        "hex": "#E5E7EB"
+      }
+    ],
+    "images": [],
+    "description": "Wall-mounted two-way bib cock featuring a square backplate, main spout, and bottom health faucet attachment.",
+    "story": "Delivers versatile dual water distribution from a single wall point for modern sanitary spaces.",
+    "details": [
+      "Wall mounted with square flange plate",
+      "Dual water outlets",
+      "Polished chrome finish"
+    ],
+    "specs": {
+      "productType": "Bib Cock",
+      "finish": "Chrome",
+      "color": "Chrome",
+      "mountingType": "Wall Mounted",
+      "controlType": "Not specified",
+      "material": "Not specified",
+      "dimensions": "Not specified",
+      "waterFlowRate": "Not specified",
+      "warranty": "Not specified"
+    },
+    "reviews": []
+  },
+  {
+    "id": "camzon-product-007",
+    "slug": "camzon-basin-mixer-wall-mounted-cam-bm-mi-002",
+    "title": "Basin Mixer Wall Mounted",
+    "subtitle": "WALL MOUNTED",
+    "category": "Minto",
+    "price": 135.00,
+    "originalPrice": 165.00,
+    "rating": 0,
+    "reviewsCount": 0,
+    "isNew": false,
+    "isSale": false,
+    "isFeatured": false,
+    "badge": null,
+    "stockCount": 0,
+    "sku": "CAM-BM-MI-002",
+    "colors": [
+      {
+        "name": "Chrome",
+        "hex": "#E5E7EB"
+      }
+    ],
+    "images": [],
+    "description": "Wall-mounted basin mixer featuring a high-curved arch spout and central lever control.",
+    "story": "Creates a clean wall-mounted installation while offering high clearance for effortless basin washing.",
+    "details": [
+      "Wall mounted installation",
+      "High-curved arch spout",
+      "Single lever water control"
+    ],
+    "specs": {
+      "productType": "Basin Mixer",
+      "finish": "Chrome",
+      "color": "Chrome",
+      "mountingType": "Wall Mounted",
+      "controlType": "Single Lever",
+      "material": "Not specified",
+      "dimensions": "Not specified",
+      "waterFlowRate": "Not specified",
+      "warranty": "Not specified"
+    },
+    "reviews": []
+  },
+  {
+    "id": "camzon-product-008",
+    "slug": "camzon-sink-cock-single-lever-cam-sc-mi-001",
+    "title": "Sink Cock Single Lever",
+    "subtitle": "SINGLE LEVER",
+    "category": "Minto",
+    "price": 105.00,
+    "originalPrice": 130.00,
+    "rating": 0,
+    "reviewsCount": 0,
+    "isNew": false,
+    "isSale": false,
+    "isFeatured": false,
+    "badge": null,
+    "stockCount": 0,
+    "sku": "CAM-SC-MI-001",
+    "colors": [
+      {
+        "name": "Chrome",
+        "hex": "#E5E7EB"
+      }
+    ],
+    "images": [],
+    "description": "Wall-mounted single lever sink cock with a high gooseneck spout for optimal kitchen sink reach.",
+    "story": "Designed for maximum utility at the sink counter, combining high gooseneck clearance with smooth handle regulation.",
+    "details": [
+      "Wall mounted single lever control",
+      "High gooseneck spout",
+      "Polished chrome finish"
+    ],
+    "specs": {
+      "productType": "Sink Cock",
+      "finish": "Chrome",
+      "color": "Chrome",
+      "mountingType": "Wall Mounted",
+      "controlType": "Single Lever",
+      "material": "Not specified",
+      "dimensions": "Not specified",
+      "waterFlowRate": "Not specified",
+      "warranty": "Not specified"
+    },
+    "reviews": []
+  },
+  {
+    "id": "camzon-product-009",
+    "slug": "camzon-sink-cock-deck-mounted-cam-sc-mi-002",
+    "title": "Sink Cock Deck Mounted",
+    "subtitle": "DECK MOUNTED SINGLE LEVER",
+    "category": "Minto",
+    "price": 115.00,
+    "originalPrice": 140.00,
+    "rating": 0,
+    "reviewsCount": 0,
+    "isNew": false,
+    "isSale": false,
+    "isFeatured": false,
+    "badge": null,
+    "stockCount": 0,
+    "sku": "CAM-SC-MI-002",
+    "colors": [
+      {
+        "name": "Chrome",
+        "hex": "#E5E7EB"
+      }
+    ],
+    "images": [],
+    "description": "Deck-mounted single lever sink cock with a sweeping arch spout and front-facing control lever.",
+    "story": "Combines table-mounted convenience with a sweeping curved spout, perfect for kitchen counters and utility basins.",
+    "details": [
+      "Deck mounted single lever handle",
+      "Sweeping arch spout",
+      "Chrome plated brass body"
+    ],
+    "specs": {
+      "productType": "Sink Cock",
+      "finish": "Chrome",
+      "color": "Chrome",
+      "mountingType": "Deck Mounted",
+      "controlType": "Single Lever",
+      "material": "Not specified",
+      "dimensions": "Not specified",
+      "waterFlowRate": "Not specified",
+      "warranty": "Not specified"
+    },
+    "reviews": []
+  },
+  {
+    "id": "camzon-product-001",
+    "slug": "camzon-basin-mixer-concealed-wall-mounted-cam-bm-mi-003",
+    "title": "Basin Mixer",
+    "subtitle": "CONCEALED - WALL MOUNTED",
+    "category": "Minto",
+    "price": 145.00,
+    "originalPrice": 175.00,
+    "rating": 0,
+    "reviewsCount": 0,
+    "isNew": false,
+    "isSale": false,
+    "isFeatured": false,
+    "badge": null,
+    "stockCount": 0,
+    "sku": "CAM-BM-MI-003",
+    "colors": [
+      {
+        "name": "Chrome",
+        "hex": "#E5E7EB"
+      }
+    ],
+    "images": [],
+    "description": "Concealed wall-mounted single lever basin mixer featuring a rectangular backplate trim and flat rectangular spout.",
+    "story": "Part of the Minto concealed range, engineered to create a clean minimalist countertop presentation by embedding plumbing in the wall.",
+    "details": [
+      "Concealed wall-mounted body",
+      "Single lever control handle",
+      "Rectangular wall flange plate"
+    ],
+    "specs": {
+      "productType": "Basin Mixer",
+      "finish": "Chrome",
+      "color": "Chrome",
+      "mountingType": "Concealed Wall Mounted",
+      "controlType": "Single Lever",
+      "material": "Not specified",
+      "dimensions": "Not specified",
+      "waterFlowRate": "Not specified",
+      "warranty": "Not specified"
+    },
+    "reviews": []
+  },
+  {
+    "id": "camzon-product-002",
+    "slug": "camzon-bath-mixer-single-lever-cam-ob-mi-001",
+    "title": "Bath Mixer",
+    "subtitle": "SINGLE LEVER",
+    "category": "Minto",
+    "price": 160.00,
+    "originalPrice": 190.00,
+    "rating": 0,
+    "reviewsCount": 0,
+    "isNew": false,
+    "isSale": false,
+    "isFeatured": false,
+    "badge": null,
+    "stockCount": 0,
+    "sku": "CAM-OB-MI-001",
+    "colors": [
+      {
+        "name": "Chrome",
+        "hex": "#E5E7EB"
+      }
+    ],
+    "images": [],
+    "description": "Wall-mounted single lever bath mixer with integrated diverter switch and standard shower hose connector.",
+    "story": "Combines streamlined lever control with reliable diverter performance for easy switching between bathtub filling and shower flow.",
+    "details": [
+      "Wall mounted single lever mixer",
+      "Integrated bath/shower diverter knob",
+      "Polished chrome finish"
+    ],
+    "specs": {
+      "productType": "Bath Mixer",
+      "finish": "Chrome",
+      "color": "Chrome",
+      "mountingType": "Wall Mounted",
+      "controlType": "Single Lever",
+      "material": "Not specified",
+      "dimensions": "Not specified",
+      "waterFlowRate": "Not specified",
+      "warranty": "Not specified"
+    },
+    "reviews": []
+  },
+  {
+    "id": "camzon-product-003",
+    "slug": "camzon-divertor-body-upper-trim-cam-ob-mi-002",
+    "title": "Divertor Body",
+    "subtitle": "UPPER TRIM",
+    "category": "Minto",
+    "price": 95.00,
+    "originalPrice": 120.00,
+    "rating": 0,
+    "reviewsCount": 0,
+    "isNew": false,
+    "isSale": false,
+    "isFeatured": false,
+    "badge": null,
+    "stockCount": 0,
+    "sku": "CAM-OB-MI-002",
+    "colors": [
+      {
+        "name": "Chrome",
+        "hex": "#E5E7EB"
+      }
+    ],
+    "images": [],
+    "description": "Concealed shower divertor upper trim set featuring a circular backplate, single lever, and top diverter knob.",
+    "story": "Delivers smooth two-way water flow control between shower heads and tub spouts within a sleek circular wall plate.",
+    "details": [
+      "Circular wall backplate",
+      "Single lever control with diverter button",
+      "Chrome plated finish"
+    ],
+    "specs": {
+      "productType": "Divertor Trim",
+      "finish": "Chrome",
+      "color": "Chrome",
+      "mountingType": "Wall Mounted",
+      "controlType": "Single Lever",
+      "material": "Not specified",
+      "dimensions": "Not specified",
+      "waterFlowRate": "Not specified",
+      "warranty": "Not specified"
+    },
+    "reviews": []
+  },
+  {
+    "id": "camzon-product-004",
+    "slug": "camzon-button-spout-wall-flange-cam-wf-mi-001",
+    "title": "Button Spout",
+    "subtitle": "WALL FLANGE",
+    "category": "Minto",
+    "price": 85.00,
+    "originalPrice": 105.00,
+    "rating": 0,
+    "reviewsCount": 0,
+    "isNew": false,
+    "isSale": false,
+    "isFeatured": false,
+    "badge": null,
+    "stockCount": 0,
+    "sku": "CAM-WF-MI-001",
+    "colors": [
+      {
+        "name": "Chrome",
+        "hex": "#E5E7EB"
+      }
+    ],
+    "images": [],
+    "description": "Wall-mounted square profile bath spout with an integrated push-button diverter mechanism.",
+    "story": "Delivers clean tub filling while giving touch-button diversion control to redirect water to a hand shower.",
+    "details": [
+      "Wall mounted with square flange",
+      "Integrated push-button diverter",
+      "Square linear spout profile"
+    ],
+    "specs": {
+      "productType": "Bath Spout",
+      "finish": "Chrome",
+      "color": "Chrome",
+      "mountingType": "Wall Mounted",
+      "controlType": "Push Button Diverter",
+      "material": "Not specified",
+      "dimensions": "Not specified",
+      "waterFlowRate": "Not specified",
+      "warranty": "Not specified"
+    },
+    "reviews": []
+  },
+  {
+    "id": "camzon-product-005",
+    "slug": "camzon-bath-spout-wall-flange-cam-wf-mi-002",
+    "title": "Bath Spout",
+    "subtitle": "WALL FLANGE",
+    "category": "Minto",
+    "price": 75.00,
+    "originalPrice": 95.00,
+    "rating": 0,
+    "reviewsCount": 0,
+    "isNew": false,
+    "isSale": false,
+    "isFeatured": false,
+    "badge": null,
+    "stockCount": 0,
+    "sku": "CAM-WF-MI-002",
+    "colors": [
+      {
+        "name": "Chrome",
+        "hex": "#E5E7EB"
+      }
+    ],
+    "images": [],
+    "description": "Wall-mounted plain bath spout with circular wall flange and streamlined downward spout outlet.",
+    "story": "A elegant plain bath filler spout designed for concealed shower valves with a high-luster polished finish.",
+    "details": [
+      "Wall mounted plain spout",
+      "Circular wall rosette plate",
+      "Polished chrome finish"
+    ],
+    "specs": {
+      "productType": "Bath Spout",
+      "finish": "Chrome",
+      "color": "Chrome",
+      "mountingType": "Wall Mounted",
+      "controlType": "Not specified",
+      "material": "Not specified",
+      "dimensions": "Not specified",
+      "waterFlowRate": "Not specified",
+      "warranty": "Not specified"
+    },
+    "reviews": []
+  },
+  {
+    "id": "camzon-product-006",
+    "slug": "camzon-wall-mixer-two-lever-w-bend-cam-wm-mi-001",
+    "title": "Wall Mixer",
+    "subtitle": "TWO LEVER W BEND",
+    "category": "Minto",
+    "price": 160.00,
+    "originalPrice": 195.00,
+    "rating": 0,
+    "reviewsCount": 0,
+    "isNew": false,
+    "isSale": false,
+    "isFeatured": false,
+    "badge": null,
+    "stockCount": 0,
+    "sku": "CAM-WM-MI-001",
+    "colors": [
+      {
+        "name": "Chrome",
+        "hex": "#E5E7EB"
+      }
+    ],
+    "images": [],
+    "description": "Wall-mounted two lever bath and shower mixer fitted with an overhead shower bend pipe riser connection.",
+    "story": "Classic two-handle wall mixer design giving precise hot and cold water blending alongside overhead shower pipe outlet.",
+    "details": [
+      "Wall mounted two-handle controls",
+      "Overhead shower bend pipe inlet",
+      "Solid brass wall connections"
+    ],
+    "specs": {
+      "productType": "Wall Mixer",
+      "finish": "Chrome",
+      "color": "Chrome",
+      "mountingType": "Wall Mounted",
+      "controlType": "Two Lever",
+      "material": "Not specified",
+      "dimensions": "Not specified",
+      "waterFlowRate": "Not specified",
+      "warranty": "Not specified"
+    },
+    "reviews": []
+  },
+  {
+    "id": "camzon-product-007",
+    "slug": "camzon-stop-cock-concealed-upper-trim-cam-ob-mi-003",
+    "title": "Stop Cock",
+    "subtitle": "CONCEALED - UPPER TRIM",
+    "category": "Minto",
+    "price": 45.00,
+    "originalPrice": 60.00,
+    "rating": 0,
+    "reviewsCount": 0,
+    "isNew": false,
+    "isSale": false,
+    "isFeatured": false,
+    "badge": null,
+    "stockCount": 0,
+    "sku": "CAM-OB-MI-003",
+    "colors": [
+      {
+        "name": "Chrome",
+        "hex": "#E5E7EB"
+      }
+    ],
+    "images": [],
+    "description": "Concealed stop cock upper trim featuring a round flange base and flat lever handle knob.",
+    "story": "Designed for in-wall main line shut-off valves, offering easy surface operation with clean concealed mounting.",
+    "details": [
+      "Concealed wall trim kit",
+      "Circular wall flange",
+      "Flat control lever knob"
+    ],
+    "specs": {
+      "productType": "Stop Cock",
+      "finish": "Chrome",
+      "color": "Chrome",
+      "mountingType": "Concealed Wall Mounted",
+      "controlType": "Single Lever",
+      "material": "Not specified",
+      "dimensions": "Not specified",
+      "waterFlowRate": "Not specified",
+      "warranty": "Not specified"
+    },
+    "reviews": []
+  },
+  {
+    "id": "camzon-product-008",
+    "slug": "camzon-angle-cock-cam-ob-mi-004",
+    "title": "Angle Cock",
+    "subtitle": "SINGLE OUTLET",
+    "category": "Minto",
+    "price": 40.00,
+    "originalPrice": 55.00,
+    "rating": 0,
+    "reviewsCount": 0,
+    "isNew": false,
+    "isSale": false,
+    "isFeatured": false,
+    "badge": null,
+    "stockCount": 0,
+    "sku": "CAM-OB-MI-004",
+    "colors": [
+      {
+        "name": "Chrome",
+        "hex": "#E5E7EB"
+      }
+    ],
+    "images": [],
+    "description": "Wall-mounted angle cock valve with vertical flat lever, circular wall plate, and threaded water supply outlet.",
+    "story": "An essential wall supply valve for connecting health faucets, water heaters, and vanity tap flex hoses.",
+    "details": [
+      "Wall mounted angle shut-off valve",
+      "Vertical flat lever handle",
+      "Polished chrome finish"
+    ],
+    "specs": {
+      "productType": "Angle Cock",
+      "finish": "Chrome",
+      "color": "Chrome",
+      "mountingType": "Wall Mounted",
+      "controlType": "Single Lever",
+      "material": "Not specified",
+      "dimensions": "Not specified",
+      "waterFlowRate": "Not specified",
+      "warranty": "Not specified"
+    },
+    "reviews": []
+  },
+  {
+    "id": "camzon-product-009",
+    "slug": "camzon-angle-cock-two-way-cam-ob-mi-005",
+    "title": "Angle Cock Two Way",
+    "subtitle": "TWO WAY",
+    "category": "Minto",
+    "price": 60.00,
+    "originalPrice": 75.00,
+    "rating": 0,
+    "reviewsCount": 0,
+    "isNew": false,
+    "isSale": false,
+    "isFeatured": false,
+    "badge": null,
+    "stockCount": 0,
+    "sku": "CAM-OB-MI-005",
+    "colors": [
+      {
+        "name": "Chrome",
+        "hex": "#E5E7EB"
+      }
+    ],
+    "images": [],
+    "description": "Wall-mounted two-way angle valve featuring dual outlet threads and independent lever controls.",
+    "story": "Provides versatile dual-line water supply from a single wall point, perfect for toilet hand sprays and cistern feeds.",
+    "details": [
+      "Two-way water outlet valve",
+      "Wall mounting flange",
+      "Flat lever handles"
+    ],
+    "specs": {
+      "productType": "Angle Cock",
+      "finish": "Chrome",
+      "color": "Chrome",
+      "mountingType": "Wall Mounted",
+      "controlType": "Single Lever",
+      "material": "Not specified",
+      "dimensions": "Not specified",
+      "waterFlowRate": "Not specified",
+      "warranty": "Not specified"
+    },
+    "reviews": []
+  }
+]

@@ -1,56 +1,389 @@
 [
   {
-    "id": 501,
-    "slug": "facet-1",
-    "name": "Facet Product 1",
-    "image": "https://res.cloudinary.com/dz3sbdyps/image/upload/f_auto,q_auto,w_auto/v1784080796/7c864177-89b6-4290-a7b1-dbd0bc0abda9_biwcrn.png"
+    "id": "camzon-product-001",
+    "slug": "camzon-pillar-cock-cam-pc-ft-001",
+    "title": "Pillar Cock",
+    "subtitle": "DECK MOUNTED",
+    "category": "Facet",
+    "price": 95.00,
+    "originalPrice": 120.00,
+    "rating": 0,
+    "reviewsCount": 0,
+    "isNew": false,
+    "isSale": false,
+    "isFeatured": false,
+    "badge": null,
+    "stockCount": 0,
+    "sku": "CAM-PC-FT-001",
+    "colors": [
+      {
+        "name": "Chrome",
+        "hex": "#E5E7EB"
+      }
+    ],
+    "images": [],
+    "description": "Modern pillar cock from the Facet series featuring a clean geometric block body with flat lever handle and forward spout.",
+    "story": "Part of the Facet collection, designed with crisp faceted geometric planes to bring contemporary style to washbasins.",
+    "details": [
+      "Square-profile block body design",
+      "Flat top control handle",
+      "Deck mounted fitting with chrome finish"
+    ],
+    "specs": {
+      "productType": "Pillar Cock",
+      "finish": "Chrome",
+      "color": "Chrome",
+      "mountingType": "Deck Mounted",
+      "controlType": "Single Lever",
+      "material": "Not specified",
+      "dimensions": "Not specified",
+      "waterFlowRate": "Not specified",
+      "warranty": "Not specified"
+    },
+    "reviews": []
   },
   {
-    "id": 502,
-    "slug": "facet-2",
-    "name": "Facet Product 2",
-    "image": "https://res.cloudinary.com/dz3sbdyps/image/upload/f_auto,q_auto,w_auto/v1784080780/dc9faed0-9b6c-4cf8-a319-429b4e6fffcd_ttkonm.png"
+    "id": "camzon-product-002",
+    "slug": "camzon-bib-cock-long-nose-cam-bc-ft-001",
+    "title": "Bib Cock Long Nose",
+    "subtitle": "LONG NOSE",
+    "category": "Facet",
+    "price": 75.00,
+    "originalPrice": 95.00,
+    "rating": 0,
+    "reviewsCount": 0,
+    "isNew": false,
+    "isSale": false,
+    "isFeatured": false,
+    "badge": null,
+    "stockCount": 0,
+    "sku": "CAM-BC-FT-001",
+    "colors": [
+      {
+        "name": "Chrome",
+        "hex": "#E5E7EB"
+      }
+    ],
+    "images": [],
+    "description": "Wall-mounted long nose bib cock with extended spout reach and flat faceted top control lever.",
+    "story": "Offers extended spout reach for convenient bucket filling while maintaining the bold faceted design theme.",
+    "details": [
+      "Wall mounted fitting with rosette plate",
+      "Extended long nose spout",
+      "Polished chrome finish"
+    ],
+    "specs": {
+      "productType": "Bib Cock",
+      "finish": "Chrome",
+      "color": "Chrome",
+      "mountingType": "Wall Mounted",
+      "controlType": "Not specified",
+      "material": "Not specified",
+      "dimensions": "Not specified",
+      "waterFlowRate": "Not specified",
+      "warranty": "Not specified"
+    },
+    "reviews": []
   },
   {
-    "id": 503,
-    "slug": "facet-3",
-    "name": "Facet Product 3",
-    "image": "https://res.cloudinary.com/dz3sbdyps/image/upload/f_auto,q_auto,w_auto/v1784080777/dd7142ea-5d5f-43f9-8812-b3faf233d52a_twyul3.png"
+    "id": "camzon-product-003",
+    "slug": "camzon-bib-cock-cam-bc-ft-002",
+    "title": "Bib Cock",
+    "subtitle": "WALL MOUNTED",
+    "category": "Facet",
+    "price": 65.00,
+    "originalPrice": 85.00,
+    "rating": 0,
+    "reviewsCount": 0,
+    "isNew": false,
+    "isSale": false,
+    "isFeatured": false,
+    "badge": null,
+    "stockCount": 0,
+    "sku": "CAM-BC-FT-002",
+    "colors": [
+      {
+        "name": "Chrome",
+        "hex": "#E5E7EB"
+      }
+    ],
+    "images": [],
+    "description": "Standard wall-mounted bib cock with flat top lever and geometric block spout body.",
+    "story": "A clean wall-mounted utility tap delivering long-lasting performance and crisp modern styling.",
+    "details": [
+      "Wall mounted installation",
+      "Flat top control lever",
+      "Polished chrome finish"
+    ],
+    "specs": {
+      "productType": "Bib Cock",
+      "finish": "Chrome",
+      "color": "Chrome",
+      "mountingType": "Wall Mounted",
+      "controlType": "Not specified",
+      "material": "Not specified",
+      "dimensions": "Not specified",
+      "waterFlowRate": "Not specified",
+      "warranty": "Not specified"
+    },
+    "reviews": []
   },
   {
-    "id": 504,
-    "slug": "facet-4",
-    "name": "Facet Product 4",
-    "image": "https://res.cloudinary.com/dz3sbdyps/image/upload/f_auto,q_auto,w_auto/v1784080773/59a20a26-371e-4ea0-9e22-0e013d345af6_uf1qyq.png"
+    "id": "camzon-product-004",
+    "slug": "camzon-wall-mixer-l-bend-cam-wm-ft-001",
+    "title": "Wall Mixer",
+    "subtitle": "L BEND",
+    "category": "Facet",
+    "price": 170.00,
+    "originalPrice": 205.00,
+    "rating": 0,
+    "reviewsCount": 0,
+    "isNew": false,
+    "isSale": false,
+    "isFeatured": false,
+    "badge": null,
+    "stockCount": 0,
+    "sku": "CAM-WM-FT-001",
+    "colors": [
+      {
+        "name": "Chrome",
+        "hex": "#E5E7EB"
+      }
+    ],
+    "images": [],
+    "description": "Wall-mounted two-lever bath mixer fitted with an L-bend overhead shower riser pipe connection.",
+    "story": "Engineered for shower and tub setups, combining dual faceted lever handles with overhead shower riser output.",
+    "details": [
+      "Wall mounted two-handle controls",
+      "L-bend overhead shower riser inlet",
+      "Polished chrome finish"
+    ],
+    "specs": {
+      "productType": "Wall Mixer",
+      "finish": "Chrome",
+      "color": "Chrome",
+      "mountingType": "Wall Mounted",
+      "controlType": "Two Lever",
+      "material": "Not specified",
+      "dimensions": "Not specified",
+      "waterFlowRate": "Not specified",
+      "warranty": "Not specified"
+    },
+    "reviews": []
   },
   {
-    "id": 505,
-    "slug": "facet-5",
-    "name": "Facet Product 5",
-    "image": "https://res.cloudinary.com/dz3sbdyps/image/upload/f_auto,q_auto,w_auto/v1784080772/20c46807-c910-4ff3-9d23-ca7350ef2888_ysjscy.png"
+    "id": "camzon-product-005",
+    "slug": "camzon-wall-mixer-non-telephonic-cam-wm-ft-002",
+    "title": "Wall Mixer",
+    "subtitle": "NON TELEPHONIC",
+    "category": "Facet",
+    "price": 150.00,
+    "originalPrice": 180.00,
+    "rating": 0,
+    "reviewsCount": 0,
+    "isNew": false,
+    "isSale": false,
+    "isFeatured": false,
+    "badge": null,
+    "stockCount": 0,
+    "sku": "CAM-WM-FT-002",
+    "colors": [
+      {
+        "name": "Chrome",
+        "hex": "#E5E7EB"
+      }
+    ],
+    "images": [],
+    "description": "Wall-mounted two-lever non-telephonic bath mixer with a low-slung spout for direct bathtub filling.",
+    "story": "Dedicated bathtub filler mixer providing distinct hot and cold water mixing via ergonomic flat handles.",
+    "details": [
+      "Wall mounted two-handle controls",
+      "Lower bath filler spout",
+      "Dual wall flange mounts"
+    ],
+    "specs": {
+      "productType": "Wall Mixer",
+      "finish": "Chrome",
+      "color": "Chrome",
+      "mountingType": "Wall Mounted",
+      "controlType": "Two Lever",
+      "material": "Not specified",
+      "dimensions": "Not specified",
+      "waterFlowRate": "Not specified",
+      "warranty": "Not specified"
+    },
+    "reviews": []
   },
   {
-    "id": 506,
-    "slug": "facet-6",
-    "name": "Facet Product 6",
-    "image": "https://res.cloudinary.com/dz3sbdyps/image/upload/f_auto,q_auto,w_auto/v1784080770/69557d7b-5620-4adb-bffd-d1ca2d5b4d9e_ja8ywx.png"
+    "id": "camzon-product-006",
+    "slug": "camzon-sink-mixer-j-bend-spout-cam-sm-ft-001",
+    "title": "Sink Mixer",
+    "subtitle": "J BEND SPOUT",
+    "category": "Facet",
+    "price": 140.00,
+    "originalPrice": 170.00,
+    "rating": 0,
+    "reviewsCount": 0,
+    "isNew": false,
+    "isSale": false,
+    "isFeatured": false,
+    "badge": null,
+    "stockCount": 0,
+    "sku": "CAM-SM-FT-001",
+    "colors": [
+      {
+        "name": "Chrome",
+        "hex": "#E5E7EB"
+      }
+    ],
+    "images": [],
+    "description": "Wall-mounted two-lever sink mixer featuring a tall J-bend high-clearance spout for washing cookware.",
+    "story": "Combines high J-bend spout clearance with dual-handle mixing precision for heavy-duty sink utility.",
+    "details": [
+      "Wall mounted dual lever mixer",
+      "Tall J-bend swivel spout",
+      "Polished chrome finish"
+    ],
+    "specs": {
+      "productType": "Sink Mixer",
+      "finish": "Chrome",
+      "color": "Chrome",
+      "mountingType": "Wall Mounted",
+      "controlType": "Two Lever",
+      "material": "Not specified",
+      "dimensions": "Not specified",
+      "waterFlowRate": "Not specified",
+      "warranty": "Not specified"
+    },
+    "reviews": []
   },
   {
-    "id": 507,
-    "slug": "facet-7",
-    "name": "Facet Product 7",
-    "image": "https://res.cloudinary.com/dz3sbdyps/image/upload/f_auto,q_auto,w_auto/v1784080769/df9305e0-3d59-4457-bc67-3efd49e2531d_fnh4bm.png"
+    "id": "camzon-product-007",
+    "slug": "camzon-basin-mixer-centre-hole-cam-bm-ft-001",
+    "title": "Basin Mixer",
+    "subtitle": "CENTRE HOLE",
+    "category": "Facet",
+    "price": 130.00,
+    "originalPrice": 160.00,
+    "rating": 0,
+    "reviewsCount": 0,
+    "isNew": false,
+    "isSale": false,
+    "isFeatured": false,
+    "badge": null,
+    "stockCount": 0,
+    "sku": "CAM-BM-FT-001",
+    "colors": [
+      {
+        "name": "Chrome",
+        "hex": "#E5E7EB"
+      }
+    ],
+    "images": [],
+    "description": "Centre-hole deck mounted basin mixer with dual side levers and a high gooseneck spout.",
+    "story": "Designed for single centre-hole basin installations, combining tall gooseneck aesthetics with dual-lever temperature control.",
+    "details": [
+      "Single centre-hole deck fitting",
+      "Tall gooseneck spout",
+      "Dual side control levers"
+    ],
+    "specs": {
+      "productType": "Basin Mixer",
+      "finish": "Chrome",
+      "color": "Chrome",
+      "mountingType": "Deck Mounted",
+      "controlType": "Two Lever",
+      "material": "Not specified",
+      "dimensions": "Not specified",
+      "waterFlowRate": "Not specified",
+      "warranty": "Not specified"
+    },
+    "reviews": []
   },
   {
-    "id": 508,
-    "slug": "facet-8",
-    "name": "Facet Product 8",
-    "image": "https://res.cloudinary.com/dz3sbdyps/image/upload/f_auto,q_auto,w_auto/v1784080768/dd7142ea-5d5f-43f9-8812-b3faf233d52a_1_h0kbaf.png"
+    "id": "camzon-product-008",
+    "slug": "camzon-sink-cock-single-lever-cam-sc-ko-001",
+    "title": "Sink Cock",
+    "subtitle": "SINGLE LEVER",
+    "category": "Facet",
+    "price": 105.00,
+    "originalPrice": 130.00,
+    "rating": 0,
+    "reviewsCount": 0,
+    "isNew": false,
+    "isSale": false,
+    "isFeatured": false,
+    "badge": null,
+    "stockCount": 0,
+    "sku": "CAM-SC-KO-001",
+    "colors": [
+      {
+        "name": "Chrome",
+        "hex": "#E5E7EB"
+      }
+    ],
+    "images": [],
+    "description": "Wall-mounted single lever sink cock featuring a tall gooseneck spout and vertical lever control.",
+    "story": "Delivers generous spout clearance for kitchen sinks while saving countertop installation space.",
+    "details": [
+      "Wall mounted single lever handle",
+      "Tall gooseneck spout",
+      "Polished chrome finish"
+    ],
+    "specs": {
+      "productType": "Sink Cock",
+      "finish": "Chrome",
+      "color": "Chrome",
+      "mountingType": "Wall Mounted",
+      "controlType": "Single Lever",
+      "material": "Not specified",
+      "dimensions": "Not specified",
+      "waterFlowRate": "Not specified",
+      "warranty": "Not specified"
+    },
+    "reviews": []
   },
   {
-    "id": 509,
-    "slug": "facet-9",
-    "name": "Facet Product 9",
-    "image": "https://res.cloudinary.com/dz3sbdyps/image/upload/f_auto,q_auto,w_auto/v1784080763/dfa9633e-0fd7-4ff3-8f79-5cc6d1fa9570_wsoljz.png"
+    "id": "camzon-product-009",
+    "slug": "camzon-angle-valve-cam-sc-ko-002",
+    "title": "Angle Valve",
+    "subtitle": "SINGLE OUTLET",
+    "category": "Facet",
+    "price": 40.00,
+    "originalPrice": 55.00,
+    "rating": 0,
+    "reviewsCount": 0,
+    "isNew": false,
+    "isSale": false,
+    "isFeatured": false,
+    "badge": null,
+    "stockCount": 0,
+    "sku": "CAM-SC-KO-002",
+    "colors": [
+      {
+        "name": "Chrome",
+        "hex": "#E5E7EB"
+      }
+    ],
+    "images": [],
+    "description": "Wall-mounted angle valve featuring a flat vertical lever handle and round wall flange.",
+    "story": "A compact water isolation valve designed for health faucets, toilets, and geyser supply connections.",
+    "details": [
+      "Wall mounted angle valve",
+      "Flat vertical control lever",
+      "Polished chrome finish"
+    ],
+    "specs": {
+      "productType": "Angle Valve",
+      "finish": "Chrome",
+      "color": "Chrome",
+      "mountingType": "Wall Mounted",
+      "controlType": "Single Lever",
+      "material": "Not specified",
+      "dimensions": "Not specified",
+      "waterFlowRate": "Not specified",
+      "warranty": "Not specified"
+    },
+    "reviews": []
   }
 ]

@@ -1,20 +1,131 @@
 [
   {
-    "id": 901,
-    "slug": "deck-1",
-    "name": "Deck Product 1",
-    "image": "https://res.cloudinary.com/dz3sbdyps/image/upload/f_auto,q_auto,w_auto/v1784080783/1ca5ac5f-7fc8-4cff-9869-7b12dd5a42db_w6se0y.png"
+    "id": "camzon-product-001",
+    "slug": "camzon-pillar-cock-cam-pc-dk-001",
+    "title": "Pillar Cock",
+    "subtitle": "DECK MOUNTED",
+    "category": "Deck",
+    "price": 90.00,
+    "originalPrice": 115.00,
+    "rating": 0,
+    "reviewsCount": 0,
+    "isNew": false,
+    "isSale": false,
+    "isFeatured": false,
+    "badge": null,
+    "stockCount": 0,
+    "sku": "CAM-PC-DK-001",
+    "colors": [
+      {
+        "name": "Chrome",
+        "hex": "#E5E7EB"
+      }
+    ],
+    "images": [],
+    "description": "Sleek deck-mounted pillar cock from the Deck series featuring a clean flat lever handle and forward-facing spout.",
+    "story": "Engineered for reliable daily basin performance, combining sturdy solid brass construction with polished chrome styling.",
+    "details": [
+      "Deck mounted pillar design",
+      "Flat top control handle",
+      "Polished chrome finish"
+    ],
+    "specs": {
+      "productType": "Pillar Cock",
+      "finish": "Chrome",
+      "color": "Chrome",
+      "mountingType": "Deck Mounted",
+      "controlType": "Single Lever",
+      "material": "Not specified",
+      "dimensions": "Not specified",
+      "waterFlowRate": "Not specified",
+      "warranty": "Not specified"
+    },
+    "reviews": []
   },
   {
-    "id": 902,
-    "slug": "deck-2",
-    "name": "Deck Product 2",
-    "image": "https://res.cloudinary.com/dz3sbdyps/image/upload/f_auto,q_auto,w_auto/v1784080782/a74cba08-6ef0-4914-abcf-18fddc85bf7a_qjt573.png"
+    "id": "camzon-product-002",
+    "slug": "camzon-bib-cock-long-body-cam-bc-dk-001",
+    "title": "Bib Cock Long Body",
+    "subtitle": "LONG BODY",
+    "category": "Deck",
+    "price": 80.00,
+    "originalPrice": 100.00,
+    "rating": 0,
+    "reviewsCount": 0,
+    "isNew": false,
+    "isSale": false,
+    "isFeatured": false,
+    "badge": null,
+    "stockCount": 0,
+    "sku": "CAM-BC-DK-001",
+    "colors": [
+      {
+        "name": "Chrome",
+        "hex": "#E5E7EB"
+      }
+    ],
+    "images": [],
+    "description": "Wall-mounted long body bib cock with an extended reach spout and round wall rosette plate.",
+    "story": "Extends spout projection from the wall for convenient bucket filling and utility washing.",
+    "details": [
+      "Wall mounted long body fitting",
+      "Circular wall flange ring",
+      "Polished chrome finish"
+    ],
+    "specs": {
+      "productType": "Bib Cock",
+      "finish": "Chrome",
+      "color": "Chrome",
+      "mountingType": "Wall Mounted",
+      "controlType": "Not specified",
+      "material": "Not specified",
+      "dimensions": "Not specified",
+      "waterFlowRate": "Not specified",
+      "warranty": "Not specified"
+    },
+    "reviews": []
   },
   {
-    "id": 903,
-    "slug": "deck-3",
-    "name": "Deck Product 3",
-    "image": "https://res.cloudinary.com/dz3sbdyps/image/upload/f_auto,q_auto,w_auto/v1784080777/084ac38b-8d9d-458a-bae0-96fb037bf854_ofizim.png"
+    "id": "camzon-product-003",
+    "slug": "camzon-wall-mixer-two-in-one-cam-wm-dk-001",
+    "title": "Wall Mixer Two in One",
+    "subtitle": "TWO IN ONE",
+    "category": "Deck",
+    "price": 170.00,
+    "originalPrice": 205.00,
+    "rating": 0,
+    "reviewsCount": 0,
+    "isNew": false,
+    "isSale": false,
+    "isFeatured": false,
+    "badge": null,
+    "stockCount": 0,
+    "sku": "CAM-WM-DK-001",
+    "colors": [
+      {
+        "name": "Chrome",
+        "hex": "#E5E7EB"
+      }
+    ],
+    "images": [],
+    "description": "Wall-mounted two-in-one bath mixer featuring dual handles, bottom spout, and attached overhead shower riser pipe.",
+    "story": "Delivers dual bath filler and overhead shower functions within a sturdy wall-mounted mixer design.",
+    "details": [
+      "Wall mounted two-handle controls",
+      "Integrated overhead shower riser pipe connection",
+      "Polished chrome finish"
+    ],
+    "specs": {
+      "productType": "Wall Mixer",
+      "finish": "Chrome",
+      "color": "Chrome",
+      "mountingType": "Wall Mounted",
+      "controlType": "Two Lever",
+      "material": "Not specified",
+      "dimensions": "Not specified",
+      "waterFlowRate": "Not specified",
+      "warranty": "Not specified"
+    },
+    "reviews": []
   }
 ]

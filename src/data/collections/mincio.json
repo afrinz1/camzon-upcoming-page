@@ -1,0 +1,654 @@
+
+[
+  {
+    "id": "camzon-product-001",
+    "slug": "camzon-pillar-cock-cam-pc-mc-001",
+    "title": "Pillar Cock",
+    "subtitle": "DECK MOUNTED",
+    "category": "Mincio",
+    "price": 90.00,
+    "originalPrice": 115.00,
+    "rating": 0,
+    "reviewsCount": 0,
+    "isNew": false,
+    "isSale": false,
+    "isFeatured": false,
+    "badge": null,
+    "stockCount": 0,
+    "sku": "CAM-PC-MC-001",
+    "colors": [
+      {
+        "name": "Chrome",
+        "hex": "#E5E7EB"
+      }
+    ],
+    "images": [],
+    "description": "Sleek pillar cock from the Mincio collection featuring a cylindrical brass body with a forward curved spout and flat control lever.",
+    "story": "Part of the compact Mincio range, bringing clean lines and dependable water activation to washbasins.",
+    "details": [
+      "Deck mounted pillar body",
+      "Forward curved spout",
+      "Polished chrome finish"
+    ],
+    "specs": {
+      "productType": "Pillar Cock",
+      "finish": "Chrome",
+      "color": "Chrome",
+      "mountingType": "Deck Mounted",
+      "controlType": "Single Lever",
+      "material": "Not specified",
+      "dimensions": "Not specified",
+      "waterFlowRate": "Not specified",
+      "warranty": "Not specified"
+    },
+    "reviews": []
+  },
+  {
+    "id": "camzon-product-002",
+    "slug": "camzon-pillar-cock-extended-cam-pc-mc-002",
+    "title": "Pillar Cock Extended",
+    "subtitle": "EXTENDED",
+    "category": "Mincio",
+    "price": 105.00,
+    "originalPrice": 130.00,
+    "rating": 0,
+    "reviewsCount": 0,
+    "isNew": false,
+    "isSale": false,
+    "isFeatured": false,
+    "badge": null,
+    "stockCount": 0,
+    "sku": "CAM-PC-MC-002",
+    "colors": [
+      {
+        "name": "Chrome",
+        "hex": "#E5E7EB"
+      }
+    ],
+    "images": [],
+    "description": "Extended height pillar cock designed for semi-recessed and counter-top basins requiring elevated clearance.",
+    "story": "Delivers elevated spout projection and sleek vertical proportions for modern washstand counters.",
+    "details": [
+      "Extended pillar body",
+      "Deck mounted fitting",
+      "Polished chrome finish"
+    ],
+    "specs": {
+      "productType": "Pillar Cock",
+      "finish": "Chrome",
+      "color": "Chrome",
+      "mountingType": "Deck Mounted",
+      "controlType": "Not specified",
+      "material": "Not specified",
+      "dimensions": "Not specified",
+      "waterFlowRate": "Not specified",
+      "warranty": "Not specified"
+    },
+    "reviews": []
+  },
+  {
+    "id": "camzon-product-003",
+    "slug": "camzon-tall-boy-pillar-cock-cam-pc-mc-003",
+    "title": "Tall Boy",
+    "subtitle": "TALL BOY",
+    "category": "Mincio",
+    "price": 120.00,
+    "originalPrice": 145.00,
+    "rating": 0,
+    "reviewsCount": 0,
+    "isNew": false,
+    "isSale": false,
+    "isFeatured": false,
+    "badge": null,
+    "stockCount": 0,
+    "sku": "CAM-PC-MC-003",
+    "colors": [
+      {
+        "name": "Chrome",
+        "hex": "#E5E7EB"
+      }
+    ],
+    "images": [],
+    "description": "Extra-tall pillar cock with side lever handle engineered specifically for vessel bowl basins.",
+    "story": "Designed for luxury vessel basins, providing maximum vertical clearance and effortless side-lever control.",
+    "details": [
+      "Extra-tall vessel basin height",
+      "Side lever control handle",
+      "Deck mounted installation"
+    ],
+    "specs": {
+      "productType": "Pillar Cock",
+      "finish": "Chrome",
+      "color": "Chrome",
+      "mountingType": "Deck Mounted",
+      "controlType": "Single Lever",
+      "material": "Not specified",
+      "dimensions": "Not specified",
+      "waterFlowRate": "Not specified",
+      "warranty": "Not specified"
+    },
+    "reviews": []
+  },
+  {
+    "id": "camzon-product-004",
+    "slug": "camzon-bib-cock-cam-bc-mc-001",
+    "title": "Bib Cock",
+    "subtitle": "WALL MOUNTED",
+    "category": "Mincio",
+    "price": 65.00,
+    "originalPrice": 85.00,
+    "rating": 0,
+    "reviewsCount": 0,
+    "isNew": false,
+    "isSale": false,
+    "isFeatured": false,
+    "badge": null,
+    "stockCount": 0,
+    "sku": "CAM-BC-MC-001",
+    "colors": [
+      {
+        "name": "Chrome",
+        "hex": "#E5E7EB"
+      }
+    ],
+    "images": [],
+    "description": "Wall-mounted bib cock with a downward curved spout and flat top control handle.",
+    "story": "A practical wall tap option providing reliable water output for utility washing stations.",
+    "details": [
+      "Wall mounted fitting",
+      "Flat control lever",
+      "Polished chrome finish"
+    ],
+    "specs": {
+      "productType": "Bib Cock",
+      "finish": "Chrome",
+      "color": "Chrome",
+      "mountingType": "Wall Mounted",
+      "controlType": "Not specified",
+      "material": "Not specified",
+      "dimensions": "Not specified",
+      "waterFlowRate": "Not specified",
+      "warranty": "Not specified"
+    },
+    "reviews": []
+  },
+  {
+    "id": "camzon-product-005",
+    "slug": "camzon-bib-cock-long-nose-cam-bc-mc-002",
+    "title": "Bib Cock Long Nose",
+    "subtitle": "LONG NOSE",
+    "category": "Mincio",
+    "price": 75.00,
+    "originalPrice": 95.00,
+    "rating": 0,
+    "reviewsCount": 0,
+    "isNew": false,
+    "isSale": false,
+    "isFeatured": false,
+    "badge": null,
+    "stockCount": 0,
+    "sku": "CAM-BC-MC-002",
+    "colors": [
+      {
+        "name": "Chrome",
+        "hex": "#E5E7EB"
+      }
+    ],
+    "images": [],
+    "description": "Wall-mounted long nose bib cock with extended spout reach and ergonomic top control handle.",
+    "story": "Extends spout reach further out from wall surfaces for convenient bucket filling and cleaning.",
+    "details": [
+      "Wall mounted long nose body",
+      "Extended spout reach",
+      "Polished chrome finish"
+    ],
+    "specs": {
+      "productType": "Bib Cock",
+      "finish": "Chrome",
+      "color": "Chrome",
+      "mountingType": "Wall Mounted",
+      "controlType": "Not specified",
+      "material": "Not specified",
+      "dimensions": "Not specified",
+      "waterFlowRate": "Not specified",
+      "warranty": "Not specified"
+    },
+    "reviews": []
+  },
+  {
+    "id": "camzon-product-006",
+    "slug": "camzon-bib-cock-two-way-cam-bc-mc-003",
+    "title": "Bib Cock Two Way",
+    "subtitle": "TWO WAY",
+    "category": "Mincio",
+    "price": 90.00,
+    "originalPrice": 115.00,
+    "rating": 0,
+    "reviewsCount": 0,
+    "isNew": false,
+    "isSale": false,
+    "isFeatured": false,
+    "badge": null,
+    "stockCount": 0,
+    "sku": "CAM-BC-MC-003",
+    "colors": [
+      {
+        "name": "Chrome",
+        "hex": "#E5E7EB"
+      }
+    ],
+    "images": [],
+    "description": "Wall-mounted two-way bib cock featuring dual outlets for main spout and hand spray connections.",
+    "story": "Delivers multi-functional water outlets from a single wall point for bidet sprays and general washing.",
+    "details": [
+      "Wall mounted two-way configuration",
+      "Dual water outlets",
+      "Polished chrome finish"
+    ],
+    "specs": {
+      "productType": "Bib Cock",
+      "finish": "Chrome",
+      "color": "Chrome",
+      "mountingType": "Wall Mounted",
+      "controlType": "Not specified",
+      "material": "Not specified",
+      "dimensions": "Not specified",
+      "waterFlowRate": "Not specified",
+      "warranty": "Not specified"
+    },
+    "reviews": []
+  },
+  {
+    "id": "camzon-product-007",
+    "slug": "camzon-angle-cock-two-way-cam-ob-mc-001",
+    "title": "Angle Cock Two Way",
+    "subtitle": "TWO WAY",
+    "category": "Mincio",
+    "price": 60.00,
+    "originalPrice": 75.00,
+    "rating": 0,
+    "reviewsCount": 0,
+    "isNew": false,
+    "isSale": false,
+    "isFeatured": false,
+    "badge": null,
+    "stockCount": 0,
+    "sku": "CAM-OB-MC-001",
+    "colors": [
+      {
+        "name": "Chrome",
+        "hex": "#E5E7EB"
+      }
+    ],
+    "images": [],
+    "description": "Wall-mounted two-way angle valve featuring dual outlet connections and independent lever controls.",
+    "story": "Provides versatile dual-line water supply from a single wall inlet, ideal for toilet health sprays and tank feeds.",
+    "details": [
+      "Two-way water outlet configuration",
+      "Dual control handles",
+      "Polished chrome finish"
+    ],
+    "specs": {
+      "productType": "Angle Cock",
+      "finish": "Chrome",
+      "color": "Chrome",
+      "mountingType": "Wall Mounted",
+      "controlType": "Single Lever",
+      "material": "Not specified",
+      "dimensions": "Not specified",
+      "waterFlowRate": "Not specified",
+      "warranty": "Not specified"
+    },
+    "reviews": []
+  },
+  {
+    "id": "camzon-product-008",
+    "slug": "camzon-angle-cock-cam-ob-mc-002",
+    "title": "Angle Cock",
+    "subtitle": "SINGLE OUTLET",
+    "category": "Mincio",
+    "price": 40.00,
+    "originalPrice": 55.00,
+    "rating": 0,
+    "reviewsCount": 0,
+    "isNew": false,
+    "isSale": false,
+    "isFeatured": false,
+    "badge": null,
+    "stockCount": 0,
+    "sku": "CAM-OB-MC-002",
+    "colors": [
+      {
+        "name": "Chrome",
+        "hex": "#E5E7EB"
+      }
+    ],
+    "images": [],
+    "description": "Wall-mounted single outlet angle valve featuring a sleek cylindrical body and flat lever control.",
+    "story": "An essential plumbing shut-off valve for connecting health faucets, water heaters, and vanity tap lines.",
+    "details": [
+      "Wall mounted angle shut-off valve",
+      "Flat lever handle",
+      "Chrome plated finish"
+    ],
+    "specs": {
+      "productType": "Angle Cock",
+      "finish": "Chrome",
+      "color": "Chrome",
+      "mountingType": "Wall Mounted",
+      "controlType": "Single Lever",
+      "material": "Not specified",
+      "dimensions": "Not specified",
+      "waterFlowRate": "Not specified",
+      "warranty": "Not specified"
+    },
+    "reviews": []
+  },
+  {
+    "id": "camzon-product-009",
+    "slug": "camzon-stop-cock-concealed-cam-ob-mc-003",
+    "title": "Stop Cock Concealed",
+    "subtitle": "CONCEALED",
+    "category": "Mincio",
+    "price": 50.00,
+    "originalPrice": 65.00,
+    "rating": 0,
+    "reviewsCount": 0,
+    "isNew": false,
+    "isSale": false,
+    "isFeatured": false,
+    "badge": null,
+    "stockCount": 0,
+    "sku": "CAM-OB-MC-003",
+    "colors": [
+      {
+        "name": "Chrome",
+        "hex": "#E5E7EB"
+      }
+    ],
+    "images": [],
+    "description": "Concealed stop cock valve with brass internal body, circular wall flange plate, and flat lever handle knob.",
+    "story": "Offers concealed in-wall water main isolation while maintaining a clean, modern polished chrome surface profile.",
+    "details": [
+      "Concealed in-wall valve body",
+      "Circular wall rosette plate",
+      "Brass inner core with chrome trim"
+    ],
+    "specs": {
+      "productType": "Stop Cock",
+      "finish": "Chrome",
+      "color": "Chrome",
+      "mountingType": "Concealed Wall Mounted",
+      "controlType": "Quarter Turn",
+      "material": "Brass",
+      "dimensions": "Not specified",
+      "waterFlowRate": "Not specified",
+      "warranty": "Not specified"
+    },
+    "reviews": []
+  },
+  {
+    "id": "camzon-product-001",
+    "slug": "camzon-mincio-flush-cock-concealed",
+    "title": "FLUSH COCK",
+    "subtitle": "CONCEALED",
+    "category": "Mincio",
+    "price": 1450.00,
+    "originalPrice": 1700.00,
+    "rating": 0,
+    "reviewsCount": 0,
+    "isNew": false,
+    "isSale": false,
+    "isFeatured": false,
+    "badge": null,
+    "stockCount": 0,
+    "sku": "CAM-OB-MC-004",
+    "colors": [
+      {
+        "name": "Chrome",
+        "hex": "#E5E7EB"
+      }
+    ],
+    "images": [],
+    "description": "The Camzon Mincio Concealed Flush Cock features an in-wall brass body valve with a polished chrome trim plate and single lever operation for streamlined modern bathroom aesthetics.",
+    "story": "Designed to keep mechanical fixtures neatly concealed inside the wall, the Mincio concealed flush cock balances unobtrusive minimalism with precise water control.",
+    "details": [
+      "Concealed in-wall installation",
+      "Sturdy brass valve construction",
+      "Polished chrome finish faceplate",
+      "Smooth single-lever actuation"
+    ],
+    "specs": {
+      "productType": "Flush Cock",
+      "finish": "Not specified",
+      "color": "Not specified",
+      "mountingType": "Concealed Wall Mounted",
+      "controlType": "Lever Control",
+      "material": "Not specified",
+      "dimensions": "Not specified",
+      "waterFlowRate": "Not specified",
+      "warranty": "Not specified"
+    },
+    "reviews": []
+  },
+  {
+    "id": "camzon-product-002",
+    "slug": "camzon-mincio-sink-cock-single-lever",
+    "title": "SINK COCK",
+    "subtitle": "SINGLE LEVER",
+    "category": "Mincio",
+    "price": 1650.00,
+    "originalPrice": 1950.00,
+    "rating": 0,
+    "reviewsCount": 0,
+    "isNew": false,
+    "isSale": false,
+    "isFeatured": false,
+    "badge": null,
+    "stockCount": 0,
+    "sku": "CAM-SC-MN-001",
+    "colors": [
+      {
+        "name": "Chrome",
+        "hex": "#E5E7EB"
+      }
+    ],
+    "images": [],
+    "description": "An elegant single lever sink cock from the Mincio collection featuring a high-curved swivel spout and ergonomic bottom control lever.",
+    "story": "Crafted to enhance everyday kitchen functionality, the Mincio single lever sink cock provides comfortable clearance and intuitive single-hand water control.",
+    "details": [
+      "High arc swivel spout design",
+      "Single lever ergonomic control",
+      "Polished chrome finish",
+      "Efficient aerated water stream"
+    ],
+    "specs": {
+      "productType": "Sink Cock",
+      "finish": "Not specified",
+      "color": "Not specified",
+      "mountingType": "Wall / Deck Mounted",
+      "controlType": "Single Lever",
+      "material": "Not specified",
+      "dimensions": "Not specified",
+      "waterFlowRate": "Not specified",
+      "warranty": "Not specified"
+    },
+    "reviews": []
+  },
+  {
+    "id": "camzon-product-003",
+    "slug": "camzon-mincio-swan-neck",
+    "title": "SWAN NECK",
+    "subtitle": "SWAN NECK SINK TAP",
+    "category": "Mincio",
+    "price": 1850.00,
+    "originalPrice": 2150.00,
+    "rating": 0,
+    "reviewsCount": 0,
+    "isNew": false,
+    "isSale": false,
+    "isFeatured": false,
+    "badge": null,
+    "stockCount": 0,
+    "sku": "CAM-SC-MN-002",
+    "colors": [
+      {
+        "name": "Chrome",
+        "hex": "#E5E7EB"
+      }
+    ],
+    "images": [],
+    "description": "A tall deck-mounted swan neck faucet with a gracefully curved spout designed for modern counter basins and kitchen sinks.",
+    "story": "The Mincio Swan Neck faucet combines architectural elegance with comfortable height clearance, making washing tasks effortless and stylish.",
+    "details": [
+      "Tall swan-neck profile",
+      "Deck-mounted counter installation",
+      "Smooth single-handle operation",
+      "High-shine chrome surface"
+    ],
+    "specs": {
+      "productType": "Swan Neck Tap",
+      "finish": "Not specified",
+      "color": "Not specified",
+      "mountingType": "Deck Mounted",
+      "controlType": "Single Lever",
+      "material": "Not specified",
+      "dimensions": "Not specified",
+      "waterFlowRate": "Not specified",
+      "warranty": "Not specified"
+    },
+    "reviews": []
+  },
+  {
+    "id": "camzon-product-004",
+    "slug": "camzon-mincio-sink-mixer-wall-flange",
+    "title": "SINK MIXER",
+    "subtitle": "WALL FLANGE",
+    "category": "Mincio",
+    "price": 2950.00,
+    "originalPrice": 3450.00,
+    "rating": 0,
+    "reviewsCount": 0,
+    "isNew": false,
+    "isSale": false,
+    "isFeatured": false,
+    "badge": null,
+    "stockCount": 0,
+    "sku": "CAM-WF-MN-001",
+    "colors": [
+      {
+        "name": "Chrome",
+        "hex": "#E5E7EB"
+      }
+    ],
+    "images": [],
+    "description": "A wall-mounted sink mixer with twin flanged mounting arms and an extended swivel spout designed for dual hot and cold water mixing.",
+    "story": " engineered for wall-installed sink configurations, the Mincio wall flange sink mixer offers durable dual-handle control for precise water temperature balancing.",
+    "details": [
+      "Wall-mounted design with trim flanges",
+      "Swiveling tubular spout",
+      "Dual hot and cold water controls",
+      "Corrosion-resistant chrome coating"
+    ],
+    "specs": {
+      "productType": "Sink Mixer",
+      "finish": "Not specified",
+      "color": "Not specified",
+      "mountingType": "Wall Mounted with Flange",
+      "controlType": "Dual Knob / Lever",
+      "material": "Not specified",
+      "dimensions": "Not specified",
+      "waterFlowRate": "Not specified",
+      "warranty": "Not specified"
+    },
+    "reviews": []
+  },
+  {
+    "id": "camzon-product-005",
+    "slug": "camzon-mincio-wall-mixer-two-in-one-with-l-bend",
+    "title": "WALL MIXER",
+    "subtitle": "TWO IN ONE WITH L BEND",
+    "category": "Mincio",
+    "price": 3850.00,
+    "originalPrice": 4500.00,
+    "rating": 0,
+    "reviewsCount": 0,
+    "isNew": false,
+    "isSale": false,
+    "isFeatured": false,
+    "badge": null,
+    "stockCount": 0,
+    "sku": "CAM-WF-MN-002",
+    "colors": [
+      {
+        "name": "Chrome",
+        "hex": "#E5E7EB"
+      }
+    ],
+    "images": [],
+    "description": "A versatile 2-in-1 wall-mounted shower mixer complete with an overhead pipe L-bend connection and bottom tub spout.",
+    "story": "The Mincio 2-in-1 Wall Mixer provides complete control over both bucket filling and overhead showering through a unified wall fixture.",
+    "details": [
+      "2-in-1 functionality (Spout + Overhead Shower L-Bend)",
+      "Dual control handles with diverter valve",
+      "Solid wall-mounting installation",
+      "Durable chrome-plated finish"
+    ],
+    "specs": {
+      "productType": "Wall Mixer 2-in-1",
+      "finish": "Not specified",
+      "color": "Not specified",
+      "mountingType": "Wall Mounted",
+      "controlType": "Multi-Knob with L-Bend",
+      "material": "Not specified",
+      "dimensions": "Not specified",
+      "waterFlowRate": "Not specified",
+      "warranty": "Not specified"
+    },
+    "reviews": []
+  },
+  {
+    "id": "camzon-product-006",
+    "slug": "camzon-mincio-wall-mixer-three-in-one-with-l-bend",
+    "title": "WALL MIXER",
+    "subtitle": "THREE IN ONE WITH L BEND",
+    "category": "Mincio",
+    "price": 4450.00,
+    "originalPrice": 5200.00,
+    "rating": 0,
+    "reviewsCount": 0,
+    "isNew": false,
+    "isSale": false,
+    "isFeatured": false,
+    "badge": null,
+    "stockCount": 0,
+    "sku": "CAM-WF-MN-003",
+    "colors": [
+      {
+        "name": "Chrome",
+        "hex": "#E5E7EB"
+      }
+    ],
+    "images": [],
+    "description": "A 3-in-1 wall mixer unit featuring integrated provisions for an overhead shower via L-bend, a hand shower outlet, and a spout.",
+    "story": "The flagship Mincio 3-in-1 Wall Mixer offers complete shower solution flexibility with separate diverters for overhead shower, hand shower, and bath spout operations.",
+    "details": [
+      "3-in-1 system (Spout, Overhead L-Bend, Hand Shower provision)",
+      "Multi-diverter switch for seamless water switching",
+      "Wall-mounted robust configuration",
+      "Mirror-finish polished chrome"
+    ],
+    "specs": {
+      "productType": "Wall Mixer 3-in-1",
+      "finish": "Not specified",
+      "color": "Not specified",
+      "mountingType": "Wall Mounted",
+      "controlType": "Multi-Knob with L-Bend",
+      "material": "Not specified",
+      "dimensions": "Not specified",
+      "waterFlowRate": "Not specified",
+      "warranty": "Not specified"
+    },
+    "reviews": []
+  }
+]

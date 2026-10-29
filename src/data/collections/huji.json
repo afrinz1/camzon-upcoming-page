@@ -1,0 +1,347 @@
+[
+  {
+    "id": "camzon-product-001",
+    "slug": "camzon-basin-mixer-cam-bm-hu-001",
+    "title": "Basin Mixer",
+    "subtitle": "SINGLE LEVER",
+    "category": "huji",
+    "price": 125.00,
+    "originalPrice": 150.00,
+    "rating": 0,
+    "reviewsCount": 0,
+    "isNew": false,
+    "isSale": false,
+    "isFeatured": false,
+    "badge": null,
+    "stockCount": 0,
+    "sku": "CAM-BM-HU-001",
+    "colors": [
+      {
+        "name": "Chrome",
+        "hex": "#E5E7EB"
+      }
+    ],
+    "images": [],
+    "description": "Single lever basin mixer from the Huji collection, featuring a modern tapered cylindrical body with a clean chrome finish.",
+    "story": "Designed to bring modern style and reliable functionality to any modern washbasin setting.",
+    "details": [
+      "Single lever control handle",
+      "Deck mounted installation",
+      "Polished chrome finish"
+    ],
+    "specs": {
+      "productType": "Basin Mixer",
+      "finish": "Chrome",
+      "color": "Chrome",
+      "mountingType": "Deck Mounted",
+      "controlType": "Single Lever",
+      "material": "Not specified",
+      "dimensions": "Not specified",
+      "waterFlowRate": "Not specified",
+      "warranty": "Not specified"
+    },
+    "reviews": []
+  },
+  {
+    "id": "camzon-product-002",
+    "slug": "camzon-basin-mixer-100mm-cam-bm-hu-002",
+    "title": "Basin Mixer 100mm",
+    "subtitle": "SINGLE LEVER",
+    "category": "huji",
+    "price": 110.00,
+    "originalPrice": 135.00,
+    "rating": 0,
+    "reviewsCount": 0,
+    "isNew": false,
+    "isSale": false,
+    "isFeatured": false,
+    "badge": null,
+    "stockCount": 0,
+    "sku": "CAM-BM-HU-002",
+    "colors": [
+      {
+        "name": "Chrome",
+        "hex": "#E5E7EB"
+      }
+    ],
+    "images": [],
+    "description": "Compact 100mm single lever basin mixer providing smooth control and space-saving efficiency.",
+    "story": "Engineered for smaller bathroom layouts requiring robust quality and refined geometric lines.",
+    "details": [
+      "100mm overall height",
+      "Single lever control handle",
+      "Deck mounted installation",
+      "Polished chrome finish"
+    ],
+    "specs": {
+      "productType": "Basin Mixer",
+      "finish": "Chrome",
+      "color": "Chrome",
+      "mountingType": "Deck Mounted",
+      "controlType": "Single Lever",
+      "material": "Not specified",
+      "dimensions": "100mm",
+      "waterFlowRate": "Not specified",
+      "warranty": "Not specified"
+    },
+    "reviews": []
+  },
+  {
+    "id": "camzon-product-003",
+    "slug": "camzon-kitchen-mixer-table-mounted-cam-km-hu-001",
+    "title": "Kitchen Mixer",
+    "subtitle": "TABLE MOUNTED SINGLE LEVER",
+    "category": "huji",
+    "price": 140.00,
+    "originalPrice": 165.00,
+    "rating": 0,
+    "reviewsCount": 0,
+    "isNew": false,
+    "isSale": false,
+    "isFeatured": false,
+    "badge": null,
+    "stockCount": 0,
+    "sku": "CAM-KM-HU-001",
+    "colors": [
+      {
+        "name": "Chrome",
+        "hex": "#E5E7EB"
+      }
+    ],
+    "images": [],
+    "description": "Table mounted single lever kitchen mixer featuring a high gooseneck spout for optimal sink clearance.",
+    "story": "Combines graceful high clearance with smooth single-handle water control for busy culinary environments.",
+    "details": [
+      "Table mounted single lever handle",
+      "High gooseneck spout",
+      "Polished chrome finish"
+    ],
+    "specs": {
+      "productType": "Kitchen Mixer",
+      "finish": "Chrome",
+      "color": "Chrome",
+      "mountingType": "Table Mounted",
+      "controlType": "Single Lever",
+      "material": "Not specified",
+      "dimensions": "Not specified",
+      "waterFlowRate": "Not specified",
+      "warranty": "Not specified"
+    },
+    "reviews": []
+  },
+  {
+    "id": "camzon-product-004",
+    "slug": "camzon-kitchen-mixer-deck-mounted-cam-km-hu-002",
+    "title": "Kitchen Mixer",
+    "subtitle": "DECK MOUNTED SINGLE LEVER",
+    "category": "huji",
+    "price": 145.00,
+    "originalPrice": 175.00,
+    "rating": 0,
+    "reviewsCount": 0,
+    "isNew": false,
+    "isSale": false,
+    "isFeatured": false,
+    "badge": null,
+    "stockCount": 0,
+    "sku": "CAM-KM-HU-002",
+    "colors": [
+      {
+        "name": "Chrome",
+        "hex": "#E5E7EB"
+      }
+    ],
+    "images": [],
+    "description": "Deck mounted single lever kitchen mixer with a gracefully curved arch spout and side lever.",
+    "story": "A versatile addition to modern kitchens, delivering ergonomic functionality with dynamic arch styling.",
+    "details": [
+      "Deck mounted installation",
+      "Curved arch spout",
+      "Side lever control"
+    ],
+    "specs": {
+      "productType": "Kitchen Mixer",
+      "finish": "Chrome",
+      "color": "Chrome",
+      "mountingType": "Deck Mounted",
+      "controlType": "Single Lever",
+      "material": "Not specified",
+      "dimensions": "Not specified",
+      "waterFlowRate": "Not specified",
+      "warranty": "Not specified"
+    },
+    "reviews": []
+  },
+  {
+    "id": "camzon-product-005",
+    "slug": "camzon-sink-mixer-w-spout-cam-sm-hu-002",
+    "title": "Sink Mixer",
+    "subtitle": "SINGLE LEVER WALL MOUNTED W SPOUT",
+    "category": "huji",
+    "price": 130.00,
+    "originalPrice": 155.00,
+    "rating": 0,
+    "reviewsCount": 0,
+    "isNew": false,
+    "isSale": false,
+    "isFeatured": false,
+    "badge": null,
+    "stockCount": 0,
+    "sku": "CAM-SM-HU-002",
+    "colors": [
+      {
+        "name": "Chrome",
+        "hex": "#E5E7EB"
+      }
+    ],
+    "images": [],
+    "description": "Wall mounted single lever sink mixer designed with an extended horizontal lower spout for wide reach.",
+    "story": "Saves counter space while providing full sink utility via a durable wall-mounted body structure.",
+    "details": [
+      "Wall mounted single lever operation",
+      "Horizontal lower spout design",
+      "Polished chrome finish"
+    ],
+    "specs": {
+      "productType": "Sink Mixer",
+      "finish": "Chrome",
+      "color": "Chrome",
+      "mountingType": "Wall Mounted",
+      "controlType": "Single Lever",
+      "material": "Not specified",
+      "dimensions": "Not specified",
+      "waterFlowRate": "Not specified",
+      "warranty": "Not specified"
+    },
+    "reviews": []
+  },
+  {
+    "id": "camzon-product-006",
+    "slug": "camzon-shattaf-mixer-cam-sf-hu-001",
+    "title": "Shattaf Mixer",
+    "subtitle": "SINGLE LEVER",
+    "category": "huji",
+    "price": 95.00,
+    "originalPrice": 115.00,
+    "rating": 0,
+    "reviewsCount": 0,
+    "isNew": false,
+    "isSale": false,
+    "isFeatured": false,
+    "badge": null,
+    "stockCount": 0,
+    "sku": "CAM-SF-HU-001",
+    "colors": [
+      {
+        "name": "Chrome",
+        "hex": "#E5E7EB"
+      }
+    ],
+    "images": [],
+    "description": "Wall mounted single lever shattaf mixer designed for smooth temperature blending and hygiene spray connections.",
+    "story": "Delivers smooth water blending and long-lasting durability in a compact wall-mount profile.",
+    "details": [
+      "Wall mounted single lever handle",
+      "Bottom outlet hose connection",
+      "Polished chrome finish"
+    ],
+    "specs": {
+      "productType": "Shattaf Mixer",
+      "finish": "Chrome",
+      "color": "Chrome",
+      "mountingType": "Wall Mounted",
+      "controlType": "Single Lever",
+      "material": "Not specified",
+      "dimensions": "Not specified",
+      "waterFlowRate": "Not specified",
+      "warranty": "Not specified"
+    },
+    "reviews": []
+  },
+  {
+    "id": "camzon-product-007",
+    "slug": "camzon-sink-mixer-d-pipe-cam-sm-hu-001",
+    "title": "Sink Mixer",
+    "subtitle": "WALL MOUNTED SINGLE LEVER WITH D PIPE",
+    "category": "huji",
+    "price": 135.00,
+    "originalPrice": 160.00,
+    "rating": 0,
+    "reviewsCount": 0,
+    "isNew": false,
+    "isSale": false,
+    "isFeatured": false,
+    "badge": null,
+    "stockCount": 0,
+    "sku": "CAM-SM-HU-001",
+    "colors": [
+      {
+        "name": "Chrome",
+        "hex": "#E5E7EB"
+      }
+    ],
+    "images": [],
+    "description": "Wall mounted single lever sink mixer with an elevated D-pipe high-clearance spout for washing larger cookware.",
+    "story": "Combines wall installation with high spout reach to maximize workspace efficiency at the sink.",
+    "details": [
+      "Wall mounted single lever",
+      "High clearance D-pipe spout",
+      "Dual rosette wall mounts"
+    ],
+    "specs": {
+      "productType": "Sink Mixer",
+      "finish": "Chrome",
+      "color": "Chrome",
+      "mountingType": "Wall Mounted",
+      "controlType": "Single Lever",
+      "material": "Not specified",
+      "dimensions": "Not specified",
+      "waterFlowRate": "Not specified",
+      "warranty": "Not specified"
+    },
+    "reviews": []
+  },
+  {
+    "id": "camzon-product-008",
+    "slug": "camzon-bath-mixer-cam-bt-hu-002",
+    "title": "Bath Mixer",
+    "subtitle": "SINGLE LEVER",
+    "category": "huji",
+    "price": 160.00,
+    "originalPrice": 190.00,
+    "rating": 0,
+    "reviewsCount": 0,
+    "isNew": false,
+    "isSale": false,
+    "isFeatured": false,
+    "badge": null,
+    "stockCount": 0,
+    "sku": "CAM-BT-HU-002",
+    "colors": [
+      {
+        "name": "Chrome",
+        "hex": "#E5E7EB"
+      }
+    ],
+    "images": [],
+    "description": "Wall mounted single lever bath mixer with integrated spout diverter for easy switching between bath spout and shower handpiece.",
+    "story": "Brings cohesive modern styling and effortless function to modern bathing and shower setups.",
+    "details": [
+      "Wall mounted single lever control",
+      "Integrated bath/shower diverter knob",
+      "Standard shower hose outlet"
+    ],
+    "specs": {
+      "productType": "Bath Mixer",
+      "finish": "Chrome",
+      "color": "Chrome",
+      "mountingType": "Wall Mounted",
+      "controlType": "Single Lever",
+      "material": "Not specified",
+      "dimensions": "Not specified",
+      "waterFlowRate": "Not specified",
+      "warranty": "Not specified"
+    },
+    "reviews": []
+  }
+]

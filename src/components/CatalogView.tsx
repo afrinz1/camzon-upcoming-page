@@ -2,6 +2,7 @@ import { Product } from '../types';
 import { motion, AnimatePresence } from 'motion/react';
 import { Grid, LayoutList, X, ZoomIn } from 'lucide-react';
 import { useState } from 'react';
+import { CATEGORIES } from '../data/products';
 
 interface CatalogViewProps {
   products: Product[];
@@ -16,22 +17,11 @@ export default function CatalogView({
 }: CatalogViewProps) {
   const [selectedProduct, setSelectedProduct] = useState<Product | null>(null);
 
-  const collections = [
-    'KORE',
-    'DUNE',
-    'DUERO',
-    'DART',
-    'FACET',
-    'QUADRA',
-    'ARNO',
-    'RIDGE',
-    'DECK',
-    'SHOWERS',
-  ];
+  const collections = CATEGORIES.filter((category) => category.id !== 'all');
 
   // Filter products based on selected collection
   const filteredProducts = selectedCategory
-    ? products.filter((p) => p.collection.toUpperCase() === selectedCategory.toUpperCase())
+    ? products.filter((p) => p.collection.toLowerCase() === selectedCategory.toLowerCase())
     : products;
 
   return (
@@ -78,20 +68,20 @@ export default function CatalogView({
               </button>
 
               {collections.map((cat) => {
-                const count = products.filter((p) => p.collection.toUpperCase() === cat.toUpperCase()).length;
-                const isSelected = selectedCategory?.toUpperCase() === cat.toUpperCase();
+                const count = products.filter((p) => p.collection.toLowerCase() === cat.id.toLowerCase()).length;
+                const isSelected = selectedCategory?.toLowerCase() === cat.id.toLowerCase();
                 return (
                   <button
-                    id={`cat-filter-${cat.toLowerCase()}`}
-                    key={cat}
-                    onClick={() => onCategoryChange(cat)}
+                    id={`cat-filter-${cat.id.toLowerCase().replace(/[^a-z0-9]+/g, '-')}`}
+                    key={cat.id}
+                    onClick={() => onCategoryChange(cat.id)}
                     className={`flex shrink-0 items-center justify-between gap-3 rounded-full border border-brand-border/50 px-3 py-2 text-left transition-all duration-300 lg:w-full lg:rounded-none lg:border-0 lg:px-0 lg:py-0 ${
                       isSelected
                         ? 'border-brand-orange/60 bg-brand-orange/10 text-brand-orange font-bold'
                         : 'text-brand-light-gray/70 hover:border-white/20 hover:text-white font-medium'
                     }`}
                   >
-                    <span className="font-sans text-[11px] uppercase tracking-[0.2em]">{cat}</span>
+                    <span className="font-sans text-[11px] uppercase tracking-[0.2em]">{cat.name}</span>
                     <span className="font-mono text-[10px] opacity-70">
                       /{count}
                     </span>

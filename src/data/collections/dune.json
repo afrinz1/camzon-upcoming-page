@@ -1,98 +1,693 @@
 [
   {
-    "id": 201,
-    "slug": "dune-1",
-    "name": "Dune Product 1",
-    "image": "https://res.cloudinary.com/dz3sbdyps/image/upload/f_auto,q_auto,w_auto/v1784080778/concealed_stop_cock_urkkrs.png"
+    "id": "camzon-product-001",
+    "slug": "camzon-pillar-cock-single-lever-cam-pc-dn-001",
+    "title": "Pillar Cock",
+    "subtitle": "SINGLE LEVER",
+    "category": "Dune",
+    "price": 95.00,
+    "originalPrice": 120.00,
+    "rating": 0,
+    "reviewsCount": 0,
+    "isNew": false,
+    "isSale": false,
+    "isFeatured": false,
+    "badge": null,
+    "stockCount": 0,
+    "sku": "CAM-PC-DN-001",
+    "colors": [
+      {
+        "name": "Chrome",
+        "hex": "#E5E7EB"
+      }
+    ],
+    "images": [],
+    "description": "Sleek single lever pillar cock from the Dune collection featuring a slim cylindrical body and flat ergonomic control handle.",
+    "story": "Part of the refined Dune series, engineered to deliver smooth single-lever operation and minimalist elegance to modern washbasins.",
+    "details": [
+      "Single lever control handle",
+      "Deck mounted installation",
+      "Polished chrome finish"
+    ],
+    "specs": {
+      "productType": "Pillar Cock",
+      "finish": "Chrome",
+      "color": "Chrome",
+      "mountingType": "Deck Mounted",
+      "controlType": "Single Lever",
+      "material": "Not specified",
+      "dimensions": "Not specified",
+      "waterFlowRate": "Not specified",
+      "warranty": "Not specified"
+    },
+    "reviews": []
   },
   {
-    "id": 202,
-    "slug": "dune-2",
-    "name": "Dune Product 2",
-    "image": "https://res.cloudinary.com/dz3sbdyps/image/upload/f_auto,q_auto,w_auto/v1784080776/concealed_flush_cock_aah7wp.png"
+    "id": "camzon-product-002",
+    "slug": "camzon-pillar-cock-extended-cam-pc-dn-002",
+    "title": "Pillar Cock Extended",
+    "subtitle": "EXTENDED",
+    "category": "Dune",
+    "price": 110.00,
+    "originalPrice": 135.00,
+    "rating": 0,
+    "reviewsCount": 0,
+    "isNew": false,
+    "isSale": false,
+    "isFeatured": false,
+    "badge": null,
+    "stockCount": 0,
+    "sku": "CAM-PC-DN-002",
+    "colors": [
+      {
+        "name": "Chrome",
+        "hex": "#E5E7EB"
+      }
+    ],
+    "images": [],
+    "description": "Extended pillar cock designed with elevated spout clearance for semi-recessed and counter-top basins.",
+    "story": "Offers heightened spout reach and sleek vertical lines, bringing a touch of modern minimalism to bathroom counters.",
+    "details": [
+      "Extended body structure",
+      "Deck mounted fitting",
+      "Polished chrome finish"
+    ],
+    "specs": {
+      "productType": "Pillar Cock",
+      "finish": "Chrome",
+      "color": "Chrome",
+      "mountingType": "Deck Mounted",
+      "controlType": "Not specified",
+      "material": "Not specified",
+      "dimensions": "Not specified",
+      "waterFlowRate": "Not specified",
+      "warranty": "Not specified"
+    },
+    "reviews": []
   },
   {
-    "id": 203,
-    "slug": "dune-3",
-    "name": "Dune Product 3",
-    "image": "https://res.cloudinary.com/dz3sbdyps/image/upload/f_auto,q_auto,w_auto/v1784080775/sink_mixer_wall_mount_uwyeao.png"
+    "id": "camzon-product-003",
+    "slug": "camzon-tall-body-pillar-cock-cam-pc-dn-003",
+    "title": "Tall Body Pillar Cock",
+    "subtitle": "TALL BODY",
+    "category": "Dune",
+    "price": 125.00,
+    "originalPrice": 150.00,
+    "rating": 0,
+    "reviewsCount": 0,
+    "isNew": false,
+    "isSale": false,
+    "isFeatured": false,
+    "badge": null,
+    "stockCount": 0,
+    "sku": "CAM-PC-DN-003",
+    "colors": [
+      {
+        "name": "Chrome",
+        "hex": "#E5E7EB"
+      }
+    ],
+    "images": [],
+    "description": "Extra-tall body pillar cock with side-lever control engineered specifically for tall counter-top vessel basins.",
+    "story": "Designed for luxury vessel bowl basins, providing high spout elevation and smooth side-lever water regulation.",
+    "details": [
+      "Extra-tall vessel basin height",
+      "Side lever control handle",
+      "Deck mounted installation"
+    ],
+    "specs": {
+      "productType": "Pillar Cock",
+      "finish": "Chrome",
+      "color": "Chrome",
+      "mountingType": "Deck Mounted",
+      "controlType": "Single Lever",
+      "material": "Not specified",
+      "dimensions": "Not specified",
+      "waterFlowRate": "Not specified",
+      "warranty": "Not specified"
+    },
+    "reviews": []
   },
   {
-    "id": 204,
-    "slug": "dune-4",
-    "name": "Dune Product 4",
-    "image": "https://res.cloudinary.com/dz3sbdyps/image/upload/f_auto,q_auto,w_auto/v1784080774/2_way_bib_cock_bm5ith.png"
+    "id": "camzon-product-004",
+    "slug": "camzon-bib-cock-cam-bc-dn-001",
+    "title": "Bib Cock",
+    "subtitle": "WALL MOUNTED",
+    "category": "Dune",
+    "price": 65.00,
+    "originalPrice": 85.00,
+    "rating": 0,
+    "reviewsCount": 0,
+    "isNew": false,
+    "isSale": false,
+    "isFeatured": false,
+    "badge": null,
+    "stockCount": 0,
+    "sku": "CAM-BC-DN-001",
+    "colors": [
+      {
+        "name": "Chrome",
+        "hex": "#E5E7EB"
+      }
+    ],
+    "images": [],
+    "description": "Wall-mounted bib cock featuring a flat horizontal handle and crisp rectangular body accents.",
+    "story": "A clean wall-mounted tap option delivering reliable performance for utility areas and bathroom wash stations.",
+    "details": [
+      "Wall mounted installation",
+      "Flat horizontal lever handle",
+      "Polished chrome finish"
+    ],
+    "specs": {
+      "productType": "Bib Cock",
+      "finish": "Chrome",
+      "color": "Chrome",
+      "mountingType": "Wall Mounted",
+      "controlType": "Not specified",
+      "material": "Not specified",
+      "dimensions": "Not specified",
+      "waterFlowRate": "Not specified",
+      "warranty": "Not specified"
+    },
+    "reviews": []
   },
   {
-    "id": 205,
-    "slug": "dune-5",
-    "name": "Dune Product 5",
-    "image": "https://res.cloudinary.com/dz3sbdyps/image/upload/f_auto,q_auto,w_auto/v1784080774/tall_body_ai2pv3.png"
+    "id": "camzon-product-005",
+    "slug": "camzon-bib-cock-long-nose-cam-bc-dn-002",
+    "title": "Bib Cock Long Nose",
+    "subtitle": "LONG NOSE",
+    "category": "Dune",
+    "price": 75.00,
+    "originalPrice": 95.00,
+    "rating": 0,
+    "reviewsCount": 0,
+    "isNew": false,
+    "isSale": false,
+    "isFeatured": false,
+    "badge": null,
+    "stockCount": 0,
+    "sku": "CAM-BC-DN-002",
+    "colors": [
+      {
+        "name": "Chrome",
+        "hex": "#E5E7EB"
+      }
+    ],
+    "images": [],
+    "description": "Wall-mounted long nose bib cock with extended spout length and flat top lever handle.",
+    "story": "Extends further out from the wall to make bucket filling and wash tasks easier and cleaner.",
+    "details": [
+      "Wall mounted fitting",
+      "Extended long nose spout",
+      "Polished chrome finish"
+    ],
+    "specs": {
+      "productType": "Bib Cock",
+      "finish": "Chrome",
+      "color": "Chrome",
+      "mountingType": "Wall Mounted",
+      "controlType": "Not specified",
+      "material": "Not specified",
+      "dimensions": "Not specified",
+      "waterFlowRate": "Not specified",
+      "warranty": "Not specified"
+    },
+    "reviews": []
   },
   {
-    "id": 206,
-    "slug": "dune-6",
-    "name": "Dune Product 6",
-    "image": "https://res.cloudinary.com/dz3sbdyps/image/upload/f_auto,q_auto,w_auto/v1784080772/sink_cock_pmp6g1.png"
+    "id": "camzon-product-006",
+    "slug": "camzon-bib-cock-two-way-cam-bc-dn-003",
+    "title": "Bib Cock Two Way",
+    "subtitle": "TWO WAY",
+    "category": "Dune",
+    "price": 90.00,
+    "originalPrice": 115.00,
+    "rating": 0,
+    "reviewsCount": 0,
+    "isNew": false,
+    "isSale": false,
+    "isFeatured": false,
+    "badge": null,
+    "stockCount": 0,
+    "sku": "CAM-BC-DN-003",
+    "colors": [
+      {
+        "name": "Chrome",
+        "hex": "#E5E7EB"
+      }
+    ],
+    "images": [],
+    "description": "Wall-mounted two-way bib cock featuring dual outlets for main spout and hand spray connections.",
+    "story": "Provides versatile dual water outlets from a single wall point, perfect for hand spray and general wash integration.",
+    "details": [
+      "Wall mounted two-way configuration",
+      "Dual outlet control",
+      "Polished chrome finish"
+    ],
+    "specs": {
+      "productType": "Bib Cock",
+      "finish": "Chrome",
+      "color": "Chrome",
+      "mountingType": "Wall Mounted",
+      "controlType": "Not specified",
+      "material": "Not specified",
+      "dimensions": "Not specified",
+      "waterFlowRate": "Not specified",
+      "warranty": "Not specified"
+    },
+    "reviews": []
   },
   {
-    "id": 207,
-    "slug": "dune-7",
-    "name": "Dune Product 7",
-    "image": "https://res.cloudinary.com/dz3sbdyps/image/upload/f_auto,q_auto,w_auto/v1784080772/swan_neck_eaaygb.png"
+    "id": "camzon-product-007",
+    "slug": "camzon-sink-mixer-wall-mounted-cam-sm-dn-001",
+    "title": "Sink Mixer Wall Mounted",
+    "subtitle": "WALL MOUNTED",
+    "category": "Dune",
+    "price": 135.00,
+    "originalPrice": 165.00,
+    "rating": 0,
+    "reviewsCount": 0,
+    "isNew": false,
+    "isSale": false,
+    "isFeatured": false,
+    "badge": null,
+    "stockCount": 0,
+    "sku": "CAM-SM-DN-001",
+    "colors": [
+      {
+        "name": "Chrome",
+        "hex": "#E5E7EB"
+      }
+    ],
+    "images": [],
+    "description": "Wall-mounted sink mixer featuring a high square-arched swivel spout and dual rosette wall connections.",
+    "story": "Combines wall-mounted space savings with high spout clearance for effortless cleaning across kitchen sinks.",
+    "details": [
+      "Wall mounted single lever body",
+      "High square-arch swivel spout",
+      "Dual wall flange plates"
+    ],
+    "specs": {
+      "productType": "Sink Mixer",
+      "finish": "Chrome",
+      "color": "Chrome",
+      "mountingType": "Wall Mounted",
+      "controlType": "Single Lever",
+      "material": "Not specified",
+      "dimensions": "Not specified",
+      "waterFlowRate": "Not specified",
+      "warranty": "Not specified"
+    },
+    "reviews": []
   },
   {
-    "id": 208,
-    "slug": "dune-8",
-    "name": "Dune Product 8",
-    "image": "https://res.cloudinary.com/dz3sbdyps/image/upload/f_auto,q_auto,w_auto/v1784080772/sink_cock_double_bend_sunud6.png"
+    "id": "camzon-product-008",
+    "slug": "camzon-sink-cock-wall-mounted-swan-neck-cam-sc-dn-001",
+    "title": "Sink Cock Wall Mounted",
+    "subtitle": "WALL MOUNTED SWAN NECK",
+    "category": "Dune",
+    "price": 105.00,
+    "originalPrice": 130.00,
+    "rating": 0,
+    "reviewsCount": 0,
+    "isNew": false,
+    "isSale": false,
+    "isFeatured": false,
+    "badge": null,
+    "stockCount": 0,
+    "sku": "CAM-SC-DN-001",
+    "colors": [
+      {
+        "name": "Chrome",
+        "hex": "#E5E7EB"
+      }
+    ],
+    "images": [],
+    "description": "Wall-mounted single lever sink cock featuring a graceful swan neck spout and vertical flat lever.",
+    "story": "Delivers smooth water control and high clearance, ideal for compact kitchen sinks and laundry basins.",
+    "details": [
+      "Wall mounted single lever control",
+      "High swan neck spout",
+      "Polished chrome finish"
+    ],
+    "specs": {
+      "productType": "Sink Cock",
+      "finish": "Chrome",
+      "color": "Chrome",
+      "mountingType": "Wall Mounted",
+      "controlType": "Single Lever",
+      "material": "Not specified",
+      "dimensions": "Not specified",
+      "waterFlowRate": "Not specified",
+      "warranty": "Not specified"
+    },
+    "reviews": []
   },
   {
-    "id": 209,
-    "slug": "dune-9",
-    "name": "Dune Product 9",
-    "image": "https://res.cloudinary.com/dz3sbdyps/image/upload/f_auto,q_auto,w_auto/v1784080771/Wall_mixer_3_in_1_with_L_Bend_vrmigd.png"
+    "id": "camzon-product-009",
+    "slug": "camzon-sink-cock-wall-mounted-square-spout-cam-sc-dn-002",
+    "title": "Sink Cock Wall Mounted",
+    "subtitle": "WALL MOUNTED SQUARE SPOUT",
+    "category": "Dune",
+    "price": 105.00,
+    "originalPrice": 130.00,
+    "rating": 0,
+    "reviewsCount": 0,
+    "isNew": false,
+    "isSale": false,
+    "isFeatured": false,
+    "badge": null,
+    "stockCount": 0,
+    "sku": "CAM-SC-DN-002",
+    "colors": [
+      {
+        "name": "Chrome",
+        "hex": "#E5E7EB"
+      }
+    ],
+    "images": [],
+    "description": "Wall-mounted sink cock with a square-profile elevated spout and vertical lever handle.",
+    "story": "A modern geometric sink cock option that brings crisp architectural lines and clear reach to utility sinks.",
+    "details": [
+      "Wall mounted single lever control",
+      "Square-profile elevated spout",
+      "Chrome plated finish"
+    ],
+    "specs": {
+      "productType": "Sink Cock",
+      "finish": "Chrome",
+      "color": "Chrome",
+      "mountingType": "Wall Mounted",
+      "controlType": "Single Lever",
+      "material": "Not specified",
+      "dimensions": "Not specified",
+      "waterFlowRate": "Not specified",
+      "warranty": "Not specified"
+    },
+    "reviews": []
   },
   {
-    "id": 210,
-    "slug": "dune-10",
-    "name": "Dune Product 10",
-    "image": "https://res.cloudinary.com/dz3sbdyps/image/upload/f_auto,q_auto,w_auto/v1784080771/wall_mixer_2_in_1_with_L_bend_kdqka7.png"
+    "id": "camzon-product-001",
+    "slug": "camzon-swan-neck-cam-pc-dn-004",
+    "title": "Swan Neck",
+    "subtitle": "DECK MOUNTED",
+    "category": "Dune",
+    "price": 100.00,
+    "originalPrice": 125.00,
+    "rating": 0,
+    "reviewsCount": 0,
+    "isNew": false,
+    "isSale": false,
+    "isFeatured": false,
+    "badge": null,
+    "stockCount": 0,
+    "sku": "CAM-PC-DN-004",
+    "colors": [
+      {
+        "name": "Chrome",
+        "hex": "#E5E7EB"
+      }
+    ],
+    "images": [],
+    "description": "Deck-mounted swan neck tap featuring a high gooseneck spout and a sleek side-lever control from the Dune series.",
+    "story": "Part of the refined Dune collection, this swan neck faucet provides high clearance and elegant curves for countertop basins.",
+    "details": [
+      "High gooseneck spout profile",
+      "Side lever control handle",
+      "Deck mounted installation",
+      "Polished chrome finish"
+    ],
+    "specs": {
+      "productType": "Swan Neck Tap",
+      "finish": "Chrome",
+      "color": "Chrome",
+      "mountingType": "Deck Mounted",
+      "controlType": "Single Lever",
+      "material": "Not specified",
+      "dimensions": "Not specified",
+      "waterFlowRate": "Not specified",
+      "warranty": "Not specified"
+    },
+    "reviews": []
   },
   {
-    "id": 211,
-    "slug": "dune-11",
-    "name": "Dune Product 11",
-    "image": "https://res.cloudinary.com/dz3sbdyps/image/upload/f_auto,q_auto,w_auto/v1784080771/bib_cock_long_body_flziad.png"
+    "id": "camzon-product-002",
+    "slug": "camzon-wall-mixer-two-in-one-cam-wm-dn-001",
+    "title": "Wall Mixer",
+    "subtitle": "TWO IN ONE",
+    "category": "Dune",
+    "price": 175.00,
+    "originalPrice": 210.00,
+    "rating": 0,
+    "reviewsCount": 0,
+    "isNew": false,
+    "isSale": false,
+    "isFeatured": false,
+    "badge": null,
+    "stockCount": 0,
+    "sku": "CAM-WM-DN-001",
+    "colors": [
+      {
+        "name": "Chrome",
+        "hex": "#E5E7EB"
+      }
+    ],
+    "images": [],
+    "description": "Wall-mounted two-in-one bath mixer featuring dual levers, lower bath spout, and an attached overhead shower pipe riser.",
+    "story": "Combines bath spout filler and overhead shower functions into a sturdy wall-mounted unit for modern bathroom installations.",
+    "details": [
+      "Wall mounted two-in-one system",
+      "Dual lever controls with diverter",
+      "Includes overhead shower riser pipe",
+      "Polished chrome finish"
+    ],
+    "specs": {
+      "productType": "Wall Mixer",
+      "finish": "Chrome",
+      "color": "Chrome",
+      "mountingType": "Wall Mounted",
+      "controlType": "Two Lever",
+      "material": "Not specified",
+      "dimensions": "Not specified",
+      "waterFlowRate": "Not specified",
+      "warranty": "Not specified"
+    },
+    "reviews": []
   },
   {
-    "id": 212,
-    "slug": "dune-12",
-    "name": "Dune Product 12",
-    "image": "https://res.cloudinary.com/dz3sbdyps/image/upload/f_auto,q_auto,w_auto/v1784080769/bib_cock_zsa7jn.png"
+    "id": "camzon-product-003",
+    "slug": "camzon-wall-mixer-three-in-one-cam-wm-dn-002",
+    "title": "Wall Mixer",
+    "subtitle": "THREE IN ONE",
+    "category": "Dune",
+    "price": 195.00,
+    "originalPrice": 235.00,
+    "rating": 0,
+    "reviewsCount": 0,
+    "isNew": false,
+    "isSale": false,
+    "isFeatured": false,
+    "badge": null,
+    "stockCount": 0,
+    "sku": "CAM-WM-DN-002",
+    "colors": [
+      {
+        "name": "Chrome",
+        "hex": "#E5E7EB"
+      }
+    ],
+    "images": [],
+    "description": "Wall-mounted three-in-one bath mixer offering bath spout filling, hand shower connection, and overhead shower arm integration.",
+    "story": "An all-in-one shower and bath system that delivers seamless switching between three distinct water outlets.",
+    "details": [
+      "Three-in-one water outlet control",
+      "Supports overhead shower, spout, and hand spray",
+      "Dual lever handles with heavy-duty chrome plating"
+    ],
+    "specs": {
+      "productType": "Wall Mixer",
+      "finish": "Chrome",
+      "color": "Chrome",
+      "mountingType": "Wall Mounted",
+      "controlType": "Two Lever",
+      "material": "Not specified",
+      "dimensions": "Not specified",
+      "waterFlowRate": "Not specified",
+      "warranty": "Not specified"
+    },
+    "reviews": []
   },
   {
-    "id": 213,
-    "slug": "dune-13",
-    "name": "Dune Product 13",
-    "image": "https://res.cloudinary.com/dz3sbdyps/image/upload/f_auto,q_auto,w_auto/v1784080769/pillar_cock_high_neck_idcflp.png"
+    "id": "camzon-product-004",
+    "slug": "camzon-stop-cock-concealed-cam-ob-dn-001",
+    "title": "Stop Cock",
+    "subtitle": "CONCEALED",
+    "category": "Dune",
+    "price": 50.00,
+    "originalPrice": 65.00,
+    "rating": 0,
+    "reviewsCount": 0,
+    "isNew": false,
+    "isSale": false,
+    "isFeatured": false,
+    "badge": null,
+    "stockCount": 0,
+    "sku": "CAM-OB-DN-001",
+    "colors": [
+      {
+        "name": "Chrome",
+        "hex": "#E5E7EB"
+      }
+    ],
+    "images": [],
+    "description": "Concealed in-wall stop cock valve with brass internal body, round chrome backplate flange, and square lever handle.",
+    "story": "Provides clean in-wall water isolation for plumbing circuits while showcasing sleek chrome surface trim.",
+    "details": [
+      "Brass concealed valve body",
+      "Circular wall flange with square handle",
+      "Quarter-turn smooth operation"
+    ],
+    "specs": {
+      "productType": "Stop Cock",
+      "finish": "Chrome",
+      "color": "Chrome",
+      "mountingType": "Concealed Wall Mounted",
+      "controlType": "Quarter Turn",
+      "material": "Brass",
+      "dimensions": "Not specified",
+      "waterFlowRate": "Not specified",
+      "warranty": "Not specified"
+    },
+    "reviews": []
   },
   {
-    "id": 214,
-    "slug": "dune-14",
-    "name": "Dune Product 14",
-    "image": "https://res.cloudinary.com/dz3sbdyps/image/upload/f_auto,q_auto,w_auto/v1784080768/angle_cock_syodrf.png"
+    "id": "camzon-product-005",
+    "slug": "camzon-flush-cock-concealed-cam-ob-dn-002",
+    "title": "Flush Cock",
+    "subtitle": "CONCEALED",
+    "category": "Dune",
+    "price": 60.00,
+    "originalPrice": 75.00,
+    "rating": 0,
+    "reviewsCount": 0,
+    "isNew": false,
+    "isSale": false,
+    "isFeatured": false,
+    "badge": null,
+    "stockCount": 0,
+    "sku": "CAM-OB-DN-002",
+    "colors": [
+      {
+        "name": "Chrome",
+        "hex": "#E5E7EB"
+      }
+    ],
+    "images": [],
+    "description": "Concealed flush cock valve designed for high-flow toilet flushing, featuring a heavy brass body and square chrome handle.",
+    "story": "Delivers powerful flushing water flow while maintaining a minimalist wall-mounted modern appearance.",
+    "details": [
+      "High-flow concealed brass body",
+      "Wall flange ring and lever control",
+      "Polished chrome finish"
+    ],
+    "specs": {
+      "productType": "Flush Cock",
+      "finish": "Chrome",
+      "color": "Chrome",
+      "mountingType": "Concealed Wall Mounted",
+      "controlType": "Quarter Turn",
+      "material": "Brass",
+      "dimensions": "Not specified",
+      "waterFlowRate": "Not specified",
+      "warranty": "Not specified"
+    },
+    "reviews": []
   },
   {
-    "id": 215,
-    "slug": "dune-15",
-    "name": "Dune Product 15",
-    "image": "https://res.cloudinary.com/dz3sbdyps/image/upload/f_auto,q_auto,w_auto/v1784080768/pillar_cock_qjogs9.png"
+    "id": "camzon-product-006",
+    "slug": "camzon-angle-cock-two-way-cam-ob-dn-003",
+    "title": "Angle Cock",
+    "subtitle": "TWO WAY",
+    "category": "Dune",
+    "price": 65.00,
+    "originalPrice": 80.00,
+    "rating": 0,
+    "reviewsCount": 0,
+    "isNew": false,
+    "isSale": false,
+    "isFeatured": false,
+    "badge": null,
+    "stockCount": 0,
+    "sku": "CAM-OB-DN-003",
+    "colors": [
+      {
+        "name": "Chrome",
+        "hex": "#E5E7EB"
+      }
+    ],
+    "images": [],
+    "description": "Wall-mounted two-way angle cock valve featuring dual outlets and a crisp square-profile lever control.",
+    "story": "Enables dual water distribution from a single wall point for toilet health faucets and cistern tanks.",
+    "details": [
+      "Two-way dual outlet design",
+      "Square modern control handle",
+      "Polished chrome finish"
+    ],
+    "specs": {
+      "productType": "Angle Cock",
+      "finish": "Chrome",
+      "color": "Chrome",
+      "mountingType": "Wall Mounted",
+      "controlType": "Single Lever",
+      "material": "Not specified",
+      "dimensions": "Not specified",
+      "waterFlowRate": "Not specified",
+      "warranty": "Not specified"
+    },
+    "reviews": []
   },
   {
-    "id": 216,
-    "slug": "dune-16",
-    "name": "Dune Product 16",
-    "image": "https://res.cloudinary.com/dz3sbdyps/image/upload/f_auto,q_auto,w_auto/v1784080763/2_way_angle_cock_stdpdx.png"
+    "id": "camzon-product-007",
+    "slug": "camzon-angle-cock-cam-ob-dn-004",
+    "title": "Angle Cock",
+    "subtitle": "SINGLE OUTLET",
+    "category": "Dune",
+    "price": 45.00,
+    "originalPrice": 60.00,
+    "rating": 0,
+    "reviewsCount": 0,
+    "isNew": false,
+    "isSale": false,
+    "isFeatured": false,
+    "badge": null,
+    "stockCount": 0,
+    "sku": "CAM-OB-DN-004",
+    "colors": [
+      {
+        "name": "Chrome",
+        "hex": "#E5E7EB"
+      }
+    ],
+    "images": [],
+    "description": "Wall-mounted single outlet angle cock valve featuring a sleek square body and vertical control lever.",
+    "story": "A dependable shut-off valve for modern bathrooms, matching the geometric square accents of the Dune line.",
+    "details": [
+      "Wall mounted angle supply valve",
+      "Vertical square lever handle",
+      "Chrome plated finish"
+    ],
+    "specs": {
+      "productType": "Angle Cock",
+      "finish": "Chrome",
+      "color": "Chrome",
+      "mountingType": "Wall Mounted",
+      "controlType": "Single Lever",
+      "material": "Not specified",
+      "dimensions": "Not specified",
+      "waterFlowRate": "Not specified",
+      "warranty": "Not specified"
+    },
+    "reviews": []
   }
 ]
+

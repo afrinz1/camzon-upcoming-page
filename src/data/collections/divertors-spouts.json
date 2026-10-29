@@ -1,0 +1,354 @@
+[
+  {
+    "id": "camzon-product-001",
+    "slug": "camzon-group-divertors-spout-divertor-4-way-5-way-cam-dv-pb-003",
+    "title": "DIVERTOR",
+    "subtitle": "4 WAY 5 WAY",
+    "category": "DIVER TORS SPOUTS",
+    "price": 3250.00,
+    "originalPrice": 3800.00,
+    "rating": 0,
+    "reviewsCount": 0,
+    "isNew": false,
+    "isSale": false,
+    "isFeatured": false,
+    "badge": null,
+    "stockCount": 0,
+    "sku": "CAM-DV-PB-003",
+    "colors": [
+      {
+        "name": "Chrome",
+        "hex": "#E5E7EB"
+      }
+    ],
+    "images": [],
+    "description": "A rectangular exposed wall trim plate concealed diverter supporting 4-way and 5-way water distribution for shower and spout systems.",
+    "story": "Designed for modern luxury shower enclosures, this square profile concealed diverter trim delivers sleek control over multiple shower outlets.",
+    "details": [
+      "Rectangular chrome-plated backplate",
+      "4-way / 5-way functional water diverter trim",
+      "Ergonomic single lever temperature handle",
+      "Concealed in-wall fitment design"
+    ],
+    "specs": {
+      "productType": "Concealed Shower Diverter",
+      "finish": "Not specified",
+      "color": "Not specified",
+      "mountingType": "Concealed Wall Mounted",
+      "controlType": "Single Lever with Diverter Knob",
+      "material": "Not specified",
+      "dimensions": "Not specified",
+      "waterFlowRate": "Not specified",
+      "warranty": "Not specified"
+    },
+    "reviews": []
+  },
+  {
+    "id": "camzon-product-002",
+    "slug": "camzon-group-divertors-spout-divertor-4-way-5-way-cam-dv-pb-004",
+    "title": "DIVERTOR",
+    "subtitle": "4 WAY 5 WAY",
+    "category": "DIVER TORS SPOUTS",
+    "price": 3150.00,
+    "originalPrice": 3650.00,
+    "rating": 0,
+    "reviewsCount": 0,
+    "isNew": false,
+    "isSale": false,
+    "isFeatured": false,
+    "badge": null,
+    "stockCount": 0,
+    "sku": "CAM-DV-PB-004",
+    "colors": [
+      {
+        "name": "Chrome",
+        "hex": "#E5E7EB"
+      }
+    ],
+    "images": [],
+    "description": "A streamlined rectangular concealed diverter kit with smooth curved lever handle for 4-way or 5-way shower installations.",
+    "story": "Providing seamless transition between overhead shower, body jets, and bath spout, this 4-way/5-way diverter combines architectural style with intuitive function.",
+    "details": [
+      "Square rectangular trim plate",
+      "Compatible with 4-way and 5-way concealed bodies",
+      "Soft-curved ergonomic lever",
+      "Polished high-shine chrome finish"
+    ],
+    "specs": {
+      "productType": "Concealed Shower Diverter",
+      "finish": "Not specified",
+      "color": "Not specified",
+      "mountingType": "Concealed Wall Mounted",
+      "controlType": "Single Lever with Diverter Knob",
+      "material": "Not specified",
+      "dimensions": "Not specified",
+      "waterFlowRate": "Not specified",
+      "warranty": "Not specified"
+    },
+    "reviews": []
+  },
+  {
+    "id": "camzon-product-003",
+    "slug": "camzon-group-divertors-spout-divertor-4-way-5-way-cam-dv-pb-002",
+    "title": "DIVERTOR",
+    "subtitle": "4 WAY 5 WAY",
+    "category": "DIVER TORS SPOUTS",
+    "price": 2950.00,
+    "originalPrice": 3450.00,
+    "rating": 0,
+    "reviewsCount": 0,
+    "isNew": false,
+    "isSale": false,
+    "isFeatured": false,
+    "badge": null,
+    "stockCount": 0,
+    "sku": "CAM-DV-PB-002",
+    "colors": [
+      {
+        "name": "Chrome",
+        "hex": "#E5E7EB"
+      }
+    ],
+    "images": [],
+    "description": "An oval-shaped wall plate concealed shower diverter set designed for multi-outlet 4-way and 5-way shower setups.",
+    "story": "Featuring soft oval contours, this concealed diverter plate brings an organic aesthetic and smooth multi-way water diversion to modern bathrooms.",
+    "details": [
+      "Oval trim plate profile",
+      "4-way and 5-way multi-outlet control",
+      "Joystick/lever control design",
+      "Corrosion-resistant chrome surface"
+    ],
+    "specs": {
+      "productType": "Concealed Shower Diverter",
+      "finish": "Not specified",
+      "color": "Not specified",
+      "mountingType": "Concealed Wall Mounted",
+      "controlType": "Single Lever / Joystick with Diverter",
+      "material": "Not specified",
+      "dimensions": "Not specified",
+      "waterFlowRate": "Not specified",
+      "warranty": "Not specified"
+    },
+    "reviews": []
+  },
+  {
+    "id": "camzon-product-004",
+    "slug": "camzon-group-divertors-spout-divertor-4-way-5-way-cam-dv-pb-001",
+    "title": "DIVERTOR",
+    "subtitle": "4 WAY 5 WAY",
+    "category": "DIVER TORS SPOUTS",
+    "price": 2850.00,
+    "originalPrice": 3300.00,
+    "rating": 0,
+    "reviewsCount": 0,
+    "isNew": false,
+    "isSale": false,
+    "isFeatured": false,
+    "badge": null,
+    "stockCount": 0,
+    "sku": "CAM-DV-PB-001",
+    "colors": [
+      {
+        "name": "Chrome",
+        "hex": "#E5E7EB"
+      }
+    ],
+    "images": [],
+    "description": "An oval concealed diverter trim kit with ring-handle single lever control for 4-way and 5-way bathroom shower configurations.",
+    "story": "The ring-lever design of this 4-way/5-way concealed diverter offers comfortable tactile grip while maintaining a compact oval wall silhouette.",
+    "details": [
+      "Soft oval backplate",
+      "Ring-loop ergonomic control lever",
+      "4-way / 5-way concealed body trim",
+      "Bright chrome finish"
+    ],
+    "specs": {
+      "productType": "Concealed Shower Diverter",
+      "finish": "Not specified",
+      "color": "Not specified",
+      "mountingType": "Concealed Wall Mounted",
+      "controlType": "Single Ring Lever with Diverter",
+      "material": "Not specified",
+      "dimensions": "Not specified",
+      "waterFlowRate": "Not specified",
+      "warranty": "Not specified"
+    },
+    "reviews": []
+  },
+  {
+    "id": "camzon-product-005",
+    "slug": "camzon-group-divertors-spout-spout-kubix-plain",
+    "title": "SPOUT",
+    "subtitle": "KUBIX PLAIN",
+    "category": "DIVER TORS SPOUTS",
+    "price": 1450.00,
+    "originalPrice": 1700.00,
+    "rating": 0,
+    "reviewsCount": 0,
+    "isNew": false,
+    "isSale": false,
+    "isFeatured": false,
+    "badge": null,
+    "stockCount": 0,
+    "sku": "CAM-SP-PB-003",
+    "colors": [
+      {
+        "name": "Chrome",
+        "hex": "#E5E7EB"
+      }
+    ],
+    "images": [],
+    "description": "A modern plain wall spout featuring a clean rectangular Kubix profile and round wall flange.",
+    "story": "The Kubix Plain Spout complements concealed diverter systems with its sharp flat-top spout geometry and splash-free aerator.",
+    "details": [
+      "Plain bath spout without diverter button",
+      "Modern flat rectangular body design",
+      "Circular wall flange included",
+      "High shine chrome finish"
+    ],
+    "specs": {
+      "productType": "Wall Bath Spout",
+      "finish": "Not specified",
+      "color": "Not specified",
+      "mountingType": "Wall Mounted",
+      "controlType": "None (Spout Only)",
+      "material": "Not specified",
+      "dimensions": "Not specified",
+      "waterFlowRate": "Not specified",
+      "warranty": "Not specified"
+    },
+    "reviews": []
+  },
+  {
+    "id": "camzon-product-006",
+    "slug": "camzon-group-divertors-spout-spout-tip-ton",
+    "title": "SPOUT",
+    "subtitle": "TIP TON",
+    "category": "DIVER TORS SPOUTS",
+    "price": 1850.00,
+    "originalPrice": 2150.00,
+    "rating": 0,
+    "reviewsCount": 0,
+    "isNew": false,
+    "isSale": false,
+    "isFeatured": false,
+    "badge": null,
+    "stockCount": 0,
+    "sku": "CAM-SP-PB-001",
+    "colors": [
+      {
+        "name": "Chrome",
+        "hex": "#E5E7EB"
+      }
+    ],
+    "images": [],
+    "description": "A wall-mounted bath spout featuring a top-mounted tip-ton diverter knob for switching water flow between spout and hand shower.",
+    "story": "Equipped with a quick-action tip-ton diverter knob, this wall spout enables effortless flow redirection directly at the tub outlet.",
+    "details": [
+      "Integrated top tip-ton diverter knob",
+      "Wall flange connection included",
+      "Streamlined extended spout body",
+      "Polished chrome finish"
+    ],
+    "specs": {
+      "productType": "Bath Spout with Diverter",
+      "finish": "Not specified",
+      "color": "Not specified",
+      "mountingType": "Wall Mounted",
+      "controlType": "Tip-Ton Diverter Button",
+      "material": "Not specified",
+      "dimensions": "Not specified",
+      "waterFlowRate": "Not specified",
+      "warranty": "Not specified"
+    },
+    "reviews": []
+  },
+  {
+    "id": "camzon-product-007",
+    "slug": "camzon-group-divertors-spout-spout-ornamix",
+    "title": "SPOUT",
+    "subtitle": "ORNAMIX",
+    "category": "DIVER TORS SPOUTS",
+    "price": 1550.00,
+    "originalPrice": 1800.00,
+    "rating": 0,
+    "reviewsCount": 0,
+    "isNew": false,
+    "isSale": false,
+    "isFeatured": false,
+    "badge": null,
+    "stockCount": 0,
+    "sku": "CAM-SP-PB-002",
+    "colors": [
+      {
+        "name": "Chrome",
+        "hex": "#E5E7EB"
+      }
+    ],
+    "images": [],
+    "description": "A sleek Ornamix plain wall-mounted bath spout with a flat top projection and rounded wall flange plate.",
+    "story": "The Ornamix plain spout offers minimalist bath filling functionality with smooth clean lines that integrate effortlessly into modern tub spaces.",
+    "details": [
+      "Plain wall spout design",
+      "Modern Ornamix styled flat profile",
+      "Includes round backplate flange",
+      "Corrosion-resistant chrome surface"
+    ],
+    "specs": {
+      "productType": "Wall Bath Spout",
+      "finish": "Not specified",
+      "color": "Not specified",
+      "mountingType": "Wall Mounted",
+      "controlType": "None (Spout Only)",
+      "material": "Not specified",
+      "dimensions": "Not specified",
+      "waterFlowRate": "Not specified",
+      "warranty": "Not specified"
+    },
+    "reviews": []
+  },
+  {
+    "id": "camzon-product-008",
+    "slug": "camzon-group-divertors-spout-spout-florentine-plain",
+    "title": "SPOUT",
+    "subtitle": "FLORENTINE PLAIN",
+    "category": "DIVER TORS SPOUTS",
+    "price": 1350.00,
+    "originalPrice": 1600.00,
+    "rating": 0,
+    "reviewsCount": 0,
+    "isNew": false,
+    "isSale": false,
+    "isFeatured": false,
+    "badge": null,
+    "stockCount": 0,
+    "sku": "CAM-SP-PB-004",
+    "colors": [
+      {
+        "name": "Chrome",
+        "hex": "#E5E7EB"
+      }
+    ],
+    "images": [],
+    "description": "A classic Florentine plain round tubular wall spout featuring a gentle 90-degree downward outlet curve.",
+    "story": "The Florentine Plain Spout delivers timeless tubular styling and steady non-splash water delivery for concealed bath filler installations.",
+    "details": [
+      "Round tubular spout with 90-degree bend",
+      "Plain design without diverter",
+      "Circular wall flange included",
+      "High shine chrome finish"
+    ],
+    "specs": {
+      "productType": "Wall Bath Spout",
+      "finish": "Not specified",
+      "color": "Not specified",
+      "mountingType": "Wall Mounted",
+      "controlType": "None (Spout Only)",
+      "material": "Not specified",
+      "dimensions": "Not specified",
+      "waterFlowRate": "Not specified",
+      "warranty": "Not specified"
+    },
+    "reviews": []
+  }
+]

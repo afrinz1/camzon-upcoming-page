@@ -1,116 +1,776 @@
 [
   {
-    "id": 101,
-    "slug": "kore-1",
-    "name": "Kore Product 1",
-    "image": "https://res.cloudinary.com/dz3sbdyps/image/upload/f_auto,q_auto,w_auto/v1784080784/1365a57a-fc71-421f-90b3-2612cf28245f_kflg1i.png"
+    "id": "camzon-product-001",
+    "slug": "camzon-basin-mixer-cam-bm-ko-001",
+    "title": "Basin Mixer",
+    "subtitle": "SINGLE LEVER",
+    "category": "kore",
+    "price": 120.00,
+    "originalPrice": 150.00,
+    "rating": 0,
+    "reviewsCount": 0,
+    "isNew": false,
+    "isSale": false,
+    "isFeatured": false,
+    "badge": null,
+    "stockCount": 0,
+    "sku": "CAM-BM-KO-001",
+    "colors": [
+      {
+        "name": "Chrome",
+        "hex": "#E5E7EB"
+      }
+    ],
+    "images": [],
+    "description": "Sleek single lever basin mixer from the Kore collection featuring a polished chrome body and smooth top lever control.",
+    "story": "Part of the versatile Kore collection, designed to deliver sleek contemporary aesthetics and dependable daily washbasin performance.",
+    "details": [
+      "Single lever control handle",
+      "Deck mounted fitting",
+      "Polished chrome finish"
+    ],
+    "specs": {
+      "productType": "Basin Mixer",
+      "finish": "Chrome",
+      "color": "Chrome",
+      "mountingType": "Deck Mounted",
+      "controlType": "Single Lever",
+      "material": "Not specified",
+      "dimensions": "Not specified",
+      "waterFlowRate": "Not specified",
+      "warranty": "Not specified"
+    },
+    "reviews": []
   },
   {
-    "id": 102,
-    "slug": "kore-2",
-    "name": "Kore Product 2",
-    "image": "https://res.cloudinary.com/dz3sbdyps/image/upload/f_auto,q_auto,w_auto/v1784080783/a9f855e9-5556-4193-92f7-ba4049d7d5a0_qit7eu.png"
+    "id": "camzon-product-002",
+    "slug": "camzon-pillar-cock-extended-cam-pc-ko-001",
+    "title": "Pillar Cock Extended",
+    "subtitle": "EXTENDED",
+    "category": "kore",
+    "price": 110.00,
+    "originalPrice": 135.00,
+    "rating": 0,
+    "reviewsCount": 0,
+    "isNew": false,
+    "isSale": false,
+    "isFeatured": false,
+    "badge": null,
+    "stockCount": 0,
+    "sku": "CAM-PC-KO-001",
+    "colors": [
+      {
+        "name": "Chrome",
+        "hex": "#E5E7EB"
+      }
+    ],
+    "images": [],
+    "description": "Extended tall pillar cock designed for vessel and counter basin installations requiring elevated spout height.",
+    "story": "Provides high spout clearance for counter-top basins, combining sleek vertical proportions with smooth water output.",
+    "details": [
+      "Extended tall body design",
+      "Deck mounted installation",
+      "Polished chrome finish"
+    ],
+    "specs": {
+      "productType": "Pillar Cock",
+      "finish": "Chrome",
+      "color": "Chrome",
+      "mountingType": "Deck Mounted",
+      "controlType": "Not specified",
+      "material": "Not specified",
+      "dimensions": "Not specified",
+      "waterFlowRate": "Not specified",
+      "warranty": "Not specified"
+    },
+    "reviews": []
   },
   {
-    "id": 103,
-    "slug": "kore-3",
-    "name": "Kore Product 3",
-    "image": "https://res.cloudinary.com/dz3sbdyps/image/upload/f_auto,q_auto,w_auto/v1784080782/0f34e205-71f7-48bb-ac48-c785430d0c0c_m5hfcs.png"
+    "id": "camzon-product-003",
+    "slug": "camzon-pillar-cock-150mm-cam-pc-ko-002",
+    "title": "Pillar Cock 150mm",
+    "subtitle": "150mm",
+    "category": "kore",
+    "price": 95.00,
+    "originalPrice": 120.00,
+    "rating": 0,
+    "reviewsCount": 0,
+    "isNew": false,
+    "isSale": false,
+    "isFeatured": false,
+    "badge": null,
+    "stockCount": 0,
+    "sku": "CAM-PC-KO-002",
+    "colors": [
+      {
+        "name": "Chrome",
+        "hex": "#E5E7EB"
+      }
+    ],
+    "images": [],
+    "description": "150mm deck mounted pillar cock featuring a robust cylindrical body and flat-top control handle.",
+    "story": "Designed for standard basin arrangements, offering reliable cold or single water flow with a crisp modern finish.",
+    "details": [
+      "150mm overall height",
+      "Deck mounted fitting",
+      "Chrome plated finish"
+    ],
+    "specs": {
+      "productType": "Pillar Cock",
+      "finish": "Chrome",
+      "color": "Chrome",
+      "mountingType": "Deck Mounted",
+      "controlType": "Not specified",
+      "material": "Not specified",
+      "dimensions": "150mm",
+      "waterFlowRate": "Not specified",
+      "warranty": "Not specified"
+    },
+    "reviews": []
   },
   {
-    "id": 104,
-    "slug": "kore-4",
-    "name": "Kore Product 4",
-    "image": "https://res.cloudinary.com/dz3sbdyps/image/upload/f_auto,q_auto,w_auto/v1784080780/faa72630-b6b9-4fb5-986e-b20ff560e3e9_iqtbzv.png"
+    "id": "camzon-product-004",
+    "slug": "camzon-pillar-cock-100mm-cam-pc-ko-003",
+    "title": "Pillar Cock 100mm",
+    "subtitle": "100mm",
+    "category": "kore",
+    "price": 85.00,
+    "originalPrice": 105.00,
+    "rating": 0,
+    "reviewsCount": 0,
+    "isNew": false,
+    "isSale": false,
+    "isFeatured": false,
+    "badge": null,
+    "stockCount": 0,
+    "sku": "CAM-PC-KO-003",
+    "colors": [
+      {
+        "name": "Chrome",
+        "hex": "#E5E7EB"
+      }
+    ],
+    "images": [],
+    "description": "Compact 100mm pillar cock providing durable performance and a space-saving profile for compact washbasins.",
+    "story": "A compact pillar cock solution that maintains clean modern aesthetics while fitting easily on smaller basins.",
+    "details": [
+      "100mm overall height",
+      "Deck mounted installation",
+      "Polished chrome finish"
+    ],
+    "specs": {
+      "productType": "Pillar Cock",
+      "finish": "Chrome",
+      "color": "Chrome",
+      "mountingType": "Deck Mounted",
+      "controlType": "Not specified",
+      "material": "Not specified",
+      "dimensions": "100mm",
+      "waterFlowRate": "Not specified",
+      "warranty": "Not specified"
+    },
+    "reviews": []
   },
   {
-    "id": 105,
-    "slug": "kore-5",
-    "name": "Kore Product 5",
-    "image": "https://res.cloudinary.com/dz3sbdyps/image/upload/f_auto,q_auto,w_auto/v1784080780/4dfaac7e-b069-40c6-a38b-d739b1aafc7e_hoicwr.png"
+    "id": "camzon-product-005",
+    "slug": "camzon-bib-cock-long-nose-cam-bc-ko-001",
+    "title": "Bib Cock Long Nose",
+    "subtitle": "LONG NOSE",
+    "category": "kore",
+    "price": 75.00,
+    "originalPrice": 95.00,
+    "rating": 0,
+    "reviewsCount": 0,
+    "isNew": false,
+    "isSale": false,
+    "isFeatured": false,
+    "badge": null,
+    "stockCount": 0,
+    "sku": "CAM-BC-KO-001",
+    "colors": [
+      {
+        "name": "Chrome",
+        "hex": "#E5E7EB"
+      }
+    ],
+    "images": [],
+    "description": "Wall-mounted bib cock with an extended long-nose spout and ergonomic top control handle.",
+    "story": "Offers extended spout reach for convenient bucket filling and utility washing against bathroom or garden walls.",
+    "details": [
+      "Wall mounted installation",
+      "Extended long nose spout",
+      "Polished chrome finish"
+    ],
+    "specs": {
+      "productType": "Bib Cock",
+      "finish": "Chrome",
+      "color": "Chrome",
+      "mountingType": "Wall Mounted",
+      "controlType": "Not specified",
+      "material": "Not specified",
+      "dimensions": "Not specified",
+      "waterFlowRate": "Not specified",
+      "warranty": "Not specified"
+    },
+    "reviews": []
   },
   {
-    "id": 106,
-    "slug": "kore-6",
-    "name": "Kore Product 6",
-    "image": "https://res.cloudinary.com/dz3sbdyps/image/upload/f_auto,q_auto,w_auto/v1784080780/2d5bf046-5b7d-4c3a-a9a4-2df76be40a1d_eglpua.png"
+    "id": "camzon-product-006",
+    "slug": "camzon-bib-cock-two-way-cam-bc-ko-002",
+    "title": "Bib Cock Two Way",
+    "subtitle": "TWO WAY",
+    "category": "kore",
+    "price": 90.00,
+    "originalPrice": 115.00,
+    "rating": 0,
+    "reviewsCount": 0,
+    "isNew": false,
+    "isSale": false,
+    "isFeatured": false,
+    "badge": null,
+    "stockCount": 0,
+    "sku": "CAM-BC-KO-002",
+    "colors": [
+      {
+        "name": "Chrome",
+        "hex": "#E5E7EB"
+      }
+    ],
+    "images": [],
+    "description": "Wall-mounted two-way bib cock featuring dual outlets for multi-functional water hose and spout connection.",
+    "story": "Designed for enhanced functionality, allowing simultaneous connection to a hand spray hose and primary outlet spout.",
+    "details": [
+      "Wall mounted two-way configuration",
+      "Dual water outlet design",
+      "Polished chrome finish"
+    ],
+    "specs": {
+      "productType": "Bib Cock",
+      "finish": "Chrome",
+      "color": "Chrome",
+      "mountingType": "Wall Mounted",
+      "controlType": "Not specified",
+      "material": "Not specified",
+      "dimensions": "Not specified",
+      "waterFlowRate": "Not specified",
+      "warranty": "Not specified"
+    },
+    "reviews": []
   },
   {
-    "id": 107,
-    "slug": "kore-7",
-    "name": "Kore Product 7",
-    "image": "https://res.cloudinary.com/dz3sbdyps/image/upload/f_auto,q_auto,w_auto/v1784080779/88b21e87-1f33-44dd-9882-4599f44a2eac_ujreni.png"
+    "id": "camzon-product-007",
+    "slug": "camzon-basin-mixer-wall-mounted-cam-bm-ko-002",
+    "title": "Basin Mixer Wall Mounted",
+    "subtitle": "WALL MOUNTED",
+    "category": "kore",
+    "price": 135.00,
+    "originalPrice": 165.00,
+    "rating": 0,
+    "reviewsCount": 0,
+    "isNew": false,
+    "isSale": false,
+    "isFeatured": false,
+    "badge": null,
+    "stockCount": 0,
+    "sku": "CAM-BM-KO-002",
+    "colors": [
+      {
+        "name": "Chrome",
+        "hex": "#E5E7EB"
+      }
+    ],
+    "images": [],
+    "description": "Wall-mounted basin mixer with an arched swivel spout and smooth single-lever flow control.",
+    "story": "Frees up countertop space by mounting directly to the wall, bringing an elegant high-arch spout profile to the basin.",
+    "details": [
+      "Wall mounted configuration",
+      "Swivel high arch spout",
+      "Single lever water control"
+    ],
+    "specs": {
+      "productType": "Basin Mixer",
+      "finish": "Chrome",
+      "color": "Chrome",
+      "mountingType": "Wall Mounted",
+      "controlType": "Single Lever",
+      "material": "Not specified",
+      "dimensions": "Not specified",
+      "waterFlowRate": "Not specified",
+      "warranty": "Not specified"
+    },
+    "reviews": []
   },
   {
-    "id": 108,
-    "slug": "kore-8",
-    "name": "Kore Product 8",
-    "image": "https://res.cloudinary.com/dz3sbdyps/image/upload/f_auto,q_auto,w_auto/v1784080779/c6efdf56-fbde-4fd0-b577-27cd8973b8cc_cpimeq.png"
+    "id": "camzon-product-008",
+    "slug": "camzon-sink-cock-single-lever-cam-sc-ko-001",
+    "title": "Sink Cock Single Lever",
+    "subtitle": "SINGLE LEVER",
+    "category": "kore",
+    "price": 105.00,
+    "originalPrice": 130.00,
+    "rating": 0,
+    "reviewsCount": 0,
+    "isNew": false,
+    "isSale": false,
+    "isFeatured": false,
+    "badge": null,
+    "stockCount": 0,
+    "sku": "CAM-SC-KO-001",
+    "colors": [
+      {
+        "name": "Chrome",
+        "hex": "#E5E7EB"
+      }
+    ],
+    "images": [],
+    "description": "Wall-mounted single lever sink cock with a high swan neck spout for comfortable sink accessibility.",
+    "story": "A practical choice for utility and kitchen sinks, offering high clearance for washing larger items effortlessly.",
+    "details": [
+      "Wall mounted single lever control",
+      "High swan neck spout",
+      "Polished chrome finish"
+    ],
+    "specs": {
+      "productType": "Sink Cock",
+      "finish": "Chrome",
+      "color": "Chrome",
+      "mountingType": "Wall Mounted",
+      "controlType": "Single Lever",
+      "material": "Not specified",
+      "dimensions": "Not specified",
+      "waterFlowRate": "Not specified",
+      "warranty": "Not specified"
+    },
+    "reviews": []
   },
   {
-    "id": 109,
-    "slug": "kore-9",
-    "name": "Kore Product 9",
-    "image": "https://res.cloudinary.com/dz3sbdyps/image/upload/f_auto,q_auto,w_auto/v1784080778/83e1ca6d-0b13-4dcf-a2f6-d2b5d9bdf172_x6jxva.png"
+    "id": "camzon-product-009",
+    "slug": "camzon-sink-cock-deck-mounted-cam-sc-ko-002",
+    "title": "Sink Cock Deck Mounted",
+    "subtitle": "DECK MOUNTED SINGLE LEVER",
+    "category": "kore",
+    "price": 115.00,
+    "originalPrice": 140.00,
+    "rating": 0,
+    "reviewsCount": 0,
+    "isNew": false,
+    "isSale": false,
+    "isFeatured": false,
+    "badge": null,
+    "stockCount": 0,
+    "sku": "CAM-SC-KO-002",
+    "colors": [
+      {
+        "name": "Chrome",
+        "hex": "#E5E7EB"
+      }
+    ],
+    "images": [],
+    "description": "Deck-mounted single lever sink cock featuring a graceful arch spout and ergonomic front-facing handle.",
+    "story": "Combines table-mounted convenience with a sweeping curved spout, perfect for modern kitchen and basin spaces.",
+    "details": [
+      "Deck mounted single lever handle",
+      "Sweeping arch spout",
+      "Chrome plated brass body"
+    ],
+    "specs": {
+      "productType": "Sink Cock",
+      "finish": "Chrome",
+      "color": "Chrome",
+      "mountingType": "Deck Mounted",
+      "controlType": "Single Lever",
+      "material": "Not specified",
+      "dimensions": "Not specified",
+      "waterFlowRate": "Not specified",
+      "warranty": "Not specified"
+    },
+    "reviews": []
   },
   {
-    "id": 110,
-    "slug": "kore-10",
-    "name": "Kore Product 10",
-    "image": "https://res.cloudinary.com/dz3sbdyps/image/upload/f_auto,q_auto,w_auto/v1784080777/2d181c9c-ecb2-4959-941c-52416ddc7894_p38fpr.png"
+    "id": "camzon-product-001",
+    "slug": "camzon-basin-mixer-concealed-wall-mounted-cam-bm-ko-003",
+    "title": "Basin Mixer",
+    "subtitle": "CONCEALED - WALL MOUNTED",
+    "category": "kore",
+    "price": 145.00,
+    "originalPrice": 175.00,
+    "rating": 0,
+    "reviewsCount": 0,
+    "isNew": false,
+    "isSale": false,
+    "isFeatured": false,
+    "badge": null,
+    "stockCount": 0,
+    "sku": "CAM-BM-KO-003",
+    "colors": [
+      {
+        "name": "Chrome",
+        "hex": "#E5E7EB"
+      }
+    ],
+    "images": [],
+    "description": "Concealed wall-mounted single lever basin mixer featuring a rectangular wall trim plate and streamlined spout.",
+    "story": "Part of the modern Kore concealed range, providing a clean minimalist look by recessing plumbing components into the wall plate.",
+    "details": [
+      "Concealed wall-mounted body",
+      "Single lever plate control handle",
+      "Streamlined fixed spout"
+    ],
+    "specs": {
+      "productType": "Basin Mixer",
+      "finish": "Chrome",
+      "color": "Chrome",
+      "mountingType": "Concealed Wall Mounted",
+      "controlType": "Single Lever",
+      "material": "Not specified",
+      "dimensions": "Not specified",
+      "waterFlowRate": "Not specified",
+      "warranty": "Not specified"
+    },
+    "reviews": []
   },
   {
-    "id": 111,
-    "slug": "kore-11",
-    "name": "Kore Product 11",
-    "image": "https://res.cloudinary.com/dz3sbdyps/image/upload/f_auto,q_auto,w_auto/v1784080776/c6c922bd-07f5-4b0b-836a-2a036f50aa30_cguksk.png"
+    "id": "camzon-product-002",
+    "slug": "camzon-basin-body-concealed-cold-tap-cam-ob-ko-001",
+    "title": "Basin Body",
+    "subtitle": "CONCEALED COLD TAP",
+    "category": "kore",
+    "price": 110.00,
+    "originalPrice": 135.00,
+    "rating": 0,
+    "reviewsCount": 0,
+    "isNew": false,
+    "isSale": false,
+    "isFeatured": false,
+    "badge": null,
+    "stockCount": 0,
+    "sku": "CAM-OB-KO-001",
+    "colors": [
+      {
+        "name": "Chrome",
+        "hex": "#E5E7EB"
+      }
+    ],
+    "images": [],
+    "description": "Concealed wall-mounted cold water basin tap with a curved down-spout and compact side control handle.",
+    "story": "A sleek cold water tap design with concealed rough-in wall mounting, ideal for modern powder rooms and minimalist vanity counters.",
+    "details": [
+      "Concealed wall-mounted fitting",
+      "Curved downward spout",
+      "Single lever control handle"
+    ],
+    "specs": {
+      "productType": "Basin Body",
+      "finish": "Chrome",
+      "color": "Chrome",
+      "mountingType": "Concealed Wall Mounted",
+      "controlType": "Single Lever",
+      "material": "Not specified",
+      "dimensions": "Not specified",
+      "waterFlowRate": "Not specified",
+      "warranty": "Not specified"
+    },
+    "reviews": []
   },
   {
-    "id": 112,
-    "slug": "kore-12",
-    "name": "Kore Product 12",
-    "image": "https://res.cloudinary.com/dz3sbdyps/image/upload/f_auto,q_auto,w_auto/v1784080775/b94c698a-8e3f-4aa7-a28f-c2a0e614fb76_x25ufr.png"
+    "id": "camzon-product-003",
+    "slug": "camzon-divertor-body-upper-trim-cam-ob-ko-002",
+    "title": "Divertor Body",
+    "subtitle": "UPPER TRIM",
+    "category": "kore",
+    "price": 95.00,
+    "originalPrice": 120.00,
+    "rating": 0,
+    "reviewsCount": 0,
+    "isNew": false,
+    "isSale": false,
+    "isFeatured": false,
+    "badge": null,
+    "stockCount": 0,
+    "sku": "CAM-OB-KO-002",
+    "colors": [
+      {
+        "name": "Chrome",
+        "hex": "#E5E7EB"
+      }
+    ],
+    "images": [],
+    "description": "Concealed shower divertor upper trim set featuring a vertical rectangular wall plate, control lever, and diverter knob.",
+    "story": "Engineered for shower systems, allowing smooth dual-way water flow switching between shower head and tub spout.",
+    "details": [
+      "Vertical rectangular backplate",
+      "Single lever control with diverter button",
+      "Chrome plated finish"
+    ],
+    "specs": {
+      "productType": "Divertor Trim",
+      "finish": "Chrome",
+      "color": "Chrome",
+      "mountingType": "Wall Mounted",
+      "controlType": "Single Lever",
+      "material": "Not specified",
+      "dimensions": "Not specified",
+      "waterFlowRate": "Not specified",
+      "warranty": "Not specified"
+    },
+    "reviews": []
   },
   {
-    "id": 113,
-    "slug": "kore-13",
-    "name": "Kore Product 13",
-    "image": "https://res.cloudinary.com/dz3sbdyps/image/upload/f_auto,q_auto,w_auto/v1784080774/42002247-4495-4b98-8e31-5d225a83f6d7_dwbpj3.png"
+    "id": "camzon-product-004",
+    "slug": "camzon-button-spout-wall-flange-cam-wf-ko-001",
+    "title": "Button Spout",
+    "subtitle": "WALL FLANGE",
+    "category": "kore",
+    "price": 85.00,
+    "originalPrice": 105.00,
+    "rating": 0,
+    "reviewsCount": 0,
+    "isNew": false,
+    "isSale": false,
+    "isFeatured": false,
+    "badge": null,
+    "stockCount": 0,
+    "sku": "CAM-WF-KO-001",
+    "colors": [
+      {
+        "name": "Chrome",
+        "hex": "#E5E7EB"
+      }
+    ],
+    "images": [],
+    "description": "Wall-mounted bath spout with an integrated push-button diverter mechanism and wall flange rosette.",
+    "story": "Delivers crisp stream filling for bathtubs while offering top-button control for hand shower activation.",
+    "details": [
+      "Wall mounted with flange ring",
+      "Integrated push-button diverter",
+      "Extended horizontal spout profile"
+    ],
+    "specs": {
+      "productType": "Bath Spout",
+      "finish": "Chrome",
+      "color": "Chrome",
+      "mountingType": "Wall Mounted",
+      "controlType": "Push Button Diverter",
+      "material": "Not specified",
+      "dimensions": "Not specified",
+      "waterFlowRate": "Not specified",
+      "warranty": "Not specified"
+    },
+    "reviews": []
   },
   {
-    "id": 114,
-    "slug": "kore-14",
-    "name": "Kore Product 14",
-    "image": "https://res.cloudinary.com/dz3sbdyps/image/upload/f_auto,q_auto,w_auto/v1784080773/a2f73c81-3723-4d6e-83b6-a5e683f7c97b_dfs2td.png"
+    "id": "camzon-product-005",
+    "slug": "camzon-bath-spout-wall-flange-cam-wf-ko-002",
+    "title": "Bath Spout",
+    "subtitle": "WALL FLANGE",
+    "category": "kore",
+    "price": 75.00,
+    "originalPrice": 95.00,
+    "rating": 0,
+    "reviewsCount": 0,
+    "isNew": false,
+    "isSale": false,
+    "isFeatured": false,
+    "badge": null,
+    "stockCount": 0,
+    "sku": "CAM-WF-KO-002",
+    "colors": [
+      {
+        "name": "Chrome",
+        "hex": "#E5E7EB"
+      }
+    ],
+    "images": [],
+    "description": "Clean wall-mounted plain bath spout with circular wall flange and aerodynamic spout end.",
+    "story": "A minimalist tub filler spout designed to complement concealed shower valves with a high-shine chrome finish.",
+    "details": [
+      "Wall mounted plain tub spout",
+      "Circular wall flange plate",
+      "Polished chrome finish"
+    ],
+    "specs": {
+      "productType": "Bath Spout",
+      "finish": "Chrome",
+      "color": "Chrome",
+      "mountingType": "Wall Mounted",
+      "controlType": "Not specified",
+      "material": "Not specified",
+      "dimensions": "Not specified",
+      "waterFlowRate": "Not specified",
+      "warranty": "Not specified"
+    },
+    "reviews": []
   },
   {
-    "id": 115,
-    "slug": "kore-15",
-    "name": "Kore Product 15",
-    "image": "https://res.cloudinary.com/dz3sbdyps/image/upload/f_auto,q_auto,w_auto/v1784080773/544c234b-5e59-4835-8fbf-9a61afce2965_jd7rfv.png"
+    "id": "camzon-product-006",
+    "slug": "camzon-wall-mixer-two-lever-w-bend-cam-wm-ko-001",
+    "title": "Wall Mixer",
+    "subtitle": "TWO LEVER W BEND",
+    "category": "kore",
+    "price": 160.00,
+    "originalPrice": 195.00,
+    "rating": 0,
+    "reviewsCount": 0,
+    "isNew": false,
+    "isSale": false,
+    "isFeatured": false,
+    "badge": null,
+    "stockCount": 0,
+    "sku": "CAM-WM-KO-001",
+    "colors": [
+      {
+        "name": "Chrome",
+        "hex": "#E5E7EB"
+      }
+    ],
+    "images": [],
+    "description": "Wall-mounted two lever bath and shower mixer fitted with an overhead shower bend pipe connection.",
+    "story": "Classic two-handle wall mixer design providing distinct hot and cold water adjustment alongside overhead shower riser output.",
+    "details": [
+      "Wall mounted two-handle controls",
+      "Overhead shower bend pipe inlet",
+      "Solid brass wall connections"
+    ],
+    "specs": {
+      "productType": "Wall Mixer",
+      "finish": "Chrome",
+      "color": "Chrome",
+      "mountingType": "Wall Mounted",
+      "controlType": "Two Lever",
+      "material": "Not specified",
+      "dimensions": "Not specified",
+      "waterFlowRate": "Not specified",
+      "warranty": "Not specified"
+    },
+    "reviews": []
   },
   {
-    "id": 116,
-    "slug": "kore-16",
-    "name": "Kore Product 16",
-    "image": "https://res.cloudinary.com/dz3sbdyps/image/upload/f_auto,q_auto,w_auto/v1784080770/6ebd80c5-ffce-4bad-a6ea-b03f105ec065_xoklw1.png"
+    "id": "camzon-product-007",
+    "slug": "camzon-stop-cock-concealed-upper-trim-cam-ob-ko-003",
+    "title": "Stop Cock",
+    "subtitle": "CONCEALED - UPPER TRIM",
+    "category": "kore",
+    "price": 45.00,
+    "originalPrice": 60.00,
+    "rating": 0,
+    "reviewsCount": 0,
+    "isNew": false,
+    "isSale": false,
+    "isFeatured": false,
+    "badge": null,
+    "stockCount": 0,
+    "sku": "CAM-OB-KO-003",
+    "colors": [
+      {
+        "name": "Chrome",
+        "hex": "#E5E7EB"
+      }
+    ],
+    "images": [],
+    "description": "Concealed stop cock upper trim set featuring a round wall plate and ergonomic turn handle.",
+    "story": "Designed for in-wall main water isolation valves, delivering stylish surface trim and smooth handle turn.",
+    "details": [
+      "Concealed wall trim kit",
+      "Circular wall flange",
+      "Ergonomic handle knob"
+    ],
+    "specs": {
+      "productType": "Stop Cock",
+      "finish": "Chrome",
+      "color": "Chrome",
+      "mountingType": "Concealed Wall Mounted",
+      "controlType": "Turn Handle",
+      "material": "Not specified",
+      "dimensions": "Not specified",
+      "waterFlowRate": "Not specified",
+      "warranty": "Not specified"
+    },
+    "reviews": []
   },
   {
-    "id": 117,
-    "slug": "kore-17",
-    "name": "Kore Product 17",
-    "image": "https://res.cloudinary.com/dz3sbdyps/image/upload/f_auto,q_auto,w_auto/v1784080769/39a1d48f-56b6-4007-beda-cecd216263e7_zijtzo.png"
+    "id": "camzon-product-008",
+    "slug": "camzon-angle-cock-cam-ob-ko-004",
+    "title": "Angle Cock",
+    "subtitle": "SINGLE OUTLET",
+    "category": "kore",
+    "price": 40.00,
+    "originalPrice": 55.00,
+    "rating": 0,
+    "reviewsCount": 0,
+    "isNew": false,
+    "isSale": false,
+    "isFeatured": false,
+    "badge": null,
+    "stockCount": 0,
+    "sku": "CAM-OB-KO-004",
+    "colors": [
+      {
+        "name": "Chrome",
+        "hex": "#E5E7EB"
+      }
+    ],
+    "images": [],
+    "description": "Wall-mounted angle cock valve with a quarter-turn handle, wall flange, and standard threaded supply outlet.",
+    "story": "An essential plumbing shut-off valve for connecting health faucets, geysers, and basin flex hoses.",
+    "details": [
+      "Wall mounted angle shut-off valve",
+      "Quarter-turn control handle",
+      "Polished chrome finish"
+    ],
+    "specs": {
+      "productType": "Angle Cock",
+      "finish": "Chrome",
+      "color": "Chrome",
+      "mountingType": "Wall Mounted",
+      "controlType": "Quarter Turn",
+      "material": "Not specified",
+      "dimensions": "Not specified",
+      "waterFlowRate": "Not specified",
+      "warranty": "Not specified"
+    },
+    "reviews": []
   },
   {
-    "id": 118,
-    "slug": "kore-18",
-    "name": "Kore Product 18",
-    "image": "https://res.cloudinary.com/dz3sbdyps/image/upload/f_auto,q_auto,w_auto/v1784080769/957467d2-3123-4693-8bc6-6c7b9e5a5614_t8rywu.png"
-  },
-  {
-    "id": 119,
-    "slug": "kore-19",
-    "name": "Kore Product 19",
-    "image": "https://res.cloudinary.com/dz3sbdyps/image/upload/f_auto,q_auto,w_auto/v1784080764/05396004-b4b3-4d88-96c8-4e04cda990b0_q7qbxc.png"
+    "id": "camzon-product-009",
+    "slug": "camzon-angle-cock-two-way-cam-ob-ko-005",
+    "title": "Angle Cock Two Way",
+    "subtitle": "TWO WAY",
+    "category": "kore",
+    "price": 60.00,
+    "originalPrice": 75.00,
+    "rating": 0,
+    "reviewsCount": 0,
+    "isNew": false,
+    "isSale": false,
+    "isFeatured": false,
+    "badge": null,
+    "stockCount": 0,
+    "sku": "CAM-OB-KO-005",
+    "colors": [
+      {
+        "name": "Chrome",
+        "hex": "#E5E7EB"
+      }
+    ],
+    "images": [],
+    "description": "Wall-mounted two-way angle valve featuring dual outlet connections and an ergonomic single-lever control.",
+    "story": "Provides versatile dual-line water supply from a single wall inlet, perfect for toilet hand sprays and cistern feeds.",
+    "details": [
+      "Two-way water outlet valve",
+      "Wall mounting flange",
+      "Single lever control knob"
+    ],
+    "specs": {
+      "productType": "Angle Cock",
+      "finish": "Chrome",
+      "color": "Chrome",
+      "mountingType": "Wall Mounted",
+      "controlType": "Single Lever",
+      "material": "Not specified",
+      "dimensions": "Not specified",
+      "waterFlowRate": "Not specified",
+      "warranty": "Not specified"
+    },
+    "reviews": []
   }
 ]
