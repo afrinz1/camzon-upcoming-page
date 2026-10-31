@@ -1,4 +1,3 @@
-
 [
   {
     "id": "camzon-product-001",
@@ -6,8 +5,8 @@
     "title": "Basin Mixer 150mm",
     "subtitle": "SINGLE LEVER",
     "category": "fon",
-    "price": 120.00,
-    "originalPrice": 150.00,
+    "price": 120,
+    "originalPrice": 150,
     "rating": 0,
     "reviewsCount": 0,
     "isNew": false,
@@ -22,7 +21,9 @@
         "hex": "#E5E7EB"
       }
     ],
-    "images": [],
+    "images": [
+      "https://res.cloudinary.com/xchvhbbn/image/upload/v1793094773/e_6.png"
+    ],
     "description": "Elegant 150mm single lever basin mixer from the FON series featuring a crisp flat-top lever and polished chrome body.",
     "story": "Part of the refined FON collection, engineered to bring minimalist architectural lines and dependable single-handle control to modern bathroom vanities.",
     "details": [
@@ -50,8 +51,8 @@
     "title": "Basin Mixer 100mm",
     "subtitle": "SINGLE LEVER",
     "category": "fon",
-    "price": 105.00,
-    "originalPrice": 130.00,
+    "price": 105,
+    "originalPrice": 130,
     "rating": 0,
     "reviewsCount": 0,
     "isNew": false,
@@ -66,7 +67,9 @@
         "hex": "#E5E7EB"
       }
     ],
-    "images": [],
+    "images": [
+      "https://res.cloudinary.com/xchvhbbn/image/upload/v1793094774/e_7.png"
+    ],
     "description": "Compact 100mm single lever basin mixer from the FON line, designed for low-profile counter basins and efficient water management.",
     "story": "Designed for compact modern spaces, this 100mm FON basin mixer delivers space-saving performance without compromising sleek modern style.",
     "details": [
@@ -94,8 +97,8 @@
     "title": "Kitchen Mixer",
     "subtitle": "DECK MOUNTED SINGLE LEVER",
     "category": "fon",
-    "price": 140.00,
-    "originalPrice": 170.00,
+    "price": 140,
+    "originalPrice": 170,
     "rating": 0,
     "reviewsCount": 0,
     "isNew": false,
@@ -110,7 +113,9 @@
         "hex": "#E5E7EB"
       }
     ],
-    "images": [],
+    "images": [
+      "https://res.cloudinary.com/xchvhbbn/image/upload/v1793094776/e_8.png"
+    ],
     "description": "Deck mounted single lever kitchen mixer featuring a high curved arch spout and side lever control from the FON collection.",
     "story": "Enhance your kitchen workflow with the FON deck-mounted mixer, combining flexible spout reach with smooth temperature regulation.",
     "details": [
@@ -138,8 +143,8 @@
     "title": "Sink Mixer with D Pipe",
     "subtitle": "WALL MOUNTED SINGLE LEVER WITH D PIPE",
     "category": "fon",
-    "price": 135.00,
-    "originalPrice": 165.00,
+    "price": 135,
+    "originalPrice": 165,
     "rating": 0,
     "reviewsCount": 0,
     "isNew": false,
@@ -154,7 +159,9 @@
         "hex": "#E5E7EB"
       }
     ],
-    "images": [],
+    "images": [
+      "https://res.cloudinary.com/xchvhbbn/image/upload/v1793094799/e_9.png"
+    ],
     "description": "Wall mounted single lever sink mixer fitted with an elevated high-clearance D-pipe spout for versatile sink utility.",
     "story": "Maximizes counter workspace while providing high spout clearance, making modern kitchen and utility tasks effortless.",
     "details": [
@@ -182,8 +189,8 @@
     "title": "Sink Mixer Table Mounted",
     "subtitle": "SINGLE LEVER TABLE MOUNTED",
     "category": "fon",
-    "price": 125.00,
-    "originalPrice": 155.00,
+    "price": 125,
+    "originalPrice": 155,
     "rating": 0,
     "reviewsCount": 0,
     "isNew": false,
@@ -198,7 +205,9 @@
         "hex": "#E5E7EB"
       }
     ],
-    "images": [],
+    "images": [
+      "https://res.cloudinary.com/xchvhbbn/image/upload/v1793094768/e_1.png"
+    ],
     "description": "Table mounted single lever sink mixer with an extended horizontal spout and FON series flat-lever styling.",
     "story": "Designed for deck-mounted installations, delivering dependable water control and wide reach across counter sinks.",
     "details": [
@@ -226,8 +235,8 @@
     "title": "Sink Mixer with S Spout",
     "subtitle": "SINGLE LEVER WALL MOUNTED WITH S SPOUT",
     "category": "fon",
-    "price": 130.00,
-    "originalPrice": 160.00,
+    "price": 130,
+    "originalPrice": 160,
     "rating": 0,
     "reviewsCount": 0,
     "isNew": false,
@@ -242,7 +251,9 @@
         "hex": "#E5E7EB"
       }
     ],
-    "images": [],
+    "images": [
+      "https://res.cloudinary.com/xchvhbbn/image/upload/v1793094769/e_2.png"
+    ],
     "description": "Wall mounted single lever sink mixer equipped with an S-shaped lower swivel spout for maximum sink coverage.",
     "story": "Combines classic S-spout swivel functionality with crisp modern FON handle design for convenient wall-mounted utility.",
     "details": [
@@ -270,8 +281,8 @@
     "title": "Bath Mixer",
     "subtitle": "SINGLE LEVER",
     "category": "fon",
-    "price": 160.00,
-    "originalPrice": 190.00,
+    "price": 160,
+    "originalPrice": 190,
     "rating": 0,
     "reviewsCount": 0,
     "isNew": false,
@@ -286,7 +297,9 @@
         "hex": "#E5E7EB"
       }
     ],
-    "images": [],
+    "images": [
+      "https://res.cloudinary.com/xchvhbbn/image/upload/v1793094795/e_3.png"
+    ],
     "description": "Wall mounted single lever bath mixer featuring geometric body styling and an integrated bath-to-shower diverter knob.",
     "story": "Brings cohesive modern elegance to your bathtub setup, offering seamless switching between bath filler and hand shower.",
     "details": [
@@ -314,8 +327,8 @@
     "title": "Shattaf Mixer",
     "subtitle": "SINGLE LEVER",
     "category": "fon",
-    "price": 95.00,
-    "originalPrice": 120.00,
+    "price": 95,
+    "originalPrice": 120,
     "rating": 0,
     "reviewsCount": 0,
     "isNew": false,
@@ -330,7 +343,9 @@
         "hex": "#E5E7EB"
       }
     ],
-    "images": [],
+    "images": [
+      "https://res.cloudinary.com/xchvhbbn/image/upload/v1793094797/e_4.png"
+    ],
     "description": "Wall mounted single lever shattaf mixer designed for smooth water temperature blending and bidet spray hose attachment.",
     "story": "A compact and stylish bidet hygiene solution designed to match the modern aesthetics of the FON tap collection.",
     "details": [
@@ -358,8 +373,8 @@
     "title": "Kitchen Mixer Table Mounted",
     "subtitle": "TABLE MOUNTED SINGLE LEVER",
     "category": "fon",
-    "price": 145.00,
-    "originalPrice": 175.00,
+    "price": 145,
+    "originalPrice": 175,
     "rating": 0,
     "reviewsCount": 0,
     "isNew": false,
@@ -374,7 +389,9 @@
         "hex": "#E5E7EB"
       }
     ],
-    "images": [],
+    "images": [
+      "https://res.cloudinary.com/xchvhbbn/image/upload/v1793094771/e_5.png"
+    ],
     "description": "Table mounted single lever kitchen mixer featuring a high gooseneck spout for optimal clearance.",
     "story": "Combines high gooseneck arch styling with FON single-lever precision for effortless culinary utility and easy cleaning.",
     "details": [

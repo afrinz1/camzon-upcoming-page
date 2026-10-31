@@ -21,14 +21,14 @@
         "hex": "#E5E7EB"
       }
     ],
-    "images": [],
+    "images": ["https://res.cloudinary.com/xchvhbbn/image/upload/v1793094617/k.png"],
     "description": "Luxury 3-way thermostatic shower column panel featuring an overhead square rain shower head, hand shower wand, and integrated tub spout outlet.",
     "story": "Engineered for superior spa-like bath environments, providing precise thermostatic water temperature control and multi-source shower indulgence.",
     "details": [
       "3-way thermostatic control valves",
       "Overhead rectangular rain shower head",
       "Slender rectangular hand shower with flexible metallic hose",
-      "Integrated bath spout spout dispenser"
+      "Integrated bath spout dispenser"
     ],
     "specs": {
       "productType": "Shower Column",
@@ -65,7 +65,9 @@
         "hex": "#FFD700"
       }
     ],
-    "images": [],
+    "images": [
+      "https://res.cloudinary.com/xchvhbbn/image/upload/v1793376509/1j_1.png"
+    ],
     "description": "An exclusive extended tall body pillar cock finished in polished gold, designed for luxury counter-top vessel basins.",
     "story": "Part of the Camzon Exclusive range, this Tall Boy Gold pillar cock brings opulent metallic shine and commanding height to luxury washrooms.",
     "details": [
@@ -109,7 +111,9 @@
         "hex": "#B76E79"
       }
     ],
-    "images": [],
+    "images": [
+      "https://res.cloudinary.com/xchvhbbn/image/upload/v1793373132/1j_2.png"
+    ],
     "description": "An elegant tall boy pillar cock in a striking Rose Gold metallic coating, creating a sophisticated focal point for vessel counters.",
     "story": "The Rose Gold Tall Boy Pillar Cock combines modern slender geometry with a warm metallic luster to elevate designer bathroom vanities.",
     "details": [
@@ -153,7 +157,9 @@
         "hex": "#1F2937"
       }
     ],
-    "images": [],
+    "images": [
+      "https://res.cloudinary.com/xchvhbbn/image/upload/v1793373138/1j_3.png"
+    ],
     "description": "A dual-tone tallboy pillar cock combining matte black body accents with rich gold detailing for modern luxury spaces.",
     "story": "Blending sleek matte black with rich gold highlights, the Blackgold Tallboy Pillar Cock offers an avant-garde aesthetic for designer vanity basins.",
     "details": [
@@ -197,7 +203,9 @@
         "hex": "#111827"
       }
     ],
-    "images": [],
+    "images": [
+      "https://res.cloudinary.com/xchvhbbn/image/upload/v1793373136/1j_4.png"
+    ],
     "description": "A flexible black silicone goose neck sink cock featuring single flow operation and chrome base details for high-utility kitchens.",
     "story": "Designed with a flexible omni-directional hose spout, this Exclusive Sink Cock gives ultimate reach and rinsing freedom at the kitchen sink.",
     "details": [
@@ -241,7 +249,9 @@
         "hex": "#111827"
       }
     ],
-    "images": [],
+    "images": [
+      "https://res.cloudinary.com/xchvhbbn/image/upload/v1793376521/1j_13.png"
+    ],
     "description": "A wall-mounted sink mixer featuring dual levers and a flexible black silicone spray spout with spray head.",
     "story": "Combining wall-mounted mixer stability with a flexible pull-down style spray neck, this unit offers dynamic rinsing power for kitchen sinks.",
     "details": [
@@ -285,7 +295,9 @@
         "hex": "#111827"
       }
     ],
-    "images": [],
+    "images": [
+      "https://res.cloudinary.com/xchvhbbn/image/upload/v1793376500/1j_5.png"
+    ],
     "description": "A deck-mounted sink cock fitted with a flexible black silicone spout and a dual-mode spray/stream nozzle head.",
     "story": "Effortlessly switch between targeted aerated stream and broad rinsing spray with the Exclusive Flexible Shower Spout Sink Cock.",
     "details": [
@@ -329,7 +341,9 @@
         "hex": "#E5E7EB"
       }
     ],
-    "images": [],
+    "images": [
+      "https://res.cloudinary.com/xchvhbbn/image/upload/v1793376518/1j_14.png"
+    ],
     "description": "A round heavy-duty angle valve with a circular wall flange and quarter-turn control cylinder.",
     "story": "Built for supreme reliability and sleek minimalist aesthetics, the Exclusive Semi Angle Valve guarantees dependable shutoff control.",
     "details": [
@@ -373,7 +387,9 @@
         "hex": "#E5E7EB"
       }
     ],
-    "images": [],
+    "images": [
+      "https://res.cloudinary.com/xchvhbbn/image/upload/v1793376505/1j_6.png"
+    ],
     "description": "A multi-way angle valve featuring dual outlet ports and a vertical control lever for complex plumbing connections.",
     "story": "The Exclusive Multi Angle Valve allows dual connections from a single wall point, perfect for powering health faucets and tank lines simultaneously.",
     "details": [
@@ -417,7 +433,9 @@
         "hex": "#E5E7EB"
       }
     ],
-    "images": [],
+    "images": [
+      "https://res.cloudinary.com/xchvhbbn/image/upload/v1793376525/1j_7.png"
+    ],
     "description": "A modern square-body angle valve with a matching rectangular wall escutcheon plate and crisp cubic control lever.",
     "story": "Designed for ultra-modern geometric bathrooms, the Square Angle Valve matches cubical bath fixtures with precise angular styling.",
     "details": [
@@ -461,7 +479,9 @@
         "hex": "#E5E7EB"
       }
     ],
-    "images": [],
+    "images": [
+      "https://res.cloudinary.com/xchvhbbn/image/upload/v1793373134/1j_8.png"
+    ],
     "description": "A 9-inch tall body pillar cock equipped with a heavy-duty 3/4 ceramic disc mechanism for smooth water actuation.",
     "story": "Engineered for vessel counter basins, the 9-inch Exclusive Pillar Cock combines extended height clearance with high-flow 3/4 disc control.",
     "details": [
@@ -505,7 +525,9 @@
         "hex": "#E5E7EB"
       }
     ],
-    "images": [],
+    "images": [
+      "https://res.cloudinary.com/xchvhbbn/image/upload/v1793376528/1j_15.png"
+    ],
     "description": "An extra-tall 12-inch body pillar cock fitted with a 3/4 ceramic disc valve, ideal for deep counter-top tabletop basins.",
     "story": "Providing maximum clearance above deep vessel sinks, the 12-inch 3/4 Disc Pillar Cock offers striking vertical presence and smooth flow.",
     "details": [
@@ -549,7 +571,9 @@
         "hex": "#E5E7EB"
       }
     ],
-    "images": [],
+    "images": [
+      "https://res.cloudinary.com/xchvhbbn/image/upload/v1793373139/1j_9.png"
+    ],
     "description": "A 12-inch tall pillar cock featuring an extended long mounting thread shank for thick granite and marble counter installations.",
     "story": "Designed for thick stone counter tops, the 12-inch Long Thread Pillar Cock ensures secure deck anchoring alongside elegant tall-spout styling.",
     "details": [
@@ -593,7 +617,9 @@
         "hex": "#1F2937"
       }
     ],
-    "images": [],
+    "images": [
+      "https://res.cloudinary.com/xchvhbbn/image/upload/v1793376497/1j_10.png"
+    ],
     "description": "A flexible black hose sink cock featuring dual flow spray and aerated stream modes with a wall flange attachment.",
     "story": "Enhance kitchen sink flexibility with the Dual Flow Shower Spout Sink Cock, offering omnidirectional hose movement and two spray patterns.",
     "details": [
@@ -637,7 +663,9 @@
         "hex": "#E5E7EB"
       }
     ],
-    "images": [],
+    "images": [
+      "https://res.cloudinary.com/xchvhbbn/image/upload/v1793376515/1j_11.png"
+    ],
     "description": "A 6-inch standard height pillar cock with an extended long thread mounting shank for thick counter platform installation.",
     "story": "The 6-inch Long Thread Pillar Cock delivers compact efficiency paired with deep counter mounting compatibility.",
     "details": [
@@ -681,7 +709,9 @@
         "hex": "#E5E7EB"
       }
     ],
-    "images": [],
+    "images": [
+      "https://res.cloudinary.com/xchvhbbn/image/upload/v1793376502/1j_16.png"
+    ],
     "description": "A 9-inch mid-tall body pillar cock equipped with a long thread mounting shank for vessel sink counters.",
     "story": "Combining mid-tall clearance with long thread deck fitment, this 9-inch pillar cock fits seamlessly onto marble vessel counter tops.",
     "details": [
@@ -725,7 +755,9 @@
         "hex": "#E5E7EB"
       }
     ],
-    "images": [],
+    "images": [
+      "https://res.cloudinary.com/xchvhbbn/image/upload/v1793376511/1j_12.png"
+    ],
     "description": "A triangular-profile wall angle valve with blue indicator button and quarter-turn control handle.",
     "story": "Featuring a unique triangular knob design with blue index cap, the Exclusive Trio Angle Valve brings distinctive geometric style to water isolation points.",
     "details": [

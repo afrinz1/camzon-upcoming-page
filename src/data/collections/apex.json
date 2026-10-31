@@ -1,13 +1,12 @@
-﻿
-[
+﻿[
   {
     "id": "camzon-product-001",
     "slug": "camzon-basin-mixer-150mm-cam-bm-ap-001",
     "title": "Basin Mixer 150mm",
     "subtitle": "SINGLE LEVER",
     "category": "Apex",
-    "price": 120.00,
-    "originalPrice": 150.00,
+    "price": 120,
+    "originalPrice": 150,
     "rating": 0,
     "reviewsCount": 0,
     "isNew": false,
@@ -22,7 +21,9 @@
         "hex": "#E5E7EB"
       }
     ],
-    "images": [],
+    "images": [
+      "https://res.cloudinary.com/xchvhbbn/image/upload/v1793094744/c_1.png"
+    ],
     "description": "150mm tall single lever basin mixer from the Apex series featuring an elongated spout and ergonomic lever.",
     "story": "Engineered for superior comfort and refined aesthetics, the Apex 150mm basin mixer adds modern elegance to washbasin counters.",
     "details": [
@@ -50,8 +51,8 @@
     "title": "Basin Mixer 100mm",
     "subtitle": "SINGLE LEVER",
     "category": "Apex",
-    "price": 105.00,
-    "originalPrice": 130.00,
+    "price": 105,
+    "originalPrice": 130,
     "rating": 0,
     "reviewsCount": 0,
     "isNew": false,
@@ -66,7 +67,9 @@
         "hex": "#E5E7EB"
       }
     ],
-    "images": [],
+    "images": [
+      "https://res.cloudinary.com/xchvhbbn/image/upload/v1793094743/c_2.png"
+    ],
     "description": "Compact 100mm single lever basin mixer providing smooth temperature control and space-saving proportion.",
     "story": "Designed for compact countertops, this 100mm Apex mixer combines space efficiency with reliable everyday performance.",
     "details": [
@@ -94,8 +97,8 @@
     "title": "Kitchen Mixer",
     "subtitle": "TABLE MOUNTED SINGLE LEVER",
     "category": "Apex",
-    "price": 140.00,
-    "originalPrice": 165.00,
+    "price": 140,
+    "originalPrice": 165,
     "rating": 0,
     "reviewsCount": 0,
     "isNew": false,
@@ -110,7 +113,9 @@
         "hex": "#E5E7EB"
       }
     ],
-    "images": [],
+    "images": [
+      "https://res.cloudinary.com/xchvhbbn/image/upload/v1793094745/c_3.png"
+    ],
     "description": "Table-mounted single lever kitchen mixer featuring a tall gooseneck spout for optimal sink clearance.",
     "story": "Combines a tall arch spout with smooth single-handle water control, ideal for filling large cookware in busy kitchens.",
     "details": [
@@ -137,8 +142,8 @@
     "title": "Kitchen Mixer",
     "subtitle": "DECK MOUNTED SINGLE LEVER",
     "category": "Apex",
-    "price": 145.00,
-    "originalPrice": 175.00,
+    "price": 145,
+    "originalPrice": 175,
     "rating": 0,
     "reviewsCount": 0,
     "isNew": false,
@@ -153,7 +158,9 @@
         "hex": "#E5E7EB"
       }
     ],
-    "images": [],
+    "images": [
+      "https://res.cloudinary.com/xchvhbbn/image/upload/v1793094747/c_4.png"
+    ],
     "description": "Deck mounted single lever kitchen mixer featuring a sweeping arch spout and side lever.",
     "story": "Brings smooth curved lines and modern functionality to kitchen sinks for easy food preparation and rinsing.",
     "details": [
@@ -180,8 +187,8 @@
     "title": "Basin Mixer",
     "subtitle": "CONCEALED SINGLE LEVER",
     "category": "Apex",
-    "price": 155.00,
-    "originalPrice": 185.00,
+    "price": 155,
+    "originalPrice": 185,
     "rating": 0,
     "reviewsCount": 0,
     "isNew": false,
@@ -196,7 +203,9 @@
         "hex": "#E5E7EB"
       }
     ],
-    "images": [],
+    "images": [
+      "https://res.cloudinary.com/xchvhbbn/image/upload/v1793094749/c_5.png"
+    ],
     "description": "Concealed wall-mounted single lever basin mixer featuring an oval backplate and streamlined fixed spout.",
     "story": "Creates a modern minimalist washbasin setup by concealing internal body components behind a clean wall plate.",
     "details": [
@@ -223,8 +232,8 @@
     "title": "Shattaf Mixer",
     "subtitle": "SINGLE LEVER",
     "category": "Apex",
-    "price": 95.00,
-    "originalPrice": 115.00,
+    "price": 95,
+    "originalPrice": 115,
     "rating": 0,
     "reviewsCount": 0,
     "isNew": false,
@@ -239,7 +248,9 @@
         "hex": "#E5E7EB"
       }
     ],
-    "images": [],
+    "images": [
+      "https://res.cloudinary.com/xchvhbbn/image/upload/v1793094785/c_6.png"
+    ],
     "description": "Wall mounted single lever shattaf mixer designed for smooth temperature blending and bidet spray hose connection.",
     "story": "A compact and durable water control solution for modern personal hygiene installations.",
     "details": [
@@ -266,8 +277,8 @@
     "title": "Sink Mixer",
     "subtitle": "WALL MOUNTED SINGLE LEVER WITH D PIPE",
     "category": "Apex",
-    "price": 135.00,
-    "originalPrice": 160.00,
+    "price": 135,
+    "originalPrice": 160,
     "rating": 0,
     "reviewsCount": 0,
     "isNew": false,
@@ -282,7 +293,9 @@
         "hex": "#E5E7EB"
       }
     ],
-    "images": [],
+    "images": [
+      "https://res.cloudinary.com/xchvhbbn/image/upload/v1793094784/c_7.png"
+    ],
     "description": "Wall mounted single lever sink mixer fitted with a high-clearance D-pipe spout for convenient container filling.",
     "story": "Frees up countertop space while providing a tall D-pipe spout reach for utility and kitchen sinks.",
     "details": [
@@ -309,8 +322,8 @@
     "title": "Bath Mixer",
     "subtitle": "SINGLE LEVER",
     "category": "Apex",
-    "price": 160.00,
-    "originalPrice": 190.00,
+    "price": 160,
+    "originalPrice": 190,
     "rating": 0,
     "reviewsCount": 0,
     "isNew": false,
@@ -325,7 +338,9 @@
         "hex": "#E5E7EB"
       }
     ],
-    "images": [],
+    "images": [
+      "https://res.cloudinary.com/xchvhbbn/image/upload/v1793094751/c_8.png"
+    ],
     "description": "Wall mounted single lever bath mixer with integrated diverter for effortless switching between bath spout and shower.",
     "story": "Delivers balanced temperature control and smooth diverter action for modern bathtub and shower systems.",
     "details": [
@@ -347,4 +362,3 @@
     "reviews": []
   }
 ]
-

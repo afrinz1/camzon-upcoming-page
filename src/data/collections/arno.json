@@ -1,546 +1,13 @@
+
 [
   {
-    "id": "camzon-chrome-wall-mixer-001",
-    "slug": "camzon-chrome-wall-mounted-bath-mixer",
-    "title": "Chrome Wall-Mounted Bath Mixer",
-    "subtitle": "Contemporary chrome elegance with a refined dual-control design",
-    "category": "ARNO",
-    "price": 3499,
-    "originalPrice": null,
-    "rating": 0,
-    "reviewsCount": 0,
-    "isNew": true,
-    "isSale": false,
-    "isFeatured": true,
-    "badge": "New Arrival",
-    "stockCount": 20,
-    "sku": "CAM-FCT-001",
-    "colors": [
-      {
-        "name": "Chrome",
-        "hex": "#E5E7EB"
-      }
-    ],
-    "images": [
-      "https://res.cloudinary.com/dz3sbdyps/image/upload/v1791717758/1_v3sf8d.png"
-    ],
-    "description": "Elevate your bathroom with this modern chrome wall-mounted bath mixer, featuring a sleek cylindrical body, a streamlined spout, and polished reflective surfaces. Its minimalist design combines a clean geometric silhouette with practical lever controls, creating a sophisticated focal point for contemporary bathroom interiors. The polished chrome finish complements neutral tiles, marble surfaces, and modern sanitaryware.",
-    "story": "Designed for bathrooms where simplicity meets sophistication, this wall-mounted mixer brings together clean lines and timeless chrome styling. Its understated profile and mirror-like finish create a refined look that pairs effortlessly with premium bathroom spaces.",
-    "details": [
-      "Wall-mounted installation design",
-      "Polished chrome appearance",
-      "Streamlined spout with a modern geometric profile",
-      "Lever-style controls",
-      "Reflective finish suited to contemporary interiors",
-      "Complements modern bathtubs and bathroom fittings"
-    ],
-    "specs": {
-      "productType": "Wall-Mounted Bath Mixer",
-      "finish": "Polished Chrome",
-      "color": "Silver",
-      "mountingType": "Wall-Mounted",
-      "controlType": "Lever Controls",
-      "material": "Not specified",
-      "dimensions": "Not specified",
-      "waterFlowRate": "Not specified",
-      "warranty": "Not specified"
-    },
-    "reviews": []
-  },
-  {
-    "id": "camzon-chrome-basin-mixer-002",
-    "slug": "camzon-chrome-single-lever-basin-mixer",
-    "title": "Chrome Single-Lever Basin Mixer",
-    "subtitle": "Sleek chrome finish with a refined silhouette for modern washbasins",
-    "category": "ARNO",
-    "price": 2499,
-    "originalPrice": null,
-    "rating": 0,
-    "reviewsCount": 0,
-    "isNew": true,
-    "isSale": false,
-    "isFeatured": false,
-    "badge": "New Arrival",
-    "stockCount": 20,
-    "sku": "CAM-FCT-002",
-    "colors": [
-      {
-        "name": "Chrome",
-        "hex": "#E5E7EB"
-      }
-    ],
-    "images": [
-      "https://res.cloudinary.com/dz3sbdyps/image/upload/v1791717761/2_g6bnvb.png"
-    ],
-    "description": "Bring understated elegance to your bathroom with this chrome single-lever basin mixer. Featuring a polished reflective finish, a cylindrical body, and an elongated gently tapered spout, its minimalist design complements contemporary washbasins and sophisticated bathroom interiors. The single-lever handle offers convenient control in a clean, streamlined form.",
-    "story": "Inspired by modern architectural simplicity, this basin mixer combines balanced proportions with timeless chrome styling. Its sculptural silhouette and reflective finish make it a natural addition to elegant, contemporary spaces.",
-    "details": [
-      "Contemporary single-lever design",
-      "Polished chrome finish",
-      "Cylindrical body with an elongated spout",
-      "Designed for basin installation",
-      "Minimalist styling for modern bathrooms",
-      "Coordinates with chrome bathroom accessories"
-    ],
-    "specs": {
-      "productType": "Basin Mixer Tap",
-      "finish": "Polished Chrome",
-      "color": "Silver",
-      "mountingType": "Deck-Mounted",
-      "controlType": "Single Lever",
-      "material": "Not specified",
-      "dimensions": "Not specified",
-      "waterFlowRate": "Not specified",
-      "warranty": "Not specified"
-    },
-    "reviews": []
-  },
-  {
-    "id": "camzon-chrome-wall-bath-mixer-003",
-    "slug": "camzon-chrome-wall-mounted-bath-mixer-with-diverter",
-    "title": "Chrome Wall-Mounted Bath Mixer with Diverter",
-    "subtitle": "Elegant triple-control design with a polished chrome finish",
-    "category": "ARNO",
-    "price": 5499,
-    "originalPrice": null,
-    "rating": 0,
-    "reviewsCount": 0,
-    "isNew": true,
-    "isSale": false,
-    "isFeatured": true,
-    "badge": "New Arrival",
-    "stockCount": 20,
-    "sku": "CAM-FCT-003",
-    "colors": [
-      {
-        "name": "Chrome",
-        "hex": "#E5E7EB"
-      }
-    ],
-    "images": [
-      "https://res.cloudinary.com/dz3sbdyps/image/upload/v1791717759/3_bpjer5.png"
-    ],
-    "description": "Upgrade your bathroom with this sophisticated wall-mounted bath mixer featuring a brilliant chrome finish, three lever-style controls, and a gracefully curved spout. The coordinated control layout and reflective circular wall plates create a balanced, contemporary appearance. Its integrated diverter-style arrangement is designed for a versatile bath area, making it a stylish addition to modern bathroom interiors.",
-    "story": "Inspired by the clean geometry of contemporary architecture, this bath mixer brings polished detailing and timeless sophistication to your bathing space. Its sculptural chrome finish pairs beautifully with marble surfaces, neutral stone tiles, and premium bathroom fittings.",
-    "details": [
-      "Wall-mounted installation design",
-      "Polished chrome finish",
-      "Three lever-style control handles",
-      "Curved bath spout",
-      "Circular wall-mounted escutcheons",
-      "Designed for contemporary bath spaces",
-      "Coordinates with chrome bathroom accessories"
-    ],
-    "specs": {
-      "productType": "Wall-Mounted Bath Mixer",
-      "finish": "Polished Chrome",
-      "color": "Silver",
-      "mountingType": "Wall-Mounted",
-      "controlType": "Multiple Lever Controls",
-      "outletType": "Bath Spout",
-      "diverter": "Not independently verified",
-      "material": "Not specified",
-      "dimensions": "Not specified",
-      "waterFlowRate": "Not specified",
-      "warranty": "Not specified"
-    },
-    "reviews": []
-  },
-  {
-    "id": "camzon-chrome-wall-basin-tap-004",
-    "slug": "camzon-chrome-wall-mounted-basin-tap",
-    "title": "Chrome Wall-Mounted Basin Tap",
-    "subtitle": "Minimalist chrome styling with a sleek extended spout",
-    "category": "ARNO",
-    "price": 2999,
-    "originalPrice": null,
-    "rating": 0,
-    "reviewsCount": 0,
-    "isNew": true,
-    "isSale": false,
-    "isFeatured": false,
-    "badge": "New Arrival",
-    "stockCount": 20,
-    "sku": "CAM-FCT-004",
-    "colors": [
-      {
-        "name": "Chrome",
-        "hex": "#E5E7EB"
-      }
-    ],
-    "images": [
-      "https://res.cloudinary.com/dz3sbdyps/image/upload/v1791717756/4_lhdupl.jpg"
-    ],
-    "description": "Enhance your bathroom with this contemporary chrome wall-mounted basin tap, featuring a sleek cylindrical body, a streamlined extended spout, and a polished mirror-like finish. Its clean geometric design creates a refined appearance while freeing up countertop space. The minimalist silhouette pairs beautifully with marble surfaces, integrated basins, and modern bathroom interiors.",
-    "story": "Inspired by understated luxury and contemporary architectural design, this wall-mounted tap brings together elegant proportions and timeless chrome detailing. Designed to complement serene, neutral bathroom spaces, it adds a sophisticated finishing touch without overwhelming the surrounding interior.",
-    "details": [
-      "Wall-mounted installation design",
-      "Polished chrome finish",
-      "Extended horizontal spout",
-      "Single lever-style handle",
-      "Space-saving countertop arrangement",
-      "Minimalist contemporary styling",
-      "Complements marble and stone bathroom surfaces"
-    ],
-    "specs": {
-      "productType": "Wall-Mounted Basin Tap",
-      "finish": "Polished Chrome",
-      "color": "Silver",
-      "mountingType": "Wall-Mounted",
-      "controlType": "Single Lever",
-      "spoutDesign": "Extended Straight Spout",
-      "material": "Not specified",
-      "dimensions": "Not specified",
-      "waterFlowRate": "Not specified",
-      "warranty": "Not specified"
-    },
-    "reviews": []
-  },
-  {
-    "id": "camzon-chrome-wall-mounted-swan-neck-basin-mixer-005",
-    "slug": "camzon-chrome-wall-mounted-swan-neck-basin-mixer",
-    "title": "Chrome Wall-Mounted Swan Neck Basin Mixer",
-    "subtitle": "Elegant high-arc spout with refined dual-handle controls",
-    "category": "ARNO",
-    "price": 4499,
-    "originalPrice": null,
-    "rating": 0,
-    "reviewsCount": 0,
-    "isNew": true,
-    "isSale": false,
-    "isFeatured": true,
-    "badge": "New Arrival",
-    "stockCount": 20,
-    "sku": "CAM-FCT-005",
-    "colors": [
-      {
-        "name": "Chrome",
-        "hex": "#E5E7EB"
-      }
-    ],
-    "images": [
-      "https://res.cloudinary.com/dz3sbdyps/image/upload/v1791717756/5_ofzyky.jpg"
-    ],
-    "description": "Bring timeless elegance to your bathroom with this chrome wall-mounted basin mixer, featuring a graceful high-arc swan-neck spout and distinctive dual lever-style handles. Its polished reflective finish and balanced design create a sophisticated focal point above modern washbasins. The elevated spout profile offers a spacious appearance while complementing marble countertops and contemporary bathroom interiors.",
-    "story": "Inspired by the fluid curves of classic tapware and the simplicity of modern design, this basin mixer combines graceful form with understated sophistication. Its brilliant chrome finish and sculptural silhouette bring a refined finishing touch to thoughtfully designed bathrooms.",
-    "details": [
-      "Wall-mounted installation design",
-      "High-arc swan-neck spout",
-      "Polished chrome finish",
-      "Dual lever-style controls",
-      "Circular wall escutcheons",
-      "Contemporary design with classic curved detailing",
-      "Complements marble and stone washbasins"
-    ],
-    "specs": {
-      "productType": "Wall-Mounted Basin Mixer",
-      "finish": "Polished Chrome",
-      "color": "Silver",
-      "mountingType": "Wall-Mounted",
-      "controlType": "Dual Lever Handles",
-      "spoutDesign": "High-Arc Swan Neck",
-      "material": "Not specified",
-      "dimensions": "Not specified",
-      "waterFlowRate": "Not specified",
-      "warranty": "Not specified"
-    },
-    "reviews": []
-  },
-  {
-    "id": "camzon-chrome-wall-bath-mixer-shower-006",
-    "slug": "camzon-chrome-wall-mounted-bath-mixer-with-hand-shower",
-    "title": "Chrome Wall-Mounted Bath Mixer with Hand Shower",
-    "subtitle": "Elegant multi-control mixer with an integrated hand shower connection",
-    "category": "ARNO",
-    "price": 6499,
-    "originalPrice": null,
-    "rating": 0,
-    "reviewsCount": 0,
-    "isNew": true,
-    "isSale": false,
-    "isFeatured": true,
-    "badge": "New Arrival",
-    "stockCount": 20,
-    "sku": "CAM-FCT-006",
-    "colors": [
-      {
-        "name": "Chrome",
-        "hex": "#E5E7EB"
-      }
-    ],
-    "images": [
-      "https://res.cloudinary.com/dz3sbdyps/image/upload/v1791717761/6_k0jfrv.png"
-    ],
-    "description": "Enhance your bathing space with this polished chrome wall-mounted bath mixer, featuring multiple lever-style controls, a streamlined bath spout, and an integrated hand shower connection. Its reflective chrome finish, circular wall plates, and coordinated control elements create a sophisticated contemporary look. The practical configuration is designed to complement modern bathrooms with a refined, cohesive aesthetic.",
-    "story": "Created for bathrooms that balance functionality with understated luxury, this bath mixer combines clean geometry with timeless chrome detailing. Its coordinated controls and sleek profile bring a polished finishing touch to contemporary bathing spaces.",
-    "details": [
-      "Wall-mounted installation design",
-      "Polished chrome finish",
-      "Multiple lever-style control handles",
-      "Integrated bath spout",
-      "Hand shower hose connection",
-      "Circular wall escutcheons",
-      "Contemporary styling for modern bathrooms"
-    ],
-    "specs": {
-      "productType": "Wall-Mounted Bath Mixer with Hand Shower Connection",
-      "finish": "Polished Chrome",
-      "color": "Silver",
-      "mountingType": "Wall-Mounted",
-      "controlType": "Multiple Lever Controls",
-      "outletType": "Bath Spout",
-      "handShower": "Hose and connection visible; hand shower head not visible",
-      "material": "Not specified",
-      "dimensions": "Not specified",
-      "waterFlowRate": "Not specified",
-      "warranty": "Not specified"
-    },
-    "reviews": []
-  },
-  {
-    "id": "camzon-chrome-wall-stop-cock-007",
-    "slug": "camzon-chrome-wall-mounted-stop-cock",
-    "title": "Chrome Wall-Mounted Stop Cock",
-    "subtitle": "Sleek cylindrical design with a polished finish and ergonomic lever handle",
-    "category": "ARNO",
-    "price": 1299,
-    "originalPrice": null,
-    "rating": 0,
-    "reviewsCount": 0,
-    "isNew": true,
-    "isSale": false,
-    "isFeatured": false,
-    "badge": "New Arrival",
-    "stockCount": 20,
-    "sku": "CAM-FCT-007",
-    "colors": [
-      {
-        "name": "Chrome",
-        "hex": "#E5E7EB"
-      }
-    ],
-    "images": [
-      "https://res.cloudinary.com/dz3sbdyps/image/upload/v1791717760/7_kam7nk.png"
-    ],
-    "description": "Add a refined finishing touch to your bathroom with this chrome wall-mounted stop cock. Featuring a streamlined cylindrical body, a polished circular wall plate, and a tall ergonomic lever handle, it combines minimalist styling with a clean, contemporary appearance. The exposed threaded outlet is designed for a compatible plumbing connection, making this fixture suitable for coordinated modern bathroom installations.",
-    "story": "Designed around the principles of simplicity and functional elegance, this chrome stop cock brings a polished, architectural detail to contemporary bathrooms. Its reflective finish and understated silhouette pair effortlessly with matching chrome faucets and shower fittings.",
-    "details": [
-      "Wall-mounted installation design",
-      "Polished chrome finish",
-      "Compact cylindrical body",
-      "Tall lever-style handle",
-      "Circular wall escutcheon",
-      "Exposed threaded outlet connection",
-      "Coordinates with modern chrome bathroom fittings"
-    ],
-    "specs": {
-      "productType": "Stop Cock",
-      "finish": "Polished Chrome",
-      "color": "Silver",
-      "mountingType": "Wall-Mounted",
-      "controlType": "Lever Handle",
-      "outletType": "Threaded Outlet",
-      "material": "Not specified",
-      "dimensions": "Not specified",
-      "connectionSize": "Not specified",
-      "warranty": "Not specified"
-    },
-    "reviews": []
-  },
-  {
-    "id": "camzon-chrome-high-arc-basin-mixer-008",
-    "slug": "camzon-chrome-high-arc-single-lever-basin-mixer",
-    "title": "Chrome High-Arc Basin Mixer",
-    "subtitle": "Sculptural swan-neck spout with a sleek single-lever control",
-    "category": "ARNO",
-    "price": 3999,
-    "originalPrice": null,
-    "rating": 0,
-    "reviewsCount": 0,
-    "isNew": true,
-    "isSale": false,
-    "isFeatured": true,
-    "badge": "New Arrival",
-    "stockCount": 20,
-    "sku": "CAM-FCT-008",
-    "colors": [
-      {
-        "name": "Chrome",
-        "hex": "#E5E7EB"
-      }
-    ],
-    "images": [
-      "https://res.cloudinary.com/dz3sbdyps/image/upload/v1791717756/8_ddbdad.jpg"
-    ],
-    "description": "Make a statement with this chrome high-arc basin mixer, featuring an elegant curved spout, a streamlined cylindrical body, and a contemporary single-lever handle. Its polished reflective finish enhances the clean silhouette, making it a sophisticated choice for modern washbasins. The elevated spout design pairs beautifully with countertop basins, marble surfaces, and premium bathroom interiors.",
-    "story": "Inspired by the graceful curves of contemporary architecture, this basin mixer brings a balance of functionality and understated luxury to the bathroom. Its sweeping profile and timeless chrome finish create a refined focal point for thoughtfully designed spaces.",
-    "details": [
-      "High-arc swan-neck spout",
-      "Polished chrome finish",
-      "Single-lever handle for convenient control",
-      "Cylindrical body with a streamlined profile",
-      "Deck-mounted installation design",
-      "Suitable for contemporary basin arrangements",
-      "Complements marble and stone countertops"
-    ],
-    "specs": {
-      "productType": "Basin Mixer Tap",
-      "finish": "Polished Chrome",
-      "color": "Silver",
-      "mountingType": "Deck-Mounted",
-      "controlType": "Single Lever",
-      "spoutDesign": "High-Arc Swan Neck",
-      "material": "Not specified",
-      "dimensions": "Not specified",
-      "waterFlowRate": "Not specified",
-      "warranty": "Not specified"
-    },
-    "reviews": []
-  },
-  {
-    "id": "camzon-chrome-wall-mounted-basin-mixer-009",
-    "slug": "camzon-chrome-wall-mounted-high-arc-basin-mixer",
-    "title": "Chrome Wall-Mounted High-Arc Basin Mixer",
-    "subtitle": "Graceful curved spout with a polished chrome finish",
-    "category": "ARNO",
-    "price": 3299,
-    "originalPrice": null,
-    "rating": 0,
-    "reviewsCount": 0,
-    "isNew": true,
-    "isSale": false,
-    "isFeatured": false,
-    "badge": "New Arrival",
-    "stockCount": 20,
-    "sku": "CAM-FCT-009",
-    "colors": [
-      {
-        "name": "Chrome",
-        "hex": "#E5E7EB"
-      }
-    ],
-    "images": [
-      "https://res.cloudinary.com/dz3sbdyps/image/upload/v1791717756/9_d9vp0h.jpg"
-    ],
-    "description": "Bring refined simplicity to your bathroom with this chrome wall-mounted basin mixer. Featuring an elegant high-arc curved spout, a compact cylindrical body, and a sleek lever-style control, it combines modern styling with a clean, uncluttered appearance. The polished chrome finish complements vessel basins, marble countertops, and contemporary bathroom interiors.",
-    "story": "Inspired by minimalist architecture and the beauty of simple forms, this basin mixer adds a sophisticated finishing touch to modern bathroom spaces. Its graceful curve and reflective chrome surface create a timeless look that pairs effortlessly with natural stone and neutral finishes.",
-    "details": [
-      "Wall-mounted installation design",
-      "High-arc curved spout",
-      "Polished chrome finish",
-      "Single lever-style control",
-      "Compact cylindrical body",
-      "Space-saving countertop arrangement",
-      "Suitable for contemporary vessel basin settings"
-    ],
-    "specs": {
-      "productType": "Wall-Mounted Basin Mixer",
-      "finish": "Polished Chrome",
-      "color": "Silver",
-      "mountingType": "Wall-Mounted",
-      "controlType": "Single Lever",
-      "spoutDesign": "High-Arc Curved Spout",
-      "material": "Not specified",
-      "dimensions": "Not specified",
-      "waterFlowRate": "Not specified",
-      "warranty": "Not specified"
-    },
-    "reviews": []
-  },
-  {
-    "id": "camzon-premium-wall-mixer-001",
-    "slug": "camzon-premium-wall-mixer",
-    "title": "Premium Wall Mixer",
-    "subtitle": "Modern chrome wall mixer with dual lever controls",
-    "category": "ARNO",
-    "price": 3499,
-    "originalPrice": null,
-    "rating": 0,
-    "reviewsCount": 0,
-    "isNew": false,
-    "isSale": false,
-    "isFeatured": false,
-    "badge": "",
-    "stockCount": 20,
-    "sku": "CAM-BF-001",
-    "colors": [
-      {
-        "name": "Chrome",
-        "hex": "#E5E7EB"
-      }
-    ],
-    "images": [
-      "https://res.cloudinary.com/dz3sbdyps/image/upload/v1791717756/10_jt1z3k.jpg"
-    ],
-    "description": "A contemporary wall-mounted bath mixer featuring a polished chrome finish, sleek dual lever handles, and a clean geometric spout.",
-    "story": "Designed for modern bathrooms, this wall mixer combines understated elegance with practical functionality. Its reflective chrome finish complements minimalist and premium bathroom interiors.",
-    "details": [
-      "Wall-mounted installation",
-      "Dual lever controls",
-      "Polished chrome finish",
-      "Modern geometric spout",
-      "Suitable for contemporary bathrooms"
-    ],
-    "specs": {
-      "material": "Not specified",
-      "finish": "Chrome",
-      "mountingType": "Wall-mounted",
-      "handleType": "Dual lever",
-      "productType": "Wall Mixer"
-    },
-    "reviews": []
-  },
-  {
-    "id": "camzon-premium-bib-cock-001",
-    "slug": "camzon-premium-bib-cock",
-    "title": "Premium Chrome Bib Cock",
-    "subtitle": "Sleek wall-mounted bib cock with a modern single-lever handle",
-    "category": "ARNO",
-    "price": 1899,
-    "originalPrice": null,
-    "rating": 0,
-    "reviewsCount": 0,
-    "isNew": false,
-    "isSale": false,
-    "isFeatured": false,
-    "badge": "",
-    "stockCount": 20,
-    "sku": "CAM-FCT-002",
-    "colors": [
-      {
-        "name": "Chrome",
-        "hex": "#E5E7EB"
-      }
-    ],
-    "images": [
-      "https://res.cloudinary.com/dz3sbdyps/image/upload/v1791717757/11_ogrtzf.png"
-    ],
-    "description": "A modern wall-mounted bib cock featuring a polished chrome finish, a streamlined spout, and a convenient single-lever handle for everyday use.",
-    "story": "Designed to complement contemporary bathrooms, this chrome bib cock combines clean lines with a refined reflective finish, making it a practical and elegant addition to modern spaces.",
-    "details": [
-      "Wall-mounted installation",
-      "Single-lever handle",
-      "Polished chrome finish",
-      "Contemporary design",
-      "Easy-to-use control"
-    ],
-    "specs": {
-      "material": "Not specified",
-      "finish": "Chrome",
-      "mountingType": "Wall-mounted",
-      "handleType": "Single lever",
-      "productType": "Bib Cock"
-    },
-    "reviews": []
-  },
-  {
     "id": "camzon-product-001",
-    "slug": "camzon-arno-wall-mixer-non-telephonic",
-    "title": "WALL MIXER",
-    "subtitle": "NON-TELEPHONIC",
+    "slug": "pillar-cock-single-lever-cam-pc-ar-001",
+    "title": "Pillar Cock",
+    "subtitle": "SINGLE LEVER",
     "category": "Arno",
-    "price": 2950.00,
-    "originalPrice": 3450.00,
+    "price": 48.00,
+    "originalPrice": 60.00,
     "rating": 0,
     "reviewsCount": 0,
     "isNew": false,
@@ -548,26 +15,297 @@
     "isFeatured": false,
     "badge": null,
     "stockCount": 0,
-    "sku": "CAM-WM-AR-001",
+    "sku": "CAM-PC-AR-001",
     "colors": [
       {
         "name": "Chrome",
         "hex": "#E5E7EB"
       }
     ],
-    "images": [],
-    "description": "A wall-mounted non-telephonic bath mixer from the Arno series featuring dual lever controls and a central spout for efficient hot and cold water blending.",
-    "story": "Engineered for clean and simple bathroom setups, the Arno Non-Telephonic Wall Mixer offers dependable temperature mixing directly to your tub or bucket.",
+    "images": [
+      "https://res.cloudinary.com/xchvhbbn/image/upload/v1793360473/1x_1.jpg"
+    ],
+    "description": "Single lever pillar cock with a sleek chrome body and aerated spout designed for deck-mounted basin installation.",
+    "story": "Delivers smooth single-hand temperature and flow control for modern wash basins with refined chrome aesthetics.",
     "details": [
-      "Dual lever hot and cold control handles",
-      "Direct wall flange installation",
-      "Durable brass construction with chrome finish",
-      "Efficient aerated spout stream"
+      "Single lever control for easy operation",
+      "Deck-mounted pillar design",
+      "Polished chrome finish"
     ],
     "specs": {
-      "productType": "Wall Mixer Non-Telephonic",
-      "finish": "Not specified",
-      "color": "Not specified",
+      "productType": "Pillar Cock",
+      "finish": "Chrome",
+      "color": "Chrome",
+      "mountingType": "Deck Mounted",
+      "controlType": "Single Lever",
+      "material": "Not specified",
+      "dimensions": "Not specified",
+      "waterFlowRate": "Not specified",
+      "warranty": "Not specified"
+    },
+    "reviews": []
+  },
+  {
+    "id": "camzon-product-002",
+    "slug": "bib-cock-cam-bc-ar-001",
+    "title": "Bib Cock",
+    "subtitle": "BIB COCK",
+    "category": "Arno",
+    "price": 28.00,
+    "originalPrice": 35.00,
+    "rating": 0,
+    "reviewsCount": 0,
+    "isNew": false,
+    "isSale": false,
+    "isFeatured": false,
+    "badge": null,
+    "stockCount": 0,
+    "sku": "CAM-BC-AR-001",
+    "colors": [
+      {
+        "name": "Chrome",
+        "hex": "#E5E7EB"
+      }
+    ],
+    "images": [
+      "https://res.cloudinary.com/xchvhbbn/image/upload/v1793360484/1x_x_1.png"
+    ],
+    "description": "Wall-mounted chrome bib cock with a short spout and single lever handle for utility and basin applications.",
+    "story": "A compact and reliable water outlet fixture ideal for wash areas and utility spaces.",
+    "details": [
+      "Wall-mounted installation",
+      "Single lever operation",
+      "Durable chrome body"
+    ],
+    "specs": {
+      "productType": "Bib Cock",
+      "finish": "Chrome",
+      "color": "Chrome",
+      "mountingType": "Wall Mounted",
+      "controlType": "Single Lever",
+      "material": "Not specified",
+      "dimensions": "Not specified",
+      "waterFlowRate": "Not specified",
+      "warranty": "Not specified"
+    },
+    "reviews": []
+  },
+  {
+    "id": "camzon-product-003",
+    "slug": "bib-cock-long-nose-cam-bc-ar-002",
+    "title": "Bib Cock",
+    "subtitle": "LONG NOSE",
+    "category": "Arno",
+    "price": 32.00,
+    "originalPrice": 40.00,
+    "rating": 0,
+    "reviewsCount": 0,
+    "isNew": false,
+    "isSale": false,
+    "isFeatured": false,
+    "badge": null,
+    "stockCount": 0,
+    "sku": "CAM-BC-AR-002",
+    "colors": [
+      {
+        "name": "Chrome",
+        "hex": "#E5E7EB"
+      }
+    ],
+    "images": [
+      "https://res.cloudinary.com/xchvhbbn/image/upload/v1793360469/1x_2.jpg"
+    ],
+    "description": "Extended long-nose wall-mounted bib cock in polished chrome with single lever control.",
+    "story": "Provides extended reach for filling larger vessels and improved splash control at utility sinks.",
+    "details": [
+      "Long extended spout nose",
+      "Wall-mounted design",
+      "Single lever handle"
+    ],
+    "specs": {
+      "productType": "Bib Cock",
+      "finish": "Chrome",
+      "color": "Chrome",
+      "mountingType": "Wall Mounted",
+      "controlType": "Single Lever",
+      "material": "Not specified",
+      "dimensions": "Not specified",
+      "waterFlowRate": "Not specified",
+      "warranty": "Not specified"
+    },
+    "reviews": []
+  },
+  {
+    "id": "camzon-product-004",
+    "slug": "sink-cock-with-swivel-spout-cam-sc-ar-001",
+    "title": "Sink Cock",
+    "subtitle": "WITH SWIVEL SPOUT",
+    "category": "Arno",
+    "price": 42.00,
+    "originalPrice": 52.00,
+    "rating": 0,
+    "reviewsCount": 0,
+    "isNew": false,
+    "isSale": false,
+    "isFeatured": false,
+    "badge": null,
+    "stockCount": 0,
+    "sku": "CAM-SC-AR-001",
+    "colors": [
+      {
+        "name": "Chrome",
+        "hex": "#E5E7EB"
+      }
+    ],
+    "images": [
+      "https://res.cloudinary.com/xchvhbbn/image/upload/v1793360482/1x_x_2.png"
+    ],
+    "description": "Wall-mounted sink cock featuring a high-arc swivel spout and single lever control in chrome finish.",
+    "story": "Offers flexible spout positioning for multi-purpose sink use in kitchens and utility areas.",
+    "details": [
+      "360-degree swivel spout",
+      "High-arc spout profile",
+      "Wall-mounted single lever body"
+    ],
+    "specs": {
+      "productType": "Sink Cock",
+      "finish": "Chrome",
+      "color": "Chrome",
+      "mountingType": "Wall Mounted",
+      "controlType": "Single Lever",
+      "material": "Not specified",
+      "dimensions": "Not specified",
+      "waterFlowRate": "Not specified",
+      "warranty": "Not specified"
+    },
+    "reviews": []
+  },
+  {
+    "id": "camzon-product-005",
+    "slug": "swan-neck-cam-sn-ar-001",
+    "title": "Swan Neck",
+    "subtitle": "SWAN NECK",
+    "category": "Arno",
+    "price": 55.00,
+    "originalPrice": 68.00,
+    "rating": 0,
+    "reviewsCount": 0,
+    "isNew": false,
+    "isSale": false,
+    "isFeatured": false,
+    "badge": null,
+    "stockCount": 0,
+    "sku": "CAM-SN-AR-001",
+    "colors": [
+      {
+        "name": "Chrome",
+        "hex": "#E5E7EB"
+      }
+    ],
+    "images": [
+      "https://res.cloudinary.com/xchvhbbn/image/upload/v1793360468/1x_3.jpg"
+    ],
+    "description": "Elegant high swan-neck faucet with a graceful curved spout and dual cross handles in polished chrome.",
+    "story": "Brings classic luxury styling and generous under-spout clearance to premium basin installations.",
+    "details": [
+      "High arched swan neck spout",
+      "Dual cross handle controls",
+      "Deck-mounted centre set design"
+    ],
+    "specs": {
+      "productType": "Swan Neck Faucet",
+      "finish": "Chrome",
+      "color": "Chrome",
+      "mountingType": "Deck Mounted",
+      "controlType": "Dual Handle",
+      "material": "Not specified",
+      "dimensions": "Not specified",
+      "waterFlowRate": "Not specified",
+      "warranty": "Not specified"
+    },
+    "reviews": []
+  },
+  {
+    "id": "camzon-product-006",
+    "slug": "bib-cock-two-way-cam-bc-ar-003",
+    "title": "Bib Cock",
+    "subtitle": "TWO WAY",
+    "category": "Arno",
+    "price": 38.00,
+    "originalPrice": 48.00,
+    "rating": 0,
+    "reviewsCount": 0,
+    "isNew": false,
+    "isSale": false,
+    "isFeatured": false,
+    "badge": null,
+    "stockCount": 0,
+    "sku": "CAM-BC-AR-003",
+    "colors": [
+      {
+        "name": "Chrome",
+        "hex": "#E5E7EB"
+      }
+    ],
+    "images": [
+      "https://res.cloudinary.com/xchvhbbn/image/upload/v1793360486/1xx_3.png"
+    ],
+    "description": "Two-way wall-mounted bib cock with dual outlet capability and lever handle in chrome finish.",
+    "story": "Enables simultaneous connection for shower hose or dual water outlets from a single wall point.",
+    "details": [
+      "Two-way outlet configuration",
+      "Wall-mounted body",
+      "Lever handle control"
+    ],
+    "specs": {
+      "productType": "Bib Cock",
+      "finish": "Chrome",
+      "color": "Chrome",
+      "mountingType": "Wall Mounted",
+      "controlType": "Single Lever",
+      "material": "Not specified",
+      "dimensions": "Not specified",
+      "waterFlowRate": "Not specified",
+      "warranty": "Not specified"
+    },
+    "reviews": []
+  },
+  {
+    "id": "camzon-product-007",
+    "slug": "sink-mixer-cam-bm-ko-002",
+    "title": "Sink Mixer",
+    "subtitle": "SINK MIXER",
+    "category": "Arno",
+    "price": 72.00,
+    "originalPrice": 90.00,
+    "rating": 0,
+    "reviewsCount": 0,
+    "isNew": false,
+    "isSale": false,
+    "isFeatured": false,
+    "badge": null,
+    "stockCount": 0,
+    "sku": "CAM-BM-KO-002",
+    "colors": [
+      {
+        "name": "Chrome",
+        "hex": "#E5E7EB"
+      }
+    ],
+    "images": [
+      "https://res.cloudinary.com/xchvhbbn/image/upload/v1793360478/1x_4.jpg"
+    ],
+    "description": "Wall-mounted sink mixer with dual lever handles and a high curved spout in polished chrome.",
+    "story": "Provides precise hot and cold mixing for kitchen and utility sinks with elegant dual-handle control.",
+    "details": [
+      "Dual lever hot and cold handles",
+      "High curved spout",
+      "Wall-mounted mixer body"
+    ],
+    "specs": {
+      "productType": "Sink Mixer",
+      "finish": "Chrome",
+      "color": "Chrome",
       "mountingType": "Wall Mounted",
       "controlType": "Dual Lever",
       "material": "Not specified",
@@ -578,13 +316,103 @@
     "reviews": []
   },
   {
-    "id": "camzon-product-002",
-    "slug": "camzon-arno-wall-mixer-l-bend",
-    "title": "WALL MIXER",
-    "subtitle": "L BEND",
+    "id": "camzon-product-008",
+    "slug": "basin-mixer-centre-hole-cam-bm-ar-001",
+    "title": "Basin Mixer",
+    "subtitle": "CENTRE HOLE",
     "category": "Arno",
-    "price": 3850.00,
-    "originalPrice": 4500.00,
+    "price": 65.00,
+    "originalPrice": 80.00,
+    "rating": 0,
+    "reviewsCount": 0,
+    "isNew": false,
+    "isSale": false,
+    "isFeatured": false,
+    "badge": null,
+    "stockCount": 0,
+    "sku": "CAM-BM-AR-001",
+    "colors": [
+      {
+        "name": "Chrome",
+        "hex": "#E5E7EB"
+      }
+    ],
+    "images": [
+      "https://res.cloudinary.com/xchvhbbn/image/upload/v1793360484/1xx_4.png"
+    ],
+    "description": "Centre-hole deck-mounted basin mixer with dual cross handles and a classic curved spout in chrome.",
+    "story": "A timeless centre-set basin mixer designed for single-hole wash basins with dual-handle precision.",
+    "details": [
+      "Centre hole deck mounting",
+      "Dual cross handle controls",
+      "Curved spout design"
+    ],
+    "specs": {
+      "productType": "Basin Mixer",
+      "finish": "Chrome",
+      "color": "Chrome",
+      "mountingType": "Deck Mounted",
+      "controlType": "Dual Handle",
+      "material": "Not specified",
+      "dimensions": "Not specified",
+      "waterFlowRate": "Not specified",
+      "warranty": "Not specified"
+    },
+    "reviews": []
+  },
+  {
+    "id": "camzon-product-009",
+    "slug": "angle-valve-cam-av-ar-001",
+    "title": "Angle Valve",
+    "subtitle": "ANGLE VALVE",
+    "category": "Arno",
+    "price": 18.00,
+    "originalPrice": 24.00,
+    "rating": 0,
+    "reviewsCount": 0,
+    "isNew": false,
+    "isSale": false,
+    "isFeatured": false,
+    "badge": null,
+    "stockCount": 0,
+    "sku": "CAM-AV-AR-001",
+    "colors": [
+      {
+        "name": "Chrome",
+        "hex": "#E5E7EB"
+      }
+    ],
+    "images": [
+      "https://res.cloudinary.com/xchvhbbn/image/upload/v1793360469/1x_5.jpg"
+    ],
+    "description": "Compact chrome angle valve with a single lever handle for isolating water supply to fixtures.",
+    "story": "Essential shut-off control valve for basins, cisterns, and appliances with reliable chrome durability.",
+    "details": [
+      "Quarter-turn lever operation",
+      "Compact wall-mounted body",
+      "Polished chrome finish"
+    ],
+    "specs": {
+      "productType": "Angle Valve",
+      "finish": "Chrome",
+      "color": "Chrome",
+      "mountingType": "Wall Mounted",
+      "controlType": "Single Lever",
+      "material": "Not specified",
+      "dimensions": "Not specified",
+      "waterFlowRate": "Not specified",
+      "warranty": "Not specified"
+    },
+    "reviews": []
+  },
+  {
+    "id": "camzon-product-010",
+    "slug": "wall-mixer-non-telephonic-cam-wm-ar-001",
+    "title": "Wall Mixer",
+    "subtitle": "NON-TELEPHONIC",
+    "category": "Arno",
+    "price": 85.00,
+    "originalPrice": 105.00,
     "rating": 0,
     "reviewsCount": 0,
     "isNew": false,
@@ -599,21 +427,22 @@
         "hex": "#E5E7EB"
       }
     ],
-    "images": [],
-    "description": "A wall-mounted bath shower mixer equipped with an upper L-bend riser pipe connection for an overhead shower system.",
-    "story": "The Arno L-Bend Wall Mixer combines spout convenience with overhead showering capabilities, providing effortless switching and balanced water flow.",
+    "images": [
+      "https://res.cloudinary.com/xchvhbbn/image/upload/v1793360476/1xxx_1.webp"
+    ],
+    "description": "Non-telephonic wall mixer with dual lever handles and a fixed spout outlet in polished chrome.",
+    "story": "Designed for simple bath and shower mixing without diverter, delivering reliable hot-cold blending.",
     "details": [
-      "Integrated upper L-bend connection for overhead shower",
-      "Dual control levers with diverter knob",
-      "Robust wall mounting system",
-      "Mirror-polish chrome finish"
+      "Non-telephonic fixed spout design",
+      "Dual lever hot and cold controls",
+      "Wall-mounted mixer body"
     ],
     "specs": {
-      "productType": "Wall Mixer L Bend",
-      "finish": "Not specified",
-      "color": "Not specified",
+      "productType": "Wall Mixer",
+      "finish": "Chrome",
+      "color": "Chrome",
       "mountingType": "Wall Mounted",
-      "controlType": "Dual Lever with Diverter",
+      "controlType": "Dual Lever",
       "material": "Not specified",
       "dimensions": "Not specified",
       "waterFlowRate": "Not specified",
@@ -622,13 +451,58 @@
     "reviews": []
   },
   {
-    "id": "camzon-product-003",
-    "slug": "camzon-arno-wall-mixer-3-in-1-with-l-bend",
-    "title": "WALL MIXER",
-    "subtitle": "3 IN 1WITH L BEND",
+    "id": "camzon-product-011",
+    "slug": "wall-mixer-l-bend-cam-wm-ar-001b",
+    "title": "Wall Mixer",
+    "subtitle": "L BEND",
     "category": "Arno",
-    "price": 4450.00,
-    "originalPrice": 5200.00,
+    "price": 95.00,
+    "originalPrice": 118.00,
+    "rating": 0,
+    "reviewsCount": 0,
+    "isNew": false,
+    "isSale": false,
+    "isFeatured": false,
+    "badge": null,
+    "stockCount": 0,
+    "sku": "CAM-WM-AR-001",
+    "colors": [
+      {
+        "name": "Chrome",
+        "hex": "#E5E7EB"
+      }
+    ],
+    "images": [
+      "https://res.cloudinary.com/xchvhbbn/image/upload/v1793360470/1x_6.jpg"
+    ],
+    "description": "Wall mixer with L-bend spout and overhead shower connection pipe featuring dual lever controls.",
+    "story": "Combines bath filling and shower diversion capability with an elegant L-bend spout configuration.",
+    "details": [
+      "L-bend spout design",
+      "Dual lever mixer controls",
+      "Overhead shower pipe connection"
+    ],
+    "specs": {
+      "productType": "Wall Mixer",
+      "finish": "Chrome",
+      "color": "Chrome",
+      "mountingType": "Wall Mounted",
+      "controlType": "Dual Lever",
+      "material": "Not specified",
+      "dimensions": "Not specified",
+      "waterFlowRate": "Not specified",
+      "warranty": "Not specified"
+    },
+    "reviews": []
+  },
+  {
+    "id": "camzon-product-012",
+    "slug": "wall-mixer-3-in-1-with-l-bend-cam-wm-ar-002",
+    "title": "Wall Mixer",
+    "subtitle": "3 IN 1 WITH L BEND",
+    "category": "Arno",
+    "price": 110.00,
+    "originalPrice": 135.00,
     "rating": 0,
     "reviewsCount": 0,
     "isNew": false,
@@ -643,21 +517,22 @@
         "hex": "#E5E7EB"
       }
     ],
-    "images": [],
-    "description": "A versatile 3-in-1 wall mixer equipped with provisions for an overhead shower L-bend, hand shower attachment, and bath spout.",
-    "story": "Designed to deliver complete shower flexibility, the Arno 3-in-1 Wall Mixer allows seamless toggling between overhead shower, hand shower, and tub filler spout.",
+    "images": [
+      "https://res.cloudinary.com/xchvhbbn/image/upload/v1793360472/1x_7.jpg"
+    ],
+    "description": "3-in-1 wall mixer system with L-bend spout, hand shower outlet, and overhead shower connection in chrome.",
+    "story": "A complete multi-function bath and shower solution offering spout, hand shower, and overhead rain options.",
     "details": [
-      "3-way water control (Overhead shower, Hand shower, Spout)",
-      "Includes top L-bend pipe fitting",
-      "Multi-handle layout for precise mixing and flow diversion",
-      "High-shine chrome surface coating"
+      "3-in-1 diverter functionality",
+      "L-bend spout and hand shower holder",
+      "Dual lever thermostatic-ready controls"
     ],
     "specs": {
-      "productType": "Wall Mixer 3-in-1",
-      "finish": "Not specified",
-      "color": "Not specified",
+      "productType": "Wall Mixer",
+      "finish": "Chrome",
+      "color": "Chrome",
       "mountingType": "Wall Mounted",
-      "controlType": "Multi-Lever Diverter",
+      "controlType": "Dual Lever with Diverter",
       "material": "Not specified",
       "dimensions": "Not specified",
       "waterFlowRate": "Not specified",

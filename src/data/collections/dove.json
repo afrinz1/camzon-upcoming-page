@@ -1,4 +1,3 @@
-
 [
   {
     "id": "camzon-product-001",
@@ -6,8 +5,8 @@
     "title": "Basin Mixer 150mm",
     "subtitle": "SINGLE LEVER",
     "category": "dove",
-    "price": 120.00,
-    "originalPrice": 150.00,
+    "price": 120,
+    "originalPrice": 150,
     "rating": 0,
     "reviewsCount": 0,
     "isNew": false,
@@ -22,7 +21,9 @@
         "hex": "#E5E7EB"
       }
     ],
-    "images": [],
+    "images": [
+      "https://res.cloudinary.com/xchvhbbn/image/upload/v1793094649/j_1.png"
+    ],
     "description": "Sleek 150mm single lever basin mixer from the Dove series featuring an ergonomic flat-top handle and brilliant polished chrome finish.",
     "story": "Crafted with smooth curves and organic edges, the Dove collection brings refined elegance and dependable single-lever control to contemporary washbasins.",
     "details": [
@@ -50,8 +51,8 @@
     "title": "Basin Mixer 100mm",
     "subtitle": "SINGLE LEVER",
     "category": "dove",
-    "price": 105.00,
-    "originalPrice": 130.00,
+    "price": 105,
+    "originalPrice": 130,
     "rating": 0,
     "reviewsCount": 0,
     "isNew": false,
@@ -66,7 +67,9 @@
         "hex": "#E5E7EB"
       }
     ],
-    "images": [],
+    "images": [
+      "https://res.cloudinary.com/xchvhbbn/image/upload/v1793094643/j_2.png"
+    ],
     "description": "Compact 100mm single lever basin mixer from the Dove line, offering smooth water flow and temperature regulation tailored for low-profile counter basins.",
     "story": "Designed for compact modern spaces, this 100mm Dove basin mixer offers low-profile elegance with uncompromised operational performance.",
     "details": [
@@ -94,8 +97,8 @@
     "title": "Kitchen Mixer",
     "subtitle": "DECK MOUNTED SINGLE LEVER",
     "category": "dove",
-    "price": 140.00,
-    "originalPrice": 170.00,
+    "price": 140,
+    "originalPrice": 170,
     "rating": 0,
     "reviewsCount": 0,
     "isNew": false,
@@ -110,7 +113,9 @@
         "hex": "#E5E7EB"
       }
     ],
-    "images": [],
+    "images": [
+      "https://res.cloudinary.com/xchvhbbn/image/upload/v1793094642/j_4.png"
+    ],
     "description": "Deck mounted single lever kitchen mixer featuring a high-curved arch spout and side lever control from the Dove collection.",
     "story": "Elevate your kitchen aesthetic with the Dove deck-mounted mixer, engineered for high clearance and effortless single-handle water management.",
     "details": [
@@ -138,8 +143,8 @@
     "title": "Sink Mixer with D Pipe",
     "subtitle": "WALL MOUNTED SINGLE LEVER WITH D PIPE",
     "category": "dove",
-    "price": 135.00,
-    "originalPrice": 165.00,
+    "price": 135,
+    "originalPrice": 165,
     "rating": 0,
     "reviewsCount": 0,
     "isNew": false,
@@ -154,7 +159,9 @@
         "hex": "#E5E7EB"
       }
     ],
-    "images": [],
+    "images": [
+      "https://res.cloudinary.com/xchvhbbn/image/upload/v1793094650/j_9.png"
+    ],
     "description": "Wall mounted single lever sink mixer equipped with an elevated high-clearance D-pipe spout for versatile utility.",
     "story": "Combining wall-mount efficiency with high spout clearance, this Dove series sink mixer provides clean sink space and versatile utility.",
     "details": [
@@ -182,8 +189,8 @@
     "title": "Sink Mixer Table Mounted",
     "subtitle": "SINGLE LEVER TABLE MOUNTED",
     "category": "dove",
-    "price": 125.00,
-    "originalPrice": 155.00,
+    "price": 125,
+    "originalPrice": 155,
     "rating": 0,
     "reviewsCount": 0,
     "isNew": false,
@@ -198,7 +205,9 @@
         "hex": "#E5E7EB"
       }
     ],
-    "images": [],
+    "images": [
+      "https://res.cloudinary.com/xchvhbbn/image/upload/v1793094683/j_7.png"
+    ],
     "description": "Table mounted single lever sink mixer featuring an extended horizontal reach spout and Dove series ergonomic flat lever.",
     "story": "Designed for counter-mounted sink installations, this Dove mixer provides direct control and smooth horizontal water reach.",
     "details": [
@@ -226,8 +235,8 @@
     "title": "Sink Mixer with S Spout",
     "subtitle": "SINGLE LEVER WALL MOUNTED WITH S SPOUT",
     "category": "dove",
-    "price": 130.00,
-    "originalPrice": 160.00,
+    "price": 130,
+    "originalPrice": 160,
     "rating": 0,
     "reviewsCount": 0,
     "isNew": false,
@@ -242,7 +251,9 @@
         "hex": "#E5E7EB"
       }
     ],
-    "images": [],
+    "images": [
+      "https://res.cloudinary.com/xchvhbbn/image/upload/v1793094648/j_8.png"
+    ],
     "description": "Wall mounted single lever sink mixer designed with a lower S-shaped swivel spout for smooth and extended sink coverage.",
     "story": "Combining traditional S-spout utility with modern Dove styling, this wall-mounted mixer offers wide basin coverage and clear wall integration.",
     "details": [
@@ -270,8 +281,8 @@
     "title": "Bath Mixer",
     "subtitle": "SINGLE LEVER",
     "category": "dove",
-    "price": 160.00,
-    "originalPrice": 195.00,
+    "price": 160,
+    "originalPrice": 195,
     "rating": 0,
     "reviewsCount": 0,
     "isNew": false,
@@ -286,7 +297,9 @@
         "hex": "#E5E7EB"
       }
     ],
-    "images": [],
+    "images": [
+      "https://res.cloudinary.com/xchvhbbn/image/upload/v1793094681/j_3.png"
+    ],
     "description": "Wall mounted single lever bath mixer featuring an integrated pull diverter for switching between spout and hand shower.",
     "story": "Bring sleek coordination to your bathroom with the Dove bath mixer, engineered for smooth volume control and multi-function diversion.",
     "details": [
@@ -314,8 +327,8 @@
     "title": "Shattaf Mixer",
     "subtitle": "SINGLE LEVER",
     "category": "dove",
-    "price": 95.00,
-    "originalPrice": 120.00,
+    "price": 95,
+    "originalPrice": 120,
     "rating": 0,
     "reviewsCount": 0,
     "isNew": false,
@@ -330,7 +343,9 @@
         "hex": "#E5E7EB"
       }
     ],
-    "images": [],
+    "images": [
+      "https://res.cloudinary.com/xchvhbbn/image/upload/v1793094647/j_6.png"
+    ],
     "description": "Wall mounted single lever shattaf mixer designed for smooth temperature blending and bidet spray connection.",
     "story": "A compact and refined addition to modern rest stations, delivering comfortable water mixing with Dove collection craftsmanship.",
     "details": [
@@ -358,8 +373,8 @@
     "title": "Kitchen Mixer Table Mounted",
     "subtitle": "TABLE MOUNTED SINGLE LEVER",
     "category": "dove",
-    "price": 145.00,
-    "originalPrice": 175.00,
+    "price": 145,
+    "originalPrice": 175,
     "rating": 0,
     "reviewsCount": 0,
     "isNew": false,
@@ -374,7 +389,9 @@
         "hex": "#E5E7EB"
       }
     ],
-    "images": [],
+    "images": [
+      "https://res.cloudinary.com/xchvhbbn/image/upload/v1793094646/j_5.png"
+    ],
     "description": "Table mounted single lever kitchen mixer featuring a high-arched gooseneck spout for optimal sink clearance.",
     "story": "Combining architectural curves with functional clearance, this Dove table-mounted kitchen mixer makes dishwashing and culinary prep smooth and stylish.",
     "details": [
@@ -397,4 +414,3 @@
     "reviews": []
   }
 ]
-

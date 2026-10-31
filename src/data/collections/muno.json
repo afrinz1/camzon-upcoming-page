@@ -5,8 +5,8 @@
     "title": "Basin Mixer",
     "subtitle": "SINGLE LEVER",
     "category": "Muno",
-    "price": 115.00,
-    "originalPrice": 140.00,
+    "price": 115,
+    "originalPrice": 140,
     "rating": 0,
     "reviewsCount": 0,
     "isNew": false,
@@ -21,7 +21,9 @@
         "hex": "#E5E7EB"
       }
     ],
-    "images": [],
+    "images": [
+      "https://res.cloudinary.com/xchvhbbn/image/upload/v1793094497/s_1.png"
+    ],
     "description": "Modern single lever basin mixer featuring a flat lever design, smooth cylindrical body, and sleek polished chrome finish.",
     "story": "Part of the elegant MU collection, this basin mixer combines smooth flat-handle operation with minimalist design for contemporary bathrooms.",
     "details": [
@@ -48,8 +50,8 @@
     "title": "Bath Mixer",
     "subtitle": "SINGLE LEVER",
     "category": "Muno",
-    "price": 165.00,
-    "originalPrice": 195.00,
+    "price": 165,
+    "originalPrice": 195,
     "rating": 0,
     "reviewsCount": 0,
     "isNew": false,
@@ -64,7 +66,9 @@
         "hex": "#E5E7EB"
       }
     ],
-    "images": [],
+    "images": [
+      "https://res.cloudinary.com/xchvhbbn/image/upload/v1793094500/s_2.png"
+    ],
     "description": "Wall-mounted single lever bath mixer with integrated diverter switch and standard shower hose connector.",
     "story": "Designed for modern bathing environments, providing simple water flow transition between tub filler and shower head.",
     "details": [
@@ -91,8 +95,8 @@
     "title": "Kitchen Mixer",
     "subtitle": "TABLE MOUNTED SINGLE LEVER",
     "category": "Muno",
-    "price": 135.00,
-    "originalPrice": 160.00,
+    "price": 135,
+    "originalPrice": 160,
     "rating": 0,
     "reviewsCount": 0,
     "isNew": false,
@@ -107,7 +111,9 @@
         "hex": "#E5E7EB"
       }
     ],
-    "images": [],
+    "images": [
+      "https://res.cloudinary.com/xchvhbbn/image/upload/v1793094498/s_5.png"
+    ],
     "description": "Table-mounted kitchen mixer featuring a tall gooseneck swivel spout and ergonomic side lever.",
     "story": "Offers high clearance and maximum reach for washing large kitchen pots and everyday dishware.",
     "details": [
@@ -134,8 +140,8 @@
     "title": "Kitchen Mixer",
     "subtitle": "DECK MOUNTED SINGLE LEVER",
     "category": "Muno",
-    "price": 145.00,
-    "originalPrice": 175.00,
+    "price": 145,
+    "originalPrice": 175,
     "rating": 0,
     "reviewsCount": 0,
     "isNew": false,
@@ -150,7 +156,9 @@
         "hex": "#E5E7EB"
       }
     ],
-    "images": [],
+    "images": [
+      "https://res.cloudinary.com/xchvhbbn/image/upload/v1793094499/s_4.png"
+    ],
     "description": "Deck mounted single lever kitchen mixer with a gracefully curved arch spout and low-profile body.",
     "story": "Combining fluid curved lines with reliable water control for modern kitchen workstations.",
     "details": [
@@ -177,8 +185,8 @@
     "title": "Basin Mixer",
     "subtitle": "CONCEALED SINGLE LEVER",
     "category": "Muno",
-    "price": 155.00,
-    "originalPrice": 185.00,
+    "price": 155,
+    "originalPrice": 185,
     "rating": 0,
     "reviewsCount": 0,
     "isNew": false,
@@ -193,7 +201,9 @@
         "hex": "#E5E7EB"
       }
     ],
-    "images": [],
+    "images": [
+      "https://res.cloudinary.com/xchvhbbn/image/upload/v1793094502/s_3.png"
+    ],
     "description": "Concealed wall-mounted single lever basin mixer with an elegant rectangular wall plate and sleek spout.",
     "story": "A minimalist concealed wall-mount solution that creates an uncluttered look around the basin vanity area.",
     "details": [
@@ -220,8 +230,8 @@
     "title": "Shattaf Mixer",
     "subtitle": "SINGLE LEVER",
     "category": "Muno",
-    "price": 95.00,
-    "originalPrice": 120.00,
+    "price": 95,
+    "originalPrice": 120,
     "rating": 0,
     "reviewsCount": 0,
     "isNew": false,
@@ -236,7 +246,9 @@
         "hex": "#E5E7EB"
       }
     ],
-    "images": [],
+    "images": [
+      "https://res.cloudinary.com/xchvhbbn/image/upload/v1793094500/s_6.png"
+    ],
     "description": "Wall-mounted single lever shattaf mixer designed for smooth temperature mixing and bidet spray hose attachment.",
     "story": "Delivers precise warm water control for personal hygiene applications with a compact, modern footprint.",
     "details": [
@@ -263,8 +275,8 @@
     "title": "Sink Mixer",
     "subtitle": "WALL MOUNTED SINGLE LEVER WITH D PIPE",
     "category": "Muno",
-    "price": 140.00,
-    "originalPrice": 170.00,
+    "price": 140,
+    "originalPrice": 170,
     "rating": 0,
     "reviewsCount": 0,
     "isNew": false,
@@ -279,7 +291,9 @@
         "hex": "#E5E7EB"
       }
     ],
-    "images": [],
+    "images": [
+      "https://res.cloudinary.com/xchvhbbn/image/upload/v1793094501/s_7.png"
+    ],
     "description": "Wall-mounted single lever sink mixer featuring an elevated D-pipe high-spout for extended reach and clearance.",
     "story": "Built for maximum sink utility, the elevated D-pipe structure allows effortless filling of deep containers.",
     "details": [

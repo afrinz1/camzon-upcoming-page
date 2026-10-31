@@ -5,8 +5,8 @@
     "title": "Basin Mixer",
     "subtitle": "SINGLE LEVER",
     "category": "kore",
-    "price": 120.00,
-    "originalPrice": 150.00,
+    "price": 120,
+    "originalPrice": 150,
     "rating": 0,
     "reviewsCount": 0,
     "isNew": false,
@@ -21,7 +21,9 @@
         "hex": "#E5E7EB"
       }
     ],
-    "images": [],
+    "images": [
+      "https://res.cloudinary.com/xchvhbbn/image/upload/v1793330474/x1_18.png"
+    ],
     "description": "Sleek single lever basin mixer from the Kore collection featuring a polished chrome body and smooth top lever control.",
     "story": "Part of the versatile Kore collection, designed to deliver sleek contemporary aesthetics and dependable daily washbasin performance.",
     "details": [
@@ -48,8 +50,8 @@
     "title": "Pillar Cock Extended",
     "subtitle": "EXTENDED",
     "category": "kore",
-    "price": 110.00,
-    "originalPrice": 135.00,
+    "price": 110,
+    "originalPrice": 135,
     "rating": 0,
     "reviewsCount": 0,
     "isNew": false,
@@ -64,7 +66,9 @@
         "hex": "#E5E7EB"
       }
     ],
-    "images": [],
+    "images": [
+      "https://res.cloudinary.com/xchvhbbn/image/upload/v1793330343/x1_2.png"
+    ],
     "description": "Extended tall pillar cock designed for vessel and counter basin installations requiring elevated spout height.",
     "story": "Provides high spout clearance for counter-top basins, combining sleek vertical proportions with smooth water output.",
     "details": [
@@ -91,8 +95,8 @@
     "title": "Pillar Cock 150mm",
     "subtitle": "150mm",
     "category": "kore",
-    "price": 95.00,
-    "originalPrice": 120.00,
+    "price": 95,
+    "originalPrice": 120,
     "rating": 0,
     "reviewsCount": 0,
     "isNew": false,
@@ -107,7 +111,9 @@
         "hex": "#E5E7EB"
       }
     ],
-    "images": [],
+    "images": [
+      "https://res.cloudinary.com/xchvhbbn/image/upload/v1793330346/x1_3.png"
+    ],
     "description": "150mm deck mounted pillar cock featuring a robust cylindrical body and flat-top control handle.",
     "story": "Designed for standard basin arrangements, offering reliable cold or single water flow with a crisp modern finish.",
     "details": [
@@ -134,8 +140,8 @@
     "title": "Pillar Cock 100mm",
     "subtitle": "100mm",
     "category": "kore",
-    "price": 85.00,
-    "originalPrice": 105.00,
+    "price": 85,
+    "originalPrice": 105,
     "rating": 0,
     "reviewsCount": 0,
     "isNew": false,
@@ -150,7 +156,9 @@
         "hex": "#E5E7EB"
       }
     ],
-    "images": [],
+    "images": [
+      "https://res.cloudinary.com/xchvhbbn/image/upload/v1793330349/x1_4.png"
+    ],
     "description": "Compact 100mm pillar cock providing durable performance and a space-saving profile for compact washbasins.",
     "story": "A compact pillar cock solution that maintains clean modern aesthetics while fitting easily on smaller basins.",
     "details": [
@@ -177,8 +185,8 @@
     "title": "Bib Cock Long Nose",
     "subtitle": "LONG NOSE",
     "category": "kore",
-    "price": 75.00,
-    "originalPrice": 95.00,
+    "price": 75,
+    "originalPrice": 95,
     "rating": 0,
     "reviewsCount": 0,
     "isNew": false,
@@ -193,7 +201,9 @@
         "hex": "#E5E7EB"
       }
     ],
-    "images": [],
+    "images": [
+      "https://res.cloudinary.com/xchvhbbn/image/upload/v1793330342/x1_5.png"
+    ],
     "description": "Wall-mounted bib cock with an extended long-nose spout and ergonomic top control handle.",
     "story": "Offers extended spout reach for convenient bucket filling and utility washing against bathroom or garden walls.",
     "details": [
@@ -220,8 +230,8 @@
     "title": "Bib Cock Two Way",
     "subtitle": "TWO WAY",
     "category": "kore",
-    "price": 90.00,
-    "originalPrice": 115.00,
+    "price": 90,
+    "originalPrice": 115,
     "rating": 0,
     "reviewsCount": 0,
     "isNew": false,
@@ -236,7 +246,9 @@
         "hex": "#E5E7EB"
       }
     ],
-    "images": [],
+    "images": [
+      "https://res.cloudinary.com/xchvhbbn/image/upload/v1793330352/x1_6.png"
+    ],
     "description": "Wall-mounted two-way bib cock featuring dual outlets for multi-functional water hose and spout connection.",
     "story": "Designed for enhanced functionality, allowing simultaneous connection to a hand spray hose and primary outlet spout.",
     "details": [
@@ -263,8 +275,8 @@
     "title": "Basin Mixer Wall Mounted",
     "subtitle": "WALL MOUNTED",
     "category": "kore",
-    "price": 135.00,
-    "originalPrice": 165.00,
+    "price": 135,
+    "originalPrice": 165,
     "rating": 0,
     "reviewsCount": 0,
     "isNew": false,
@@ -279,7 +291,9 @@
         "hex": "#E5E7EB"
       }
     ],
-    "images": [],
+    "images": [
+      "https://res.cloudinary.com/xchvhbbn/image/upload/v1793330347/x1_7.png"
+    ],
     "description": "Wall-mounted basin mixer with an arched swivel spout and smooth single-lever flow control.",
     "story": "Frees up countertop space by mounting directly to the wall, bringing an elegant high-arch spout profile to the basin.",
     "details": [
@@ -306,8 +320,8 @@
     "title": "Sink Cock Single Lever",
     "subtitle": "SINGLE LEVER",
     "category": "kore",
-    "price": 105.00,
-    "originalPrice": 130.00,
+    "price": 105,
+    "originalPrice": 130,
     "rating": 0,
     "reviewsCount": 0,
     "isNew": false,
@@ -322,7 +336,9 @@
         "hex": "#E5E7EB"
       }
     ],
-    "images": [],
+    "images": [
+      "https://res.cloudinary.com/xchvhbbn/image/upload/v1793330252/x1_10.png"
+    ],
     "description": "Wall-mounted single lever sink cock with a high swan neck spout for comfortable sink accessibility.",
     "story": "A practical choice for utility and kitchen sinks, offering high clearance for washing larger items effortlessly.",
     "details": [
@@ -349,8 +365,8 @@
     "title": "Sink Cock Deck Mounted",
     "subtitle": "DECK MOUNTED SINGLE LEVER",
     "category": "kore",
-    "price": 115.00,
-    "originalPrice": 140.00,
+    "price": 115,
+    "originalPrice": 140,
     "rating": 0,
     "reviewsCount": 0,
     "isNew": false,
@@ -365,7 +381,9 @@
         "hex": "#E5E7EB"
       }
     ],
-    "images": [],
+    "images": [
+      "https://res.cloudinary.com/xchvhbbn/image/upload/v1793330333/x1_11.png"
+    ],
     "description": "Deck-mounted single lever sink cock featuring a graceful arch spout and ergonomic front-facing handle.",
     "story": "Combines table-mounted convenience with a sweeping curved spout, perfect for modern kitchen and basin spaces.",
     "details": [
@@ -392,8 +410,8 @@
     "title": "Basin Mixer",
     "subtitle": "CONCEALED - WALL MOUNTED",
     "category": "kore",
-    "price": 145.00,
-    "originalPrice": 175.00,
+    "price": 145,
+    "originalPrice": 175,
     "rating": 0,
     "reviewsCount": 0,
     "isNew": false,
@@ -408,7 +426,9 @@
         "hex": "#E5E7EB"
       }
     ],
-    "images": [],
+    "images": [
+      "https://res.cloudinary.com/xchvhbbn/image/upload/v1793330356/x1_1.webp"
+    ],
     "description": "Concealed wall-mounted single lever basin mixer featuring a rectangular wall trim plate and streamlined spout.",
     "story": "Part of the modern Kore concealed range, providing a clean minimalist look by recessing plumbing components into the wall plate.",
     "details": [
@@ -435,8 +455,8 @@
     "title": "Basin Body",
     "subtitle": "CONCEALED COLD TAP",
     "category": "kore",
-    "price": 110.00,
-    "originalPrice": 135.00,
+    "price": 110,
+    "originalPrice": 135,
     "rating": 0,
     "reviewsCount": 0,
     "isNew": false,
@@ -451,7 +471,9 @@
         "hex": "#E5E7EB"
       }
     ],
-    "images": [],
+    "images": [
+      "https://res.cloudinary.com/xchvhbbn/image/upload/v1793330336/x1_12.png"
+    ],
     "description": "Concealed wall-mounted cold water basin tap with a curved down-spout and compact side control handle.",
     "story": "A sleek cold water tap design with concealed rough-in wall mounting, ideal for modern powder rooms and minimalist vanity counters.",
     "details": [
@@ -478,8 +500,8 @@
     "title": "Divertor Body",
     "subtitle": "UPPER TRIM",
     "category": "kore",
-    "price": 95.00,
-    "originalPrice": 120.00,
+    "price": 95,
+    "originalPrice": 120,
     "rating": 0,
     "reviewsCount": 0,
     "isNew": false,
@@ -494,7 +516,9 @@
         "hex": "#E5E7EB"
       }
     ],
-    "images": [],
+    "images": [
+      "https://res.cloudinary.com/xchvhbbn/image/upload/v1793330333/x1_13.png"
+    ],
     "description": "Concealed shower divertor upper trim set featuring a vertical rectangular wall plate, control lever, and diverter knob.",
     "story": "Engineered for shower systems, allowing smooth dual-way water flow switching between shower head and tub spout.",
     "details": [
@@ -521,8 +545,8 @@
     "title": "Button Spout",
     "subtitle": "WALL FLANGE",
     "category": "kore",
-    "price": 85.00,
-    "originalPrice": 105.00,
+    "price": 85,
+    "originalPrice": 105,
     "rating": 0,
     "reviewsCount": 0,
     "isNew": false,
@@ -537,7 +561,9 @@
         "hex": "#E5E7EB"
       }
     ],
-    "images": [],
+    "images": [
+      "https://res.cloudinary.com/xchvhbbn/image/upload/v1793330350/x1_14.png"
+    ],
     "description": "Wall-mounted bath spout with an integrated push-button diverter mechanism and wall flange rosette.",
     "story": "Delivers crisp stream filling for bathtubs while offering top-button control for hand shower activation.",
     "details": [
@@ -564,8 +590,8 @@
     "title": "Bath Spout",
     "subtitle": "WALL FLANGE",
     "category": "kore",
-    "price": 75.00,
-    "originalPrice": 95.00,
+    "price": 75,
+    "originalPrice": 95,
     "rating": 0,
     "reviewsCount": 0,
     "isNew": false,
@@ -580,7 +606,9 @@
         "hex": "#E5E7EB"
       }
     ],
-    "images": [],
+    "images": [
+      "https://res.cloudinary.com/xchvhbbn/image/upload/v1793330337/x1_15.png"
+    ],
     "description": "Clean wall-mounted plain bath spout with circular wall flange and aerodynamic spout end.",
     "story": "A minimalist tub filler spout designed to complement concealed shower valves with a high-shine chrome finish.",
     "details": [
@@ -607,8 +635,8 @@
     "title": "Wall Mixer",
     "subtitle": "TWO LEVER W BEND",
     "category": "kore",
-    "price": 160.00,
-    "originalPrice": 195.00,
+    "price": 160,
+    "originalPrice": 195,
     "rating": 0,
     "reviewsCount": 0,
     "isNew": false,
@@ -623,7 +651,9 @@
         "hex": "#E5E7EB"
       }
     ],
-    "images": [],
+    "images": [
+      "https://res.cloudinary.com/xchvhbbn/image/upload/v1793330353/x1_16.png"
+    ],
     "description": "Wall-mounted two lever bath and shower mixer fitted with an overhead shower bend pipe connection.",
     "story": "Classic two-handle wall mixer design providing distinct hot and cold water adjustment alongside overhead shower riser output.",
     "details": [
@@ -650,8 +680,8 @@
     "title": "Stop Cock",
     "subtitle": "CONCEALED - UPPER TRIM",
     "category": "kore",
-    "price": 45.00,
-    "originalPrice": 60.00,
+    "price": 45,
+    "originalPrice": 60,
     "rating": 0,
     "reviewsCount": 0,
     "isNew": false,
@@ -666,7 +696,9 @@
         "hex": "#E5E7EB"
       }
     ],
-    "images": [],
+    "images": [
+      "https://res.cloudinary.com/xchvhbbn/image/upload/v1793330339/x1_17.png"
+    ],
     "description": "Concealed stop cock upper trim set featuring a round wall plate and ergonomic turn handle.",
     "story": "Designed for in-wall main water isolation valves, delivering stylish surface trim and smooth handle turn.",
     "details": [
@@ -693,8 +725,8 @@
     "title": "Angle Cock",
     "subtitle": "SINGLE OUTLET",
     "category": "kore",
-    "price": 40.00,
-    "originalPrice": 55.00,
+    "price": 40,
+    "originalPrice": 55,
     "rating": 0,
     "reviewsCount": 0,
     "isNew": false,
@@ -736,8 +768,8 @@
     "title": "Angle Cock Two Way",
     "subtitle": "TWO WAY",
     "category": "kore",
-    "price": 60.00,
-    "originalPrice": 75.00,
+    "price": 60,
+    "originalPrice": 75,
     "rating": 0,
     "reviewsCount": 0,
     "isNew": false,

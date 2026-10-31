@@ -1,12 +1,417 @@
 [
   {
     "id": "camzon-product-001",
-    "slug": "camzon-sink-cock-deck-mounted-extended-spout-cam-sc-du-003",
+    "slug": "basin-mixer-single-lever-150mm-cam-bm-du-001",
+    "title": "Basin Mixer",
+    "subtitle": "SINGLE LEVER 150mm",
+    "category": "duero",
+    "price": 65.00,
+    "originalPrice": 80.00,
+    "rating": 0,
+    "reviewsCount": 0,
+    "isNew": false,
+    "isSale": false,
+    "isFeatured": false,
+    "badge": null,
+    "stockCount": 0,
+    "sku": "CAM-BM-DU-001",
+    "colors": [
+      {
+        "name": "Chrome",
+        "hex": "#E5E7EB"
+      }
+    ],
+    "images": [
+      "https://res.cloudinary.com/xchvhbbn/image/upload/v1793356902/x4_1.png"
+    ],
+    "description": "Deck-mounted single lever basin mixer with 150mm height profile and sleek chrome finish.",
+    "story": "Designed for modern wash basins offering single-lever ease and optimal clearance.",
+    "details": [
+      "150mm height profile",
+      "Single lever water control",
+      "Deck-mounted chrome construction"
+    ],
+    "specs": {
+      "productType": "Basin Mixer",
+      "finish": "Chrome",
+      "color": "Chrome",
+      "mountingType": "Deck Mounted",
+      "controlType": "Single Lever",
+      "material": "Not specified",
+      "dimensions": "150mm height",
+      "waterFlowRate": "Not specified",
+      "warranty": "Not specified"
+    },
+    "reviews": []
+  },
+  {
+    "id": "camzon-product-002",
+    "slug": "basin-mixer-single-lever-100mm-cam-bm-du-002",
+    "title": "Basin Mixer",
+    "subtitle": "SINGLE LEVER 100mm",
+    "category": "duero",
+    "price": 55.00,
+    "originalPrice": 70.00,
+    "rating": 0,
+    "reviewsCount": 0,
+    "isNew": false,
+    "isSale": false,
+    "isFeatured": false,
+    "badge": null,
+    "stockCount": 0,
+    "sku": "CAM-BM-DU-002",
+    "colors": [
+      {
+        "name": "Chrome",
+        "hex": "#E5E7EB"
+      }
+    ],
+    "images": [
+      "https://res.cloudinary.com/xchvhbbn/image/upload/v1793356910/x4_2.png"
+    ],
+    "description": "Compact 100mm single lever basin mixer ideal for smaller vanity tops and wash basins.",
+    "story": "Delivers full-featured mixing performance in a compact 100mm form factor.",
+    "details": [
+      "100mm height profile",
+      "Single lever control handle",
+      "Deck-mounted installation"
+    ],
+    "specs": {
+      "productType": "Basin Mixer",
+      "finish": "Chrome",
+      "color": "Chrome",
+      "mountingType": "Deck Mounted",
+      "controlType": "Single Lever",
+      "material": "Not specified",
+      "dimensions": "100mm height",
+      "waterFlowRate": "Not specified",
+      "warranty": "Not specified"
+    },
+    "reviews": []
+  },
+  {
+    "id": "camzon-product-003",
+    "slug": "tall-body-extended-cam-tb-du-001",
+    "title": "Tall Body",
+    "subtitle": "EXTENDED",
+    "category": "duero",
+    "price": 85.00,
+    "originalPrice": 105.00,
+    "rating": 0,
+    "reviewsCount": 0,
+    "isNew": false,
+    "isSale": false,
+    "isFeatured": false,
+    "badge": null,
+    "stockCount": 0,
+    "sku": "CAM-TB-DU-001",
+    "colors": [
+      {
+        "name": "Chrome",
+        "hex": "#E5E7EB"
+      }
+    ],
+    "images": [
+      "https://res.cloudinary.com/xchvhbbn/image/upload/v1793356905/x4_3.png"
+    ],
+    "description": "Tall body extended basin faucet designed specifically for countertop vessel basins.",
+    "story": "Elevates countertop basin aesthetics with an extended height pillar profile.",
+    "details": [
+      "Extended tall body profile for vessel sinks",
+      "Single lever top control",
+      "High shine chrome surface"
+    ],
+    "specs": {
+      "productType": "Tall Body Basin Faucet",
+      "finish": "Chrome",
+      "color": "Chrome",
+      "mountingType": "Deck Mounted",
+      "controlType": "Single Lever",
+      "material": "Not specified",
+      "dimensions": "Not specified",
+      "waterFlowRate": "Not specified",
+      "warranty": "Not specified"
+    },
+    "reviews": []
+  },
+  {
+    "id": "camzon-product-004",
+    "slug": "pillar-tap-cam-pt-du-001",
+    "title": "Pillar Tap",
+    "subtitle": "PILLAR TAP",
+    "category": "duero",
+    "price": 38.00,
+    "originalPrice": 48.00,
+    "rating": 0,
+    "reviewsCount": 0,
+    "isNew": false,
+    "isSale": false,
+    "isFeatured": false,
+    "badge": null,
+    "stockCount": 0,
+    "sku": "CAM-PT-DU-001",
+    "colors": [
+      {
+        "name": "Chrome",
+        "hex": "#E5E7EB"
+      }
+    ],
+    "images": [
+      "https://res.cloudinary.com/xchvhbbn/image/upload/v1793356905/x4_4.png"
+    ],
+    "description": "Classic pillar tap with single lever handle and straight spout in polished chrome.",
+    "story": "A reliable, elegant cold water pillar tap for traditional and modern wash basins.",
+    "details": [
+      "Deck-mounted single tap",
+      "Single lever handle",
+      "Polished chrome finish"
+    ],
+    "specs": {
+      "productType": "Pillar Tap",
+      "finish": "Chrome",
+      "color": "Chrome",
+      "mountingType": "Deck Mounted",
+      "controlType": "Single Lever",
+      "material": "Not specified",
+      "dimensions": "Not specified",
+      "waterFlowRate": "Not specified",
+      "warranty": "Not specified"
+    },
+    "reviews": []
+  },
+  {
+    "id": "camzon-product-005",
+    "slug": "bib-cock-long-body-cam-bc-du-001",
+    "title": "Bib Cock",
+    "subtitle": "LONG BODY",
+    "category": "duero",
+    "price": 32.00,
+    "originalPrice": 40.00,
+    "rating": 0,
+    "reviewsCount": 0,
+    "isNew": false,
+    "isSale": false,
+    "isFeatured": false,
+    "badge": null,
+    "stockCount": 0,
+    "sku": "CAM-BC-DU-001",
+    "colors": [
+      {
+        "name": "Chrome",
+        "hex": "#E5E7EB"
+      }
+    ],
+    "images": [
+      "https://res.cloudinary.com/xchvhbbn/image/upload/v1793356904/x4_5.png"
+    ],
+    "description": "Long body wall-mounted bib cock with extended reach spout and top lever handle.",
+    "story": "Designed for utility basins and wash areas needing extra reach from wall mounts.",
+    "details": [
+      "Extended long body construction",
+      "Wall-mounted installation",
+      "Single lever operation"
+    ],
+    "specs": {
+      "productType": "Bib Cock",
+      "finish": "Chrome",
+      "color": "Chrome",
+      "mountingType": "Wall Mounted",
+      "controlType": "Single Lever",
+      "material": "Not specified",
+      "dimensions": "Not specified",
+      "waterFlowRate": "Not specified",
+      "warranty": "Not specified"
+    },
+    "reviews": []
+  },
+  {
+    "id": "camzon-product-006",
+    "slug": "bib-cock-normal-cam-bc-du-002",
+    "title": "Bib Cock",
+    "subtitle": "NORMAL",
+    "category": "duero",
+    "price": 28.00,
+    "originalPrice": 35.00,
+    "rating": 0,
+    "reviewsCount": 0,
+    "isNew": false,
+    "isSale": false,
+    "isFeatured": false,
+    "badge": null,
+    "stockCount": 0,
+    "sku": "CAM-BC-DU-002",
+    "colors": [
+      {
+        "name": "Chrome",
+        "hex": "#E5E7EB"
+      }
+    ],
+    "images": [
+      "https://res.cloudinary.com/xchvhbbn/image/upload/v1793356901/x4_6.png"
+    ],
+    "description": "Standard wall-mounted bib cock in polished chrome with clean flange plate.",
+    "story": "A timeless daily utility wall faucet with durable internal valving.",
+    "details": [
+      "Standard spout length",
+      "Wall-mounted with round flange",
+      "Lever control handle"
+    ],
+    "specs": {
+      "productType": "Bib Cock",
+      "finish": "Chrome",
+      "color": "Chrome",
+      "mountingType": "Wall Mounted",
+      "controlType": "Single Lever",
+      "material": "Not specified",
+      "dimensions": "Not specified",
+      "waterFlowRate": "Not specified",
+      "warranty": "Not specified"
+    },
+    "reviews": []
+  },
+  {
+    "id": "camzon-product-007",
+    "slug": "basin-mixer-concealed-wall-mounted-cam-bm-du-003",
+    "title": "Basin Mixer",
+    "subtitle": "CONCEALED - WALL MOUNTED",
+    "category": "duero",
+    "price": 95.00,
+    "originalPrice": 120.00,
+    "rating": 0,
+    "reviewsCount": 0,
+    "isNew": false,
+    "isSale": false,
+    "isFeatured": false,
+    "badge": null,
+    "stockCount": 0,
+    "sku": "CAM-BM-DU-003",
+    "colors": [
+      {
+        "name": "Chrome",
+        "hex": "#E5E7EB"
+      }
+    ],
+    "images": [
+      "https://res.cloudinary.com/xchvhbbn/image/upload/v1793356900/x4_7.png"
+    ],
+    "description": "Concealed wall-mounted basin mixer featuring a rectangular faceplate and sleek spout.",
+    "story": "Embeds plumbing behind walls for a minimalist, ultra-clean countertop visual.",
+    "details": [
+      "Concealed wall-mounted installation",
+      "Rectangular chrome trim backplate",
+      "Single lever temperature mixer"
+    ],
+    "specs": {
+      "productType": "Basin Mixer",
+      "finish": "Chrome",
+      "color": "Chrome",
+      "mountingType": "Concealed Wall Mounted",
+      "controlType": "Single Lever",
+      "material": "Not specified",
+      "dimensions": "Not specified",
+      "waterFlowRate": "Not specified",
+      "warranty": "Not specified"
+    },
+    "reviews": []
+  },
+  {
+    "id": "camzon-product-008",
+    "slug": "sink-mixer-wall-mounted-single-lever-with-d-pipe-cam-sm-du-001",
+    "title": "Sink Mixer",
+    "subtitle": "WALL MOUNTED SINGLE LEVER WITH D PIPE",
+    "category": "duero",
+    "price": 78.00,
+    "originalPrice": 98.00,
+    "rating": 0,
+    "reviewsCount": 0,
+    "isNew": false,
+    "isSale": false,
+    "isFeatured": false,
+    "badge": null,
+    "stockCount": 0,
+    "sku": "CAM-SM-DU-001",
+    "colors": [
+      {
+        "name": "Chrome",
+        "hex": "#E5E7EB"
+      }
+    ],
+    "images": [
+      "https://res.cloudinary.com/xchvhbbn/image/upload/v1793356910/x4_8.png"
+    ],
+    "description": "Wall-mounted single lever sink mixer equipped with a high arch D-pipe swivel spout.",
+    "story": "Designed for maximum clearance over kitchen sinks with single-lever mixing.",
+    "details": [
+      "High arch D-pipe swivel spout",
+      "Wall-mounted mixer body",
+      "Single lever operation"
+    ],
+    "specs": {
+      "productType": "Sink Mixer",
+      "finish": "Chrome",
+      "color": "Chrome",
+      "mountingType": "Wall Mounted",
+      "controlType": "Single Lever",
+      "material": "Not specified",
+      "dimensions": "Not specified",
+      "waterFlowRate": "Not specified",
+      "warranty": "Not specified"
+    },
+    "reviews": []
+  },
+  {
+    "id": "camzon-product-009",
+    "slug": "kitchen-mixer-deck-mounted-single-lever-cam-km-du-001",
+    "title": "Kitchen Mixer",
+    "subtitle": "DECK MOUNTED SINGLE LEVER",
+    "category": "duero",
+    "price": 82.00,
+    "originalPrice": 102.00,
+    "rating": 0,
+    "reviewsCount": 0,
+    "isNew": false,
+    "isSale": false,
+    "isFeatured": false,
+    "badge": null,
+    "stockCount": 0,
+    "sku": "CAM-KM-DU-001",
+    "colors": [
+      {
+        "name": "Chrome",
+        "hex": "#E5E7EB"
+      }
+    ],
+    "images": [
+      "https://res.cloudinary.com/xchvhbbn/image/upload/v1793356909/x4_9.png"
+    ],
+    "description": "Deck-mounted kitchen mixer featuring a high swan-neck swivel spout and side lever handle.",
+    "story": "Brings graceful high-spout clearance and seamless single-lever mixing to modern kitchen sinks.",
+    "details": [
+      "High arch swan-neck spout",
+      "Deck-mounted installation",
+      "Single lever control"
+    ],
+    "specs": {
+      "productType": "Kitchen Mixer",
+      "finish": "Chrome",
+      "color": "Chrome",
+      "mountingType": "Deck Mounted",
+      "controlType": "Single Lever",
+      "material": "Not specified",
+      "dimensions": "Not specified",
+      "waterFlowRate": "Not specified",
+      "warranty": "Not specified"
+    },
+    "reviews": []
+  },
+  {
+    "id": "camzon-product-001",
+    "slug": "sink-cock-deck-mounted-extended-spout-cam-sc-du-003",
     "title": "Sink Cock",
     "subtitle": "DECK MOUNTED - EXTENDED SPOUT",
-    "category": "Duero",
-    "price": 115.00,
-    "originalPrice": 140.00,
+    "category": "duero",
+    "price": 45.00,
+    "originalPrice": 58.00,
     "rating": 0,
     "reviewsCount": 0,
     "isNew": false,
@@ -21,12 +426,14 @@
         "hex": "#E5E7EB"
       }
     ],
-    "images": [],
-    "description": "Deck-mounted single lever sink cock featuring a high extended square-arched spout for maximum clearance over kitchen sinks.",
-    "story": "Part of the Duero collection, this deck-mounted sink tap brings sleek square-profile geometry and long reach for efficient culinary tasks.",
+    "images": [
+      "https://res.cloudinary.com/xchvhbbn/image/upload/v1793356901/x4_10.png"
+    ],
+    "description": "Deck-mounted sink cock featuring a high square extended spout and modern lever handle in chrome finish.",
+    "story": "Designed for maximum clearance over kitchen and utility sinks with elegant high-spout architecture.",
     "details": [
-      "Deck mounted installation",
-      "High extended square-arch spout",
+      "Deck-mounted single cold water faucet",
+      "High square extended spout",
       "Polished chrome finish"
     ],
     "specs": {
@@ -44,12 +451,12 @@
   },
   {
     "id": "camzon-product-002",
-    "slug": "camzon-bath-mixer-single-lever-cam-ob-du-001",
+    "slug": "bath-mixer-single-lever-cam-ob-du-001",
     "title": "Bath Mixer",
     "subtitle": "SINGLE LEVER",
-    "category": "Duero",
-    "price": 160.00,
-    "originalPrice": 190.00,
+    "category": "duero",
+    "price": 88.00,
+    "originalPrice": 110.00,
     "rating": 0,
     "reviewsCount": 0,
     "isNew": false,
@@ -64,20 +471,22 @@
         "hex": "#E5E7EB"
       }
     ],
-    "images": [],
-    "description": "Wall-mounted single lever bath mixer with integrated diverter knob and standard shower hose outlet.",
-    "story": "Combines streamlined lever control with reliable diverter performance for smooth bath and shower functionality.",
+    "images": [
+      "https://res.cloudinary.com/xchvhbbn/image/upload/v1793356900/x4_11.png"
+    ],
+    "description": "Wall-mounted single lever bath mixer with integrated diverter knob and smooth spout in polished chrome.",
+    "story": "Combines bath spout filling and shower diversion in a compact single-lever mixer body.",
     "details": [
-      "Wall mounted installation",
-      "Single lever control handle",
-      "Integrated bath/shower diverter knob"
+      "Wall-mounted bath mixer body",
+      "Integrated push-pull shower diverter",
+      "Single lever temperature control"
     ],
     "specs": {
       "productType": "Bath Mixer",
       "finish": "Chrome",
       "color": "Chrome",
       "mountingType": "Wall Mounted",
-      "controlType": "Single Lever",
+      "controlType": "Single Lever with Diverter",
       "material": "Not specified",
       "dimensions": "Not specified",
       "waterFlowRate": "Not specified",
@@ -87,12 +496,12 @@
   },
   {
     "id": "camzon-product-003",
-    "slug": "camzon-divertor-body-upper-trim-cam-ob-du-002",
+    "slug": "divertor-body-upper-trim-cam-ob-du-002",
     "title": "Divertor Body",
     "subtitle": "UPPER TRIM",
-    "category": "Duero",
-    "price": 95.00,
-    "originalPrice": 120.00,
+    "category": "duero",
+    "price": 42.00,
+    "originalPrice": 52.00,
     "rating": 0,
     "reviewsCount": 0,
     "isNew": false,
@@ -107,19 +516,21 @@
         "hex": "#E5E7EB"
       }
     ],
-    "images": [],
-    "description": "Concealed divertor upper trim set featuring a circular wall plate, control lever, and diverter button.",
-    "story": "A sleek concealed shower valve trim providing effortless water diversion between overhead shower and spout.",
+    "images": [
+      "https://res.cloudinary.com/xchvhbbn/image/upload/v1793356900/x4_12.png"
+    ],
+    "description": "Concealed shower divertor upper trim kit featuring a circular chrome faceplate and sleek control lever.",
+    "story": "Delivers minimalist concealed shower control with intuitive flow diversion between shower heads.",
     "details": [
-      "Circular wall backplate",
-      "Single lever handle with diverter knob",
-      "Polished chrome finish"
+      "Circular chrome trim backplate",
+      "Concealed valve operating lever",
+      "Integrated diverter knob"
     ],
     "specs": {
-      "productType": "Divertor Trim",
+      "productType": "Diverter Trim",
       "finish": "Chrome",
       "color": "Chrome",
-      "mountingType": "Wall Mounted",
+      "mountingType": "Concealed Wall Mounted",
       "controlType": "Single Lever",
       "material": "Not specified",
       "dimensions": "Not specified",
@@ -130,12 +541,12 @@
   },
   {
     "id": "camzon-product-004",
-    "slug": "camzon-sink-cock-wall-mounted-w-swinging-spout-cam-sc-du-001",
+    "slug": "sink-cock-wall-mounted-w-swinging-spout-cam-sc-du-001",
     "title": "Sink Cock",
     "subtitle": "WALL MOUNTED W SWINGING SPOUT",
-    "category": "Duero",
-    "price": 105.00,
-    "originalPrice": 130.00,
+    "category": "duero",
+    "price": 38.00,
+    "originalPrice": 48.00,
     "rating": 0,
     "reviewsCount": 0,
     "isNew": false,
@@ -150,13 +561,15 @@
         "hex": "#E5E7EB"
       }
     ],
-    "images": [],
-    "description": "Wall-mounted sink cock with a high curved swinging spout for flexible basin coverage.",
-    "story": "Designed for wall-mount utility setups, providing smooth 360-degree swivel movement across the sink area.",
+    "images": [
+      "https://res.cloudinary.com/xchvhbbn/image/upload/v1793356910/x4_13.png"
+    ],
+    "description": "Wall-mounted sink cock with a 360-degree swinging curved spout and quarter-turn lever handle.",
+    "story": "Offers versatile water direction for kitchen sinks with space-saving wall mounting.",
     "details": [
-      "Wall mounted configuration",
-      "High curved swinging spout",
-      "Single lever control handle"
+      "360-degree swinging spout",
+      "Wall-mounted flange base",
+      "Quarter-turn lever control"
     ],
     "specs": {
       "productType": "Sink Cock",
@@ -173,12 +586,12 @@
   },
   {
     "id": "camzon-product-005",
-    "slug": "camzon-angle-cock-cam-ob-du-004",
+    "slug": "angle-cock-cam-ob-du-004",
     "title": "Angle Cock",
-    "subtitle": "SINGLE OUTLET",
-    "category": "Duero",
-    "price": 40.00,
-    "originalPrice": 55.00,
+    "subtitle": "ANGLE COCK",
+    "category": "duero",
+    "price": 18.00,
+    "originalPrice": 24.00,
     "rating": 0,
     "reviewsCount": 0,
     "isNew": false,
@@ -193,13 +606,15 @@
         "hex": "#E5E7EB"
       }
     ],
-    "images": [],
-    "description": "Wall-mounted angle cock valve with a sleek flat vertical lever and round wall flange plate.",
-    "story": "An essential plumbing connection valve, matching the crisp linear aesthetic of the Duero collection.",
+    "images": [
+      "https://res.cloudinary.com/xchvhbbn/image/upload/v1793356908/x4_14.png"
+    ],
+    "description": "Wall-mounted angle cock with ergonomic flat lever handle and threaded outlet in chrome finish.",
+    "story": "A sleek water shut-off solution for wash basins, health faucets, and toilet flush tanks.",
     "details": [
-      "Wall mounted shut-off valve",
-      "Flat vertical lever handle",
-      "Polished chrome finish"
+      "Wall-mounted angle valve body",
+      "Flat ergonomic operating lever",
+      "Round wall trim flange included"
     ],
     "specs": {
       "productType": "Angle Cock",
@@ -216,12 +631,12 @@
   },
   {
     "id": "camzon-product-006",
-    "slug": "camzon-angle-cock-two-way-cam-ob-du-005",
+    "slug": "angle-cock-two-way-cam-ob-du-005",
     "title": "Angle Cock",
     "subtitle": "TWO WAY",
-    "category": "Duero",
-    "price": 60.00,
-    "originalPrice": 75.00,
+    "category": "duero",
+    "price": 28.00,
+    "originalPrice": 35.00,
     "rating": 0,
     "reviewsCount": 0,
     "isNew": false,
@@ -236,20 +651,22 @@
         "hex": "#E5E7EB"
       }
     ],
-    "images": [],
-    "description": "Wall-mounted two-way angle cock with dual threaded outlets and independent lever controls.",
-    "story": "Offers convenient dual-water distribution from a single wall point for toilet spray hoses and cistern feeds.",
+    "images": [
+      "https://res.cloudinary.com/xchvhbbn/image/upload/v1793464748/final-2.png"
+    ],
+    "description": "Two-way wall angle cock featuring dual outlets and independent lever controls in chrome.",
+    "story": "Allows simultaneous connection of health spray and cistern supply from a single inlet point.",
     "details": [
-      "Two-way dual outlet configuration",
-      "Wall flange ring included",
-      "Flat lever handles"
+      "Dual independent outlet ports",
+      "Two separate operating levers",
+      "Wall-mounted chrome body"
     ],
     "specs": {
       "productType": "Angle Cock",
       "finish": "Chrome",
       "color": "Chrome",
       "mountingType": "Wall Mounted",
-      "controlType": "Single Lever",
+      "controlType": "Dual Lever",
       "material": "Not specified",
       "dimensions": "Not specified",
       "waterFlowRate": "Not specified",
@@ -259,12 +676,12 @@
   },
   {
     "id": "camzon-product-007",
-    "slug": "camzon-stop-cock-concealed-upper-trim-cam-ob-du-003",
+    "slug": "stop-cock-concealed-upper-trim-cam-ob-du-003",
     "title": "Stop Cock",
     "subtitle": "CONCEALED - UPPER TRIM",
-    "category": "Duero",
-    "price": 45.00,
-    "originalPrice": 60.00,
+    "category": "duero",
+    "price": 22.00,
+    "originalPrice": 28.00,
     "rating": 0,
     "reviewsCount": 0,
     "isNew": false,
@@ -279,13 +696,15 @@
         "hex": "#E5E7EB"
       }
     ],
-    "images": [],
-    "description": "Concealed stop cock upper trim featuring a circular wall rosette and flat control lever handle.",
-    "story": "Provides clean wall-surface water isolation control while concealing structural valve bodies.",
+    "images": [
+      "https://res.cloudinary.com/xchvhbbn/image/upload/v1793464747/final-3.png"
+    ],
+    "description": "Concealed stop cock upper trim kit with round wall wall flange and flat control handle.",
+    "story": "Provides clean in-wall shut-off control for bathroom plumbing sections.",
     "details": [
-      "Concealed wall trim design",
-      "Flat control lever",
-      "Chrome plated finish"
+      "Concealed wall valve trim",
+      "Flat operating lever handle",
+      "Circular trim flange"
     ],
     "specs": {
       "productType": "Stop Cock",
@@ -302,12 +721,12 @@
   },
   {
     "id": "camzon-product-008",
-    "slug": "camzon-bib-cock-two-way-cam-bc-du-001",
+    "slug": "bib-cock-two-way-cam-bc-du-001",
     "title": "Bib Cock",
     "subtitle": "TWO WAY",
-    "category": "Duero",
-    "price": 85.00,
-    "originalPrice": 105.00,
+    "category": "duero",
+    "price": 32.00,
+    "originalPrice": 40.00,
     "rating": 0,
     "reviewsCount": 0,
     "isNew": false,
@@ -322,415 +741,21 @@
         "hex": "#E5E7EB"
       }
     ],
-    "images": [],
-    "description": "Wall-mounted two-way bib cock with square backplate, main spout outlet, and bottom health faucet connection.",
-    "story": "Delivers dual water functionality in a bold square design format tailored for contemporary sanitary spaces.",
+    "images": [
+      "https://res.cloudinary.com/xchvhbbn/image/upload/v1793464750/final-4.png"
+    ],
+    "description": "Wall-mounted two-way bib cock with dual spout outlets and top flat lever control.",
+    "story": "Multi-functional bib tap ideal for attaching hand showers or hose fittings while retaining spout flow.",
     "details": [
-      "Wall mounted with square flange plate",
-      "Bottom secondary hose connection",
-      "Ergonomic top lever handle"
+      "Dual spout outlets",
+      "Wall mounting block backplate",
+      "Single lever control"
     ],
     "specs": {
       "productType": "Bib Cock",
       "finish": "Chrome",
       "color": "Chrome",
       "mountingType": "Wall Mounted",
-      "controlType": "Single Lever",
-      "material": "Not specified",
-      "dimensions": "Not specified",
-      "waterFlowRate": "Not specified",
-      "warranty": "Not specified"
-    },
-    "reviews": []
-  },
-  {
-    "id": "camzon-product-001",
-    "slug": "camzon-duero-basin-mixer-single-lever-150mm",
-    "title": "BASIN MIXER",
-    "subtitle": "SINGLE LEVER",
-    "category": "Duero",
-    "price": 2450.00,
-    "originalPrice": 2850.00,
-    "rating": 0,
-    "reviewsCount": 0,
-    "isNew": false,
-    "isSale": false,
-    "isFeatured": false,
-    "badge": null,
-    "stockCount": 0,
-    "sku": "CAM-BM-DU-001",
-    "colors": [
-      {
-        "name": "Chrome",
-        "hex": "#E5E7EB"
-      }
-    ],
-    "images": [],
-    "description": "A 150mm single lever basin mixer from the Duero collection featuring a streamlined geometric body and smooth fluid control.",
-    "story": "Engineered with modern flat-top contours, the Duero 150mm basin mixer adds contemporary sophistication to bathroom washbasins.",
-    "details": [
-      "150mm overall height profile",
-      "Single lever ergonomic water control",
-      "Deck-mounted single hole installation",
-      "High-luster chrome finish"
-    ],
-    "specs": {
-      "productType": "Basin Mixer",
-      "finish": "Not specified",
-      "color": "Not specified",
-      "mountingType": "Deck Mounted",
-      "controlType": "Single Lever",
-      "material": "Not specified",
-      "dimensions": "150mm",
-      "waterFlowRate": "Not specified",
-      "warranty": "Not specified"
-    },
-    "reviews": []
-  },
-  {
-    "id": "camzon-product-002",
-    "slug": "camzon-duero-basin-mixer-single-lever-100mm",
-    "title": "BASIN MIXER",
-    "subtitle": "SINGLE LEVER",
-    "category": "Duero",
-    "price": 2250.00,
-    "originalPrice": 2600.00,
-    "rating": 0,
-    "reviewsCount": 0,
-    "isNew": false,
-    "isSale": false,
-    "isFeatured": false,
-    "badge": null,
-    "stockCount": 0,
-    "sku": "CAM-BM-DU-002",
-    "colors": [
-      {
-        "name": "Chrome",
-        "hex": "#E5E7EB"
-      }
-    ],
-    "images": [],
-    "description": "A compact 100mm single lever basin mixer from the Duero series, perfect for space-saving counter and vanity basins.",
-    "story": "Designed for compact vanity units, the Duero 100mm basin mixer provides full mixing functionality with a minimal footprint.",
-    "details": [
-      "Compact 100mm height profile",
-      "Single handle hot and cold mixing",
-      "Solid brass construction under polished chrome",
-      "Effortless single-hole mounting"
-    ],
-    "specs": {
-      "productType": "Basin Mixer",
-      "finish": "Not specified",
-      "color": "Not specified",
-      "mountingType": "Deck Mounted",
-      "controlType": "Single Lever",
-      "material": "Not specified",
-      "dimensions": "100mm",
-      "waterFlowRate": "Not specified",
-      "warranty": "Not specified"
-    },
-    "reviews": []
-  },
-  {
-    "id": "camzon-product-003",
-    "slug": "camzon-duero-tall-body-extended",
-    "title": "TALL BODY",
-    "subtitle": "EXTENDED",
-    "category": "Duero",
-    "price": 3150.00,
-    "originalPrice": 3700.00,
-    "rating": 0,
-    "reviewsCount": 0,
-    "isNew": false,
-    "isSale": false,
-    "isFeatured": false,
-    "badge": null,
-    "stockCount": 0,
-    "sku": "CAM-TB-DU-001",
-    "colors": [
-      {
-        "name": "Chrome",
-        "hex": "#E5E7EB"
-      }
-    ],
-    "images": [],
-    "description": "An extended tall body single lever basin mixer crafted specifically for vessel and tabletop counter basins.",
-    "story": "Elevate counter-top vessel sinks with the Duero Extended Tall Body mixer, delivering extra height clearance and modern elegance.",
-    "details": [
-      "Extended height for vessel sink clearance",
-      "Smooth single-lever operation",
-      "Deck counter-top mounting",
-      "Corrosion-resistant chrome coating"
-    ],
-    "specs": {
-      "productType": "Tall Body Basin Mixer",
-      "finish": "Not specified",
-      "color": "Not specified",
-      "mountingType": "Deck Mounted",
-      "controlType": "Single Lever",
-      "material": "Not specified",
-      "dimensions": "Not specified",
-      "waterFlowRate": "Not specified",
-      "warranty": "Not specified"
-    },
-    "reviews": []
-  },
-  {
-    "id": "camzon-product-004",
-    "slug": "camzon-duero-pillar-tap",
-    "title": "PILLAR TAP",
-    "subtitle": "SINGLE LEVER",
-    "category": "Duero",
-    "price": 1450.00,
-    "originalPrice": 1700.00,
-    "rating": 0,
-    "reviewsCount": 0,
-    "isNew": false,
-    "isSale": false,
-    "isFeatured": false,
-    "badge": null,
-    "stockCount": 0,
-    "sku": "CAM-PT-DU-001",
-    "colors": [
-      {
-        "name": "Chrome",
-        "hex": "#E5E7EB"
-      }
-    ],
-    "images": [],
-    "description": "A single lever pillar tap from the Duero collection providing cold water supply with clean, geometric design lines.",
-    "story": "The Duero Pillar Tap offers precise single-lever water control with contemporary flat-profile styling for modern washbasins.",
-    "details": [
-      "Deck-mounted single cold tap",
-      "Ergonomic top lever operation",
-      "Bright mirror chrome finish",
-      "Splash-free water flow"
-    ],
-    "specs": {
-      "productType": "Pillar Tap",
-      "finish": "Not specified",
-      "color": "Not specified",
-      "mountingType": "Deck Mounted",
-      "controlType": "Single Lever",
-      "material": "Not specified",
-      "dimensions": "Not specified",
-      "waterFlowRate": "Not specified",
-      "warranty": "Not specified"
-    },
-    "reviews": []
-  },
-  {
-    "id": "camzon-product-005",
-    "slug": "camzon-duero-bib-cock-long-body",
-    "title": "BIB COCK",
-    "subtitle": "LONG BODY",
-    "category": "Duero",
-    "price": 1250.00,
-    "originalPrice": 1500.00,
-    "rating": 0,
-    "reviewsCount": 0,
-    "isNew": false,
-    "isSale": false,
-    "isFeatured": false,
-    "badge": null,
-    "stockCount": 0,
-    "sku": "CAM-BC-DU-001",
-    "colors": [
-      {
-        "name": "Chrome",
-        "hex": "#E5E7EB"
-      }
-    ],
-    "images": [],
-    "description": "A long body wall-mounted bib cock featuring extended reach for effortless access in utility and bathroom areas.",
-    "story": "Designed for extended reach, the Duero Long Body Bib Cock offers durable construction and convenient daily water access.",
-    "details": [
-      "Extended long body wall-mounted spout",
-      "Quarter-turn ergonomic single lever",
-      "Polished chrome surface treatment",
-      "Includes decorative wall flange"
-    ],
-    "specs": {
-      "productType": "Long Body Bib Cock",
-      "finish": "Not specified",
-      "color": "Not specified",
-      "mountingType": "Wall Mounted",
-      "controlType": "Single Lever",
-      "material": "Not specified",
-      "dimensions": "Not specified",
-      "waterFlowRate": "Not specified",
-      "warranty": "Not specified"
-    },
-    "reviews": []
-  },
-  {
-    "id": "camzon-product-006",
-    "slug": "camzon-duero-bib-cock-normal",
-    "title": "BIB COCK",
-    "subtitle": "NORMAL",
-    "category": "Duero",
-    "price": 1050.00,
-    "originalPrice": 1250.00,
-    "rating": 0,
-    "reviewsCount": 0,
-    "isNew": false,
-    "isSale": false,
-    "isFeatured": false,
-    "badge": null,
-    "stockCount": 0,
-    "sku": "CAM-BC-DU-002",
-    "colors": [
-      {
-        "name": "Chrome",
-        "hex": "#E5E7EB"
-      }
-    ],
-    "images": [],
-    "description": "A standard wall-mounted bib cock with flange, designed for reliable utility performance in bathrooms and washing areas.",
-    "story": "The Duero Normal Bib Cock delivers steady performance with clean architectural lines, serving essential daily water needs.",
-    "details": [
-      "Standard wall-mount installation",
-      "Matching circular wall flange included",
-      "Top-mounted lever handle",
-      "Durable chrome plating"
-    ],
-    "specs": {
-      "productType": "Bib Cock",
-      "finish": "Not specified",
-      "color": "Not specified",
-      "mountingType": "Wall Mounted",
-      "controlType": "Single Lever",
-      "material": "Not specified",
-      "dimensions": "Not specified",
-      "waterFlowRate": "Not specified",
-      "warranty": "Not specified"
-    },
-    "reviews": []
-  },
-  {
-    "id": "camzon-product-007",
-    "slug": "camzon-duero-basin-mixer-concealed-wall-mounted",
-    "title": "BASIN MIXER",
-    "subtitle": "CONCEALED - WALL MOUNTED",
-    "category": "Duero",
-    "price": 3650.00,
-    "originalPrice": 4300.00,
-    "rating": 0,
-    "reviewsCount": 0,
-    "isNew": false,
-    "isSale": false,
-    "isFeatured": false,
-    "badge": null,
-    "stockCount": 0,
-    "sku": "CAM-BM-DU-003",
-    "colors": [
-      {
-        "name": "Chrome",
-        "hex": "#E5E7EB"
-      }
-    ],
-    "images": [],
-    "description": "A luxury concealed wall-mounted basin mixer featuring a rectangular backplate trim and flat rectangular spout projection.",
-    "story": "Bring minimalist architectural flair to counter basins with the Duero concealed wall-mounted basin mixer, keeping working components concealed in-wall.",
-    "details": [
-      "Concealed wall-mounted body unit",
-      "Sleek rectangular faceplate and flat spout",
-      "Single lever temperature & flow control",
-      "High-luster chrome finish"
-    ],
-    "specs": {
-      "productType": "Concealed Basin Mixer",
-      "finish": "Not specified",
-      "color": "Not specified",
-      "mountingType": "Concealed Wall Mounted",
-      "controlType": "Single Lever",
-      "material": "Not specified",
-      "dimensions": "Not specified",
-      "waterFlowRate": "Not specified",
-      "warranty": "Not specified"
-    },
-    "reviews": []
-  },
-  {
-    "id": "camzon-product-008",
-    "slug": "camzon-duero-sink-mixer-wall-mounted-single-lever-with-d-pipe",
-    "title": "SINK MIXER",
-    "subtitle": "WALL MOUNTED SINGLE LEVER WITH D PIPE",
-    "category": "Duero",
-    "price": 2850.00,
-    "originalPrice": 3350.00,
-    "rating": 0,
-    "reviewsCount": 0,
-    "isNew": false,
-    "isSale": false,
-    "isFeatured": false,
-    "badge": null,
-    "stockCount": 0,
-    "sku": "CAM-SM-DU-001",
-    "colors": [
-      {
-        "name": "Chrome",
-        "hex": "#E5E7EB"
-      }
-    ],
-    "images": [],
-    "description": "A wall-mounted single lever sink mixer featuring a high D-pipe arched swivel spout for enhanced kitchen washing space.",
-    "story": "Designed for practical wall mounting, the Duero D-pipe sink mixer provides smooth temperature regulation and expansive spout reach.",
-    "details": [
-      "High arching D-pipe swivel spout",
-      "Wall-mounted installation with flanges",
-      "Single lever control handle",
-      "Polished chrome finish"
-    ],
-    "specs": {
-      "productType": "Sink Mixer",
-      "finish": "Not specified",
-      "color": "Not specified",
-      "mountingType": "Wall Mounted",
-      "controlType": "Single Lever",
-      "material": "Not specified",
-      "dimensions": "Not specified",
-      "waterFlowRate": "Not specified",
-      "warranty": "Not specified"
-    },
-    "reviews": []
-  },
-  {
-    "id": "camzon-product-009",
-    "slug": "camzon-duero-kitchen-mixer-deck-mounted-single-lever",
-    "title": "KITCHEN MIXER",
-    "subtitle": "DECK MOUNTED SINGLE LEVER",
-    "category": "Duero",
-    "price": 2950.00,
-    "originalPrice": 3450.00,
-    "rating": 0,
-    "reviewsCount": 0,
-    "isNew": false,
-    "isSale": false,
-    "isFeatured": false,
-    "badge": null,
-    "stockCount": 0,
-    "sku": "CAM-KM-DU-001",
-    "colors": [
-      {
-        "name": "Chrome",
-        "hex": "#E5E7EB"
-      }
-    ],
-    "images": [],
-    "description": "A deck-mounted single lever kitchen mixer featuring a high swan-neck arched spout and integrated base control.",
-    "story": "The Duero deck-mounted kitchen mixer elevates cooking and sink prep with its elegant high spout clearance and smooth single-handle mixing.",
-    "details": [
-      "Deck-mounted single hole fitment",
-      "High clearance swivel swan spout",
-      "Ergonomic single lever control at base",
-      "High-shine chrome plating"
-    ],
-    "specs": {
-      "productType": "Kitchen Mixer",
-      "finish": "Not specified",
-      "color": "Not specified",
-      "mountingType": "Deck Mounted",
       "controlType": "Single Lever",
       "material": "Not specified",
       "dimensions": "Not specified",
